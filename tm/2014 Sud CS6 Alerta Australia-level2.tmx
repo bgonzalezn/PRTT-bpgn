@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Had all project staff been aware of the issues with satellite phones and the instances of others misinterpreting the map, actions could have been taken which may have prevented this incident from occurring.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162513Z" creationid="hcartagena" creationdate="20140704T162513Z">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Poner a todo el personal de proyecto en conocimiento de los problemas con teléfonos satelitales y de previas malinterpretaciones de mapas, acciones que de haberse efectuado pudieron haber prevenido la ocurrencia de este incidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Less speed would have <ph x="2">&lt;t2/&gt;</ph>made it possible to better manoeuvre the vehicle<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg><ph x="1">&lt;t1/&gt;</ph> Una velocidad menor hubiese <ph x="2">&lt;t2/&gt;</ph>permitido maniobrar mejor el vehículo<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A risk evaluation was not performed before the activity was carried out.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No se realizó una evaluación de riesgos, previo a realizar la actividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Acknowledge <ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>and understand information contained in the <ph x="2">&lt;t2/&gt;</ph>HaSEP<ph x="3">&lt;t3/&gt;</ph> before travelling to the site, as required.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Tomar<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>conocimiento y entender la información contenida en el <ph x="2">&lt;t2/&gt;</ph>HaSEP<ph x="3">&lt;t3/&gt;</ph> previo a realizar un viaje a campo, cumpliendo con las disposiciones definidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After travelling a further 50km he again rang the camp when it was confirmed he was travelling in the wrong direction.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161125Z" creationid="hcartagena" creationdate="20140704T161125Z">
+        <seg>Tras conducir otros 50 km volvió a llamar al campamento, que le confirmó que estaba viajando en la dirección equivocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After travelling approximately 35km, and failing to see signage as indicated on the map, he rang the client’s camp and was advised to continue in his current direction.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T164452Z" creationid="hcartagena" creationdate="20140704T161017Z">
+        <seg>Tras conducir aproximadamente por 35 km sin ver la señalización indicada en el mapa, llamó al campamento del cliente y se le dijo que continuara en la misma dirección.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Always driving on highways with headlights on.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Conducir siempre en carretera con las luces encendidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Always keeping both hands at the wheel.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Mantener siempre las dos manos en el volante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Always remember to<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No olvides tener presente<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An employee was on route to a site near Moomba, a remote area of South Australia, when he missed a turn off and travelled in the wrong direction.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T164156Z" creationid="hcartagena" creationdate="20140704T160901Z">
+        <seg>Un colaborador iba camino a un sitio cercano a Moomba, un lugar apartado de Australia Meridional, cuando pasó de largo una salida y siguió en la dirección equivocada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As a result it was switched off for most of his journey, leading to a delay in locating him and providing assistance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T164518Z" creationid="hcartagena" creationdate="20140704T161734Z">
+        <seg>Por este motivo, lo tuvo apagado la mayor parte del viaje, lo que demoró localizarlo y prestarle asistencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoiding driving at night, as risk of incident increases due to scarce visibility.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Evitar la conducción nocturna, debido a que aumenta el riesgo de incidente por poca visibilidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Becoming knowledgeable with respect to our clients' driving regulations.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Conocer e instruirse respecto a los reglamentos de conducción de nuestros clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Before <ph x="0">&lt;t0/&gt;</ph>carrying <ph x="1">&lt;t1/&gt;</ph>out any activity, dangers have to be identified and associated risks evaluated.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Antes <ph x="0">&lt;t0/&gt;</ph>de <ph x="1">&lt;t1/&gt;</ph>realizar cualquier actividad, debes identificar los peligros y evaluar los riesgos asociados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Being careful with rocks, animals or other obstacles on the road, reducing speed.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Tener precaución con las piedras, animales u otros obstáculos presentes sobre la calzada, disminuyendo la velocidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Control measures defined in the risk evaluation process must be understood, implemented and complied with.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Entender, implementar y cumplir con las medidas de control definidas en el proceso de evaluación de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dangers associated to any activity must never be underestimated.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Nunca subestimar el peligro asociado a una actividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Description of incident</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Descripción del incidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Distracting while driving, which could have been a result of fatigue and/or <ph x="0">&lt;t0/&gt;</ph>tiredness.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Pérdida de concentración en la conducción, cuyo origen pudo estar dado por fatiga y/o <ph x="0">&lt;t0/&gt;</ph>cansancio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driving defensively include best practices such as:</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Manejar a la defensiva incluye buenas prácticas como:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driving defensively, that is, the driver must keep a preventive attitude and behaviour when facing hazards caused by another driver or by environmental conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Manejar a la defensiva, es decir, el conductor debe mantener una actitud y comportamiento preventivo ante los peligros, causados por otro conductor o por las condiciones del medio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driving is one of our riskier activities so that an appropriate behaviour while driving and usage and verification of high standards in our vehicles are key elements for this activity.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>La conducción es una de nuestras actividades más riesgosas por lo que una buena conducta en el manejo y el uso y verificación de buenos estándares de nuestros vehículos son elementos claves en esta actividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure <ph x="0">&lt;t0/&gt;</ph>learnings are shared.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T164706Z" creationid="hcartagena" creationdate="20140704T162100Z">
+        <seg>Asegurarse de <ph x="0">&lt;t0/&gt;</ph>compartir los aprendizajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure team members have, and know how to use, <ph x="0">&lt;t0/&gt;</ph>effective communications and navigation devices <ph x="1">&lt;t1/&gt;</ph>when travelling to remote locations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162601Z" creationid="hcartagena" creationdate="20140704T162601Z">
+        <seg>Asegurarse de que los integrantes del equipo tengan y sepan cómo usar <ph x="0">&lt;t0/&gt;</ph>dispositivos de comunicación y navegación eficaces<ph x="1">&lt;t1/&gt;</ph> al viajar a lugares apartados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensuring compliance with our clients' requirements in their premises in regard to driving (driving certifications, psychometric tests, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Asegurar el cumplimiento de las exigencias del nuestros Clientes en sus instalaciones relacionados a la conducción (acreditaciones de conducción, exámenes psico-sensotécnico, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensuring that all passengers use it.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Asegurar que todos los acompañantes lo utilizan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Find about climate conditions, routes, accesses and range of communication systems.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Informarse del estado de las condiciones climáticas, rutas, accesos y alcance de los sistemas de comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For more information please contact <ph x="0">&lt;t0/&gt;</ph>Matt Wallace<ph x="1">&lt;t1/&gt;</ph> (Manager -<ph x="2">&lt;t2/&gt;</ph> Health Safety &amp; Environment)<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph> –  0<ph x="5">&lt;t5/&gt;</ph>7<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>3721 4901<ph x="8">&lt;t8/&gt;</ph> or <ph x="9">&lt;t9/&gt;</ph>m<ph x="10">&lt;t10/&gt;</ph>_<ph x="11">&lt;t11/&gt;</ph>wallace<ph x="12">&lt;t12/&gt;</ph>@golder.com.au</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T163006Z" creationid="hcartagena" creationdate="20140704T162834Z">
+        <seg>Para obtener más información, contactar a <ph x="0">&lt;t0/&gt;</ph>Matt Wallace<ph x="1">&lt;t1/&gt;</ph> (Gerente -<ph x="2">&lt;t2/&gt;</ph> Salud, Seguridad y Medio Ambiente)<ph x="3">&lt;t3/&gt;</ph> <ph x="4">&lt;t4/&gt;</ph>– 0<ph x="5">&lt;t5/&gt;</ph>7<ph x="6">&lt;t6/&gt;</ph> <ph x="7">&lt;t7/&gt;</ph>3721 4901<ph x="8">&lt;t8/&gt;</ph> o <ph x="9">&lt;t9/&gt;</ph>m<ph x="10">&lt;t10/&gt;</ph>_<ph x="11">&lt;t11/&gt;</ph>wallace<ph x="12">&lt;t12/&gt;</ph>@golder.com.au</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For more information, please contact your office's Health and Safety Coordinator.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Para obtener más información, favor contactar al Coordinador de salud y seguridad de tu oficina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For this incident, the affected person only sought medical assistance and notified his direct supervisor on the following day.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>En este incidente la persona afectada sólo fue a asistencia médica y avisó a su supervisor directo al día siguiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Associates South America</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Golder Associates en Sudamérica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employees or subcontractors are not allowed to take hitchhikers.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Está prohibido que personal de Golder o sus subcontratistas lleven a personas en el camino que hacen dedo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HAZARD ALERT</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162816Z" creationid="hcartagena" creationdate="20140704T162816Z">
+        <seg>ALERTA DE PELIGRO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Having a valid driver's license.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Contar con la licencia de conducir al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Having appropriate rest before starting a trip.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Descansar adecuadamente, antes de iniciar un viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Health &amp; Safety Alert</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Alerta Salud &amp; Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Health, Safety and Environment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162807Z" creationid="hcartagena" creationdate="20140704T162807Z">
+        <seg>Salud, seguridad y medio ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If travel arrangements alter ensure that the plan is adjusted and notify all relevant staff.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162720Z" creationid="hcartagena" creationdate="20140704T162720Z">
+        <seg>Si se alteran los arreglos del viaje, asegurarse de que se adapte el plan y notificar a todo el personal pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you are taking any medication, consult with your doctor if you have any contraindication for driving.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Si estás tomando algún medicamento, consulta con tu doctor si tienes alguna contraindicación para conducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you feel unfit for driving, inform that to your supervisor.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Si no te sientes apto para manejar, infórmalo a tu supervisor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If you need help with this process, you can contact your office's Health and Safety Coordinator.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Si necesitas ayuda con este proceso, puedes contactar al Coordinador de Salud y Seguridad de tu oficina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In mountain roads, the driver must pay attention to nearby hillsides for potential rock or snow landslides (specially during high temperature periods).</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>En caminos montañosos, el conductor debe estar atento a las laderas aledañas por posibles deslizamientos de piedras o nieve (especialmente en períodos de altas temperaturas).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In narrow, downslope, mountain roads, yielding to vehicles going up by stopping in any wide section of the road.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>En caminos de montaña angostos y encontrándose en bajada, ceder el paso a vehículos que suben deteniéndose en algún lugar ancho del camino.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Initial communication between site and the office was largely via email / Lync.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161811Z" creationid="hcartagena" creationdate="20140704T161811Z">
+        <seg>La comunicación inicial entre el sitio y la oficina fue en gran medida vía correo electrónico y Lync.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Injuries must never be underestimated, as failing to treat injuries promptly may make them worse.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Nunca subestimar una lesión, ya que su no tratamiento oportuno puede agravarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>January 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Enero 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Plans <ph x="0">&lt;t0/&gt;</ph>are a critical control.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162620Z" creationid="hcartagena" creationdate="20140704T162620Z">
+        <seg>Los planes de gestión de viajes <ph x="0">&lt;t0/&gt;</ph>son un control esencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>June 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T163017Z" creationid="hcartagena" creationdate="20140704T163017Z">
+        <seg>Junio 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keeping a safe and careful distance with the vehicle ahead.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Mantener una distancia segura y prudente con el vehículo que te antecede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Key learnings from this event</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162047Z" creationid="hcartagena" creationdate="20140704T162047Z">
+        <seg>Aprendizajes clave de este suceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lessons learned and recommendations to bear in <ph x="0">&lt;t0/&gt;</ph>mind</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Lecciones aprendidas y recomendaciones a tener <ph x="0">&lt;t0/&gt;</ph>presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lessons learned and recommendations to bear in mind</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Lecciones aprendidas y recomendaciones a tener presente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Loss of Process: Journey to remote area</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T160659Z" creationid="hcartagena" creationdate="20140704T160659Z">
+        <seg>Pérdida de proceso: viaje a un lugar apartado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Main causes of the incident</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Causas principales del incidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>May 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Mayo 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Measures to have in mind before driving</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Medidas a tener presente antes de conducir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Measures to have in mind during driving</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Medidas a tener presente durante la conducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimum driving measures for Golder in South America</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Medidas mínimas de conducción en Golder en  Sudamérica</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>NEVER FORGET THAT YOU ARE RESPONSIBLE FOR YOUR OWN SAFETY.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>NO OLVIDES QUE TÚ ERES EL PRINCIPAL RESPONSABLE DE TU SEGURIDAD.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never carrying loose elements inside the vehicle, such as recipients or tools.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No llevar elementos sueltos en el interior del vehículo como envases o herramientas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never drinking alcohol or drugs.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No ingerir alcohol o drogas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never driving at night in high mountain and/or high risk roads.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>En caminos de alta montaña y/o de alto riesgo, nunca conducir de noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never pass in winding roads.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Nunca adelantar en zona de curvas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never using cellular phones or handheld radio devices while driving or using elements that can be distracting.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No hablar por celular o radios portátiles mientras conduces o usar elementos que puedan distraer tu atención.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Observe <ph x="0">&lt;t0/&gt;</ph>speed limits<ph x="1">&lt;t1/&gt;</ph> and warning signs on the road.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Respetar <ph x="0">&lt;t0/&gt;</ph>los límites de velocidad <ph x="1">&lt;t1/&gt;</ph>y señalizaciones de advertencia de los caminos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Observing speed limits and warning signs on roads.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Respetar los límites de velocidad y señalizaciones de advertencia de los caminos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On November 28, 2013, an employee <ph x="0">&lt;t0/&gt;</ph>sprained his <ph x="1">&lt;t1/&gt;</ph>right hand after hitting <ph x="2">&lt;t2/&gt;</ph>his <ph x="3">&lt;t3/&gt;</ph>hand against a wiring conduit while trying to correct its alignment (see image).</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>El día 28/11/2013 un colaborador <ph x="0">&lt;t0/&gt;</ph>sufrió <ph x="1">&lt;t1/&gt;</ph>una torcedura de su mano derecha, luego de golpear directamente <ph x="2">&lt;t2/&gt;</ph>su <ph x="3">&lt;t3/&gt;</ph>mano contra una canaleta de red con el objetivo de encajarla, ya que presentaba pequeños defectos de alineamiento (ver imagen).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only perform jobs for which you are qualified and feel sure about doing.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Solamente ejecutar trabajos en los cuales estemos cualificados y nos sintamos seguros de realizarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Our employee turned around, was met on-route and escorted the final leg of the journey arriving more than 6 hours later than expected.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161308Z" creationid="hcartagena" creationdate="20140704T161308Z">
+        <seg>Nuestro colaborador dio la vuelta y se encontró en el camino con el cliente, que lo escoltó el último tramo del viaje para llegar más de 6 horas después de lo esperado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Place of incident</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Lugar del incidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please, do not forget that any incident, however small, must be <ph x="0">&lt;t0/&gt;</ph>immediately<ph x="1">&lt;t1/&gt;</ph> communicated to your direct supervisor and reported in the Learnings Database.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No olvides que todo incidente, por menor que sea, debe ser comunicado <ph x="0">&lt;t0/&gt;</ph>inmediatamente<ph x="1">&lt;t1/&gt;</ph> a tu supervisor directo y reportado en el Learnings database.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Managers must ensure they are completed fully, shared and understood.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162655Z" creationid="hcartagena" creationdate="20140704T162655Z">
+        <seg>Los gerentes de proyecto deben asegurarse de que sean compartidos y comprendidos a cabalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>RIGHT HAND INJURY</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>LESIÓN EN MANO DERECHA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remember that driving under the influence is prohibited by law in our countries.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Recuerda que la conducción bajo la influencia del alcohol o drogas está penada por la ley en nuestros países.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest, <ph x="0">&lt;t0/&gt;</ph>at <ph x="1">&lt;t1/&gt;</ph>least, <ph x="2">&lt;t2/&gt;</ph>8 hours the night before driving a vehicle<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Descansar, <ph x="0">&lt;t0/&gt;</ph>por lo <ph x="1">&lt;t1/&gt;</ph>menos, <ph x="2">&lt;t2/&gt;</ph>8 horas la noche anterior antes de conducir un vehículo<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resting periods include safely parking the vehicle and perform an activity providing rest (<ph x="1">&lt;t1/&gt;</ph>e.g.<ph x="2">&lt;t2/&gt;</ph>, stretching, taking a short walk, drinking coffee, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Los descansos comprenden el estacionamiento seguro del vehículo y realizar alguna actividad que permita el descanso (<ph x="1">&lt;t1/&gt;</ph>ej<ph x="2">&lt;t2/&gt;</ph>: realizar estiramientos, dar un breve paseo, tomar un café, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resting periods include safely parking the vehicle and perform an activity providing rest (e.g., stretching, taking a short walk, drinking coffee, etc.)</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Los descansos comprenden el estacionamiento seguro del vehículo y realizar alguna actividad que permita el descanso (ej: realizar estiramientos, dar un breve paseo, tomar un café, etc.).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Speed <ph x="0">&lt;t0/&gt;</ph>limits as established for the road were not observed.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No <ph x="0">&lt;t0/&gt;</ph>se respetaron los límites establecidos de velocidad de la vía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Take resting periods<ph x="0">&lt;t0/&gt;</ph> during driving, specially when tiredness is affecting your senses.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Tomar descansos<ph x="0">&lt;t0/&gt;</ph> durante la conducción, especialmente si el cansancio está afectando tus sentidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Taking resting periods during driving, specially when tiredness is affecting your senses.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Tomar descansos durante la conducción, especialmente si el cansancio está afectando tus sentidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The contributing factors</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161336Z" creationid="hcartagena" creationdate="20140704T161336Z">
+        <seg>Los factores que incidieron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The employee had a satellite phone, and was able to use it.  However, he was under the impression it was only to be used in an emergency.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161555Z" creationid="hcartagena" creationdate="20140704T161555Z">
+        <seg>El colaborador tenía teléfono satelital y podía usarlo, pero su impresión era que solo debía usarse en caso de emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The high standard of Golder vehicles in <ph x="0">&lt;t0/&gt;</ph>Peru prevented<ph x="1">&lt;t1/&gt;</ph> this incident from having more severe, including fatal, consequences.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>El alto estándar de los vehículos de Golder en <ph x="0">&lt;t0/&gt;</ph>Perú evitó <ph x="1">&lt;t1/&gt;</ph>que este incidente hubiese tenido consecuencias de alta gravedad, incluso fatales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The incident</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T160720Z" creationid="hcartagena" creationdate="20140704T160720Z">
+        <seg>El incidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The incident occurred when the driver got distracted, entered the opposite <ph x="0">&lt;t0/&gt;</ph>lane, <ph x="1">&lt;t1/&gt;</ph>crashed against a hillslope<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>and a concrete signpost,<ph x="4">&lt;t4/&gt;</ph> and finally <ph x="5">&lt;t5/&gt;</ph>overturned on its <ph x="6">&lt;t6/&gt;</ph>left (drivers')<ph x="7">&lt;t7/&gt;</ph>side <ph x="8">&lt;t8/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>En este incidente, el conductor de la camioneta perdió la concentración en la conducción e invadió el carril opuesto de la <ph x="0">&lt;t0/&gt;</ph>carretera <ph x="1">&lt;t1/&gt;</ph>chocando posteriormente contra el talud de un cerro<ph x="2">&lt;t2/&gt;</ph> <ph x="3">&lt;t3/&gt;</ph>y un poste de concreto de señalización, <ph x="4">&lt;t4/&gt;</ph>volcándose  <ph x="5">&lt;t5/&gt;</ph>finalmente <ph x="6">&lt;t6/&gt;</ph>sobre su lado <ph x="7">&lt;t7/&gt;</ph>izquierdo (del <ph x="8">&lt;t8/&gt;</ph>conductor).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The investigation identified another employee had previously driven in the wrong direction from Moomba.  While he didn’t become lost, this learning was not shared with the project team – therefore the opportunity to provide more detailed instructions / maps was lost.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T162023Z" creationid="hcartagena" creationdate="20140704T162023Z">
+        <seg>La investigación arrojó que otro colaborador había conducido antes en la dirección equivocada desde Moomba. Si bien no se perdió, este aprendizaje no fue compartido con el equipo de proyecto y por tanto se perdió la oportunidad de dar instrucciones y mapas más detallados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The maximum number of passengers in a vehicle is 4.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>El número máximo de personas en un vehículo es de 4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The risks associated with driving in a remote area where not effectively controlled.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161410Z" creationid="hcartagena" creationdate="20140704T161410Z">
+        <seg>No se controlaron eficazmente los riesgos de conducir en un lugar apartado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The seriousness of the incident was not effectively communicated leading to a delay in emergency response.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161843Z" creationid="hcartagena" creationdate="20140704T161843Z">
+        <seg>La gravedad del incidente no se comunicó eficazmente y esto generó un retraso en la respuesta de emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There was not sufficient importance given to the journey management plan with incomplete plans and no clear responsibility for monitoring the journey against the plan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T161502Z" creationid="hcartagena" creationdate="20140704T161502Z">
+        <seg>No se le dio importancia suficiente al plan de gestión de viajes, quedando estos incompletos y sin responsabilidades claras sobre el monitoreo del viaje con respecto del plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There were no lost time injuries.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>No hubo días de trabajo perdidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This <ph x="0">&lt;t0/&gt;</ph>incident reminds us once more that driving is one of our <ph x="1">&lt;t1/&gt;</ph>riskier <ph x="2">&lt;t2/&gt;</ph>activities and that an appropriate driving behaviour and use of high safety standards in our vehicles are key elements in this activity<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Este <ph x="0">&lt;t0/&gt;</ph>incidente nos recuerda una vez más que la conducción es una de nuestras actividades más  <ph x="1">&lt;t1/&gt;</ph>    riesgosas <ph x="2">&lt;t2/&gt;</ph>y que una buena conducta en el manejo y el uso de altos estándares de seguridad de nuestros vehículos son elementos claves en esta actividad<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This evaluation would have determined the need for a plier and <ph x="0">&lt;t0/&gt;</ph>cow leather/kidskin gloves <ph x="1">&lt;t1/&gt;</ph>to perform the activity.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Esta evaluación hubiese determinado la necesidad de contar con alicate y <ph x="0">&lt;t0/&gt;</ph>guantes de cuero vaqueta/guantes de cabritilla <ph x="1">&lt;t1/&gt;</ph>para realizar la actividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This injury required medical treatment and one day off <ph x="4">&lt;t4/&gt;</ph>work <ph x="5">&lt;t5/&gt;</ph>(medical leave), thus becoming a recordable case <ph x="6">&lt;t6/&gt;</ph>in the region<ph x="7">&lt;t7/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Esta lesión requirió tratamiento médico y 1 día fuera del <ph x="4">&lt;t4/&gt;</ph>trabajo <ph x="5">&lt;t5/&gt;</ph>(descanso médico), siendo un nuevo caso registrable <ph x="6">&lt;t6/&gt;</ph>en la región<ph x="7">&lt;t7/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This number must never be exceeded.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Este número nunca debe ser sobrepasado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel in remote areas has previously contributed to a fatality within Golder Associates.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T164826Z" creationid="hcartagena" creationdate="20140704T162756Z">
+        <seg>Los viajes a lugares apartados han causado fatalidades en Golder Associates en el pasado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Underestimation of the risks associated to this activity, as in other opportunities he had performed the same activity under the same conditions without injuries.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Subestimación del riesgo asociado a la actividad, dado que en otras oportunidades había realizado la misma actividad bajo las condiciones actuales y no había sufrido ninguna lesión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Using a three-point seat belt at all times during driving.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Usar el cinturón de seguridad de 3 puntas en todo momento de la conducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Vehicle Overturn</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Vuelco de vehículo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Verifying the vehicle's status and ensuring that it has the necessary equipment according to driving conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Verificar el estado del vehículo y asegurar que cuenta con el equipamiento necesario de acuerdo a las condiciones de conducción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When possible, informing other drivers about hazards you have found on the road.</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>En la medida de lo posible, informe a otros conductores de los peligros que usted ha observado en su recorrido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wiring conduit covered and aligned</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Canaleta de red cubierta y alineada</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

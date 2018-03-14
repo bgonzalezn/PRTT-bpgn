@@ -1,0 +1,1111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">4006 Global High Risk Travel Assessment- Master Rev07-18-03-14.xlsx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Medical</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120549Z" creationid="hcartagena" creationdate="20140923T120549Z">
+        <seg>Médico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>General</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identified Risk Rank (HML)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141102Z" creationid="hcartagena" creationdate="20140923T120702Z">
+        <seg>Clasificación de los riesgos identificados (H = alto, M = medio, L = bajo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Crime</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120707Z" creationid="hcartagena" creationdate="20140923T120707Z">
+        <seg>Crimen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Kidnapping</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120715Z" creationid="hcartagena" creationdate="20140923T120715Z">
+        <seg>Secuestro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Terrorism</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120722Z" creationid="hcartagena" creationdate="20140923T120722Z">
+        <seg>Terrorismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Civil, political unrest or armed conflict</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120804Z" creationid="hcartagena" creationdate="20140923T120804Z">
+        <seg>Agitación civil o política o conflicto armado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess&lt;t1/&gt; frequency of kidnappings, profile of targets, typical kidnappers' demands.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120841Z" creationid="hcartagena" creationdate="20140923T120841Z">
+        <seg>Evaluar&lt;t1/&gt; la frecuencia de secuestros, perfil u objetivos y las demandas típicas de los secuestradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess&lt;t1/&gt; frequency, geographical spread and level of sophistication of terrorist incidents.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T121144Z" creationid="hcartagena" creationdate="20140923T121144Z">
+        <seg>Evaluar&lt;t1/&gt; la frecuencia, alcance geográfico y nivel de complejidad de los actos terroristas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Disease/Health Rating</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T121229Z" creationid="hcartagena" creationdate="20140923T121229Z">
+        <seg>Calificación de enfermedad/salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess &lt;t1/&gt;the risks of disease and environment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T121245Z" creationid="hcartagena" creationdate="20140923T121245Z">
+        <seg>Evaluar&lt;t1/&gt; los riesgos de enfermedades y del entorno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The crime rate is low and consists mostly of non-violent crimes of opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141630Z" creationid="hcartagena" creationdate="20140923T121314Z">
+        <seg>La tasa delictiva es baja y se compone en su mayoría de crímenes sin violencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Violent crime, if it occurs, is limited to well-defined areas not frequented by Golder personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141707Z" creationid="hcartagena" creationdate="20140923T121527Z">
+        <seg>Los crímenes violentos, en caso de ocurrir, se limitan a áreas específicas que no son frecuentadas por el personal de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Risk Assessment Completed By:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T122203Z" creationid="hcartagena" creationdate="20140923T121954Z">
+        <seg>Evaluación de riesgo elaborada por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project/Travel Location:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T140650Z" creationid="hcartagena" creationdate="20140923T122017Z">
+        <seg>Ubicación del proyecto/destino del viaje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>[This document must be reassessed if travel occurs &gt;1 Month from initial assessment document]</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T140934Z" creationid="hcartagena" creationdate="20140923T122137Z">
+        <seg>[Este documento debe reevaluarse si el viaje se hace más de un mes después de la evaluación inicial]</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Risk Assessment Prepared Date:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T122159Z" creationid="hcartagena" creationdate="20140923T122159Z">
+        <seg>Fecha de elaboración de la evaluación de riesgo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T122214Z" creationid="hcartagena" creationdate="20140424T140650Z">
+        <seg>Otro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No active or potential civil or political unrest identified.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T122237Z" creationid="hcartagena" creationdate="20140923T122237Z">
+        <seg>No se identifica agitación civil o política activa o potencial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Crime occurs frequently and often involves violence, including in areas frequented by Golder employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T122330Z" creationid="hcartagena" creationdate="20140923T122330Z">
+        <seg>Los crímenes son frecuentes y a menudo implican violencia, incluso en zonas frecuentadas por colaboradores de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Street crimes of opportunity are not uncommon but rarely involve violence.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141815Z" creationid="hcartagena" creationdate="20140923T122352Z">
+        <seg>Los delitos callejeros son frecuentes, pero generalmente no son violentos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Threat is mostly loss of property rather than physical harm.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141850Z" creationid="hcartagena" creationdate="20140923T122410Z">
+        <seg>La amenaza suele estar relacionada con el robo más que con el daño físico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Kidnapping is not uncommon, but most incidents involve short-term “express” kidnappings.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142009Z" creationid="hcartagena" creationdate="20140923T122435Z">
+        <seg>Los secuestros son relativamente frecuentes, pero la mayor parte de ellos se limitan a secuestros que tienen una corta duración (“express”).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Perpetrators have moderate monetary goals and are highly disposed to release victims unharmed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142111Z" creationid="hcartagena" creationdate="20140923T122525Z">
+        <seg>Los secuestradores tienen motivos monetarios moderados y la disposición de liberar a las víctimas sin hacerles daño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Frequent terrorist attacks -- several have been of high impact.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T122544Z" creationid="hcartagena" creationdate="20140923T122544Z">
+        <seg>Ataques terroristas frecuentes, varios de los cuales han tenido gran impacto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Perpetrators specifically target public areas and/or areas frequented by foreigners.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142149Z" creationid="hcartagena" creationdate="20140923T122607Z">
+        <seg>Los terroristas atacan específicamente lugares públicos o zonas frecuentadas por extranjeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Active or potential civil unrest, political unrest or armed conflict extending into Golder work area.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141350Z" creationid="hcartagena" creationdate="20140923T122957Z">
+        <seg>Agitación civil o política activa o potencial o conflicto armado que se extiende al área de trabajo de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid prolonged exposure in public or travelling alone.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130137Z" creationid="hcartagena" creationdate="20140923T123029Z">
+        <seg>Evitar la exposición pública prolongada o viajar solo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remain in the hotel/residence for meals, etc.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123040Z" creationid="hcartagena" creationdate="20140923T123040Z">
+        <seg>Permanecer en el hotel/residencia para las comidas, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use security details to move about when away from the hotel/residence.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142954Z" creationid="hcartagena" creationdate="20140923T123108Z">
+        <seg>Usar la información de seguridad para desplazarse cuando esté alejado del hotel/residencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Airline has a rating in the Airline Risk Calculator of 4.00 - 5.99</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123234Z" creationid="hcartagena" creationdate="20140923T123134Z">
+        <seg>La aerolínea tiene una clasificación de 4.00 - 5.99 en el calculador de riesgo de aerolíneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Airline has a rating in the Airline Risk Calculator of 6.00 - 10.00</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123236Z" creationid="hcartagena" creationdate="20140923T123221Z">
+        <seg>La aerolínea tiene una clasificación de 6.00 - 10.00 en el calculador de riesgo de aerolíneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Airline has a rating in the Airline Risk Calculator of 0 - 3.99 or is not rated on the system.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123247Z" creationid="hcartagena" creationdate="20140923T123247Z">
+        <seg>La aerolínea tiene una clasificación de 0 - 3.99 en el calculador de riesgo de aerolíneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>May be used without restriction</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123254Z" creationid="hcartagena" creationdate="20140923T123254Z">
+        <seg>Puede usarse sin restricción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Kidnapping is a common occurrence.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123301Z" creationid="hcartagena" creationdate="20140923T123301Z">
+        <seg>El secuestro es algo común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Foreign travellers are equal-opportunity, or even sought-after, targets.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123347Z" creationid="hcartagena" creationdate="20140923T123347Z">
+        <seg>Los viajeros extranjeros corren el mismo riesgo o incluso son blancos buscados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Kidnappers are motivated by political / monetary goals.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123402Z" creationid="hcartagena" creationdate="20140923T123402Z">
+        <seg>Los secuestradores están motivados por objetivos políticos o monetarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If no, why not?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123427Z" creationid="hcartagena" creationdate="20140923T123427Z">
+        <seg>Si es no, ¿por qué no?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Traveller's  Name:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123512Z" creationid="hcartagena" creationdate="20140923T123433Z">
+        <seg>Nombre de quien viaja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Traveller's Signature:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123517Z" creationid="hcartagena" creationdate="20140923T123437Z">
+        <seg>Firma de quien viaja:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Approver's Name:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123522Z" creationid="hcartagena" creationdate="20140923T123450Z">
+        <seg>Nombre de quien autoriza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Approver's Signature:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123526Z" creationid="hcartagena" creationdate="20140923T123456Z">
+        <seg>Firma de quien autoriza:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date Approved:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123506Z" creationid="hcartagena" creationdate="20140923T123506Z">
+        <seg>Fecha de autorización:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date :</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123530Z" creationid="hcartagena" creationdate="20140923T123530Z">
+        <seg>Fecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Manager Name</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123538Z" creationid="hcartagena" creationdate="20140923T123538Z">
+        <seg>Nombre del Jefe de Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project No:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T140156Z" creationid="hcartagena" creationdate="20140905T122709Z">
+        <seg>N.º de proyecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reason for travel:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123545Z" creationid="hcartagena" creationdate="20140923T123545Z">
+        <seg>Motivo del viaje:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Supervisor's Name:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123549Z" creationid="hcartagena" creationdate="20140923T123549Z">
+        <seg>Nombre del supervisor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Supervisor's Signature:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123553Z" creationid="hcartagena" creationdate="20140923T123553Z">
+        <seg>Firma del supervisor:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T095627Z" creationid="hcartagena" creationdate="20140328T095627Z">
+        <seg>Fecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintain awareness when in public places and when using public transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123614Z" creationid="hcartagena" creationdate="20140923T123614Z">
+        <seg>Estar atento en lugares públicos y al usar transporte público.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remain up to date on local events.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123625Z" creationid="hcartagena" creationdate="20140923T123625Z">
+        <seg>Mantenerse al tanto de los acontecimientos locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintain awareness when travelling.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123633Z" creationid="hcartagena" creationdate="20140923T123633Z">
+        <seg>Estar atento al viajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep a low profile.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123637Z" creationid="hcartagena" creationdate="20140923T123637Z">
+        <seg>Mantener un perfil bajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid known crime areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123711Z" creationid="hcartagena" creationdate="20140923T123711Z">
+        <seg>Evitar las zonas conocidas por su incidencia de crímenes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid protests, active protest areas or political discussions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T123724Z" creationid="hcartagena" creationdate="20140923T123724Z">
+        <seg>Evitar protestas, zonas de protesta activas o discusiones políticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Stay abreast of local events to avoid active protests.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T124943Z" creationid="hcartagena" creationdate="20140923T124943Z">
+        <seg>Mantenerse al tanto de los acontecimientos locales para evitar protestas activas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Traveller should recieve situational awareness/counter kidnap training.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T125304Z" creationid="hcartagena" creationdate="20140923T125304Z">
+        <seg>Se debe capacitar a quienes viajan sobre conciencia situacional/medidas antisecuestro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travellers should be on location for no more than 4 days.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130035Z" creationid="hcartagena" creationdate="20140923T130035Z">
+        <seg>Los viajeros deben estar en el lugar no más de 4 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Should have a dedicated security trained driver.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130051Z" creationid="hcartagena" creationdate="20140923T130051Z">
+        <seg>Deben tener un conductor dedicado, capacitado en seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Limit public exposure.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130058Z" creationid="hcartagena" creationdate="20140923T130058Z">
+        <seg>Limitar la exposición pública.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Residual Risk Rank  
+(HML)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141108Z" creationid="hcartagena" creationdate="20140923T130415Z">
+        <seg>Clasificación de riesgos residuales
+(H = alto, M = medio, L = bajo)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible Mitigating Controls 
+(to be expanded on to address the specific risks involved)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130453Z" creationid="hcartagena" creationdate="20140923T130453Z">
+        <seg>Posibles controles de mitigación
+(a ampliarse para abordar riesgos específicos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional controls 
+(also to be included in HaSEP)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141032Z" creationid="hcartagena" creationdate="20140923T130516Z">
+        <seg>Controles adicionales 
+(que deben incluirse en el HaSEP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Active or anticipated natural disasters extending into Golder work area.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141428Z" creationid="hcartagena" creationdate="20140923T130534Z">
+        <seg>Desastres naturales activos o previstos que se extienden al área de trabajo de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Earthquake, tsunami, landslide, flood, fire, volcano, etc.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130604Z" creationid="hcartagena" creationdate="20140923T130604Z">
+        <seg>Terremoto, tsunami, deslizamiento, inundación, incendio, erupción, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No active or anticipated natural disasters identified.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130615Z" creationid="hcartagena" creationdate="20140923T130615Z">
+        <seg>No se identifican desastres naturales activos o previstos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess&lt;t1/&gt; current civil or political unrest in the country (or location) and the risk this may pose to Golder personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T130645Z" creationid="hcartagena" creationdate="20140923T130645Z">
+        <seg>Evaluar&lt;t1/&gt; la agitación civil o política actual en el país (o lugar) y el riesgo que pueda representar para el personal de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Active or potential civil unrest, political unrest or armed conflict within the country (or location), but which does not extend to the Golder work area.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141500Z" creationid="hcartagena" creationdate="20140923T130722Z">
+        <seg>Agitación civil o política activa o potencial o conflicto armado en el país (o lugar), que no se extiende al área de trabajo de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The country (or location) has an overall unhealthy environment with several serious health challenges and endemic diseases.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142424Z" creationid="hcartagena" creationdate="20140923T131354Z">
+        <seg>El país (o lugar) tiene un entorno general poco saludable y desafíos importantes para la salud y enfermedades endémicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The country (or location) has an overall healthy environment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131407Z" creationid="hcartagena" creationdate="20140923T131407Z">
+        <seg>El país (o lugar) tiene un entorno general saludable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Active or anticipated natural disasters within the country (or location), but which does not extend to the Golder work area.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141500Z" creationid="hcartagena" creationdate="20140923T131424Z">
+        <seg>Desastres naturales activos o previstos en el país (o lugar), que no se extienden al área de trabajo de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Protect personal documents, wallets, purses.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131446Z" creationid="hcartagena" creationdate="20140923T131437Z">
+        <seg>Proteger documentos personales, billeteras, carteras, bolsos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store valuables out of sight or view.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131558Z" creationid="hcartagena" creationdate="20140923T131558Z">
+        <seg>Guardar objetos de valor fuera de la vista.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use hotel safes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131615Z" creationid="hcartagena" creationdate="20140923T131615Z">
+        <seg>Usar las cajas fuertes de los hoteles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not leave laptops unattended or in the open.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142901Z" creationid="hcartagena" creationdate="20140923T131636Z">
+        <seg>No perder de vista su notebook/laptop.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid wearing expensive or flashy jewellery.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142916Z" creationid="hcartagena" creationdate="20140923T131651Z">
+        <seg>Evitar usar joyas costosas o llamativas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Kidnappings occur occasionally but perpetrators go after well-defined, high-profile local targets.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142235Z" creationid="hcartagena" creationdate="20140923T131720Z">
+        <seg>Los secuestros son ocasionales, pero los secuestradores tienen objetivos locales, bien definidos y de alto perfil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travellers should be advised of areas, buildings or locations likely to be targets and avoid these areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131833Z" creationid="hcartagena" creationdate="20140923T131833Z">
+        <seg>Se debe avisar a quienes viajan sobre las zonas, edificios o lugares que pueden ser objetivos para evitarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Have working portable communications.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133128Z" creationid="hcartagena" creationdate="20140923T131851Z">
+        <seg>Llevar aparatos de comunicación portátiles operativos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid public demonstrations and gatherings.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131900Z" creationid="hcartagena" creationdate="20140923T131900Z">
+        <seg>Evitar manifestaciones y reuniones públicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The country's (or location’s) environment presents some health challenges and endemic diseases.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142444Z" creationid="hcartagena" creationdate="20140923T131921Z">
+        <seg>El país (o lugar) tiene un entorno que presenta algunos desafíos para la salud y enfermedades endémicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hazard Category</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131928Z" creationid="hcartagena" creationdate="20140923T131928Z">
+        <seg>Categoría del peligro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Specific Hazard</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131935Z" creationid="hcartagena" creationdate="20140923T131935Z">
+        <seg>Peligro específico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hazard Severity Guidance Notes</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141140Z" creationid="hcartagena" creationdate="20140923T131945Z">
+        <seg>Notas de orientación sobre gravedad de los peligros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Natural disaster / Meteorology</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131952Z" creationid="hcartagena" creationdate="20140923T131952Z">
+        <seg>Desastre natural / meteorología</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Local Conditions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T131956Z" creationid="hcartagena" creationdate="20140923T131956Z">
+        <seg>Condiciones locales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess &lt;t1/&gt;current or anticipated natural disasters in the country (or location) and the risk this may pose to Golder personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132137Z" creationid="hcartagena" creationdate="20140923T132105Z">
+        <seg>Evaluar&lt;t1/&gt; los desastres naturales actuales o previstos en el país (o lugar) y el riesgo que puedan representar para el personal de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess &lt;t1/&gt;nature and frequency of crimes in the country (or location) and the risk this may pose to Golder personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132202Z" creationid="hcartagena" creationdate="20140923T132114Z">
+        <seg>Evaluar &lt;t1/&gt;la naturaleza y frecuencia de los crímenes en el país (o lugar) y el riesgo que puedan representar para el personal de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Air travel (including commercial, charter (Golder and Client), light aircraft and helicopters</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132309Z" creationid="hcartagena" creationdate="20140923T132309Z">
+        <seg>Viajes aéreos (inclusive los comerciales o chárter—Golder y cliente), aeronaves livianas y helicópteros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify local intelligence and local resources for relevant health, safety and security information.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132336Z" creationid="hcartagena" creationdate="20140923T132336Z">
+        <seg>Identificar la inteligencia y los recursos locales para obtener información relevante de salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contact local Golder office and copy the appropriate Regional VP (and in some cases OpCo Managing Director).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132522Z" creationid="hcartagena" creationdate="20140923T132522Z">
+        <seg>Contactar a la oficina local de Golder e informar al VP Regional correspondiente (y en algunos casos al Managing Director de la Operación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Prior to this journey:  Have you consulted with and been evaluated by a Travel Doctor, to ensure your continued wellbeing and fitness for duty and to ensure you have the appropriate vaccinations and medications for your destination?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135938Z" creationid="hcartagena" creationdate="20140923T132857Z">
+        <seg>Antes del viaje: ¿se pidió evaluación a un médico para asegurarse de mantenerse bien y apto para las labores y para asegurarse de tener las vacunas y medicamentos
+necesarios para el lugar de destino?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hazard Assessment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T141209Z" creationid="hcartagena" creationdate="20140923T132908Z">
+        <seg>Evaluación de los peligros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Follow guidance on specific hotels to stay in and places to avoid.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132928Z" creationid="hcartagena" creationdate="20140923T132928Z">
+        <seg>Seguir las pautas sobre hoteles específicos donde quedarse y lugares a evitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep abreast of local events.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T132937Z" creationid="hcartagena" creationdate="20140923T132937Z">
+        <seg>Mantenerse al tanto de los acontecimientos locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Have working portable communication devices such as cell phones or satellite phones.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133140Z" creationid="hcartagena" creationdate="20140923T133002Z">
+        <seg>Tener aparatos de comunicación portátiles operativos tales como teléfonos celulares o satelitales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid public places and restaurants frequented by foreigners.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133153Z" creationid="hcartagena" creationdate="20140923T133153Z">
+        <seg>Evitar lugares públicos o restaurantes frecuentados por extranjeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess&lt;t1/&gt; additional local risks posed to Golder travellers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133210Z" creationid="hcartagena" creationdate="20140923T133210Z">
+        <seg>Evaluar&lt;t1/&gt; riesgos adicionales locales para viajeros de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If this travel is related to Business Development, please refer to GP7, Developing Business Abroad, before starting with this assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133246Z" creationid="hcartagena" creationdate="20140923T133246Z">
+        <seg>Si el viaje se relaciona con el desarrollo de negocios, consultar el procedimiento GP7 de desarrollo de negocios en el extranjero antes de comenzar esta evaluación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Risk Ranking Guide</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133252Z" creationid="hcartagena" creationdate="20140923T133252Z">
+        <seg>Guía de clasificación de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Periodic terrorist attacks -- most or all of them are unsophisticated and not designed to maximize casualties.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133325Z" creationid="hcartagena" creationdate="20140923T133325Z">
+        <seg>Ataques terroristas periódicos — la mayoría o todos son simples y no diseñados para maximizar las bajas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If high-impact terrorist attacks occur they are isolated in parts of the country (or location) not related to Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133412Z" creationid="hcartagena" creationdate="20140923T133412Z">
+        <seg>Si hay ataques terroristas de alto impacto, estos se remitan a zonas aisladas del país (o lugar) no relacionadas con Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A general terrorism threat due to the country (or location) profile.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133433Z" creationid="hcartagena" creationdate="20140923T133433Z">
+        <seg>Una amenaza de terrorismo general debido al perfil del país (o lugar).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Security forces are effective in detecting/disrupting plots.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142309Z" creationid="hcartagena" creationdate="20140923T133558Z">
+        <seg>Las fuerzas de seguridad son eficaces en a la hora de detectar/desbaratar cualquier plan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(Country or Location)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133603Z" creationid="hcartagena" creationdate="20140923T133603Z">
+        <seg>(País o lugar)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Refer to the Hart Aviation Airline Risk Calculator
+&lt;t1/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133623Z" creationid="hcartagena" creationdate="20140923T133623Z">
+        <seg>Consultar la calculadora de riesgos de aerolíneas de Hart Aviation
+&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(Username: golderarc
+Password: 655955ga)
+
+Or contact your Regional HSE Leader for assistance</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133651Z" creationid="hcartagena" creationdate="20140923T133651Z">
+        <seg>(usuario: golderarc
+contraseña: 655955ga)
+
+O contactar al Líder Regional de HSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify&lt;t1/&gt; additional local risks posed to Golder travellers (through local Golder office intelligence)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T133717Z" creationid="hcartagena" creationdate="20140923T133717Z">
+        <seg>Identificar&lt;t1/&gt; riesgos locales adicionales para viajeros de Golder (a través de inteligencia de la oficina local de Golder).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel should be done only with proper security detail.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T143003Z" creationid="hcartagena" creationdate="20140923T133731Z">
+        <seg>Los viajes solo deben hacerse con la información de seguridad correspondiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travellers should be familiar with high threat destination security, trained in working with security details and trauma style first aid response.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142630Z" creationid="hcartagena" creationdate="20140923T134029Z">
+        <seg>Los viajeros deben estar al tanto de la seguridad en destinos gravemente amenazados, estar capacitados para trabajar con información de seguridad poder realizar primeros auxilios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Traveller should recieve situational awareness/counter kidnapping training.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142746Z" creationid="hcartagena" creationdate="20140923T134037Z">
+        <seg>Los viajeros deben capacitarse en conciencia del entorno y prevención de secuestros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Should have a security trained driver and dedicated close protection when moving about the location.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T142802Z" creationid="hcartagena" creationdate="20140923T134108Z">
+        <seg>Deben tener un conductor capacitado en temas de seguridad y tener protección cercana dedicada al desplazarse por el lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employ robust check-in schedule.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T153612Z" creationid="hcartagena" creationdate="20140923T134130Z">
+        <seg>Emplear un cronograma de chequeos exigente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alter daily routine.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T134137Z" creationid="hcartagena" creationdate="20140923T134137Z">
+        <seg>Alterar la rutina diaria.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Client / Golder ERP / CRP should be in place with provision for Medical Emergencies.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135130Z" creationid="hcartagena" creationdate="20140923T134734Z">
+        <seg>Debe haber planes de respuesta a emergencias o crisis (ERP o CRP) del cliente o de Golder con disposiciones para emergencias médicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Evacuation plan to international Standard Medical Facilities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135149Z" creationid="hcartagena" creationdate="20140923T135108Z">
+        <seg>Plan de evacuación hacia instalaciones médicas estándar internacionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid eating and drinking untreated or local food which may be contaminated.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135204Z" creationid="hcartagena" creationdate="20140923T135204Z">
+        <seg>Evitar comer y beber alimentos locales o sin tratar que pudieran estar contaminados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wash hands frequently.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135212Z" creationid="hcartagena" creationdate="20140923T135212Z">
+        <seg>Lavarse las manos con frecuencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider listing prescription drugs within Golder’s Online Emergency Record database before departing home region</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135445Z" creationid="hcartagena" creationdate="20140923T135445Z">
+        <seg>Considerar registrar los medicamentos con receta en la base de datos del Registro de Emergencias en Línea de Golder antes de salir de la región de origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Detailed ERP/CRP and evacuation plan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135457Z" creationid="hcartagena" creationdate="20140923T135457Z">
+        <seg>Planes detallados de ERP/CRP y evacuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternative access and egress routes identified.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135534Z" creationid="hcartagena" creationdate="20140923T135534Z">
+        <seg>Rutas alternativas de acceso y salida identificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Access to clean food, water and medical supplies ensured.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135600Z" creationid="hcartagena" creationdate="20140923T135600Z">
+        <seg>Acceso garantizado a alimentos y agua limpios y a suministros médicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Detailed ERP/CRP and evacuation plan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135457Z" creationid="hcartagena" creationdate="20140923T135457Z">
+        <seg>Planes detallados de ERP/CRP y evacuación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternative access and egress routes identified.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135534Z" creationid="hcartagena" creationdate="20140923T135534Z">
+        <seg>Rutas alternativas de acceso y salida identificadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date Range (from - to) of Planned Travel:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T140824Z" creationid="hcartagena" creationdate="20140923T135632Z">
+        <seg>Fechas del viaje (desde – hasta):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Review to determine whether a higher rated airline is available for the route.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135651Z" creationid="hcartagena" creationdate="20140923T135651Z">
+        <seg>Revisar para determinar si hay una aerolínea con mayor calificación disponible para la ruta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Seek additional information from HART Aviation to identify necessary risk controls.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135715Z" creationid="hcartagena" creationdate="20140923T135715Z">
+        <seg>Buscar información adicional de HART Aviation para identificar controles de riesgo necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135722Z" creationid="hcartagena" creationdate="20140328T110558Z">
+        <seg>Sí</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Internal Business</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135727Z" creationid="hcartagena" creationdate="20140923T135727Z">
+        <seg>Negocio interno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Fieldwork</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135808Z" creationid="hcartagena" creationdate="20140923T135734Z">
+        <seg>Trabajo de terreno por proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Office Visit</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135742Z" creationid="hcartagena" creationdate="20140923T135742Z">
+        <seg>Visita a oficina de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project No-fieldwork</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135826Z" creationid="hcartagena" creationdate="20140923T135749Z">
+        <seg>Trabajo de gabinete por proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other____________________________________________________________________________</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135757Z" creationid="hcartagena" creationdate="20140923T135757Z">
+        <seg>Otro____________________________________________________________________________</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Business Development</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T135803Z" creationid="hcartagena" creationdate="20140923T135803Z">
+        <seg>Desarrollo de negocios</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

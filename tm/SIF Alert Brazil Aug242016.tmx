@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_2_r9156" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>24th August 2016</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T185607Z" creationid="hcartagena" creationdate="20160830T185607Z">
+        <seg>24/08/2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A Golder representative has accompanied the affected employee and his family.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T191258Z" creationid="hcartagena" creationdate="20160830T191258Z">
+        <seg>Un representante de Golder acompaña al afectado y a su familia durante todo este periodo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A life threatening work related injury or illness requiring immediate life-preserving rescue action where if not applied would likely result in the death of the individual.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192811Z" creationid="hcartagena" creationdate="20160830T192811Z">
+        <seg>Una lesión o enfermedad laboral que amenaza la vida y que requiere acción de rescate inmediata para preservar la vida que, de no ejecutarse, resultaría en la muerte del individuo o un incidente con impactos ambientales catastróficos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acutely Hazardous Substances/Atmospheres</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192201Z" creationid="hcartagena" creationdate="20160830T185547Z">
+        <seg>Sustancias o atmósferas muy peligrosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All hazards should be regularly reviewed for each worksite.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192729Z" creationid="hcartagena" creationdate="20160830T192619Z">
+        <seg>Se debe revisar con regularidad todos los peligros de cada lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Also, the area containing waste was not signposted.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T191344Z" creationid="hcartagena" creationdate="20160830T191344Z">
+        <seg>El área donde se ubicaba el residuo no estaba señalizada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An employee carrying out piezometric mapping of monitoring wells entered a muddy area containing hot coal dust, a waste product from pig iron production.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T190909Z" creationid="hcartagena" creationdate="20160830T190909Z">
+        <seg>Un colaborador que realizaba actividades de mapeo de pozos de monitoreo (piezómetros) se hunde en una zona barrosa que contenía polvo de carbón activo (residuo de la producción de arrabio), el cual estaba a alta temperatura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An investigation into the cause of this incident is underway, however this event reminds us to keep in mind the following guidance from our Fatal Risk Control on Acutely Hazardous Substances/Atmospheres, which state:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192416Z" creationid="hcartagena" creationdate="20160830T192416Z">
+        <seg>Se está llevando a cabo una investigación sobre las causas del incidente. Sin embargo, lo sucedido nos recuerda que debemos tener presentes las siguientes orientaciones que nos entrega el Control de Riesgos Fatales relacionado con sustancias o atmósferas muy peligrosas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result of the contact with this hot waste, our employee sustained 2&lt;t0/&gt;nd&lt;t1/&gt; and 3&lt;t2/&gt;rd&lt;t3/&gt; degree burn injuries to both legs (from his knees down) and to his right hand.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T191027Z" creationid="hcartagena" creationdate="20160830T191027Z">
+        <seg>Debido al contacto con el residuo caliente, el colaborador sufre quemaduras de segundo y tercer grado en ambas piernas (de la rodilla hacia abajo) y en la mano derecha.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Changes in scope of work should be carefully reviewed for any impacts on the project specific HaSEP.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192724Z" creationid="hcartagena" creationdate="20160830T192724Z">
+        <seg>Se deben revisar los cambios en el alcance detenidamente por si hubiera algún impacto en el HaSEP específico del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date Issued:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T185552Z" creationid="hcartagena" creationdate="20160830T185552Z">
+        <seg>Fecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not enter a confined and/or restricted space without understanding and following the required entry procedures</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192453Z" creationid="hcartagena" creationdate="20160830T192453Z">
+        <seg>No ingresar a un espacio confinado o restringido sin entender y seguir los procedimientos de ingreso requeridos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, please contact Global HSSE or your Regional HSSE Leader.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192845Z" creationid="hcartagena" creationdate="20160830T192845Z">
+        <seg>Solicita más información al Líder Global de HSSE o a tu Líder Regional de HSSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HOT CHEMICAL BURN TO EMPLOYEE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T184759Z" creationid="hcartagena" creationdate="20160830T184759Z">
+        <seg>COLABORADOR QUEMADO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HaSEP’s should be specifically developed for each project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192726Z" creationid="hcartagena" creationdate="20160830T192635Z">
+        <seg>Se debe elaborar un HaSEP específico para cada proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KEY GUIDANCE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192315Z" creationid="hcartagena" creationdate="20160830T192315Z">
+        <seg>ORIENTACIONES PRINCIPALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Know the environments in which you are working</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192441Z" creationid="hcartagena" creationdate="20160830T192441Z">
+        <seg>Conocer los ambientes en los cuales estás trabajando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Know what you are working with</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192425Z" creationid="hcartagena" creationdate="20160830T192425Z">
+        <seg>Conocer con qué estás trabajando</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Note&lt;t0/&gt;: the hot coal dust (a hazardous waste) was not producing any smoke and was covered in dirt, ash, and leaves, making it impossible to distinguish it from regular soil in the area.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T191335Z" creationid="hcartagena" creationdate="20160830T191335Z">
+        <seg>Nota&lt;t0/&gt;: el polvo de carbón (un residuo peligroso) a alta temperatura no generaba humo y estaba cubierto de polvo, cenizas y hojas, no pudiéndose diferenciar del suelo del sector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related Fatal Risk Control:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T184810Z" creationid="hcartagena" creationdate="20160830T184810Z">
+        <seg>Control de riesgo fatal relacionado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SERIOUS INCIDENT OR FATALITY&lt;t0/&gt; (&lt;t1/&gt;SIF)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192751Z" creationid="hcartagena" creationdate="20160830T192751Z">
+        <seg>INCIDENTE GRAVE O FATALIDAD&lt;t0/&gt; (SIF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUMMARY OF INCIDENT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T185616Z" creationid="hcartagena" creationdate="20160830T185616Z">
+        <seg>RESUMEN DEL INCIDENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The employee received medical assistance and treatment is anticipated to require significant time off work.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T191139Z" creationid="hcartagena" creationdate="20160830T191139Z">
+        <seg>El colaborador recibió atención médica y se prevé que permanecerá varios días fuera del trabajo para ser tratado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The employee’s family was immediately contacted and travel arrangements were made for them to stay with their loved one throughout the recovery process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T191233Z" creationid="hcartagena" creationdate="20160830T191233Z">
+        <seg>Se contactó a la familia del colaborador inmediatamente y se coordinó un viaje para que estuviera con el afectado todo el tiempo que dure su recuperación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192916Z" creationid="hcartagena" creationdate="20160830T192916Z">
+        <seg>Título:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When executing work, we must always focus on best practices for health and safety, including:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192520Z" creationid="hcartagena" creationdate="20160830T192520Z">
+        <seg>Al ejecutar trabajos, mantener siempre el foco en las prácticas óptimas de salud y seguridad, que son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work Safe / Home Safe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192859Z" creationid="hcartagena" creationdate="20160830T192859Z">
+        <seg>Trabajo seguro, hogar seguro</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

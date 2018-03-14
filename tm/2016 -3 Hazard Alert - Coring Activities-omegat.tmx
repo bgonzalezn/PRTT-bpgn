@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8270:8272" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>A number of events occurred during the night that presented an opportunity to stop and seek further advice - even during the night.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T184658Z" creationid="hcartagena" creationdate="20160506T163127Z">
+        <seg>Hubo varios sucesos durante la noche que dieron la oportunidad de detenerse para pedir asesoría, incluso durante la noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An employee was undertaking coring works, using a HILTI DD350 drill.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162118Z" creationid="hcartagena" creationdate="20160506T161001Z">
+        <seg>Un colaborador se encontraba ejecutando labores de extracción de testigos con un taladro HILTI DD350.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result they found that the required depth could not be reached so they took the drill off the stand and continued to core.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162408Z" creationid="hcartagena" creationdate="20160506T162408Z">
+        <seg>Debido a esto se encontraron con que no era posible alcanzar la profundidad deseada, de modo que retiraron el taladro del soporte y continuaron perforando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As a result of not using lubricant the coring bit was frequently ‘catching’ and becoming very hot.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160602T173254Z" creationid="hcartagena" creationdate="20160602T173254Z">
+        <seg>Debido a que no se usó lubricante, con frecuencia la corona se atascaba y calentaba bastante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At the fourth location the employee changed to a 75mm core barrel, due to a different test being required.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162254Z" creationid="hcartagena" creationdate="20160506T162254Z">
+        <seg>En el cuarto lugar, el colaborador cambió a un tubo sacatestigos de 75 mm, debido a que se requería un ensayo diferente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Connecting the drill to a residual current device (i.e. safety switch) likely prevented a fatality from electrocution when the electrical lead was severed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T183925Z" creationid="hcartagena" creationdate="20160506T183925Z">
+        <seg>Tener el taladro conectado a un dispositivo diferencial residual (un interruptor de seguridad) probablemente impidió una fatalidad por electrocución cuando se cortó el cable eléctrico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Due to the location of the works and where road closures are required the work was undertaken at night.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T161550Z" creationid="hcartagena" creationdate="20160506T161550Z">
+        <seg>Debido a la ubicación de las labores y a que se requería el cierre de caminos, los trabajos se llevaron a cabo de noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Electrical safety switches save lives</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T182630Z" creationid="hcartagena" creationdate="20160506T182630Z">
+        <seg>Los interruptores de seguridad salvan vidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HAZARD ALERT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T183940Z" creationid="hcartagena" creationdate="20160506T183940Z">
+        <seg>ALERTA DE PELIGRO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Health, Safety and Environment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T183933Z" creationid="hcartagena" creationdate="20160506T183933Z">
+        <seg>Salud, Seguridad y Medio Ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>High Potential Incident – Coring Activities</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T160919Z" creationid="hcartagena" creationdate="20160506T160919Z">
+        <seg>Incidente con potencial alto – actividades de extracción de testigos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>However the employee was able to complete the coring to the required depth.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162141Z" creationid="hcartagena" creationdate="20160506T162105Z">
+        <seg>Sin embargo, el colaborador pudo terminar la perforación hasta la profundidad deseada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key Learnings from this event</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162700Z" creationid="hcartagena" creationdate="20160506T162700Z">
+        <seg>Aprendizajes clave de este suceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Planning must be specific to the task</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162756Z" creationid="hcartagena" creationdate="20160506T162756Z">
+        <seg>La planificación debe contemplar las especificidades de la tarea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prior to the incident the employee had drilled three locations using a 150mm core barrel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162134Z" creationid="hcartagena" creationdate="20160506T161618Z">
+        <seg>Antes del incidente, el colaborador había perforado en tres lugares usando un tubo sacatestigos de 150 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Seeking advice prior to the following decisions would likely have prevented this incident:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T184720Z" creationid="hcartagena" creationdate="20160506T163206Z">
+        <seg>Pedir asesoría antes de tomar las siguientes decisiones pudo haber evitado este incidente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take 5 when changes occur</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T163050Z" creationid="hcartagena" creationdate="20160506T163050Z">
+        <seg>Efectuar la charla de salud y seguridad de cinco minutos cuando haya cambios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The core barrel caught in the ground and the employee was not able to hold it.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T184512Z" creationid="hcartagena" creationdate="20160506T162438Z">
+        <seg>El tubo sacatestigos quedó atascado en el suelo y el colaborador no pudo sostenerlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The decision to continue despite drill bit catching and becoming hot during the first three locations (due largely to the lack of lubrication).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T163406Z" creationid="hcartagena" creationdate="20160506T163332Z">
+        <seg>La decisión de continuar pese a que la corona se atascaba y calentaba en los tres primeros lugares (en gran parte debido a la falta de lubricación).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The decision to drill without lubricating the core barrel (no lubrication was requested to limit moisture in the sample).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T163247Z" creationid="hcartagena" creationdate="20160506T163247Z">
+        <seg>La decisión de perforar sin lubricar el tubo sacatestigos (se solicitó no usar lubricación para limitar la humedad en la muestra).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The decision to remove the drill from the stand when the required depth could not be reached with the 75mm core barrel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T163436Z" creationid="hcartagena" creationdate="20160506T163436Z">
+        <seg>La decisión de retirar el taladro del soporte cuando no se lograba alcanzar la profundidad deseada con el tubo sacatestigos de 75 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The drill spun around, struck him in the shin and severed the electrical lead of the drill.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T184542Z" creationid="hcartagena" creationdate="20160506T162648Z">
+        <seg>El taladro dio giros, golpeó al colaborador en la barbilla y se cortó su cable eléctrico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The incident</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T160923Z" creationid="hcartagena" creationdate="20160506T160923Z">
+        <seg>El incidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The task required the use of different size core barrels and knowledge of the limitation of the machine would have identified the required depth was not achievable with a 75mm core barrel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162906Z" creationid="hcartagena" creationdate="20160506T162906Z">
+        <seg>La tarea requería el uso de tubos sacatestigos de distintos tamaños y conocer las limitaciones de la máquina hubiera permitido detectar que la profundidad requerida no era posible de lograr con un tubo sacatestigos de 75 mm.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This equipment is normally utilised within a frame which is then secured to the coring surface to securely hold the drill in position during its operation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T161454Z" creationid="hcartagena" creationdate="20160506T161454Z">
+        <seg>Este equipo se usa normalmente dentro de un marco que se fija a la superficie a perforar para sostener el taladro firmemente en su posición durante la operación.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

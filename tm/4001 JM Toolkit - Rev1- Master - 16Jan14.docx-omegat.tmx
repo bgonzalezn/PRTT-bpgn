@@ -1,0 +1,2000 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">4001 JM Toolkit - Rev1- Master - 16Jan14.docx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>January 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Enero 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>health and safety toolkit</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T111926Z" creationid="hcartagena" creationdate="20140826T111926Z">
+        <seg>Kit de herramientas de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HEALTH AND SAFETY TOOLKIT</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T111934Z" creationid="hcartagena" creationdate="20140826T111934Z">
+        <seg>KIT DE HERRAMIENTAS DE SALUD Y SEGURIDAD</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Planning</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122215Z" creationid="hcartagena" creationdate="20140819T122541Z">
+        <seg>Planificación del manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Table of Contents</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140619T175840Z" creationid="hcartagena" creationdate="20140619T175840Z">
+        <seg>Índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>introduction</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T195040Z" creationid="hcartagena" creationdate="20140811T195040Z">
+        <seg>introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Global HSE Standards</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170518Z" creationid="hcartagena" creationdate="20140826T112054Z">
+        <seg>Normas globales de HSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>objective</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T194949Z" creationid="hcartagena" creationdate="20140811T194949Z">
+        <seg>objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T112417Z" creationid="hcartagena" creationdate="20140826T112417Z">
+        <seg>Definiciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>responsibilities</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T195111Z" creationid="hcartagena" creationdate="20140811T195111Z">
+        <seg>responsabilidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122234Z" creationid="hcartagena" creationdate="20140819T122338Z">
+        <seg>Manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Plans</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122237Z" creationid="hcartagena" creationdate="20140822T180752Z">
+        <seg>Planes de manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing the Operator</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T172902Z" creationid="hcartagena" creationdate="20140825T172902Z">
+        <seg>Evaluación del operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing the Mode of Transport</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144116Z" creationid="hcartagena" creationdate="20140826T113617Z">
+        <seg>Evaluación del medio de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing the Route</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T150800Z" creationid="hcartagena" creationdate="20140826T150800Z">
+        <seg>Evaluación de la ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency response planning</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T155011Z" creationid="hcartagena" creationdate="20140826T155011Z">
+        <seg>Planificación de la respuesta a emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>useful links</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T162904Z" creationid="hcartagena" creationdate="20140826T162904Z">
+        <seg>Enlaces útiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>APPENDIX A</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135901Z" creationid="hcartagena" creationdate="20141014T135901Z">
+        <seg>ANEXO A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>introduction</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T195040Z" creationid="hcartagena" creationdate="20140811T195040Z">
+        <seg>introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Global HSE Standards</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170518Z" creationid="hcartagena" creationdate="20140826T112054Z">
+        <seg>Normas globales de HSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In 2012 the Global Health and Safety Team (GHSET) undertook a GAP analysis of each Golder Associates (Golder) operating region’s HSE Risk Registers to identify the commonalities and variations of the hazards facing Golder as a global organisation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T165006Z" creationid="hcartagena" creationdate="20140819T111128Z">
+        <seg>En 2012, el equipo global de Salud y Seguridad llevó a cabo un análisis situacional de los registros de riesgo de HSE en cada región donde opera Golder Associates (Golder) a fin de identificar aspectos en común y variaciones en los peligros que enfrenta Golder como organización global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The findings from the GAP analysis were used to develop a Global HSE Risk Register and a Work Breakdown Plan was developed to address the High and Very High risk items common to all regions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T165104Z" creationid="hcartagena" creationdate="20140819T111828Z">
+        <seg>Se usaron los hallazgos del análisis situacional para elaborar un Registro Global de Riesgo de HSE y un Plan de Desglose de Trabajo para afrontar los elementos de riesgo «alto» y «muy alto» que son comunes a todas las regiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The four highest rated risks related to travel and journeys with general driving operations being the highest ranked risk within the organisation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T165303Z" creationid="hcartagena" creationdate="20140819T111950Z">
+        <seg>Los cuatro riesgos con la mayor calificación se relacionaron con viajes y traslados, siendo la operación general de conducción la que tuvo la calificación de riesgo más alta en la organización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There exists within Golder’s global operations a wide variation between the types of modes of transport utilised, the operating environments,  the standards of local legislation relating to vehicle safety, road rules and training/licencing requirements and the processes already in place to control the risks involved in journey management.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T165601Z" creationid="hcartagena" creationdate="20140819T112132Z">
+        <seg>Los tipos de transporte utilizado varían mucho de una operación de Golder a otra, así como los entornos de operación, las normas que impone la legislación local en relación con la seguridad de los vehículos, las normas de tránsito y los requisitos de capacitación o licencias y los procesos vigentes para controlar los riesgos que implica el manejo de viajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder owes a duty of care which is transparent, equitable and consistent to all our employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T165626Z" creationid="hcartagena" creationdate="20140819T112215Z">
+        <seg>Golder tiene un deber de cuidado con todos los colaboradores que es transparente, equitativo y coherente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where it is within our ability to control it an employee in one region should not be exposed to a level of risk that we would deem to be unacceptable in another.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170352Z" creationid="hcartagena" creationdate="20140819T112255Z">
+        <seg>Dentro de nuestras posibilidades, evitamos que un colaborador de una región se exponga a un nivel de riesgo que pudiera resultar inaceptable en otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In 2013 a commitment was given by the GMT to develop a set of Global Standards for the highest risks common to the organisation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170438Z" creationid="hcartagena" creationdate="20140819T112344Z">
+        <seg>En 2013, el GMT se comprometió a elaborar un conjunto de normas globales para los riesgos comunes a la organización con la calificación más alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Subsequently Global Standards were developed for Fitness for Duty and Fatigue, Journey Management and Aviation Operations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140131Z" creationid="hcartagena" creationdate="20140819T112423Z">
+        <seg>Posteriormente, se elaboraron normas globales relacionadas con la aptitud para las labores y la fatiga, el manejo de viajes y las operaciones de aviación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Global Standards identify a consistent and mandatory baseline of controls which are globally achievable and must be implemented uniformly in all Golder regions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170828Z" creationid="hcartagena" creationdate="20140819T113346Z">
+        <seg>Las normas globales establecen controles que son una línea de base uniforme y obligatoria y que son posibles de aplicar globalmente. Estos deben implementarse de manera uniforme en todas las regiones donde opera Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The mandatory standards for journey management are contained within Golder Global Procedure GP6: Management of Health and Safety (GP6).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170939Z" creationid="hcartagena" creationdate="20140819T113439Z">
+        <seg>Las normas obligatorias para el manejo de viajes se encuentran en el procedimiento global de Golder GP6: Gestión de Salud y Seguridad (GP6).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>GP6 applies to all employees undertaking office or field work on behalf of Golder and Golder contractors and their subcontractors.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T171613Z" creationid="hcartagena" creationdate="20140819T113734Z">
+        <seg>El GP6 se aplica a todos los colaboradores que ejecutan labores de oficina o de campo en representación de Golder y también se aplica a los contratistas y subcontratistas de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Subcontractors should be informed of Golder’s journey management requirements and held to the same levels of compliance as Golder employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T171724Z" creationid="hcartagena" creationdate="20140819T114727Z">
+        <seg>Se debe informar a los subcontratistas de los requisitos de manejo de viajes de Golder y estos tienen la misma obligación que los colaboradores de Golder en cuanto a su cumplimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Clients should be informed of Golder’s journey management requirements and we should work with our clients to encourage and support them in meeting our standards where applicable.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T173056Z" creationid="hcartagena" creationdate="20140819T114837Z">
+        <seg>Se debe informar a los clientes de los requisitos de manejo de viajes de Golder y nuestro deber es trabajar con nuestros clientes para motivarlos y apoyarlos en el cumplimiento de nuestras normas, según corresponda.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employees are empowered to refuse to accept lesser standards than those set by Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T173238Z" creationid="hcartagena" creationdate="20140819T114936Z">
+        <seg>Los colaboradores de Golder tienen la facultad de rechazar normas menos restrictivas que aquellas impuestas por Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder’s values and the Work Safe, Home Safe ethos extends to the safe operation of vehicles by our employees when not working.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T181505Z" creationid="hcartagena" creationdate="20140819T115348Z">
+        <seg>Los valores de Golder y la doctrina «trabajo seguro, hogar seguro» velan por la seguridad de nuestros colaboradores mientras operan vehículos aun cuando no estén trabajando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder encourages and supports our employees in operating vehicles safely outside of work activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130229Z" creationid="hcartagena" creationdate="20140819T115439Z">
+        <seg>Golder anima a sus colaboradores a operar vehículos de manera segura fuera de las actividades laborales y les brinda su apoyo para ello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>objective</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T194949Z" creationid="hcartagena" creationdate="20140811T194949Z">
+        <seg>objetivo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The objective of this toolkit is to demonstrate a comprehensive approach to managing the risks associated with operating all modes of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144030Z" creationid="hcartagena" creationdate="20140819T115611Z">
+        <seg>El objetivo de este kit de herramientas es mostrar un planteamiento integral hacia el manejo de riesgos asociados con la operación de todos los medios de transporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The toolkit applies to Golder (owned, leased, or rental) modes of transport, as well as private and client modes of transport used while conducting business on behalf of Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144728Z" creationid="hcartagena" creationdate="20140819T120959Z">
+        <seg>El kit de herramientas rige para los medios de transporte que son propiedad de Golder o están en alguna modalidad de alquiler y a los medios de transporte privados o de clientes que se empleen mientras se hacen negocios en representación de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This procedure does not apply to public transport or taxi cabs.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144737Z" creationid="hcartagena" creationdate="20140811T144423Z">
+        <seg>Este procedimiento no rige para el transporte público o el uso de taxis.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This toolkit provides a framework for the development and implementation of solutions to mitigating risk associated with journey management, and helps identify current best practice within Golder and where further health and safety improvements can be made.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144932Z" creationid="hcartagena" creationdate="20140819T121208Z">
+        <seg>El kit de herramientas ofrece un marco para el desarrollo y la implementación de soluciones que permitan mitigar los riesgos vinculados al manejo de viajes y ayuda a detectar las actuales prácticas óptimas en Golder y las instancias en que se pueden hacer mejoras de salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The information contained in this Toolkit should be read in conjunction with the best practice &lt;t1/&gt;Guidance Notes&lt;t2/&gt; contained on the Global HSE CWS.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T152024Z" creationid="hcartagena" creationdate="20140819T121320Z">
+        <seg>La información del kit de herramientas debe leerse junto con las &lt;t1/&gt;notas con orientaciones&lt;t2/&gt; sobre prácticas optimas que se encuentran en el CWS Global de HSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Best practice &lt;t3/&gt;Example Documents&lt;t4/&gt; and existing Golder tools, forms and processes are also provided on the &lt;t5/&gt;Global HSE CWS&lt;t6/&gt; for information purposes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T145718Z" creationid="hcartagena" creationdate="20140819T121839Z">
+        <seg>Además, se puede encontrar &lt;t3/&gt;documentos con ejemplos&lt;t4/&gt; de prácticas óptimas, herramientas, formularios y procesos de Golder en el &lt;t5/&gt;CWS Global de HSE&lt;t6/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>External documents are summarised in Appendix A – JM Guidance and Examples.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T145808Z" creationid="hcartagena" creationdate="20140819T122017Z">
+        <seg>El Anexo A, «Orientación y ejemplos de manejo de viajes», tiene un resumen de los documentos externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Definitions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T112417Z" creationid="hcartagena" creationdate="20140826T112417Z">
+        <seg>Definiciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Table &lt;t1/&gt;1&lt;t2/&gt;: Definitions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T122117Z" creationid="hcartagena" creationdate="20140819T122117Z">
+        <seg>Tabla &lt;t1/&gt;1&lt;t2/&gt;: Definiciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Competent</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T122128Z" creationid="hcartagena" creationdate="20140819T122128Z">
+        <seg>Competente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An individual with sufficient knowledge, skills, and ability to perform and organize their work in a manner that reduces risk of harm to themselves and to other individuals from potential and actual hazards.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T145837Z" creationid="hcartagena" creationdate="20140819T122244Z">
+        <seg>Persona con conocimientos, aptitudes y habilidades suficientes para ejecutar y organizar su trabajo de manera tal que reduzca el riesgo de dañarse a sí mismo o a otros a raíz de peligros potenciales o reales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122234Z" creationid="hcartagena" creationdate="20140819T122338Z">
+        <seg>Manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identification and mitigation of risks related to the travel of Golder staff, including the standards and qualifications for modes of transport and operators and cargo storage and handling.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T150712Z" creationid="hcartagena" creationdate="20140819T122452Z">
+        <seg>Identificación y mitigación de riesgos relacionados con viajes del personal de Golder. Contempla las normas y calificaciones de los medios de transporte y de los operadores, así como el almacenamiento y el manejo de carga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Planning</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122215Z" creationid="hcartagena" creationdate="20140819T122541Z">
+        <seg>Planificación del manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessment and control measures required to manage safe travel, including route conditions, weather, remote and lone work and additional external factors affecting either the safe operation of the mode of transport or as an added stressor for an operator.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T163234Z" creationid="hcartagena" creationdate="20140819T122801Z">
+        <seg>Medidas necesarias de evaluación y control para manejar viajes seguros. Comprende las condiciones de la ruta, el clima, el trabajo remoto y solitario y factores externos adicionales que o bien afectan la operación segura del medio de transporte o bien son un estresor adicional para el operador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintenance Standards</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T122813Z" creationid="hcartagena" creationdate="20140819T122813Z">
+        <seg>Normas de mantenimiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Jurisdictional requirements and Golder standards prescribing mode of transport maintenance which may include but not limited to, safe standard condition, inspection frequency, record keeping and record retention.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T152820Z" creationid="hcartagena" creationdate="20140819T122932Z">
+        <seg>Requisitos legales y normas de Golder que ordenan el mantenimiento de medios de transporte y que pueden contemplar, entre otros, las condiciones normales de seguridad, la frecuencia de las inspecciones, los registros y su archivo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mode of Transport</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144209Z" creationid="hcartagena" creationdate="20140819T122945Z">
+        <seg>Medio de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Includes but not limited to cars, trucks/lorries, buses, motorcycles, marine vessels, mobile equipment, animals (horses, mules, camels, etc.), auto-rickshaw, all-terrain vehicles, utility task vehicles, snow mobiles, trains, human-powered locomotion (bicycles, handcar, cycle rickshaw, foot travel etc.) utilised while conducting work on behalf of Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T152852Z" creationid="hcartagena" creationdate="20140819T124829Z">
+        <seg>Comprende, entre otros, automóviles, camiones, buses, motocicletas, embarcaciones, equipos móviles, animales (caballos, mulas, camellos, etc.), mototaxis, vehículos todo-terreno, utilitarios, motonieves, trenes, vehículos a tracción humana (bicicletas, carros de mano, bicitaxis, viajes a pie) que se utilicen al efectuar labores en representación de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operator</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T130205Z" creationid="hcartagena" creationdate="20140819T130205Z">
+        <seg>Operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Individual in charge of any mode of transport while conducting work on behalf of Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T153030Z" creationid="hcartagena" creationdate="20140819T130234Z">
+        <seg>Persona al mando de cualquier medio de transporte mientras desarrolla labores en representación de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operating Authority</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T134443Z" creationid="hcartagena" creationdate="20140819T134443Z">
+        <seg>Autoridad operativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Organizational licensing authority for operation of specified types of modes of transport within a region.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T154201Z" creationid="hcartagena" creationdate="20140819T134612Z">
+        <seg>Autoridad que entrega licencias a organizaciones para operar tipos específicos de medios de transporte en una región.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work Related Travel</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180505Z" creationid="hcartagena" creationdate="20140819T145507Z">
+        <seg>Viaje de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel undertaken by an employee which:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T145613Z" creationid="hcartagena" creationdate="20140819T145613Z">
+        <seg>Viaje hecho por un colaborador que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Provides direct or indirect benefit to Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T142625Z" creationid="hcartagena" creationdate="20140811T140024Z">
+        <seg>proporciona un beneficio directo o indirecto a Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Would not be undertaken without direct instruction from Golder to do so.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T140807Z" creationid="hcartagena" creationdate="20140811T140807Z">
+        <seg>no se realizaría sin que haya una instrucción directa de Golder para ello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It does not include an employee’s round-trip commute from their home to their normal place of work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T154355Z" creationid="hcartagena" creationdate="20140811T140816Z">
+        <seg>El traslado diario habitual del colaborador desde el hogar al lugar de trabajo y viceversa no se considera un “viaje”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>responsibilities</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140811T195111Z" creationid="hcartagena" creationdate="20140811T195111Z">
+        <seg>responsabilidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Management Team</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T145708Z" creationid="hcartagena" creationdate="20140819T145708Z">
+        <seg>Comité de Gerencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is the responsibility of the &lt;t1/&gt;Management Team &lt;t2/&gt;to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T145754Z" creationid="hcartagena" creationdate="20140819T145754Z">
+        <seg>El &lt;t1/&gt;Comité de Gerencia&lt;t2/&gt; es responsable de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure that the journey management standard contained in GP6 is implemented in their Op-Co</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T155007Z" creationid="hcartagena" creationdate="20140819T145845Z">
+        <seg>garantizar que la norma sobre manejo de viajes contenida en el GP6 sea puesta en práctica en su Operación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Communicate the journey management requirements to employees and refresh with training as appropriate to ensure that employees are familiar with their duties and responsibilities for journey management.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T155025Z" creationid="hcartagena" creationdate="20140819T150247Z">
+        <seg>comunicar los requisitos de manejo de viajes a los colaboradores y capacitarlos si es necesario para asegurarse de que que conozcan sus deberes y responsabilidades respecto del manejo de viajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Review and, where appropriate, approve mode of transport selection and maintenance schedules for internal operations (not project related).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144052Z" creationid="hcartagena" creationdate="20140819T151208Z">
+        <seg>revisar y, si corresponde, autorizar la elección del medio de transporte y los cronogramas de mantenimiento para las operaciones internas (no relacionadas con proyectos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Develop a process to ensure only competent operators are assigned modes of transport to operate for non-project work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T110206Z" creationid="hcartagena" creationdate="20140819T151320Z">
+        <seg>desarrollar un proceso para asegurarse de que los medios de transporte utilizados en labores no ligadas a proyectos tengan asignados solo operadores competentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Encourage and support programs that promote safe driving by employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140819T151406Z" creationid="hcartagena" creationdate="20140819T151406Z">
+        <seg>fomentar y apoyar programas que promuevan una conducción segura entre los colaboradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Supervisor / Line Manager</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T172855Z" creationid="hcartagena" creationdate="20140822T172855Z">
+        <seg>Supervisor / Gerente de línea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is the responsibility of the &lt;t1/&gt;Supervisor / Manager &lt;t2/&gt;to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T172930Z" creationid="hcartagena" creationdate="20140822T172905Z">
+        <seg>Es responsabilidad del &lt;t1/&gt;Supervisor / Gerente&lt;t2/&gt; lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Conduct / review risk assessments with employees for non-project related journeys when required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172423Z" creationid="hcartagena" creationdate="20140822T173020Z">
+        <seg>llevar a cabo o revisar con los colaboradores evaluaciones de riesgo para viajes no relacionados con proyectos cuando sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure only competent operators are assigned modes of transport to operate for non-project related work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172428Z" creationid="hcartagena" creationdate="20140822T173051Z">
+        <seg>asegurarse de que los medios de transporte utilizados en labores no ligadas a proyectos tengan asignados solo operadores competentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Manager</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140903T150615Z" creationid="unknown" creationdate="unknown">
+        <seg>Jefe del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is the &lt;t1/&gt;responsibility &lt;t2/&gt;of the &lt;t3/&gt;Project Manager &lt;t4/&gt;to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T175229Z" creationid="hcartagena" creationdate="20140822T175154Z">
+        <seg>Es &lt;t1/&gt;responsabilidad&lt;t2/&gt; del &lt;t3/&gt;Jefe de Proyecto&lt;t4/&gt; lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider the requirements of journey management when determining project travel schedules and assessing modes of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172438Z" creationid="hcartagena" creationdate="20140822T175252Z">
+        <seg>considerar los requisitos de manejo de viajes al determinar los itinerarios de viaje de los proyectos y al evaluar los medios de transporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure sufficient resources are in place to manage journeys during a project work and project tasks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T163244Z" creationid="hcartagena" creationdate="20140822T175316Z">
+        <seg>asegurarse de tener recursos suficientes para manejar los viajes mientras se desarrollan las labores y tareas de un proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inform employees of situations that may affect their journeys during project planning.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172447Z" creationid="hcartagena" creationdate="20140822T175335Z">
+        <seg>informar a los colaboradores durante la planificación del proyecto sobre aquellas situaciones que pudieran tener alguna incidencia en su viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Conduct /review risk assessments with employees for project-related journeys and field work as required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172456Z" creationid="hcartagena" creationdate="20140822T175411Z">
+        <seg>llevar a cabo o revisar con los colaboradores evaluaciones de riesgo para viajes de proyecto y labores en el terreno cuando sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure only competent operators are assigned modes of transport to operate for project work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172500Z" creationid="hcartagena" creationdate="20140822T175422Z">
+        <seg>asegurarse de que a los medios de transporte utilizados en labores ligadas a proyectos se asignen solo operadores competentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HSE Advisors/Coordinators</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T175434Z" creationid="hcartagena" creationdate="20140822T175434Z">
+        <seg>Asesores/Coordinadores de HSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is the &lt;t1/&gt;responsibility &lt;t2/&gt;of the &lt;t3/&gt;HSE Advisors/Coordinators &lt;t4/&gt;to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T175454Z" creationid="hcartagena" creationdate="20140822T175454Z">
+        <seg>Es &lt;t1/&gt;responsabilidad&lt;t2/&gt; de los &lt;t3/&gt;Asesores/Coordinadores de HSE&lt;t4/&gt; lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In conjunction with Human Development (HD), maintain records as required by GP6.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172521Z" creationid="hcartagena" creationdate="20140822T175514Z">
+        <seg>junto con Desarrollo Humano (HD), llevar registros según lo exigido en el GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In conjunction with HD identify and implement training as required by GP6.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172531Z" creationid="hcartagena" creationdate="20140822T175537Z">
+        <seg>junto con HD, identificar e implementar capacitaciones según lo exigido en el GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Develop local checklists and procedures as required to manage the risks involved in journey management.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172534Z" creationid="hcartagena" creationdate="20140822T175616Z">
+        <seg>elaborar listas de cotejo y procedimientos locales de ser necesario para manejar los riesgos relacionados con el manejo de viajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Develop and conduct mode of transport inductions as required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172542Z" creationid="hcartagena" creationdate="20140822T175633Z">
+        <seg>preparar y llevar a cabo inducciones sobre los medios de transporte de ser necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Human Development Representative</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T175642Z" creationid="hcartagena" creationdate="20140822T175642Z">
+        <seg>Representante de Desarrollo Humano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is the &lt;t1/&gt;responsibility &lt;t2/&gt;of the &lt;t3/&gt;Human Development Representative &lt;t4/&gt;to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T175709Z" creationid="hcartagena" creationdate="20140822T175709Z">
+        <seg>Es &lt;t1/&gt;responsabilidad&lt;t2/&gt; del &lt;t3/&gt;Representante de Desarrollo Humano &lt;t4/&gt;lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In conjunction with HSE Advisors/Coordinators, maintain records as required by GP6.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172544Z" creationid="hcartagena" creationdate="20140822T175731Z">
+        <seg>junto con los Asesores/Coordinadores de HSE, llevar registros según lo exigido en el GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In conjunction with HSE Advisors/Coordinators, identify and implement training as required by GP6.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T172654Z" creationid="hcartagena" creationdate="20140822T175757Z">
+        <seg>junto con los Asesores/Coordinadores de HSE, identificar e implementar capacitaciones según lo exigido en el GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operators</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T175817Z" creationid="hcartagena" creationdate="20140822T175817Z">
+        <seg>Operadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Operator of a mode of transport is considered to be in control and is subject to many responsibilities related to the relevant regulatory jurisdiction, project requirements and internal Golder requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T152832Z" creationid="hcartagena" creationdate="20140822T175907Z">
+        <seg>El Operador de un medio de transporte es la persona que tiene el control y tiene responsabilidades frente a la autoridad, los requisitos del proyecto y las exigencias internas de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Responsibilities for Golder mode of transport operators are defined in GP6.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144059Z" creationid="hcartagena" creationdate="20140822T175930Z">
+        <seg>Las responsabilidades de los operadores de medios de transporte de Golder están definidas en el GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122234Z" creationid="hcartagena" creationdate="20140819T122338Z">
+        <seg>Manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Undertaking work related journeys represents a significant risk to Golder due to a variety of factors including the:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T111227Z" creationid="hcartagena" creationdate="20140822T180150Z">
+        <seg>Los viajes de trabajo representan un riesgo importante para Golder debido a una variedad de factores, entre los que se cuentan los siguientes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>frequency of exposure;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180158Z" creationid="hcartagena" creationdate="20140822T180158Z">
+        <seg>Frecuencia de la exposición</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>suitability and fitness of purpose of the mode of transport;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144100Z" creationid="hcartagena" creationdate="20140822T180214Z">
+        <seg>Idoneidad del medio de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>training and experience required to operate modes of transport;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144101Z" creationid="hcartagena" creationdate="20140822T180230Z">
+        <seg>Capacitación y experiencia que se requiere para operar medios de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>hazards involved in the route, and;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180237Z" creationid="hcartagena" creationdate="20140822T180237Z">
+        <seg>Peligros encontrados en la ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>remote and high risk environment locations of some projects.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180307Z" creationid="hcartagena" creationdate="20140822T180307Z">
+        <seg>Ubicación de algunos proyectos en zonas apartadas o en entornos de alto riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employees operating all modes of transport must be informed of and understand the risks associated with their activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T152922Z" creationid="hcartagena" creationdate="20140822T180331Z">
+        <seg>Los colaboradores de Golder que operan medios de transporte deben estar informados sobre los riesgos asociados a sus actividades y comprender estos riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Each Golder Op-Co and/or project shall assess the risks involved in undertaking work-related journeys in accordance with the risk management processes identified in GP6.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T152946Z" creationid="hcartagena" creationdate="20140822T180420Z">
+        <seg>En cada Operación o proyecto de Golder se deben evaluar los riesgos que implican los viajes de trabajo de conformidad con los procesos de manejo de riesgos señalados en el GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Plans</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122237Z" creationid="hcartagena" creationdate="20140822T180752Z">
+        <seg>Planes de manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are three main sources of potential hazards to be considered in journey management plans:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T111947Z" creationid="hcartagena" creationdate="20140822T180816Z">
+        <seg>Las principales fuentes de peligro potencial a tener en cuenta al planificar el manejo de viajes son tres:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the operator;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180823Z" creationid="hcartagena" creationdate="20140822T180823Z">
+        <seg>El operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the mode of transport, and;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144103Z" creationid="hcartagena" creationdate="20140822T180829Z">
+        <seg>El medio de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the route.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180834Z" creationid="hcartagena" creationdate="20140822T180834Z">
+        <seg>La ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A specific journey management plan should be completed for journeys which have been assessed as being high risk.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T112036Z" creationid="hcartagena" creationdate="20140822T182926Z">
+        <seg>Para viajes que hayan sido evaluados y considerados de alto riesgo, debe elaborarse un plan de manejo específico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This may be a standalone document or included as part of the HaSEP but must be specific to the hazards and risks involved in the proposed journey.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T153046Z" creationid="hcartagena" creationdate="20140825T125243Z">
+        <seg>Puede ser un documento independiente o estar incluido en el HaSEP. Lo importante es que sea específico para los peligros y riesgos propios del viaje propuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Generic journey management plans may be completed for medium and low risk journeys.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T112251Z" creationid="hcartagena" creationdate="20140825T144453Z">
+        <seg>Para viajes de riesgo medio o bajo, pueden hacerse planes de manejo de viajes genéricos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Factors which may elevate a journey to high risk include:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T144628Z" creationid="hcartagena" creationdate="20140825T144628Z">
+        <seg>Los factores que pueden acrecentar el riesgo de un viaje son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>travelling to a remote location or road travel greater than 500km / 300 mile in distance, or</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T144959Z" creationid="hcartagena" creationdate="20140825T144725Z">
+        <seg>viajar a un lugar apartado o hacer un viaje por tierra de más de 500 km;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>traveling on roads in poor condition or through rugged terrain, or</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T145001Z" creationid="hcartagena" creationdate="20140825T144945Z">
+        <seg>viajar por caminos en malas condiciones o por terrenos accidentados;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>traveling  through regions of increased risk to personal security, or</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T112408Z" creationid="hcartagena" creationdate="20140825T145013Z">
+        <seg>atravesar regiones con riesgo aumentado para la seguridad personal;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>operation of a mode of transport other than a light road vehicle or requiring anything other than a standard driver’s licence, or;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T153119Z" creationid="hcartagena" creationdate="20140825T145040Z">
+        <seg>operar un medio de transporte que no sea un vehículo ligero o que requiera una licencia distinta a la licencia normal de conducir;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>travelling through regions of increased risk of contact with flora and/or fauna or;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T112508Z" creationid="hcartagena" creationdate="20140825T145051Z">
+        <seg>atravesar regiones con riesgo aumentado de contacto con flora o fauna;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>travelling through areas of environmental or heritage significance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T112533Z" creationid="hcartagena" creationdate="20140825T145104Z">
+        <seg>atravesar áreas de importancia ambiental o patrimonial.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A separate journey management plan may not be required for each repetition of the same journey, however operators should consider variable factors such as time of day, climate and visibility before each journey commences.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T153212Z" creationid="hcartagena" creationdate="20140825T145202Z">
+        <seg>Puede no ser necesario hacer un plan independiente de manejo de viajes para cada repetición del mismo viaje, pero los operadores deben tener en cuenta los factores variables tales como el momento del día, las condiciones del tiempo y la visibilidad antes de iniciar cada viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternative routes should be identified where possible and journey management plans reviewed should it not be possible to take the primary route.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T145232Z" creationid="hcartagena" creationdate="20140825T145232Z">
+        <seg>Deben identificarse rutas alternativas de ser posible y revisarse los planes de manejo de viajes si no es posible tomar la ruta principal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The journey management plan should include the following information as a minimum:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T145247Z" creationid="hcartagena" creationdate="20140825T145247Z">
+        <seg>El plan de manejo de viajes debe incluir la siguiente información, como mínimo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Details of operator and passengers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T163456Z" creationid="hcartagena" creationdate="20140825T145254Z">
+        <seg>Detalles del operador y de los pasajeros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mode of transport details and requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144105Z" creationid="hcartagena" creationdate="20140825T163454Z">
+        <seg>Detalles y requisitos del medio de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Route of journey and locations of intended rest breaks including for alternative routes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T163521Z" creationid="hcartagena" creationdate="20140825T163521Z">
+        <seg>Ruta del viaje y lugares donde se tomarán los descansos, además de las rutas alternativas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Communication device details, emergency contacts and check-in protocols.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154522Z" creationid="hcartagena" creationdate="20140825T165715Z">
+        <seg>Detalles de los equipos de comunicación, contactos de emergencia y protocolos de chequeo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency response capabilities and procedures.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T172557Z" creationid="hcartagena" creationdate="20140825T172557Z">
+        <seg>Capacidades y procedimientos de respuesta a emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A field review or “Take 5” of HaSEP hazards and controls including road and weather conditions and personal security considerations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T153642Z" creationid="hcartagena" creationdate="20140825T172856Z">
+        <seg>Una revisión de campo o de «5 minutos» de los peligros y controles del HaSEP con respecto a las condiciones del camino y del tiempo y las consideraciones de seguridad personales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing the Operator</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T172902Z" creationid="hcartagena" creationdate="20140825T172902Z">
+        <seg>Evaluación del operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employees who operate a mode of transport for work related operations must be competent and hold the required licence(s) to operate the mode of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T121747Z" creationid="hcartagena" creationdate="20140825T173014Z">
+        <seg>Los colaboradores de Golder que operan un medio de transporte en sus labores deben ser competentes y tener las licencias pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Holding a government issued operator’s license may not be sufficient for employees to operate modes of transport on Golder business and additional or specialist training may be required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T153713Z" creationid="hcartagena" creationdate="20140825T173117Z">
+        <seg>Es posible que el hecho de tener una licencia otorgada por la autoridad no sea suficiente para operar medios de transporte en labores de Golder y que se necesite capacitación adicional o especializada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where modes of transport are provided by a client for Golder employee transportation contact with the client should be made to determine as far as practicable that the operators are competent and licenced to operate the mode of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T121832Z" creationid="hcartagena" creationdate="20140825T173224Z">
+        <seg>Cuando un cliente disponga de medios de transporte para colaboradores de Golder, se debe contactar al cliente para determinar, de ser posible, si los operadores son competentes y si tienen las licencias pertinentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operating Distractions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T150903Z" creationid="hcartagena" creationdate="20140825T173236Z">
+        <seg>Distracciones en la operación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mobile phones and other communication devices shall not be used by a person operating a motor vehicle including:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T121851Z" creationid="hcartagena" creationdate="20140825T173332Z">
+        <seg>Una persona que esté conduciendo un vehículo motorizado no debe usar teléfonos móviles u otros dispositivos de comunicación y abstenerse de: </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>touching it in any way other than passing it to a passenger, and;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T123312Z" creationid="hcartagena" creationdate="20140825T173358Z">
+        <seg>tocarlos de cualquier otra manera que no sea pasárselos a un pasajero;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the use of hands free or Bluetooth™ devices.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T112556Z" creationid="hcartagena" creationdate="20140825T173414Z">
+        <seg>usar dispositivos manos-libres o Bluetooth™.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees should not be expected to make or receive phone calls when operating a vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T123603Z" creationid="hcartagena" creationdate="20140825T173443Z">
+        <seg>Se espera que los colaboradores no hagan ni reciban llamadas telefónicas mientras conducen un vehículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Entering destination information is believed to be the most distracting task associated with the use of a route guidance system like GPS.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140829T125020Z" creationid="hcartagena" creationdate="20140825T174038Z">
+        <seg>Se cree que ingresar la información del destino es la tarea que distrae más la atención entre aquellas relacionadas con el uso de un sistema de asistencia en la ruta, como el GPS.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Navigation guidance systems should be safely located where they do not restrict the view of the traffic ahead, behind and to each side of the vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T154333Z" creationid="hcartagena" creationdate="20140825T174124Z">
+        <seg>La ubicación segura de los sistemas de ayuda a la navegación es aquella que no limite la visión del tráfico adelante, detrás o a los costados del vehículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Information should be entered into the system prior to departure.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T154344Z" creationid="hcartagena" creationdate="20140825T174239Z">
+        <seg>Debe ingresarse la información en el sistema antes de partir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If changes to the route are required the vehicle must be stopped and safely parked before operating the navigation system.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T155110Z" creationid="hcartagena" creationdate="20140825T174323Z">
+        <seg>Si es necesario hacer cambios en la ruta, se debe detener el vehículo y estacionarlo en un lugar seguro antes de operar el sistema de navegación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some sites require the use of fixed or portable two-way radios to assist in managing traffic risks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T175347Z" creationid="hcartagena" creationdate="20140825T175347Z">
+        <seg>Algunos sitios requieren el uso de transceptores de radio fijos o portátiles para ayudar en el manejo de riesgos de tráfico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where required as part of a site safety management plan, UHF/VHF radios may be used whilst operating a vehicle exclusively for the purposes identified in the site safety plan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T155309Z" creationid="hcartagena" creationdate="20140825T180358Z">
+        <seg>Si, por estar incluidas en un plan de manejo de seguridad de un sitio, se necesitan radios UHF/VHF, estas pueden usarse al operar un vehículo exclusivamente para los efectos identificados en el plan de seguridad del sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only undertake short conversations on radios while operating a vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T155336Z" creationid="hcartagena" creationdate="20140825T180419Z">
+        <seg>Al operar un vehículo, se deben tener solo conversaciones cortas por radio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If a passenger is in the vehicle whenever possible they should operate the radio instead of the operator.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T161415Z" creationid="hcartagena" creationdate="20140825T185141Z">
+        <seg>Si hay un pasajero en el vehículo y siempre que sea posible, este debe operar la radio en lugar del operador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>VHF radios are routinely used in marine vessels and may be used by the operator if done so in accordance with applicable maritime legislative requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T162916Z" creationid="hcartagena" creationdate="20140825T185918Z">
+        <seg>En embarcaciones, las radios VHF se usan de manera rutinaria y el operador puede usarlas si lo hace de conformidad con la legislación marítima pertinente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Training and Competency</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T112726Z" creationid="hcartagena" creationdate="20140825T185929Z">
+        <seg>Capacitación y competencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Experience driving private vehicles does not necessarily provide the degree of training necessary to operate vehicles safely on behalf of Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130240Z" creationid="hcartagena" creationdate="20140825T190008Z">
+        <seg>La experiencia de conducción de vehículos particulares no necesariamente habilita para operar vehículos de manera segura en labores de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Vehicles used for work purposes may also have features and equipment not found on private vehicles e.g. flashing lights, cargo securing equipment and emergency equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T121006Z" creationid="hcartagena" creationdate="20140825T190047Z">
+        <seg>Los vehículos usados para fines de trabajo también pueden tener características y equipamiento que no se encuentra en vehículos particulares tales como balizas, equipos para sujetar carga y equipos de emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional operator training for project work should be identified during the planning stage and detailed in the HaSEP e.g. 4WD vehicle operation, driving through rough terrain/water courses, winter driving, driving on resource (radio controlled) roads, etc.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T164754Z" creationid="hcartagena" creationdate="20140825T190143Z">
+        <seg>Durante la etapa de planificación, debe considerarse capacitación adicional para operadores que ejecuten labores en el proyecto. Esta capacitación debe detallarse en el HaSEP y puede tratarse, por ejemplo, de conducción 4x4, conducción en terreno accidentado o cursos de agua, conducción en invierno, conducción en caminos de recursos (controlados por radio), etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where employees are required to operate modes of transport outside of their own Op-Co they shall meet the legal requirements to operate the form of transport (e.g. an International or local Driving License) and any medical or training conditions legally required by the “out of country” location.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T165253Z" creationid="hcartagena" creationdate="20140826T112958Z">
+        <seg>Si se requiere que los colaboradores operen medios de transporte fuera de su propia Operación, deben cumplir los requisitos legales para operar ese medio (por ejemplo, licencia de conducir internacional o local) y cualquier requisito médico o de capacitación que exija la ley en el lugar fuera del país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regardless of the legality of other countries operator’s licences, a practical road test should be considered by the Golder entity that “owns” the out of country location to assess competence with local conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T165307Z" creationid="hcartagena" creationdate="20140826T113116Z">
+        <seg>Sin importar la legalidad de las licencias otorgadas en otros países, la entidad de Golder ligada al lugar fuera del país debe contemplar una prueba de manejo para evaluar las competencias en las condiciones locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is particularly important where the Golder employee is required to drive on the opposite side of the road than they are used to.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T113153Z" creationid="hcartagena" creationdate="20140826T113153Z">
+        <seg>Esto es de particular importancia cuando se requiere que el colaborador de Golder conduzca en el lado del camino opuesto al que usa habitualmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inductions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T113157Z" creationid="hcartagena" creationdate="20140826T113157Z">
+        <seg>Inducciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operator training is an important aspect in reducing the risks associated with vehicle use however it should be supported by induction and familiarisation with the specific mode of transport they will be operating.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144114Z" creationid="hcartagena" creationdate="20140826T113300Z">
+        <seg>La capacitación de los operadores es un aspecto importante para reducir los riesgos asociados con el uso de vehículos. Sin embargo, debe respaldarse con inducciones y familiarización con el medio específico de transporte que operarán.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inductions ensure the operator understands the key safety and operational features of a particular mode of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T165421Z" creationid="hcartagena" creationdate="20140826T113326Z">
+        <seg>Las inducciones garantizan que el operador comprenda las características clave de seguridad y operación de un medio de transporte en particular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A short test drive may also be considered to evaluate the competency of the operator.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T113609Z" creationid="hcartagena" creationdate="20140826T113609Z">
+        <seg>También puede contemplarse una breve prueba de manejo para evaluar la competencia del operador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing the Mode of Transport</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144116Z" creationid="hcartagena" creationdate="20140826T113617Z">
+        <seg>Evaluación del medio de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Modes of transport shall be registered, certified and inspected in accordance with local legislative requirements and be assessed prior to each use to assess its condition and suitability for the intended operation including the planned route and transport of materials and equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T170057Z" creationid="hcartagena" creationdate="20140826T113749Z">
+        <seg>Se deben registrar, certificar e inspeccionar los medios de transporte de conformidad con la legislación local y evaluarse antes de cada uso para conocer su condición e idoneidad para el uso previsto y para la ruta planificada y el transporte de materiales y equipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rental Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T113754Z" creationid="hcartagena" creationdate="20140826T113754Z">
+        <seg>Vehículos de alquiler</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rental vehicles must comply with local legislation and regulations pertaining to the class of vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T170117Z" creationid="hcartagena" creationdate="20140826T113824Z">
+        <seg>Los vehículos de alquiler deben cumplir con la legislación y normativa locales en lo respectivo a la clase de vehículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Beyond local compliance every effort should be made to ensure the rental transport complies with the Golder standard as far as practicable.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T170131Z" creationid="hcartagena" creationdate="20140826T113903Z">
+        <seg>Además de la normativa local, se debe procurar que el transporte de alquiler cumpla tanto como sea posible con la normativa de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This may require modifications to be made to local vehicles (fitting of flashing lights/UHF radios /emergency equipment/etc) or sourcing vehicles from outside the country for a project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T170149Z" creationid="hcartagena" creationdate="20140826T121001Z">
+        <seg>Para un proyecto, se podría necesitar hacer modificaciones a vehículos locales (equiparlos con balizas, radios UHF o equipos de emergencia, entre otros) o traer vehículos de fuera del país.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Op-Cos should liaise with rental companies to discuss our expectations pertaining to fleet safety and environmental standards and identify those suitable on Golder’s Subcontractor Database.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171014Z" creationid="hcartagena" creationdate="20140826T121303Z">
+        <seg>Las Operaciones deben mantener contacto con empresas de alquiler de vehículos para manifestarles nuestras expectativas en cuanto a la seguridad de la flota y a las normas ambientales y deben registrar a aquellas idóneas en la base de datos de proveedores de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In some countries it may not be possible to access rental vehicles which meet all our mandatory and desired features; however prior assessment will assist in identifying those that most closely match our criteria.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T123341Z" creationid="hcartagena" creationdate="20140826T123341Z">
+        <seg>En algunos países, quizá no se pueda tener acceso a vehículos de alquiler que cumplan con todas nuestras exigencias obligatorias y deseadas. Sin embargo, una evaluación previa permitirá identificar a aquellos que se aproximen más a nuestros criterios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where it is known that a project will involve working in areas where transport standards may be compromised this should be addressed through the risk assessment process early in the project planning process.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T123659Z" creationid="hcartagena" creationdate="20140826T123659Z">
+        <seg>Cuando se sepa que un proyecto implica trabajar en lugares donde no puedan respetarse a cabalidad las normas de transporte, esto debe canalizarse a través del proceso de evaluación de riesgos tempranamente en el proceso de planificación del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The use of Private Vehicles for Work Purposes</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T123734Z" creationid="hcartagena" creationdate="20140826T123713Z">
+        <seg>Uso de vehículos particulares para fines laborales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees may elect to use private vehicles for work purposes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T123729Z" creationid="hcartagena" creationdate="20140826T123729Z">
+        <seg>Los colaboradores pueden optar por usar vehículos particulares para fines laborales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees are compensated on a monetary amount/per unit distance travelled basis to cover a variety of costs associated with work use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171056Z" creationid="hcartagena" creationdate="20140826T123827Z">
+        <seg>Se compensará monetariamente por unidad de distancia recorrida a estos para cubrir los diversos costos asociados con el uso laboral de sus vehículos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Private vehicles should only be used for work purposes which relate to low risk tasks such as visiting clients and driving on sealed roads.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T130807Z" creationid="hcartagena" creationdate="20140826T130807Z">
+        <seg>Solo deben usarse vehículos particulares para fines laborales que se relacionen con tareas de bajo riesgo como visitar a clientes y conducir en caminos pavimentados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Field work should not be undertaken in private vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T131243Z" creationid="hcartagena" creationdate="20140826T131243Z">
+        <seg>No se deben ejecutar labores de campo en vehículos particulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cargo Carrying</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T131252Z" creationid="hcartagena" creationdate="20140826T131252Z">
+        <seg>Transporte de carga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The mode of transport should be suitable for the loads carried and should have adequate anchor points to ensure that loads can be adequately secured.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144121Z" creationid="hcartagena" creationdate="20140826T131333Z">
+        <seg>El medio de transporte debe ser apto para las cargas que transporta y debe tener puntos de anclaje suficientes para asegurarse de que puedan sujetarse las cargas correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees considering transporting dangerous goods should seek expert advice before proceeding.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T131359Z" creationid="hcartagena" creationdate="20140826T131359Z">
+        <seg>Los colaboradores que contemplen el transporte de artículos peligrosos deben procurar asesorarse por un experto antes de proceder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Prior to carrying cargo in any mode of transport an assessment should be undertaken.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144122Z" creationid="hcartagena" creationdate="20140826T131415Z">
+        <seg>Antes de transportar carga en cualquier medio de transporte, debe llevarse a cabo una evaluación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Trailering / Towing</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T132122Z" creationid="hcartagena" creationdate="20140826T132122Z">
+        <seg>Remolque</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Towing requires more skill and effort than normal driving and may require specific training and levels of competence prior to undertaking towing for work operations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171209Z" creationid="hcartagena" creationdate="20140826T132259Z">
+        <seg>En las operaciones de remolque es necesario ejercer mayor habilidad y esfuerzo que en la conducción normal y puede necesitarse capacitación específica y contar con niveles de competencia previos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Training should include how to choose the correct tow vehicle, load trailers for tongue/nose weight and securing the load.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171224Z" creationid="hcartagena" creationdate="20140826T135539Z">
+        <seg>La capacitación debe incluir la manera de elegir el vehículo de remolque correcto, la manera de balancear la carga en el remolque y la manera de sujetarla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pre-use Checks and Inspections</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T140227Z" creationid="hcartagena" creationdate="20140826T140227Z">
+        <seg>Revisiones e inspecciones antes del uso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Modes of transport should have a visual inspection prior to each use to check their safe condition.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144123Z" creationid="hcartagena" creationdate="20140826T140259Z">
+        <seg>Se debe hacer una inspección visual a los medios de transporte antes de cada uso para verificar que su condición sea segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The easiest way to do this is to develop a checklist specific to the mode of transport which can be completed by the operator.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T144123Z" creationid="hcartagena" creationdate="20140826T140503Z">
+        <seg>Lo más fácil es que el operador use una lista de cotejo elaborada específicamente para el medio de transporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintenance / S&lt;t1/&gt;ervicing</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T140515Z" creationid="hcartagena" creationdate="20140826T140515Z">
+        <seg>Mantenimiento y s&lt;t1/&gt;ervicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Well maintained vehicles are safer, more reliable, run more efficiently and thereby emit the least amount of emissions for a given vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T140944Z" creationid="hcartagena" creationdate="20140826T140944Z">
+        <seg>Los vehículos bien mantenidos son más seguros, más confiables, más eficientes y generan menos emisiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Management of vehicle maintenance should be developed through research and consultation with the requirements of vehicle manufacturer or recommendations from qualified vehicle mechanics.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T144604Z" creationid="hcartagena" creationdate="20140826T144604Z">
+        <seg>El manejo del mantenimiento de vehículos debe desarrollarse mediante investigación y consulta de los requisitos o las recomendaciones del fabricante con mecánicos de vehículos calificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All service, maintenance and repair work should be completed by a qualified and approved provider.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T144630Z" creationid="hcartagena" creationdate="20140826T144630Z">
+        <seg>Todo el trabajo de servicio, mantenimiento y reparación debe ser efectuado por un proveedor calificado y autorizado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Defective vehicles must be removed from service immediately and remain out of service until the defects are corrected.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171315Z" creationid="hcartagena" creationdate="20140826T144740Z">
+        <seg>Los vehículos defectuosos deben retirarse de servicio de inmediato y permanecer fuera de servicio hasta que sus defectos hayan sido corregidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Equipment or systems needed for safe operation must not be knowingly disabled.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T144813Z" creationid="hcartagena" creationdate="20140826T144813Z">
+        <seg>No se deben deshabilitar a sabiendas los equipos o sistemas necesarios para una operación segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Personal Safety Devices and Equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T144827Z" creationid="hcartagena" creationdate="20140826T144827Z">
+        <seg>Dispositivos y equipos de seguridad personal</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Seat belt use is mandatory.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171450Z" creationid="hcartagena" creationdate="20140826T144838Z">
+        <seg>El uso del cinturón de seguridad es obligatorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where fitted, seat belts or restraining harnesses shall be worn by operators and passengers whilst the vehicle is in motion.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171524Z" creationid="hcartagena" creationdate="20140826T145159Z">
+        <seg>Mientras el vehículo esté en movimiento, los operadores y pasajeros deben usar cinturón o arnés de seguridad, si el vehículo está equipado con este último.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This requirement may be excepted when a person has a specified medical condition and can demonstrate this through a medical certificate.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T145403Z" creationid="hcartagena" creationdate="20140826T145403Z">
+        <seg>La sola excepción a este requisito es si la persona tiene una afección específica que pueda demostrar con un certificado médico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some modes of transport may require the operator and passengers to wear specific personal protective equipment (PPE) e.g. motorcycles, marine vessels, horse riding.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171605Z" creationid="hcartagena" creationdate="20140826T145507Z">
+        <seg>Algunos medios de transporte pueden requerir que el operador y los pasajeros usen equipo de protección personal (EPP) específico, como es el caso de motocicletas, embarcaciones y la cabalgata.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Appropriate PPE shall be worn as required by local legislation, the mode of transport manufacturer’s instructions or through risk assessment; whichever specifies the more protective standard.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171853Z" creationid="hcartagena" creationdate="20140826T145628Z">
+        <seg>El EPP correspondiente debe usarse de conformidad con la norma de protección más exigente especificada ya sea por la legislación local, las instrucciones del fabricante del medio de transporte o una evaluación de riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The requirement for PPE, including training needs, should be included in the pre-use assessment of the mode of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171913Z" creationid="hcartagena" creationdate="20140826T145658Z">
+        <seg>El requisito de usar EPP, así como la necesidad de capacitación, debe incluirse en la evaluación previa al uso del medio de transporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where PPE is required this must meet local regulatory standards, be sized and fitted correctly and worn at all times required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T171948Z" creationid="hcartagena" creationdate="20140826T150648Z">
+        <seg>Si se requiere usar EPP, este debe cumplir con las normas locales, tener el tamaño y la talla correctos y usarse en todo momento que sea exigido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T150652Z" creationid="hcartagena" creationdate="20140826T150652Z">
+        <seg>Equipos de emergencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All modes of transport, including private vehicles used for Golder business, should contain safety and emergency equipment applicable to the risk.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172012Z" creationid="hcartagena" creationdate="20140826T150734Z">
+        <seg>Todos los medios de transporte, inclusive los vehículos particulares usados para actividades de Golder, deben contener equipos de seguridad y emergencia equiparables al riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identification of suitable safety and emergency equipment should form part of the journey management assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172028Z" creationid="hcartagena" creationdate="20140826T150755Z">
+        <seg>La identificación del equipo de seguridad y emergencia adecuado debe ser parte de la evaluación del manejo de viajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing the Route</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T150800Z" creationid="hcartagena" creationdate="20140826T150800Z">
+        <seg>Evaluación de la ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessment of the route should include where possible:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T151020Z" creationid="hcartagena" creationdate="20140826T150820Z">
+        <seg>Siempre que sea posible, la evaluación de la ruta debe contemplar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>identifying a secondary route;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172051Z" creationid="hcartagena" creationdate="20140826T150831Z">
+        <seg>Identificación de una ruta secundaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the suitability of the route for the intended mode of transport e.g. the use of heavy vehicles on minor roads or only using four-wheel drive vehicles off-road;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172107Z" creationid="hcartagena" creationdate="20140826T151210Z">
+        <seg>Idoneidad de la ruta para el medio de transporte previsto (por ejemplo, uso de vehículos pesados en caminos menores o solo uso de vehículos 4x4 fuera de carretera)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>physical hazards along the route and their impact on various modes of transport e.g. bridges (low height or limited load ratings), tunnels (height and width), level crossings (road vehicles, particularly motorcycles), tight turns (long vehicles), adequate traffic separation, pedestrian traffic controlled, school zones etc;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172323Z" creationid="hcartagena" creationdate="20140826T152426Z">
+        <seg>Peligros físicos a lo largo de la ruta y su impacto en diversos medios de transporte (por ejemplo, puentes [baja altura o capacidades de carga limitadas], túneles [alto y ancho], cruces a nivel [vehículos terrestres, sobre todo motocicletas], curvas cerradas [vehículos largos], separación suficiente del tráfico, control del tráfico de peatones, zonas de escuela, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>potential for encounters with flora, fauna or;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172331Z" creationid="hcartagena" creationdate="20140826T153557Z">
+        <seg>Potencial de encontrarse con flora o fauna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>travel through areas of &lt;t1/&gt;environmental or heritage significance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172334Z" creationid="hcartagena" creationdate="20140826T153608Z">
+        <seg>Viajes por áreas de &lt;t1/&gt;importancia ambiental o patrimonial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other useful data includes the history of the route including crash statistics and traffic density / composition; however this information may be difficult to obtain.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172350Z" creationid="hcartagena" creationdate="20140826T153659Z">
+        <seg>Otros datos útiles son el historial de la ruta con las estadísticas de accidentes y densidad/composición del tráfico. Sin embargo, esta información puede ser difícil de obtener.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Site Traffic Standards</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T153705Z" creationid="hcartagena" creationdate="20140826T153705Z">
+        <seg>Normas de tránsito en sitios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Client sites may have vehicle operation requirements and hazards that are very different from those normally encountered in public driving, such as: poor visibility, congested conditions, left or right side driving that is location specific, operation of heavy vehicles around each other and proximity of light vehicles to heavy vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172457Z" creationid="hcartagena" creationdate="20140826T153817Z">
+        <seg>Los sitios de clientes pueden tener requisitos de operación de vehículos y peligros muy distintos de los que se encuentran normalmente en caminos públicos, a saber, mala visibilidad, congestión, conducción a la izquierda o derecha según el lugar, operación de vehículos pesados en las cercanías y proximidad entre vehículos livianos y pesados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Establishing clear traffic procedures, communicating those procedures in training and by signage, and ensuring that the procedures are followed is essential to safe operation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172643Z" creationid="hcartagena" creationdate="20140826T153856Z">
+        <seg>Para una operación segura es esencial establecer procedimientos claros de tránsito y que estos se comuniquen con capacitaciones y señalética y se debe garantizar el respeto de estos procedimientos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel Scheduling</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T153901Z" creationid="hcartagena" creationdate="20140826T153901Z">
+        <seg>Programación de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessment of routes should also include the distance to be travelled and the proposed schedule and timing of the journey.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T172730Z" creationid="hcartagena" creationdate="20140826T153952Z">
+        <seg>La evaluación de rutas también debe incluir la distancia a recorrer y la propuesta de cronograma y tiempos del viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Long distance driving alone and driving overnight should be avoided where possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T173540Z" creationid="hcartagena" creationdate="20140826T154021Z">
+        <seg>De ser posible, se debe evitar conducir solo y de noche en distancias largas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contact persons</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154026Z" creationid="hcartagena" creationdate="20140826T154026Z">
+        <seg>Personas de contacto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The journey management plan should identify a check in process.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154535Z" creationid="hcartagena" creationdate="20140826T154039Z">
+        <seg>El plan de manejo de viajes debe incluir un proceso de chequeo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The HaSEP system contains a check in process which may be used if applicable to the intended journey or a journey specific process may be developed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154604Z" creationid="hcartagena" creationdate="20140826T154503Z">
+        <seg>El sistema HaSEP contiene un proceso de chequeo que puede usarse si es pertinente al viaje previsto o se puede elaborar un proceso específico para el viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The schedule for check-in will change depending on the assessment of the hazards in the journey but should, as a minimum include pre-departure and on-arrival contact.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T173756Z" creationid="hcartagena" creationdate="20140826T154634Z">
+        <seg>El cronograma para el chequeo cambiará según la evaluación de los peligros en el viaje, pero debe contemplar, como mínimo, contactarse antes de la salida y a la llegada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where rest stops are required in the journey, contact at those points should be considered as well as at significant points in the journey e.g. when leaving a main road to head off-road, when entering and leaving known communication ‘black-spots’ and before deviating from a pre-arranged route.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T173908Z" creationid="hcartagena" creationdate="20140826T154814Z">
+        <seg>Si el viaje requiere hacer paradas de descanso, debe tenerse en cuenta hacer contacto en esos puntos, así como en puntos importantes en el viaje como al salir de un camino para dirigirse a campo traviesa, al ingresar y salir de zonas de las que se sabe que no tienen señal de comunicaciones y antes de desviarse de una ruta prefijada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Weather forecasts for the travel route(s)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154840Z" creationid="hcartagena" creationdate="20140826T154840Z">
+        <seg>Pronósticos del tiempo para las rutas del viaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Weather conditions for the route should form part of the assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154904Z" creationid="hcartagena" creationdate="20140826T154904Z">
+        <seg>Se debe incluir en la evaluación las condiciones climáticas de la ruta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Adverse weather can result in delays to travel with subsequent loss of project time and money.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T154932Z" creationid="hcartagena" creationdate="20140826T154932Z">
+        <seg>El clima adverso puede significar retrasos en el viaje con la posterior pérdida de tiempo y dinero del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the worst case scenario severe weather conditions can create life threatening conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T173946Z" creationid="hcartagena" creationdate="20140826T155004Z">
+        <seg>En el peor de los casos, las malas condiciones del tiempo pueden crear situaciones que ponen en riesgo la vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency response planning</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T155011Z" creationid="hcartagena" creationdate="20140826T155011Z">
+        <seg>Planificación de la respuesta a emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An emergency response plan shall be developed for high risk journeys and should be considered as part of the planning for all journeys.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174006Z" creationid="hcartagena" creationdate="20140826T155038Z">
+        <seg>Se debe elaborar un plan de respuesta a emergencias para viajes de alto riesgo y este debe considerarse como parte de la planificación de todos los viajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;t1/&gt;The emergency plan must be communicated to the operator and passengers prior to commencing the journey.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T155101Z" creationid="hcartagena" creationdate="20140826T155101Z">
+        <seg>&lt;t1/&gt;El plan de emergencia debe comunicarse al operador y a los pasajeros antes de iniciarse el viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency plans should be commensurate with the identified risks and may be a dedicated plan or form part of the HaSEP.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174027Z" creationid="hcartagena" creationdate="20140826T161020Z">
+        <seg>Los planes de emergencia deben equipararse a los riesgos identificados y pueden tratarse de un plan dedicado o formar parte del HaSEP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The emergency plan should include environmental controls in the event of spills or loss of containment of harmful substances e.g. fuel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T161047Z" creationid="hcartagena" creationdate="20140826T161047Z">
+        <seg>El plan de emergencia debe contemplar controles ambientales en caso de derrames o pérdida de contención de sustancias peligrosas tales como combustibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Record&lt;t1/&gt;s</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T161051Z" creationid="hcartagena" creationdate="20140826T161051Z">
+        <seg>Registro&lt;t1/&gt;s</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Records pertaining to the following should be retained:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174047Z" creationid="hcartagena" creationdate="20140826T161112Z">
+        <seg>Deben mantenerse registros con respecto a lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operator qualifications and limits on types or areas of operation of modes of transport e.g. an employee may be qualified to operate a light vehicle on the road but not off-road.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174121Z" creationid="hcartagena" creationdate="20140826T162021Z">
+        <seg>Calificaciones del operador y límites en los tipos de áreas de operación de los medios de transporte (por ejemplo, un colaborador puede estar calificado para operar un vehículo liviano en carretera pero no fuera de ella)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Competency training requirements for the modes of transport that employees operate and the activities they perform while in those modes of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174213Z" creationid="hcartagena" creationdate="20140826T162052Z">
+        <seg>Requisitos de capacitación en las competencias necesarias para los medios de transporte operados por los colaboradores y en las actividades que ejecuten mientras se encuentren en esos medios de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An inspection system for Golder-owned or leased modes of transport that addresses pre-use inspection requirements and periodic maintenance standards including scheduling, documentation and user notification and information.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174403Z" creationid="hcartagena" creationdate="20140826T162719Z">
+        <seg>Un sistema de inspección para medios de transporte que pertenezcan a Golder o sean alquilados por este y que contemple requisitos de inspección antes del uso, así como normas de mantenimiento periódico que contemplen su programación y documentación y la notificación e información a los usuarios</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mode of transport registration/certification renewal dates.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174407Z" creationid="hcartagena" creationdate="20140826T162822Z">
+        <seg>Fechas de renovación de registros o certificados de los medios de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Op-Cos may decide to undertake benchmarking exercises on work related journey performance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174424Z" creationid="hcartagena" creationdate="20140826T162856Z">
+        <seg>Las Operaciones pueden decidir hacer ejercicios de comparación sobre el desempeño en viajes de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>useful links</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T162904Z" creationid="hcartagena" creationdate="20140826T162904Z">
+        <seg>Enlaces útiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>GP6: Management of Health and Safety</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174438Z" creationid="hcartagena" creationdate="20140826T162909Z">
+        <seg>GP6: gestión de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>GP5: Management of Environmental Issues.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T174442Z" creationid="hcartagena" creationdate="20140826T162914Z">
+        <seg>GP5: gestión de aspectos ambientales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Health and Safety, Environmental Plan (HaSEP)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T162936Z" creationid="hcartagena" creationdate="20140826T162936Z">
+        <seg>Plan de Salud, Seguridad y Medio Ambiente (HaSEP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue and FFD Risk Assessment Form</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135613Z" creationid="hcartagena" creationdate="20140826T163233Z">
+        <seg>Formulario de evaluación de riesgo de fatiga y aptitud para las labores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>UN Recommendations on the Transport of Dangerous Goods.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T163248Z" creationid="hcartagena" creationdate="20140826T163248Z">
+        <seg>Recomendaciones de la ONU sobre transporte de mercancías peligrosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travelling With Golder (website, when developed)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T163311Z" creationid="hcartagena" creationdate="20140826T163311Z">
+        <seg>Travelling With Golder (sitio web, cuando esté disponible)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>World Health Organization Road Safety Statistics &lt;t1/&gt;http://www.who.int/gho/road_safety/en/index.html</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T163555Z" creationid="hcartagena" creationdate="20140826T163555Z">
+        <seg>Estadísticas de seguridad en caminos de la OMS (en inglés) &lt;t1/&gt;http://www.who.int/gho/road_safety/en/index.html</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Canada</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140605T115627Z" creationid="hcartagena" creationdate="20140605T115627Z">
+        <seg>Canadá</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>health and safety toolkit</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T111926Z" creationid="hcartagena" creationdate="20140826T111926Z">
+        <seg>Kit de herramientas de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Planning</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140825T122215Z" creationid="hcartagena" creationdate="20140819T122541Z">
+        <seg>Planificación del manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>January 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Enero 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>January 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Enero 2014</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

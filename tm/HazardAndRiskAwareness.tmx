@@ -1,0 +1,1181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>(There should be similarities because we are identifying,&lt;t0/&gt; assessing, controlling and reviewing hazards)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184424Z" creationid="hcartagena" creationdate="20160913T184424Z">
+        <seg>(Debería haber similitudes ya que estamos identificando, evaluando, controlando y revisando peligros.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>(This exercise can be done on a whiteboard or using the Template Risk Assessment form – copy for each employee)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T175857Z" creationid="hcartagena" creationdate="20160913T175334Z">
+        <seg>(Este ejercicio puede hacerse con un pizarrón o con el formulario plantilla de evaluación de riesgos, con una copia para cada colaborador)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160323T184244Z" creationid="hcartagena" creationdate="20160323T184244Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t0/&gt;Watch the &lt;t1/&gt;Video (from 2.24)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174802Z" creationid="hcartagena" creationdate="20160913T174802Z">
+        <seg>&lt;t0/&gt;Ver el &lt;t1/&gt;video (desde 2:24)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A &lt;t0/&gt;source or situation or act with a potential for harm in terms of human injury or ill-health, damage to property, damage to the environment, or a combination of these.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173129Z" creationid="hcartagena" creationdate="20160913T173129Z">
+        <seg>Una fuente, situación o acción con potencial para causar daño en términos de lesiones, deterioro de la salud, daño a la propiedad, daño al medio ambiente o una combinación de estos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A HaSEP is produced prior to any fieldwork.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174609Z" creationid="hcartagena" creationdate="20160913T174609Z">
+        <seg>Un HaSEP se elabora antes de cualquier trabajo en terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A risk management approach &lt;t0/&gt;is taken in order to identify all &lt;t1/&gt;foreseeable hazards, analyse &lt;t2/&gt;and implement suitable control &lt;t3/&gt;measures to mitigate the risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174730Z" creationid="hcartagena" creationdate="20160913T174730Z">
+        <seg>Se adopta un método de gestión de riesgos para identificar todos los peligros previsibles y para analizar e implementar medidas de control adecuadas para mitigar el riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acutely Hazardous Substances and Atmospheres</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171454Z" creationid="hcartagena" creationdate="20160913T171454Z">
+        <seg>Sustancias o atmósferas muy peligrosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All personnel (employees and contractors) must attend the pre-start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T175400Z" creationid="hcartagena" creationdate="20160913T175012Z">
+        <seg>Todo el personal (colaboradores y contratistas) deben asistir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All visitors must be taken through and sign onto the pre-start</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T175146Z" creationid="hcartagena" creationdate="20160913T175146Z">
+        <seg>Todos los visitantes deben recibir la inducción de seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All workers completed the required Client inductions?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164058Z" creationid="hcartagena" creationdate="20160913T164058Z">
+        <seg>¿Recibieron todos los trabajadores las correspondientes inducciones del cliente?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All workers fit for duty?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164016Z" creationid="hcartagena" creationdate="20160913T164016Z">
+        <seg>¿Están todos los trabajadores aptos para las labores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All workers have the required PPE?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164124Z" creationid="hcartagena" creationdate="20160913T164124Z">
+        <seg>¿Tienen todos los trabajadores el EPP necesario?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All workers hold the necessary competencies?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164110Z" creationid="hcartagena" creationdate="20160913T164110Z">
+        <seg>¿Tienen todos los trabajadores las competencias necesarias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always check the risk rating after &lt;t0/&gt;implementing control measures to &lt;t1/&gt;make sure the risk level has reduced &lt;t2/&gt;and the task / areas has been made &lt;t3/&gt;safer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173259Z" creationid="hcartagena" creationdate="20160913T173259Z">
+        <seg>Siempre verifica la calificación de riesgo después de implementar medidas de control para asegurarse de que se haya reducido el nivel de riesgo y que la tarea o área se haya vuelto más segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Answer: Get the drillers to highlight the gutter and other uneven surfaces with yellow / pink / green spray paint so the trip hazard is visible.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185033Z" creationid="hcartagena" creationdate="20160913T185033Z">
+        <seg>Respuesta: Hacer que los perforistas resalten la cuneta y otras superficies disparejas con pintura amarilla rosa o verde en aerosol para que el peligro de tropiezo sea visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Answer: Yes&lt;t0/&gt;   (Consider the fact that the black plastic, installed to minimise environmental incidents and protect the street scape is creating a slip and trip hazard for our employees.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185055Z" creationid="hcartagena" creationdate="20160913T184823Z">
+        <seg>Respuesta: Sí&lt;t0/&gt;   (Considera el hecho de que el plástico negro instalado para minimizar incidentes ambientales y proteger la calle ha creado un peligro de resbalo y tropiezo para nuestros colaboradores,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are there any actual or suspected contaminants?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170445Z" creationid="hcartagena" creationdate="20160913T170445Z">
+        <seg>¿Hay o podría haber presencia de contaminantes?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are there any environmental or heritage issues?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170548Z" creationid="hcartagena" creationdate="20160913T170548Z">
+        <seg>¿Hay aspectos ambientales o de patrimonio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are there any other risks?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170555Z" creationid="hcartagena" creationdate="20160913T170555Z">
+        <seg>¿Hay otros riesgos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are there fatal risks present on site?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215052Z" creationid="hcartagena" creationdate="20160428T215052Z">
+        <seg>¿Hay riesgos fatales en el sitio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are there unprotected or unstable excavations?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170336Z" creationid="hcartagena" creationdate="20160913T170336Z">
+        <seg>¿Hay excavaciones desprotegidas o inestables?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are underground or overhead services present?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170319Z" creationid="hcartagena" creationdate="20160913T170319Z">
+        <seg>¿Hay servicios enterrados o tendido eléctrico?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are unsure of the way to manage risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171420Z" creationid="hcartagena" creationdate="20160913T171420Z">
+        <seg>no estás seguro de la manera de manejar el riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Area free from hazards created by the works?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171944Z" creationid="hcartagena" creationdate="20160913T171944Z">
+        <seg>¿Está el área libre de los peligros originados por los trabajos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ask: Why is&lt;t0/&gt; it important to identify and mitigate hazards?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T175228Z" creationid="hcartagena" creationdate="20160913T175228Z">
+        <seg>Pregunta: ¿Por qué es importante identificar y mitigar los peligros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Attendee</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171717Z" creationid="hcartagena" creationdate="20160913T171717Z">
+        <seg>Asistente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Believe a HSSE risk is not adequately controlled or mitigated.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171411Z" creationid="hcartagena" creationdate="20160913T171411Z">
+        <seg>crees que no se ha controlado o mitigado suficientemente un riesgo de HSSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Both test sites are for one project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182255Z" creationid="hcartagena" creationdate="20160913T182255Z">
+        <seg>Ambos corresponden a un solo proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CLICK animation – Pre-start / JSEA is completed at each site to understand and control the site specific hazards.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185152Z" creationid="hcartagena" creationdate="20160913T183500Z">
+        <seg>Haz clic para activar la animación: se hace la reunión de seguridad previa o JSEA en cada sitio para entender y controlar los peligros específicos del sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CLICK animation – after lunch the weather changes and storm clouds roll in.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185159Z" creationid="hcartagena" creationdate="20160913T183519Z">
+        <seg>Haz clic para activar la animación: después de almuerzo, el clima cambia y aparecen nubes de tormenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CLICK animation – shows one WMS for the same task across different sites</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185148Z" creationid="hcartagena" creationdate="20160913T183408Z">
+        <seg>Haz clic para activar la animación: se muestra un WMS para la misma tarea en sitios distintos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CLICK animation – town is framed by HaSEP</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185144Z" creationid="hcartagena" creationdate="20160913T183347Z">
+        <seg>Haz clic para activar la animación: la ciudad está enmarcada en el HaSEP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>CLICK animation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185135Z" creationid="hcartagena" creationdate="20160913T182300Z">
+        <seg>Haz clic para activar la animación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Click for animation -</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185115Z" creationid="hcartagena" creationdate="20160913T185115Z">
+        <seg>Haz clic para activar la animación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Consider the photo… you are the field engineer onsite, standing where the photographer is, do you need to cease work and Take 5?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184508Z" creationid="hcartagena" creationdate="20160913T184508Z">
+        <seg>Contempla la imagen. Si eres el ingeniero de terreno que está parado donde está quien tomó la fotografía, ¿necesitas parar y usar el Take 5?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Daily Tasking</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171233Z" creationid="hcartagena" creationdate="20160913T171233Z">
+        <seg>Tareas diarias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Daily pre-start must be conducted at the &lt;t0/&gt;start of each shift and throughout the shift to assist in re-focusing the work group.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174956Z" creationid="hcartagena" creationdate="20160913T174956Z">
+        <seg>La reunión de seguridad previa debe celebrarse al inicio de cada turno y durante el turno para ayudar a reenfocar al grupo de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163736Z" creationid="hcartagena" creationdate="20160913T163736Z">
+        <seg>Fecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discuss and ask how this Take 5 process is similar to the risk assessment process we conducted earlier?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184346Z" creationid="hcartagena" creationdate="20160913T184346Z">
+        <seg>Pregunta en qué se parece el proceso Take 5 al proceso de evaluación de riesgos que hicimos antes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Discuss the Take 5 process as per the card image.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184312Z" creationid="hcartagena" creationdate="20160913T184312Z">
+        <seg>Analiza el proceso Take 5 usando la imagen de la tarjeta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not hold the necessary competency to manage the risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171433Z" creationid="hcartagena" creationdate="20160913T171433Z">
+        <seg>no tienes las competencias necesarias para manejar el riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Does the task involve lifting, pushing or pulling a load?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170510Z" creationid="hcartagena" creationdate="20160913T170510Z">
+        <seg>¿La tarea implica izar, empujar o tirar de una carga?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Does the task involve using chemicals?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170400Z" creationid="hcartagena" creationdate="20160913T170400Z">
+        <seg>¿La tarea implica usar químicos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Driving</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214333Z" creationid="hcartagena" creationdate="20160428T214333Z">
+        <seg>Conducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emergency Plans</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174856Z" creationid="hcartagena" creationdate="20160913T174856Z">
+        <seg>Planes de emergencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Emergency response equipment easily accessible?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164822Z" creationid="hcartagena" creationdate="20160913T164822Z">
+        <seg>¿Es fácil el acceso al equipo de respuesta a emergencias?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure all Learnings are recorded in the Learnings Database as soon as possible.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T172045Z" creationid="hcartagena" creationdate="20160913T172045Z">
+        <seg>Ocúpate de que los Learnings sean registrados en la Learnings Database lo antes posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Environmental controls installed &amp; maintained?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164859Z" creationid="hcartagena" creationdate="20160913T164859Z">
+        <seg>¿Hay controles ambientales instalados? ¿Reciben mantenimiento?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equipment and materials removed or secured?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171759Z" creationid="hcartagena" creationdate="20160913T171759Z">
+        <seg>¿Se retiraron o sujetaron los equipos y materiales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Equipment, Material &amp; Logistical Issues</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171250Z" creationid="hcartagena" creationdate="20160913T171250Z">
+        <seg>Temas sobre equipos materiales y logística</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Especially with the black plastic covering the gutter, a step down)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184924Z" creationid="hcartagena" creationdate="20160913T184924Z">
+        <seg>sobre todo cuando el plástico negro cubre la cuneta, que representa un escalón.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>FATAL RISK CONTROLS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171439Z" creationid="hcartagena" creationdate="20160913T171439Z">
+        <seg>CONTROLES DE RIESGOS FATALES</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fitness for Duty</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174902Z" creationid="hcartagena" creationdate="20160913T174902Z">
+        <seg>Aptitud para las labores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Golder's &lt;t0/&gt;Fatal Risk Controls&lt;t1/&gt; - b&lt;t2/&gt;e aware&lt;t3/&gt; of your own legislative requirements and client requirements.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184047Z" creationid="hcartagena" creationdate="20160913T184047Z">
+        <seg>Controles de Riesgos Fatales de Golder: tener presente la legislación local y los requisitos del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ground Stability</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214509Z" creationid="hcartagena" creationdate="20160428T214509Z">
+        <seg>Estabilidad del terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HSE issues created by other work&lt;t0/&gt;occurring in the area</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174921Z" creationid="hcartagena" creationdate="20160913T174921Z">
+        <seg>Aspectos de HSE originados por otros trabajos en el área</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HSSE Moment / Learnings</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171221Z" creationid="hcartagena" creationdate="20160913T171221Z">
+        <seg>Momento de HSSE / Learnings</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HaSEP been communicated to workers?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163928Z" creationid="hcartagena" creationdate="20160913T163928Z">
+        <seg>¿Se comunicó el HaSEP a los trabajadores?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Has new plant or equipment been introduced?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T165211Z" creationid="hcartagena" creationdate="20160913T165211Z">
+        <seg>¿Se han incorporado instalaciones o equipos nuevos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have the weather/ground conditions changed?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164925Z" creationid="hcartagena" creationdate="20160913T164925Z">
+        <seg>¿Han cambiado las condiciones del clima/terreno?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hazard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173055Z" creationid="hcartagena" creationdate="20160913T173055Z">
+        <seg>Peligro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hazard identification and control</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173150Z" creationid="hcartagena" creationdate="20160913T173150Z">
+        <seg>Identificación y control de peligros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hazard vs Risk… what’s the difference?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173029Z" creationid="hcartagena" creationdate="20160913T173029Z">
+        <seg>Peligro, riesgo... ¿cuál es la diferencia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hazards</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171458Z" creationid="hcartagena" creationdate="20160913T171458Z">
+        <seg>Peligros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Health and Safety, Environment Plan (HaSEP&lt;t0/&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174558Z" creationid="hcartagena" creationdate="20160913T174558Z">
+        <seg>Plan de Salud, Seguridad y Medio Ambiente (HaSEP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Health, Safety &amp; Environment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T172931Z" creationid="hcartagena" creationdate="20160913T172931Z">
+        <seg>Salud, Seguridad y Medio Ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do we control hazards?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173212Z" creationid="hcartagena" creationdate="20160913T173212Z">
+        <seg>¿Cómo controlamos los peligros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do we control these hazards?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T181550Z" creationid="hcartagena" creationdate="20160913T181550Z">
+        <seg>¿Cómo controlamos estos peligros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How do you develop a HaSEP?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174738Z" creationid="hcartagena" creationdate="20160913T174738Z">
+        <seg>¿Cómo se elabora un HaSEP?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184358Z" creationid="hcartagena" creationdate="20160913T184358Z">
+        <seg>¿En qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IDENTIFY</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163330Z" creationid="hcartagena" creationdate="20160913T163330Z">
+        <seg>IDENTIFICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identify factors that could result in injury, property damage or environmental harm.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163353Z" creationid="hcartagena" creationdate="20160913T163353Z">
+        <seg>Identifica los factores que podrían provocar lesiones, daños a la propiedad o daño ambiental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If risks cannot be controlled STOP and notify your Project Manager.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171700Z" creationid="hcartagena" creationdate="20160913T171700Z">
+        <seg>So no se pueden controlar los riesgos, PARA y avisa al Gerente de Proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In this&lt;t0/&gt; familiar town, you will go from home to two test sites.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182246Z" creationid="hcartagena" creationdate="20160913T182246Z">
+        <seg>En esta conocida ciudad, irás desde tu casa a dos sitios de prueba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is it similar?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184350Z" creationid="hcartagena" creationdate="20160913T184350Z">
+        <seg>¿Es similar?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is the workplace safe?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182149Z" creationid="hcartagena" creationdate="20160913T182149Z">
+        <seg>¿Es seguro el lugar de trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Is there any risk of fall?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170349Z" creationid="hcartagena" creationdate="20160913T170349Z">
+        <seg>¿Hay riesgo de caídas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>JOB SAFETY &amp; ENVIRONMENT ANALYSIS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163733Z" creationid="hcartagena" creationdate="20160913T163733Z">
+        <seg>ANÁLISIS AMBIENTAL Y DE SEGURIDAD LABORAL</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List any hazards</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171515Z" creationid="hcartagena" creationdate="20160913T171515Z">
+        <seg>Indica cualquier peligro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>List the control measures required to eliminate or minimise the risk arising from the identified hazards.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171639Z" creationid="hcartagena" creationdate="20160913T171639Z">
+        <seg>Indica las medidas de control necesarias para eliminar o minimizar el riesgo que surge de los peligros identificados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No job is so urgent that we cannot meet our HSSE responsibilities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171335Z" creationid="hcartagena" creationdate="20160913T171335Z">
+        <seg>Ningún trabajo es tan urgente que no podamos cumplir nuestras responsabilidades de HSSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On the white board – next to the risk ratings, write the control measures employees have identified using   the Hierarchy of control</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182117Z" creationid="hcartagena" creationdate="20160913T182117Z">
+        <seg>En el pizarrón, junto a las calificaciones de riesgo, escribe las medidas de control que los colaboradores identificaron usando la jerarquía de controles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Once discussing that HaSEPs are required for all fieldwork click&lt;t0/&gt; on the link and watch from 2.24 to 5.49 of the video.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184133Z" creationid="hcartagena" creationdate="20160913T184133Z">
+        <seg>Una vez analizada la necesidad del HaSEP para todo trabajo en terreno, haz clic en el enlace y mira desde el minuto 2:24 hasta el minuto 5:49 del video.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PLAN</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163406Z" creationid="hcartagena" creationdate="20160913T163406Z">
+        <seg>PLANIFICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PLAN – &lt;t0/&gt;if yes to the above, &lt;t1/&gt;record hazard &amp; risk controls overleaf</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171007Z" creationid="hcartagena" creationdate="20160913T171007Z">
+        <seg>PLANIFICA –&lt;t0/&gt;Si alguna respuesta fue afirmativa, &lt;t1/&gt;registra los controles de peligros y riesgos al dorso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PRE-START MEETING</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171041Z" creationid="hcartagena" creationdate="20160913T171041Z">
+        <seg>REUNIÓN PREVIA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PROCEED</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163419Z" creationid="hcartagena" creationdate="20160913T163419Z">
+        <seg>PROCEDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PROCEED –&lt;t0/&gt; &lt;t1/&gt;communicate and implement risk controls</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171032Z" creationid="hcartagena" creationdate="20160913T171032Z">
+        <seg>PROCEDE –&lt;t0/&gt; &lt;t1/&gt;comunica e implementa los controles de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Photograph taken of site on completion of works?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171956Z" creationid="hcartagena" creationdate="20160913T171956Z">
+        <seg>¿Se fotografió el sitio al concluir los trabajos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plan what needs to be done to manage the risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163415Z" creationid="hcartagena" creationdate="20160913T163415Z">
+        <seg>Planifica lo que debe hacerse para manejar el riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plant and tools in good repair &lt;t0/&gt;(incl. guarding &amp; emergency stop)&lt;t1/&gt;?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T165224Z" creationid="hcartagena" creationdate="20160913T164759Z">
+        <seg>¿Están en buen estado las instalaciones y las herramientas &lt;t0/&gt;(también las protecciones y la parada de emergencia)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-start / JSEA</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T183857Z" creationid="hcartagena" creationdate="20160913T173351Z">
+        <seg>Reunión de seguridad previa / JSEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Pre-start / JSEA (Toolbox) Meeting</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T183808Z" creationid="hcartagena" creationdate="20160913T174820Z">
+        <seg>Reunión de seguridad previa / JSEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Project:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163741Z" creationid="hcartagena" creationdate="20160913T163741Z">
+        <seg>Proyecto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put in place and communicate control measures (e.g. Toolbox Meeting).&lt;t0/&gt;Update HaSEP or Site Safety Plan.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163625Z" creationid="hcartagena" creationdate="20160913T163457Z">
+        <seg>Implementa y comunica las medidas de control (reuniones de seguridad previas, por ejemplo).&lt;t0/&gt;Actualiza el HaSEP o el Plan de Seguridad del sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Required Permits to Work been issued?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163945Z" creationid="hcartagena" creationdate="20160913T163945Z">
+        <seg>¿Se emitieron los permisos de trabajo requeridos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Risk</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173035Z" creationid="hcartagena" creationdate="20160913T173035Z">
+        <seg>Riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Risk Assessments</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173204Z" creationid="hcartagena" creationdate="20160913T173204Z">
+        <seg>Evaluaciones de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Risk Awareness</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T172918Z" creationid="hcartagena" creationdate="20160913T172918Z">
+        <seg>Conciencia de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Risk Control Measures</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171529Z" creationid="hcartagena" creationdate="20160913T171529Z">
+        <seg>Medidas de control de riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STOP</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163250Z" creationid="hcartagena" creationdate="20160913T163250Z">
+        <seg>PARA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STOP &lt;t0/&gt;– &lt;t1/&gt;take 5 minutes and 5 steps back</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163828Z" creationid="hcartagena" creationdate="20160913T163808Z">
+        <seg>PARA &lt;t0/&gt;– &lt;t1/&gt;Tómate 5 minutos y da 5 pasos atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Share tips e.g. remove not applicable sections and white space.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184249Z" creationid="hcartagena" creationdate="20160913T184249Z">
+        <seg>Menciona consejos como eliminar las secciones que no sean aplicables y el espacio en blanco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Signature</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171720Z" creationid="hcartagena" creationdate="20160913T171720Z">
+        <seg>Firma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site Closure Checklist</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171736Z" creationid="hcartagena" creationdate="20160913T171736Z">
+        <seg>Lista de cotejo de cierre del sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site Supervisor:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163752Z" creationid="hcartagena" creationdate="20160913T163752Z">
+        <seg>Supervisor de Terreno:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site conditions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174852Z" creationid="hcartagena" creationdate="20160913T174852Z">
+        <seg>Condiciones del sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Site restored to original condition (unless otherwise required)?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171927Z" creationid="hcartagena" creationdate="20160913T171927Z">
+        <seg>¿Se restituyó el sitio a su condición original? (Salvo que se indique lo contrario.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stop work here and take 5.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T183543Z" creationid="hcartagena" creationdate="20160913T183543Z">
+        <seg>Se detiene el trabajo y se usa el Take 5.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>THINK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163305Z" creationid="hcartagena" creationdate="20160913T163305Z">
+        <seg>PIENSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take 5: Take 5 minutes and 5 steps back</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T175205Z" creationid="hcartagena" creationdate="20160913T175205Z">
+        <seg>Take 5: tómate 5 minutos y da 5 pasos atrás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take 5’s and ceasing work can be simple and straight forward but do provide a level of protection to yourself and others.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T185257Z" creationid="hcartagena" creationdate="20160913T185257Z">
+        <seg>Los Take 5 y detener los trabajos pueden parecer algo simple y directo, pero de hecho ofrecen un nivel de protección a todos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take five minutes and five steps back</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163324Z" creationid="hcartagena" creationdate="20160913T163303Z">
+        <seg>Tómate cinco minutos y da cinco pasos atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Task:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163745Z" creationid="hcartagena" creationdate="20160913T163745Z">
+        <seg>Tarea:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The &lt;t0/&gt;combination of the likelihood of an occurrence of a hazardous event or exposure(s) and the severity of injury or ill health that can be caused by the event or exposure(s)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173051Z" creationid="hcartagena" creationdate="20160913T173051Z">
+        <seg>La combinación de la probabilidad de que ocurra un suceso o una exposición peligrosa y la gravedad de la lesión o deterioro de la salud que puede causar el suceso o la exposición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The daily pre-start meeting is an &lt;t0/&gt;opportunity to  discuss site issues e.g.:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174848Z" creationid="hcartagena" creationdate="20160913T174848Z">
+        <seg>La reunión de seguridad previa es una oportunidad para analizar los temas de terreno, por ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The hierarchy onsite</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173330Z" creationid="hcartagena" creationdate="20160913T173330Z">
+        <seg>La jerarquía en el sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The plan provides an assessment of the risk presented to all personnel, including contractors.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T174638Z" creationid="hcartagena" creationdate="20160913T174638Z">
+        <seg>El plan entrega una evaluación del riesgo al que se expone todo el personal, incluso los contratistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>These are your two test locations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182615Z" creationid="hcartagena" creationdate="20160913T182615Z">
+        <seg>Estos son los dos lugares de prueba.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Think through the task and consider the work environment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163322Z" creationid="hcartagena" creationdate="20160913T163322Z">
+        <seg>Piensa en la tarea y considera el entorno de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This process also follows our Take 5 approach, which we will talk about soon.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182213Z" creationid="hcartagena" creationdate="20160913T182213Z">
+        <seg>Este proceso también sigue nuestro método Take 5, del cual hablaremos pronto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Time:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163738Z" creationid="hcartagena" creationdate="20160913T163738Z">
+        <seg>Hora:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Update HaSEP if necessary.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171712Z" creationid="hcartagena" creationdate="20160913T171712Z">
+        <seg>Actualiza el HaSEP si es necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Use the take 5 form or complete a new pre-start / JSEA to ensure equipment is secured, work stops or continues etc.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T183846Z" creationid="hcartagena" creationdate="20160913T183641Z">
+        <seg>Con el formulario de Take 5 o con una nueva reunión de seguridad previa o JSEA se verifica que los equipos estén firmes, se detiene o prosigue con los trabajos, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Waste collected and removed or securely stored and labelled?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171850Z" creationid="hcartagena" creationdate="20160913T171850Z">
+        <seg>¿Se recogieron y eliminaron o se almacenaron de forma segura y etiquetaron los residuos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Watch the video and ask employees to identify the hazards while they are watching the video.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T175350Z" creationid="hcartagena" creationdate="20160913T175255Z">
+        <seg>Mira el video y pide a los colaboradores que identifiquen los peligros a medida que lo ven.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Weather &amp; Site Conditions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171229Z" creationid="hcartagena" creationdate="20160913T171229Z">
+        <seg>Condiciones del clima y del sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What action do you take?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T184931Z" creationid="hcartagena" creationdate="20160913T184931Z">
+        <seg>¿Qué acción tomas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When the video has finished, ask the new employees to list some hazards they saw in the video&lt;t0/&gt;Write the answers on a white board (Answers – moving plant, rotating parts when its set up, worker proximity to moving plant, working on a road, wet weather, sensitive receptors – spills etc.)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T181559Z" creationid="hcartagena" creationdate="20160913T175453Z">
+        <seg>Cuando haya terminado el video, pide a los colaboradores nuevos que indiquen algunos de los peligros que vieron en el video.&lt;t0/&gt;Escribe las respuestas en un pizarrón. (Las respuestas son: equipo móvil, piezas móviles cuando el equipo está montado, proximidad del trabajador al equipo móvil, trabajo sobre un camino, clima húmedo, receptores sensibles a derrames, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why do we identify and mitigate hazards?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T173200Z" creationid="hcartagena" creationdate="20160913T173200Z">
+        <seg>¿Por qué identificamos y mitigamos los peligros?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will there be interaction with plant or traffic?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T165305Z" creationid="hcartagena" creationdate="20160913T165305Z">
+        <seg>¿Habrá interacción con las instalaciones o el tráfico?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Will work exceed the fatigue guidelines?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T170522Z" creationid="hcartagena" creationdate="20160913T170522Z">
+        <seg>¿El trabajo excede las orientaciones sobre fatiga?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work area adequately delineated / protected?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164002Z" creationid="hcartagena" creationdate="20160913T164002Z">
+        <seg>¿Está delimitada/protegida adecuadamente el área de trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working around Heavy and Mobile Equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214304Z" creationid="hcartagena" creationdate="20160428T214225Z">
+        <seg>Trabajo alrededor de maquinaria móvil y pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working around Suspended Loads</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160901T225035Z" creationid="hcartagena" creationdate="20160901T225035Z">
+        <seg>Trabajo alrededor de cargas suspendidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working at Heights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214633Z" creationid="hcartagena" creationdate="20160428T214633Z">
+        <seg>Trabajo en altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Works location verified against technical instruction / map (GPS)?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163916Z" creationid="hcartagena" creationdate="20160913T163916Z">
+        <seg>¿Se verificó la ubicación de los trabajos en el instructivo técnico o mapa (GPS)?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>You have the authority and the responsibility to stop a task if you:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171353Z" creationid="hcartagena" creationdate="20160913T171353Z">
+        <seg>Tú tienes la autoridad y la responsabilidad de detener una tarea si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your HaSEP will cover the whole day.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182635Z" creationid="hcartagena" creationdate="20160913T182624Z">
+        <seg>El HaSEP cubrirá el día completo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your travel to / from home via a lab, service station to get ice, the office etc. and the site access and work information.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T183326Z" creationid="hcartagena" creationdate="20160913T183326Z">
+        <seg>el viaje de ida y vuelta a casa, al laboratorio, a la estación de servicio para conseguir hielo, a la oficina, etc. y la información de acceso al sitio y del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>a) Lets prioritise them by referring to the risk matrix in Section 37.0 of the HSE Field Guide&lt;t0/&gt;        Next to the answers, write the risk ratings the employees identified</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T181944Z" creationid="hcartagena" creationdate="20160913T181944Z">
+        <seg>a) Hay que priorizarlas de acuerdo con la matriz de riesgos en la Sección 37.0 de la Guía de Terreno de HSE&lt;t0/&gt;        Junto a las respuestas, escribe las calificaciones de riesgo que identificaron los colaboradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>b) What will we do to reduce these risk levels?&lt;t0/&gt;        Refer to Page 1 of the HSE Field Guide to discuss the hierarchy of control.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182049Z" creationid="hcartagena" creationdate="20160913T182049Z">
+        <seg>b) ¿Qué haremos para reducir estos niveles de riesgo?&lt;t0/&gt;        Revisa la página 1 de la Guía de Terreno de HSE para hablar de la jerarquía de controles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>c) Reassess the risk level to make sure our controls have actually worked.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T182136Z" creationid="hcartagena" creationdate="20160913T182136Z">
+        <seg>c) Reevalúa el nivel de riesgo para verificar que los controles hayan funcionado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>not already identified in HaSEP</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T171523Z" creationid="hcartagena" creationdate="20160913T171523Z">
+        <seg>que no haya sido identificado en el HaSEP</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+    <tu>
+      <prop type="file">Pre Start Job Safety and Environment Analysis.docx</prop>
+      <prop type="prev">3</prop>
+      <prop type="next">N</prop>
+      <tuv lang="EN">
+        <seg>Y</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T164909Z" creationid="hcartagena" creationdate="20160913T164909Z">
+        <seg>S</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

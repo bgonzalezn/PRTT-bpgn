@@ -1,0 +1,392 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">Global HSE Policy RL3 January 2015 track changes.docx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At Golder Associates, we are committed to helping our employees, our subcontractors, our clients, and the public remain safe and healthy and to the prevention of injury and illness.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131402Z" creationid="hcartagena" creationdate="20150212T125726Z">
+        <seg>En Golder Associates, estamos comprometidos a ayudar a nuestros empleados, subcontratistas, clientes y al público en general a permanecer seguros y saludables, así como a prevenir lesiones y enfermedades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We are committed to the protection of the environment and to the prevention of pollution.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T125751Z" creationid="hcartagena" creationdate="20150212T125751Z">
+        <seg>De la misma manera, estamos comprometidos con la protección del medio ambiente y la prevención de la contaminación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As an organisation, we are on a journey towards an interdependent safety culture built on trust, teamwork, workplace wellness and ownership of our Health, Safety and Environment (HSE) Management Systems by all Golder Associates employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131422Z" creationid="hcartagena" creationdate="20150212T125819Z">
+        <seg>Como organización, caminamos hacia una cultura de seguridad interdependiente, basada en la confianza, el trabajo en equipo y la adopción de nuestro sistema de gestión de salud, seguridad y medio ambiente (HSE) por parte de todos los colaboradores  de Golder Associates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This strong foundation is key to our organisation’s success.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T125837Z" creationid="hcartagena" creationdate="20150212T125837Z">
+        <seg>Esta base sólida resulta clave para el éxito de nuestra organización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We are committed to providing our people with the time and resources they need to be healthy, safe and environmentally responsible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T125909Z" creationid="hcartagena" creationdate="20150212T125909Z">
+        <seg>Nos comprometemos a proporcionar a nuestro personal el tiempo y los recursos necesarios para que estén saludables, seguros y sean responsables con el medioambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We strive to accomplish this by doing the following:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T125916Z" creationid="hcartagena" creationdate="20150212T125916Z">
+        <seg>Para lograrlo, realizaremos lo siguiente:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Providing and maintaining a safe, healthy work environment;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T125946Z" creationid="hcartagena" creationdate="20150212T125946Z">
+        <seg>proporcionar y mantener un ambiente de trabajo seguro y saludable;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimizing environmental impacts and optimizing the utilization of resources where we are able;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130003Z" creationid="hcartagena" creationdate="20150212T130003Z">
+        <seg>minimizar el impacto medioambiental y optimizar el uso de los recursos siempre que sea posible;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Meeting or exceeding relevant occupational health and safety and environmental legislation;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131445Z" creationid="hcartagena" creationdate="20150212T130022Z">
+        <seg>cumplir o superar la legislación vigente sobre medio ambiente, salud y seguridad en el trabajo;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Providing appropriate HSE training and supervision to enable employees to recognize and control hazards;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130037Z" creationid="hcartagena" creationdate="20150212T130037Z">
+        <seg>proporcionar capacitación y supervisión adecuadas en materia de HSE para que los colaboradores puedan identificar y controlar los peligros;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Providing employees with written instructions and personal protective equipment;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130102Z" creationid="hcartagena" creationdate="20150212T130102Z">
+        <seg>proporcionar instrucciones por escrito y equipos de protección personal a los colaboradores;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regularly inspecting our offices, labs, and field sites to identify and control hazardous conditions and practices;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130129Z" creationid="hcartagena" creationdate="20150212T130129Z">
+        <seg>inspeccionar regularmente nuestras oficinas, laboratorios y lugares de trabajo en campo/terreno para identificar y controlar condiciones y prácticas peligrosas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regularly communicating HSE issues with employees and interested parties and involving them in the development of initiatives;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130257Z" creationid="hcartagena" creationdate="20150212T130257Z">
+        <seg>mantener una comunicación fluida sobre HSE con los empleados y las partes interesadas e involucrarlos en el desarrollo de iniciativas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Promptly investigating HSE incidents to identify causes and take appropriate corrective actions; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130310Z" creationid="hcartagena" creationdate="20150212T130310Z">
+        <seg>investigar los incidentes de HSE a tiempo para identificar las causas y adoptar las acciones correctivas necesarias; y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regularly auditing our HSE Management Systems against established standards to promote continuous improvement.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130323Z" creationid="hcartagena" creationdate="20150212T130323Z">
+        <seg>auditar regularmente nuestros sistemas de gestión de HSE de acuerdo a estándares establecidos y promover la mejora continua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The President of Golder Associates Corporation is responsible for establishing our HSE Policy, HSE Management System, and HSE objectives for the organisation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130335Z" creationid="hcartagena" creationdate="20150212T130335Z">
+        <seg>El Presidente de Golder Associates Corporation es responsable de establecer la política, sistema de gestión y los objetivos de HSE para la organización.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>R&lt;t1/&gt;egional Presidents and Managing Directors are responsible for the implementation of &lt;t2/&gt;our HSE Policy&lt;t3/&gt;, HSE Management Systems and HSE objectives within their respective regions and operating companies.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130430Z" creationid="hcartagena" creationdate="20150212T130430Z">
+        <seg>Los P&lt;t1/&gt;residentes Regionales y los Gerentes de Operación son responsables de la implementación de &lt;t2/&gt;la política&lt;t3/&gt;, del sistema de gestión y de los objetivos de HSE a nivel regional y local, respectivamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regional Management Teams are responsible for developing, communicating and maintaining a documented HSE program that meets Golder Associates objectives and standards, consulting with employees on HSE matters, and providing necessary office HSE resourcing.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130546Z" creationid="hcartagena" creationdate="20150212T130546Z">
+        <seg>Los Equipos Directivos Regionales (Regional Management Teams) son responsables  de desarrollar, comunicar y mantener un programa documentado de HSE que cumpla con los objetivos y los estándares de Golder Associates, asesorar a los colaboradores en materia de HSE y proporcionar a las oficinas  los recursos de HSE necesarios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project leadership is responsible for the development and implementation of HSE plans consistent with Golder Associates objectives and standards, on all our projects.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130603Z" creationid="hcartagena" creationdate="20150212T130603Z">
+        <seg>Los líderes de proyecto son responsables de desarrollar e implementar planes de HSE que se ajusten a los objetivos y estándares de Golder Associates en todos nuestros proyectos,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This includes:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130611Z" creationid="hcartagena" creationdate="20141013T101900Z">
+        <seg>lo que incluye:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Verifying that all contractors are approved under Golder Associates Integrated Management System (GAIMS);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130701Z" creationid="hcartagena" creationdate="20150212T130701Z">
+        <seg>verificar que todos los contratistas estén autorizados en el sistema de gestión integrado de Golder Associates (GAIMS);</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assigning project staff that have received the HSE training required to perform their jobs in a safe, healthy and environmentally responsible manner; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130715Z" creationid="hcartagena" creationdate="20150212T130715Z">
+        <seg>asignar a los proyectos el personal que haya recibido la formación en HSE necesaria para desarrollar su trabajo de forma segura, saludable y responsable con el medioambiente; y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Requiring that project staff follow written instructions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130726Z" creationid="hcartagena" creationdate="20150212T130726Z">
+        <seg>exigir que el personal asignado a cada proyecto siga las instrucciones proporcionadas por escrito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project leadership is also responsible for confirming that project work is appropriately supervised, project-related HSE incidents are reported, investigated and corrective actions are implemented when required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130741Z" creationid="hcartagena" creationdate="20150212T130741Z">
+        <seg>Además, los líderes de proyecto son responsables de confirmar que se supervise el proyecto en forma correcta, que se reporten e investiguen los incidentes de HSE relacionados con el proyecto y que se implementen las acciones correctivas según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees are responsible for:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130753Z" creationid="hcartagena" creationdate="20150212T130753Z">
+        <seg>A su vez, los colaboradores son responsables de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Complying with Golder Associates and legislated HSE standards;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130806Z" creationid="hcartagena" creationdate="20150212T130806Z">
+        <seg>cumplir con los estándares de HSE establecidos por Golder Associates y por la legislación vigente;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working in a manner that will not endanger themselves or others;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130820Z" creationid="hcartagena" creationdate="20150212T130820Z">
+        <seg>trabajar de forma tal que no constituya un peligro para ellos mismos ni para otras personas;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Using, caring for and maintaining their personal protective equipment; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130835Z" creationid="hcartagena" creationdate="20150212T130835Z">
+        <seg>usar, cuidar y conservar sus equipos de protección personal; y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reporting hazardous and unhealthy working conditions and incidents to their supervisor, project leadership, or manager.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130848Z" creationid="hcartagena" creationdate="20150212T130848Z">
+        <seg>reportar las condiciones de trabajo peligrosas o poco saludables y los incidentes a su supervisor, al líder del proyecto o a su gerente de operación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees are required to participate in activities to improve health, safety and environmental performance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131821Z" creationid="hcartagena" creationdate="20150212T130900Z">
+        <seg>Los colaboradores deben participar en actividades para mejorar su salud, seguridad y desempeño medioambiental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All employees have the right and responsibility to refuse to perform work that they feel is unsafe.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130907Z" creationid="hcartagena" creationdate="20150212T130907Z">
+        <seg>Los colaboradores tienen el derecho y la obligación de negarse a realizar un trabajo que consideren inseguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contractors working directly for Golder Associates must be approved under GAIMS.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130927Z" creationid="hcartagena" creationdate="20150212T130927Z">
+        <seg>Las contratistas que trabajen directamente para Golder Associates deben estar autorizados en el sistema GAIMS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>They are responsible for conducting their work in a manner that meets or exceeds legislative and Golder Associates HSE standards.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T130945Z" creationid="hcartagena" creationdate="20150212T130945Z">
+        <seg>y realizar su trabajo de forma tal que cumplan o superen los estándares de HSE establecidos por Golder Associates y por la legislación vigente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This Policy shall be reviewed annually by the Golder Management Team and updated as appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131047Z" creationid="hcartagena" creationdate="20150212T131047Z">
+        <seg>Esta política será revisada anualmente por el Equipo Directivo de Golder (Golder Management Team) y la actualizará según sea necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Brian H. Conlin, President</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131056Z" creationid="hcartagena" creationdate="20150212T131056Z">
+        <seg>Brian H. Conlin, Presidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>January 2015</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131111Z" creationid="unknown" creationdate="unknown">
+        <seg>Enero de 2015</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>health&lt;t1/&gt;,&lt;t2/&gt; safety and environment Policy</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131134Z" creationid="hcartagena" creationdate="20150212T131134Z">
+        <seg>Política de salud&lt;t1/&gt;,&lt;t2/&gt; seguridad y medio ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OUR PURPOSE:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131147Z" creationid="hcartagena" creationdate="20150212T131147Z">
+        <seg>NUESTRO PROPÓSITO:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>ENGINEERING EARTH’S DEVELOPMENT,</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131158Z" creationid="hcartagena" creationdate="20150212T131158Z">
+        <seg>APLICAR LA INGENIERÍA PARA EL DESARROLLO DEL MUNDO,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>PRESERVING EARTH’S INTEGRITY</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131207Z" creationid="hcartagena" creationdate="20150212T131207Z">
+        <seg>PRESERVANDO LA INTEGRIDAD DE LA TIERRA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OUR Values:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131215Z" creationid="hcartagena" creationdate="20150212T131215Z">
+        <seg>Nuestros valores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Associates is committed to &lt;t1/&gt;having our values guide our business practices and employee behaviour.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T131832Z" creationid="hcartagena" creationdate="20150212T131341Z">
+        <seg>En Golder Associates nos comprometemos a &lt;t1/&gt;que nuestros valores guíen nuestras prácticas de negocios y el comportamiento de nuestros empleados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>integrity</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T132336Z" creationid="hcartagena" creationdate="20150212T131619Z">
+        <seg>integridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>excellence</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T132339Z" creationid="hcartagena" creationdate="20150212T131622Z">
+        <seg>excelencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>teamwork</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T132344Z" creationid="hcartagena" creationdate="20150212T131626Z">
+        <seg>trabajo en equipo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>caring</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T132347Z" creationid="hcartagena" creationdate="20150212T131630Z">
+        <seg>solidaridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>ownership</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150212T132350Z" creationid="hcartagena" creationdate="20141016T134003Z">
+        <seg>propiedad</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

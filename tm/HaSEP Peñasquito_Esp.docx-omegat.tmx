@@ -1,0 +1,2568 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">HaSEP Peñasquito_Esp.docx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Manager</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140903T110615Z" creationid="unknown" creationdate="unknown">
+        <seg>Jefe del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project Director</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140903T110606Z" creationid="hcartagena" creationdate="20140808T095759Z">
+        <seg>Director del proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>TRAINING</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>CURSOS DE CAPACITACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>E-mail</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Correo Electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mexico</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140820T141756Z" creationid="hcartagena" creationdate="20140820T141756Z">
+        <seg>México</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>E-mail</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Correo Electrónico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>IR:  Initial Risk</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182049Z" creationid="hcartagena" creationdate="20150413T182049Z">
+        <seg>IR:  Riesgo inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Initial Risk</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182106Z" creationid="hcartagena" creationdate="20150413T182106Z">
+        <seg>Riesgo inicial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hazard</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182119Z" creationid="hcartagena" creationdate="20150413T182119Z">
+        <seg>Peligro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Controls</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182131Z" creationid="hcartagena" creationdate="20150413T182131Z">
+        <seg>Controles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Traffic &amp; road conditions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182139Z" creationid="hcartagena" creationdate="20150413T182139Z">
+        <seg>Condiciones de tráfico y caminos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(heavy equipment traffic)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182149Z" creationid="hcartagena" creationdate="20150413T182149Z">
+        <seg>(tráfico de equipo pesado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Traffic and road conditions (e.g..</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182205Z" creationid="hcartagena" creationdate="20150413T182205Z">
+        <seg>Condiciones de tráfico y caminos (ej.,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>heavy equipment traffic)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182210Z" creationid="hcartagena" creationdate="20150413T182210Z">
+        <seg>tráfico de equipo pesado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All employees must comply with the GAI Motor Vehicle Policy.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182253Z" creationid="hcartagena" creationdate="20150413T182253Z">
+        <seg>Todos los empleados deben cumplir con la Política de Vehículos Motorizados de GAI.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Seat belts shall be worn by all drivers and passengers in vehicles on company business.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T190909Z" creationid="hcartagena" creationdate="20150413T190909Z">
+        <seg>Todos los conductores y pasajeros deben usar cinturón de seguridad mientras se encuentren en vehículos desarrollando actividades de la empresa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only Golder employees who have successfully completed the Goldcorp Site Specific Driver Training may operate a vehicle on-site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T190955Z" creationid="hcartagena" creationdate="20150413T190955Z">
+        <seg>Solo pueden operar vehículos en faenas aquellos empleados de Golder que hayan aprobado el curso específico de conducción en sitios de Goldcorp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employees may not drive off-site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T193405Z" creationid="hcartagena" creationdate="20150413T193405Z">
+        <seg>Los empleados de Golder no pueden conducir fuera de las faenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Must carry appropriate insurance if using private vehicles for work purposes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T193420Z" creationid="hcartagena" creationdate="20150413T193420Z">
+        <seg>Deben portar el seguro correspondiente si usan vehículos privados para fines laborales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider the risks of driving while fatigued.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T193431Z" creationid="hcartagena" creationdate="20150413T193431Z">
+        <seg>Considerar los riesgos de conducir con fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Check weather conditions before travelling.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184137Z" creationid="hcartagena" creationdate="20150413T193438Z">
+        <seg>Verificar las condiciones meteorológicas antes de viajar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Plan travel route and verify road conditions where possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T193450Z" creationid="hcartagena" creationdate="20150413T193450Z">
+        <seg>Planear la ruta y verificar las condiciones del camino si es posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Obey all traffic signs and signals.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T193500Z" creationid="hcartagena" creationdate="20150413T193500Z">
+        <seg>Obedecer todas las señales de tránsito.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reduce speed in construction areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T193518Z" creationid="hcartagena" creationdate="20150413T193518Z">
+        <seg>Reducir la velocidad en las áreas en construcción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Verify the rules of the road (speed limit, type of vehicles, rules on passing, signage, method of communication with other vehicles).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T131311Z" creationid="hcartagena" creationdate="20150414T131311Z">
+        <seg>Verificar las normas del camino (límite de velocidad, tipo de vehículos, reglas de paso, señalética, método de comunicación con otros vehículos).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Adopt and enforce a structured vehicle maintenance program for Golder-owned vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T135131Z" creationid="hcartagena" creationdate="20150414T135131Z">
+        <seg>Adoptar y hacer cumplir un programa estructurado de mantenimiento de vehículos para los vehículos que son propiedad de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintain Vehicle Condition Check-out/Check-in list for Golder-owned vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T140426Z" creationid="hcartagena" creationdate="20150414T140426Z">
+        <seg>Mantener un listado de ingreso/egreso para la condición de los vehículos que son propiedad de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Test the brakes, wipers, tires, lights, and turn signals, and verify that the vehicle has an inflated spare tire and jack prior to use (in company, private, or rented vehicles).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T140628Z" creationid="hcartagena" creationdate="20150414T140628Z">
+        <seg>Probar los frenos, limpiaparabrisas, neumáticos, faros y luces de viraje y verificar que el vehículo cuente con un neumático de repuesto inflado y un gato antes de usarlo (vehículos de la empresa, privados o alquilados).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Address any notes or oral warnings concerning vehicle deficiencies, which must be remedied at the earliest possible opportunity.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T140830Z" creationid="hcartagena" creationdate="20150414T140830Z">
+        <seg>Atender cualquier nota o advertencia oral concerniente a las deficiencias de los vehículos, las que deben ser remediadas en la primera oportunidad que se tenga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If any safety concerns are identified, the vehicle must not be used.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T140846Z" creationid="hcartagena" creationdate="20150414T140846Z">
+        <seg>Si se detectan problemas de seguridad, el vehículo no debe usarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Report vehicle deficiencies to the Goldcorp as soon as they are noticed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T140904Z" creationid="hcartagena" creationdate="20150414T140904Z">
+        <seg>Informar las deficiencias de los vehículos a Goldcorp en cuanto se detecten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Equip vehicles used for on-site work with fire extinguishers and first aid kits, if required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T140930Z" creationid="hcartagena" creationdate="20150414T140930Z">
+        <seg>Equipar los vehículos usados para trabajo en faena con extintores de incendios y kitts de primeros auxilios, si se requiere.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Be sure that rented or client-provided vehicles are in a roadworthy condition.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141802Z" creationid="hcartagena" creationdate="20150414T141802Z">
+        <seg>Asegurarse de que los vehículos de alquiler o proporcionados por el cliente estén en buen estado para circular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141806Z" creationid="hcartagena" creationdate="20150414T141806Z">
+        <seg>Respuesta ante emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Communication issues due to language differences</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141826Z" creationid="hcartagena" creationdate="20150414T141826Z">
+        <seg>Problemas de comunicación debido a diferencias idiomáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Luis Carruitero is fluent in Spanish.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141843Z" creationid="hcartagena" creationdate="20150414T141843Z">
+        <seg>Luis Carruitero habla español con fluidez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141806Z" creationid="hcartagena" creationdate="20150414T141806Z">
+        <seg>Respuesta ante emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Medical or security risks</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141856Z" creationid="hcartagena" creationdate="20150414T141856Z">
+        <seg>Riesgos médicos o de seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Prepare for international travel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141919Z" creationid="hcartagena" creationdate="20150414T141919Z">
+        <seg>Prepararse para viajes internacionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Check with ISOS for security rating, diseases, medical capabilities, drug equivalencies.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141944Z" creationid="hcartagena" creationdate="20150414T141944Z">
+        <seg>Verificar con ISOS la calificación de seguridad, las enfermedades, las capacidades médicas y las equivalencias de fármacos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Carry a Crisis Response Teams contact card, and required medical and survival kits.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142011Z" creationid="hcartagena" creationdate="20150414T142011Z">
+        <seg>Llevar una tarjeta de contacto de los Equipos de Respuesta ante Crisis y los kits médicos y de supervivencia requeridos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Plan for a translator if language differences.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142026Z" creationid="hcartagena" creationdate="20150414T142026Z">
+        <seg>Planear la presencia de un traductor si hay diferencias idiomáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contact the local Golder office for more information on the client, the area and the local Golder's office to aid in an emergency response that may be required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142105Z" creationid="hcartagena" creationdate="20150414T142105Z">
+        <seg>Contactar a la oficina local de Golder para pedir más información del cliente, del área y de la oficina local de Golder para contar con su ayuda en una respuesta ante emergencia que pudiera surgir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pre-departure communication with client or local Golder office.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142117Z" creationid="hcartagena" creationdate="20150414T142117Z">
+        <seg>Comunicación antes de la salida con el cliente o con la oficina local de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>US citizens contact and register with the nearest US embassy in foreign countries other than Canada.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142209Z" creationid="hcartagena" creationdate="20150414T142209Z">
+        <seg>Los ciudadanos estadounidenses deben contactarse e inscribirse en la embajada estadounidense más cercana cuando estén en otro país, con excepción de Canadá.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel to destination rated &gt;3 by ISOS</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142227Z" creationid="hcartagena" creationdate="20150414T142227Z">
+        <seg>Viaje a destino calificado &gt;3 por ISOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Civil, political unrest or armed conflict</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T090804Z" creationid="hcartagena" creationdate="20140923T090804Z">
+        <seg>Agitación civil o política o conflicto armado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please see all controls in the High Risk Travel Assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142253Z" creationid="hcartagena" creationdate="20150414T142253Z">
+        <seg>Ver todos los controles en la Evaluación de Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel to destination rated &gt;3 by ISOS</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142227Z" creationid="hcartagena" creationdate="20150414T142227Z">
+        <seg>Viaje a destino calificado &gt;3 por ISOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Crime</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T090707Z" creationid="hcartagena" creationdate="20140923T090707Z">
+        <seg>Crimen</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please see all controls in the High Risk Travel Assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142253Z" creationid="hcartagena" creationdate="20150414T142253Z">
+        <seg>Ver todos los controles en la Evaluación de Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel to destination rated &gt;3 by ISOS</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142227Z" creationid="hcartagena" creationdate="20150414T142227Z">
+        <seg>Viaje a destino calificado &gt;3 por ISOS</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Disease/Health Standards</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142319Z" creationid="hcartagena" creationdate="20150414T142319Z">
+        <seg>Normas sobre enfermedades/salud</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please see all controls in the High Risk Travel Assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142253Z" creationid="hcartagena" creationdate="20150414T142253Z">
+        <seg>Ver todos los controles en la Evaluación de Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel to destination rated &gt;3 by MedEx</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142332Z" creationid="hcartagena" creationdate="20150414T142332Z">
+        <seg>Viaje a destino calificado &gt;3 por MedEx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Kidnapping</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T090715Z" creationid="hcartagena" creationdate="20140923T090715Z">
+        <seg>Secuestro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please see all controls in the High Risk Travel Assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142253Z" creationid="hcartagena" creationdate="20150414T142253Z">
+        <seg>Ver todos los controles en la Evaluación de Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel to destination rated &gt;3 by MedEx</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142332Z" creationid="hcartagena" creationdate="20150414T142332Z">
+        <seg>Viaje a destino calificado &gt;3 por MedEx</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Terrorism</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T090722Z" creationid="hcartagena" creationdate="20140923T090722Z">
+        <seg>Terrorismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please see all controls in the High Risk Travel Assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142253Z" creationid="hcartagena" creationdate="20150414T142253Z">
+        <seg>Ver todos los controles en la Evaluación de Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T141806Z" creationid="hcartagena" creationdate="20150414T141806Z">
+        <seg>Respuesta ante emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Respuesta ante emergencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Access to cell phones and the mine's phone network will be available at all times.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142410Z" creationid="hcartagena" creationdate="20150414T142410Z">
+        <seg>Habrá acceso a teléfonos celulares y a la red telefónica de la mina en todo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Carry back-up communication equipment, such as batteries.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142428Z" creationid="hcartagena" creationdate="20150414T142428Z">
+        <seg>Llevar equipo de comunicación de respaldo, como baterías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Develop a check-in plan, which includes, contact names, phone numbers, planned routes of travel, frequency of check-in and daily activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142459Z" creationid="hcartagena" creationdate="20150414T142459Z">
+        <seg>Desarrollar un plan de chequeo que incluya nombres de contacto, números de teléfono, rutas planeadas para el viaje, frecuencia de chequeos y actividades diarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Carry a first aid kit and where appropriate, a survival kit.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142536Z" creationid="hcartagena" creationdate="20150414T142536Z">
+        <seg>Llevar un kit de primeros auxilios y, cuando corresponda, un kit de supervivencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Slips, trips and falls</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142552Z" creationid="hcartagena" creationdate="20150414T142552Z">
+        <seg>Resbalones, tropezones y caídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Slips, trips and falls</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T142552Z" creationid="hcartagena" creationdate="20150414T142552Z">
+        <seg>Resbalones, tropezones y caídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use care and attention when walking.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T143150Z" creationid="hcartagena" creationdate="20150414T143143Z">
+        <seg>Caminar con cuidado y atención.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Establish level pedestrian footpaths where possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T143223Z" creationid="hcartagena" creationdate="20150414T143223Z">
+        <seg>Habilitar senderos nivelados para peatones de ser posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Level out work areas where possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T143232Z" creationid="hcartagena" creationdate="20150414T143232Z">
+        <seg>Nivelar las áreas de trabajo de ser posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wear appropriate construction safety boots that offer good support and have a good tread.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T143301Z" creationid="hcartagena" creationdate="20150414T143301Z">
+        <seg>Usar botas de seguridad para construcción adecuadas que ofrezcan buen apoyo y tengan buen agarre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Relay hazard to others, clear or mark and report any potential slip trip or fall hazard.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T143411Z" creationid="hcartagena" creationdate="20150414T143411Z">
+        <seg>Comunicar el peligro a otros, despejar o marcar y reportar cualquier posible peligro de resbalón, tropezón o caída.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Heat (SWP 04)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T143426Z" creationid="hcartagena" creationdate="20150414T143426Z">
+        <seg>Calor (SWP 04)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Heat stroke, heat stress, sunburn</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144653Z" creationid="hcartagena" creationdate="20150414T144653Z">
+        <seg>Golpe de calor, estrés por calor, quemaduras solares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Check with the mine for daily weather reports.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184145Z" creationid="hcartagena" creationdate="20150414T144712Z">
+        <seg>Verificar si hay informes meteorológicos diarios en la mina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimize work in hot environments; if possible, reschedule work to a cooler day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144730Z" creationid="hcartagena" creationdate="20150414T144730Z">
+        <seg>Minimizar el trabajo en entornos calurosos; si es posible, reprogramar el trabajo para un día más fresco.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wherever possible, reduce temperature and humidity through air cooling and increased air movement.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144752Z" creationid="hcartagena" creationdate="20150414T144752Z">
+        <seg>Si es posible, reducir la temperatura y humedad mediante un enfriador de aire y un aumento en el movimiento del aire.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess physical demands of the work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144759Z" creationid="hcartagena" creationdate="20150414T144759Z">
+        <seg>Evaluar las demandas físicas del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Provide equipment that will reduce the physical demands.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144808Z" creationid="hcartagena" creationdate="20150414T144808Z">
+        <seg>Proporcionar equipo que reduzca las demandas físicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work in shaded areas, or provide barrier to give shelter from the sun.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144823Z" creationid="hcartagena" creationdate="20150414T144823Z">
+        <seg>Trabajar en zonas sombreadas o proporcionar una barrera que proteja del sol.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Schedule work to allow workers to acclimatize.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144836Z" creationid="hcartagena" creationdate="20150414T144836Z">
+        <seg>Programar el trabajo para permitir que los trabajadores se aclimaten.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Schedule work to cooler times of the day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144846Z" creationid="hcartagena" creationdate="20150414T144846Z">
+        <seg>Programar el trabajo en las horas más frescas del día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Increase the frequency and lengths of break periods.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144859Z" creationid="hcartagena" creationdate="20150414T144859Z">
+        <seg>Aumentar la frecuencia y duración de los periodos de descanso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Provide a cool, shady place to take breaks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144913Z" creationid="hcartagena" creationdate="20150414T144913Z">
+        <seg>Proporcionar un lugar fresco y sombreado para tomar descansos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assign extra workers or slow down the pace.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144922Z" creationid="hcartagena" creationdate="20150414T144922Z">
+        <seg>Asignar trabajadores adicionales o reducir el ritmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Drink plenty of fluids.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144944Z" creationid="hcartagena" creationdate="20150414T144944Z">
+        <seg>Tomar bastante líquido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Make water and sports drinks available.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T144957Z" creationid="hcartagena" creationdate="20150414T144957Z">
+        <seg>Poner a disposición agua y bebidas para deportistas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use a buddy system, check each other frequently for signs of heat stress (e.g. disorientation, lack of sweat, fatigue).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T150142Z" creationid="hcartagena" creationdate="20150414T150142Z">
+        <seg>Trabajar en parejas, verificar con frecuencia si el compañero presenta señales de estrés po calor (ej., desorientación, falta de sudor, fatiga).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess each worker for factors that may contribute to early onset of heat stress.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T150203Z" creationid="hcartagena" creationdate="20150414T150203Z">
+        <seg>Evaluar a cada trabajador en busca de factores que pudieran contribuir a una aparición temprana de estrés por calor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use sunscreen.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T150207Z" creationid="hcartagena" creationdate="20150414T150207Z">
+        <seg>Usar pantalla solar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wear hats and light colored loose clothing.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T150218Z" creationid="hcartagena" creationdate="20150414T150218Z">
+        <seg>Usar gorras y ropa suelta de colores claros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cooling vests may be required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T150734Z" creationid="hcartagena" creationdate="20150414T150734Z">
+        <seg>Podrían necesitarse chalecos refrigerantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider the additional stress load caused by PPE such as Tyvek coveralls.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T151121Z" creationid="hcartagena" creationdate="20150414T151121Z">
+        <seg>Considerar la carga de estrés adicional causada por EPP como los trajes Tyvek.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If someone is suffering from heat-related illness:- Move the person to a cool area, maybe the air-conditioned vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T151232Z" creationid="hcartagena" creationdate="20150414T151157Z">
+        <seg>Si alguien sufre una enfermedad relacionada con calor: – trasladar a la persona a un área fresca, quizá un vehículo con aire acondicionado;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>– Give the person small amounts of cool (not cold) water.- DO NOT leave the person unattended.- Immediately seek qualified medical assistance if the person does not recover or their condition worsens.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T151312Z" creationid="hcartagena" creationdate="20150414T151222Z">
+        <seg>– dar a la persona pequeñas cantidades de agua fresca (no fría). – NO dejar a la persona sin supervisión. – Busca de inmediato asistencia médica calificada si la persona no se recupera o si su condición empeora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driving on mine sites</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T152638Z" creationid="hcartagena" creationdate="20150414T152638Z">
+        <seg>Conducción en faenas mineras</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Being hit by a haul truck, rocks falling from haul trucks</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T152702Z" creationid="hcartagena" creationdate="20150414T152702Z">
+        <seg>Ser golpeado por un camión de carga, caída de rocas desde camiones de carga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employees may operate the assigned Goldcorp vehicle on-site only if they have successfully completed the Goldcorp Site-Specific Driver Training.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T152813Z" creationid="hcartagena" creationdate="20150414T152813Z">
+        <seg>Los empleados de Golder pueden operar el vehículo asignado por Goldcorp dentro de la faena solo si han aprobado el curso específico de conducción en sitios de Goldcorp.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Haul routes are separate from light vehicle routes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T152827Z" creationid="hcartagena" creationdate="20150414T152827Z">
+        <seg>Las rutas de carga son independientes de las rutas de vehículos ligeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All mine site haulage equipment and large mobile equipment have the right-of-way on mine site roadways.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T153916Z" creationid="hcartagena" creationdate="20150414T153916Z">
+        <seg>Todo equipo de carga en la faena minera y gran equipo móvil tiene servidumbre de paso en los caminos de la faena minera.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employees do not drive on in haul route areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T153932Z" creationid="hcartagena" creationdate="20150414T153932Z">
+        <seg>Los empleados de Golder no conducen en las áreas de rutas de carga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All other equipment and light vehicles will give way and keep a safe distance until the roadway is clear.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T154209Z" creationid="hcartagena" creationdate="20150414T154209Z">
+        <seg>Todos los demás equipos y vehículos ligeros cederán el paso y mantendrán una distancia segura hasta que el camino esté despejado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When following a heavy vehicle, maintain a safe traveling distance, a minimum of twice the length of the equipment being followed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T154338Z" creationid="hcartagena" creationdate="20150414T154338Z">
+        <seg>Al ir detrás de un vehículo pesado, mantener una distancia segura, un mínimo de dos veces la longitud del equipo que va delante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The driver's side mirror of haul trucks should always be visible to you.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T154359Z" creationid="hcartagena" creationdate="20150414T154359Z">
+        <seg>El espejo del lado del conductor de los camiones de carga debe siempre ser visibles para usted.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never park in front of or behind heavy equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T154408Z" creationid="hcartagena" creationdate="20150414T154408Z">
+        <seg>Nunca estacionar frente o detrás de equipo pesado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Never park directly beneath a benched slope, maintain a safe set back distance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T155216Z" creationid="hcartagena" creationdate="20150414T155216Z">
+        <seg>Nunca estacionar directamente debajo de un faldón con banco, mantenerse alejado a una distancia segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ask the client about appropriate parking areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T155230Z" creationid="hcartagena" creationdate="20150414T155230Z">
+        <seg>Preguntar al cliente sobre las zonas de estacionamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Parked vehicles must be chocked.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T155519Z" creationid="hcartagena" creationdate="20150414T155519Z">
+        <seg>Se deben usar cuñas en los vehículos estacionados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Falls of ground</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T155643Z" creationid="hcartagena" creationdate="20150414T155643Z">
+        <seg>Subsidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Falls of ground</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T155643Z" creationid="hcartagena" creationdate="20150414T155643Z">
+        <seg>Subsidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exposure to fall of ground is possible while performing site inspection.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T160746Z" creationid="hcartagena" creationdate="20150414T160746Z">
+        <seg>Es posible exponerse a subsidencias mientras se efectúa la inspección de la faena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep away from high walls.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T160753Z" creationid="hcartagena" creationdate="20150414T160753Z">
+        <seg>Mantenerse lejos de muros altos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fall of ground is not a planned part of the normal operations at a mine.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T160818Z" creationid="hcartagena" creationdate="20150414T160812Z">
+        <seg>Las subsidencias no son parte de la planificación de las operaciones normales de una mina,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Falls of ground result from a failure of an underground support system.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T160839Z" creationid="hcartagena" creationdate="20150414T160839Z">
+        <seg>sino que son el resultado de la falla en el sistema de sostenimiento subterráneo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These conditions often prevent persons from traveling through the area affected by the fall or which otherwise exposes them to danger.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T160924Z" creationid="hcartagena" creationdate="20150414T160924Z">
+        <seg>Estas condiciones a menudo impiden que las personas se trasladen a través de la zona afectada po la subsidencia o bien las expone a peligros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Any Golder employee entering a mine site must have the required training as specified by the mine or local regulations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T161034Z" creationid="hcartagena" creationdate="20150414T161034Z">
+        <seg>Cualquier empleado de Golder que ingrese a una faena minera debe recibir la capacitación requerida según las especificaciones de la mina o de las normas locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The training must include recognition of conditions where falls of ground may be present.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T161057Z" creationid="hcartagena" creationdate="20150414T161057Z">
+        <seg>La capacitación debe incluir el reconocer las condiciones en que podría presentarse subsidencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fixed equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T161101Z" creationid="hcartagena" creationdate="20150414T161101Z">
+        <seg>Equipos fijos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fixed equipment (e.g. conveyors, crushers, hoists)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T163103Z" creationid="hcartagena" creationdate="20150414T161120Z">
+        <seg>Equipos fijos (ej., bandas transportadoras, trituradoras, elevadores)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only cross conveyors at established cross points.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T163127Z" creationid="hcartagena" creationdate="20150414T163127Z">
+        <seg>Cruzar las bandas transportadoras solo en los puntos de cruce establecidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not ride on conveyor belts.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T163143Z" creationid="hcartagena" creationdate="20150414T163143Z">
+        <seg>No subirse a las bandas transportadoras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use barricades to prevent inadvertent contact with equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T163718Z" creationid="hcartagena" creationdate="20150414T163718Z">
+        <seg>Usar barricadas para impedir el contacto involuntario con el equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If barricades are impractical, set up a safe work zone around the equipment and delineate in a manner suitable for the equipment and the work being done.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T163758Z" creationid="hcartagena" creationdate="20150414T163758Z">
+        <seg>Si no es posible instalar barricadas, definir una zona de trabajo segura alrededor del equipo y delinearla de manera adecuada para el equipo y el trabajo a efectuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Proper machine guards must be in place.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164231Z" creationid="hcartagena" creationdate="20150414T164231Z">
+        <seg>Deben instalarse barreras de protección en las máquinas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Be aware of the emergency shut off mechanisms and procedures.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164249Z" creationid="hcartagena" creationdate="20150414T164249Z">
+        <seg>Tener presentes los mecanismos y procedimientos de parada de emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Establish a communication procedure with the equipment operator.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164300Z" creationid="hcartagena" creationdate="20150414T164300Z">
+        <seg>Establecer un procedimiento de comunicación con el operador del equipo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not wear loose clothing, jewelry or long hair around rotating equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164321Z" creationid="hcartagena" creationdate="20150414T164321Z">
+        <seg>No usar ropa suelta, joyas o el cabello largo cerca de equipo giratorio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not walk in front of or behind ventilation fans while they are running.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164337Z" creationid="hcartagena" creationdate="20150414T164337Z">
+        <seg>No caminar por delante o detrás de ventiladores mientras están operando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>PPE include hearing protection, eye and face protection, reflective vest.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164408Z" creationid="hcartagena" creationdate="20150414T164408Z">
+        <seg>El EPP incluye protección auditiva, protección visual y facial, y chaleco reflector.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fire risk in the work area</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164416Z" creationid="hcartagena" creationdate="20150414T164416Z">
+        <seg>Riesgo de incendio en el área de trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fire</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>Incendio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify potential sources of fire.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164427Z" creationid="hcartagena" creationdate="20150414T164427Z">
+        <seg>Identificar posibles fuentes de incendio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Develop control strategies where possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164436Z" creationid="hcartagena" creationdate="20150414T164436Z">
+        <seg>Elaborar estrategias de control de se posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note your escape route from buildings or sites.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164448Z" creationid="hcartagena" creationdate="20150414T164448Z">
+        <seg>Advertir la ruta de escape de edificios o faenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Know where fire alarm pulls, fire extinguishers, and muster locations are.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164602Z" creationid="hcartagena" creationdate="20150414T164602Z">
+        <seg>Conocer la ubicación de activadores de alarma de incendio, extintores de incendios y puntos de reunión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Understand alarm codes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164607Z" creationid="hcartagena" creationdate="20150414T164607Z">
+        <seg>Entender los códigos de alarma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Knowledge/training in fire extinguisher use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164620Z" creationid="hcartagena" creationdate="20150414T164620Z">
+        <seg>Conocimiento/capacitación en el uso de extintores de incendios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The mine site will furnish all fire extinguishers; determine the location of fire extinguishers on-site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164643Z" creationid="hcartagena" creationdate="20150414T164643Z">
+        <seg>La faena minera suministrará todos los extintores de incendios; determinar la ubicación de los extintores de incendios en la faena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not block access to fire extinguishers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164652Z" creationid="hcartagena" creationdate="20150414T164652Z">
+        <seg>No bloquear el acceso a los extintores de incendio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Undergo training on how to use a fire extinguisher.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164703Z" creationid="hcartagena" creationdate="20150414T164703Z">
+        <seg>Someterse a capacitación sobre el uso de extintores de incendios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify emergency exits, keep them clear.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164724Z" creationid="hcartagena" creationdate="20150414T164724Z">
+        <seg>Identificar las salidas de emergencia y mantenerlas despejadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue (SWP 27)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T164734Z" creationid="hcartagena" creationdate="20150414T164734Z">
+        <seg>Fatiga (SWP 27)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T074803Z" creationid="hcartagena" creationdate="20141010T074803Z">
+        <seg>Fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Long workdays do occur at the mine site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T165841Z" creationid="hcartagena" creationdate="20150414T165841Z">
+        <seg>Las jornadas de trabajo en la faena minera son largas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Be aware of your surroundings.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T165907Z" creationid="hcartagena" creationdate="20150414T165907Z">
+        <seg>Tener presente el lugar en que se encuentra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pinch points</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181032Z" creationid="hcartagena" creationdate="20150414T181032Z">
+        <seg>Puntos de aplastamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pinch points</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181032Z" creationid="hcartagena" creationdate="20150414T181032Z">
+        <seg>Puntos de aplastamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The team may come into contact with equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181055Z" creationid="hcartagena" creationdate="20150414T181055Z">
+        <seg>Las personas pueden entrar en contacto con equipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eliminate or guard pinch points where possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181107Z" creationid="hcartagena" creationdate="20150414T181107Z">
+        <seg>Eliminar o proteger los puntos de aplastamiento de ser posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Clearly identify pinch points.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181116Z" creationid="hcartagena" creationdate="20150414T181116Z">
+        <seg>Identificar con claridad cuáles son los puntos de aplastamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Train all workers in the area of the pinch points and guards that are in use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181145Z" creationid="hcartagena" creationdate="20150414T181145Z">
+        <seg>Capacitar a todos los trabajadores acerca de la zona donde están los puntos de aplastamiento y las barreras de protección implementadas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Establish a communication plan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181204Z" creationid="hcartagena" creationdate="20150414T181204Z">
+        <seg>Desarrollar un plan de comunicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contract driver</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181212Z" creationid="hcartagena" creationdate="20150414T181212Z">
+        <seg>Conductor subcontratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contract driver</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181212Z" creationid="hcartagena" creationdate="20150414T181212Z">
+        <seg>Conductor subcontratado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driver name, photo and cell phone number will be provided prior to departure.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181237Z" creationid="hcartagena" creationdate="20150414T181237Z">
+        <seg>Se entregará el nombre, foto y número de teléfono celular del conductor antes de la salida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel only with the driver positively identified in the provided documentation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181250Z" creationid="hcartagena" creationdate="20150414T181250Z">
+        <seg>Viajar solo con el conductor efectivamente identificado en la documentación entregada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Understand the rules of the road or site (ex. procedure for passing haul trucks).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181310Z" creationid="hcartagena" creationdate="20150414T181310Z">
+        <seg>Comprender las reglas del camino o la faena (ej., procedimiento de paso de camiones de carga).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Make informal assessment of driver (has he/she been drinking, use of cell phone while driving).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181330Z" creationid="hcartagena" creationdate="20150414T181330Z">
+        <seg>Hacer una evaluación informal del conductor (si ha bebido, si usa teléfono celular mientras conduce).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not use the service if seatbelts are missing or not functioning.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181344Z" creationid="hcartagena" creationdate="20150414T181344Z">
+        <seg>No usar el servicio si faltan o no funcionan los cinturones de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ask the driver to modify behavior if driver is talking on the cell phone, or the driver does not follow the rules of the road or site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181408Z" creationid="hcartagena" creationdate="20150414T181408Z">
+        <seg>Pedir al conductor que cambie su conducta si está hablando por celular o no sigue las reglas del camino o faena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Undertaking work without adequate rest</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181528Z" creationid="hcartagena" creationdate="20150414T181528Z">
+        <seg>Ejecutar trabajos sin el descanso suficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Undertaking work without adequate rest</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181528Z" creationid="hcartagena" creationdate="20150414T181528Z">
+        <seg>Ejecutar trabajos sin el descanso suficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify hours of work and comply with the Golder Fitness for Duty and Fatigue Management Procedure (SWP 27).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181606Z" creationid="hcartagena" creationdate="20150414T181606Z">
+        <seg>Identificar los horarios de trabajo y cumplir con el Procedimiento de Golder sobre Aptitud para las Labores y Manejo de Fatiga (SWP 27).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There should be a minimum of one 30-minute break in each 8-hour work period or part thereof.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181625Z" creationid="hcartagena" creationdate="20150414T181625Z">
+        <seg>Debe haber al menos un descanso de 30 minutos por cada periodo de trabajo de 8 horas o fracción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If a period of 12 hours has been worked, an employee is required to ensure that a break away from work of at least 8 hours is taken prior to returning to work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181659Z" creationid="hcartagena" creationdate="20150414T181659Z">
+        <seg>Si se ha trabajado en un periodo de 12 horas, se requiere que el empleado se asegure de descansar al menos 8 horas antes de retornar a las labores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additionally, the amount of sleep required in the previous 48 hours needs to be greater than the length of the intended daily work period.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181749Z" creationid="hcartagena" creationdate="20150414T181749Z">
+        <seg>Además, se requiere que en las 48 horas previas haya dormido más tiempo que la duración del periodo de trabajo diario previsto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Non-work activities must allow for sufficient rest.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181812Z" creationid="hcartagena" creationdate="20150414T181812Z">
+        <seg>Las actividades no laborales deben permitir tener suficiente tiempo de descanso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working Abnormal Shifts</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181818Z" creationid="hcartagena" creationdate="20150414T181818Z">
+        <seg>Trabajo en turnos anómalos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working without adequate rest</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181826Z" creationid="hcartagena" creationdate="20150414T181826Z">
+        <seg>Trabajos sin el descanso suficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Comply with the Fitness for Duty and Fatigue SWP 27.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181947Z" creationid="hcartagena" creationdate="20150414T181947Z">
+        <seg>Cumplir con el procedimiento sobre aptitud para las labores y fatiga SWP 27.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Conduct a fatigue assessment prior to starting the project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182000Z" creationid="hcartagena" creationdate="20150414T182000Z">
+        <seg>Efectuar una evaluación de fatiga antes de iniciar el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Schedule work during daylight hours, if possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182010Z" creationid="hcartagena" creationdate="20150414T182010Z">
+        <seg>Programar el trabajo para las horas del día, de ser posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If the project requires night work, modify the task to give people the opportunity for adequate rest between night shifts and time to acclimate.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182043Z" creationid="hcartagena" creationdate="20150414T182043Z">
+        <seg>Si el proyecto requiere de trabajo de noche, modificar la tarea para dar a las personas la oportunidad de descansar lo suficiente entre turnos de noche y también tiempo para aclimatarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid switching shifts during your rotation (i.e. stay on night shift or day shift) to allow your body to adjust to the working hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182121Z" creationid="hcartagena" creationdate="20150414T182121Z">
+        <seg>Evitar cambiar turnos durante su rotación (es decir, quedarse en el turno de noche o en el de día) para que el cuerpo se adapte al horario de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working Long Hours</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182128Z" creationid="hcartagena" creationdate="20150414T182128Z">
+        <seg>Horas extra</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working without adequate rest</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181826Z" creationid="hcartagena" creationdate="20150414T181826Z">
+        <seg>Trabajos sin el descanso suficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify hours of work to comply with the Fitness for Duty and Fatigue Management Procedure (SWP 27).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182144Z" creationid="hcartagena" creationdate="20150414T182144Z">
+        <seg>Identificar los horarios de trabajo para cumplir con el Procedimiento de Golder sobre Aptitud para las Labores y Manejo de Fatiga (SWP 27).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All activities should be designed to fit into the standard work day/work shift of 12 hours (including travel time).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182219Z" creationid="hcartagena" creationdate="20150414T182219Z">
+        <seg>Todas las actividades deben estar diseñadas para calzar con la jornada/ turno diario estándar de 12 horas (incluido el tiempo de viaje).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If work exceeds the maximum, a fatigue risk assessment must be conducted and permission sought by PM or OM. Employees shall not drive if the work period has exceeded 14 hours – find alternative methods of transportation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182300Z" creationid="hcartagena" creationdate="20150414T182300Z">
+        <seg>Si el trabajo excede el máximo, debe efectuarse una evaluación de riesgo de fatiga y pedirse permiso al PM u OM. Los empleados no deben conducir si el periodo de trabajo ha superado las 14 horas (encontrar métodos alternativos de transporte).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Terrorism</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T090722Z" creationid="hcartagena" creationdate="20140923T090722Z">
+        <seg>Terrorismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Terrorism</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T090722Z" creationid="hcartagena" creationdate="20140923T090722Z">
+        <seg>Terrorismo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travelers will follow guidelines as to specific hotels to stay in, plus places and locations to avoid.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182339Z" creationid="hcartagena" creationdate="20150414T182339Z">
+        <seg>Los viajeros seguirán las directrices sobre hoteles específicos donde alojar, además de los lugares que deben evitar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travelers will keep abreast of local events.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182345Z" creationid="hcartagena" creationdate="20150414T182345Z">
+        <seg>Mantenerse al tanto de los acontecimientos locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travelers will have working portable communication devices such as cell phones and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182413Z" creationid="hcartagena" creationdate="20150414T182413Z">
+        <seg>Tener aparatos de comunicación portátiles operativos tales como teléfonos celulares y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Manual Handling</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182422Z" creationid="hcartagena" creationdate="20150414T182422Z">
+        <seg>Manipulación de objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Manual Handling</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182422Z" creationid="hcartagena" creationdate="20150414T182422Z">
+        <seg>Manipulación de objetos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Understand the appropriate technique for lifting materials and equipment safely.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182444Z" creationid="hcartagena" creationdate="20150414T182444Z">
+        <seg>Comprender la técnica adecuada para levantar materiales y equipos de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintain good working posture; avoid bending your back and twisting when carrying materials.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182507Z" creationid="hcartagena" creationdate="20150414T182507Z">
+        <seg>Mantener una postura de trabajo correcta; evitar doblar la espalda y torcerla al llevar materiales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep the load close to your body, evenly distributed, and avoid overreaching to reduce stresses on your lower back.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182534Z" creationid="hcartagena" creationdate="20150414T182534Z">
+        <seg>Mantener la carga cerca del cuerpo, bien distribuida, y evitar estirarse demasiado para reducir la tensión en la espalda baja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider separating the material into multiple, lighter more manageable loads.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182553Z" creationid="hcartagena" creationdate="20150414T182553Z">
+        <seg>Contemplar el separar el material en mútliples cargas más livianas y manejables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If the load is too heavy for one person to carry comfortably, ask for help and use a two-person lift and carry.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T182627Z" creationid="hcartagena" creationdate="20150414T182627Z">
+        <seg>Si la carga es demasiado pesada para que una persona la lleve con comodidad, pedir ayuda para levantarla y llevarla entre dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use lifting/carrying aids, such as handcarts, platform trucks, pallet jacks, as needed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183526Z" creationid="hcartagena" creationdate="20150414T183526Z">
+        <seg>Usar ayudas para levantar y llevar carga tales como carros de mano, carros plataforma, patines manuales, si es necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimize carrying distance by positioning work vehicle in a safe area close to the work site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183557Z" creationid="hcartagena" creationdate="20150414T183557Z">
+        <seg>Minimizar la distancia de transporte ubicando el vehículo de trabajo en un área segura cerca de la faena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other surrounding site activities</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183611Z" creationid="hcartagena" creationdate="20150414T183611Z">
+        <seg>Otras actividades alrededor de la faena</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other activities</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183621Z" creationid="hcartagena" creationdate="20150414T183621Z">
+        <seg>Otras actividades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess what other activities are going on around you.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183645Z" creationid="hcartagena" creationdate="20150414T183645Z">
+        <seg>Evaluar qué otras actividades están en curso a su alrededor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider the potential for others to access your work area and delineate the area appropriately.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183707Z" creationid="hcartagena" creationdate="20150414T183707Z">
+        <seg>Considerar la posibilidad de que otros tengan acceso a su área de trabajo y delinearla correctamente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In some circumstances, formal traffic management (bollards, barriers) may be required; in others, your vehicle may suffice to separate you from other activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T183910Z" creationid="hcartagena" creationdate="20150414T183910Z">
+        <seg>En algunos casos, puede requerirse manejo formal del tráfico (bolardos, barreras); en otras, su vehículo puede bastar para separarlo de las demás actividades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Changing Weather Conditions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184200Z" creationid="hcartagena" creationdate="20150414T183918Z">
+        <seg>Condiciones meteorológicas cambiantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Changing Weather Conditions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184200Z" creationid="hcartagena" creationdate="20150414T183918Z">
+        <seg>Condiciones meteorológicas cambiantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess forecasted weather conditions before beginning work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184101Z" creationid="hcartagena" creationdate="20150414T183935Z">
+        <seg>Evaluar las condiciones meteorológicas pronosticadas antes de iniciar los trabajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Postpone activities if weather conditions are not favorable.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184109Z" creationid="hcartagena" creationdate="20150414T183947Z">
+        <seg>Posponer actividades si las condiciones meteorológicas no son favorables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Remain vigilant at all times and continually re-assess weather conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184115Z" creationid="hcartagena" creationdate="20150414T184001Z">
+        <seg>Permanecer vigilante en todo momento y reevaluar constantemente las condiciones meteorológicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider carrying a weather radio with spare batteries.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184055Z" creationid="hcartagena" creationdate="20150414T184026Z">
+        <seg>Considerar el porte de una radio meteorológica con baterías de repuesto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Know how to contact the local weather resources.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184042Z" creationid="hcartagena" creationdate="20150414T184042Z">
+        <seg>Saber cómo contactar a los recursos meteorológicos locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If weather conditions deteriorate, stop work and seek shelter as necessary.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184230Z" creationid="hcartagena" creationdate="20150414T184230Z">
+        <seg>Si las condiciones meteorológicas empeoran, suspender los trabajos y buscar refugio de ser necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Understand who is responsible for suspending work due to extreme weather conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184255Z" creationid="hcartagena" creationdate="20150414T184255Z">
+        <seg>Entender quién es responsable de suspender los trabajos debido a condiciones meteorológicas extremas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sun (SWP 04)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184302Z" creationid="hcartagena" creationdate="20150414T184302Z">
+        <seg>Sol (SWP 04)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sunburn</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184311Z" creationid="hcartagena" creationdate="20150414T184311Z">
+        <seg>Quemaduras solares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sunburn can occur even when the weather is not hot.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184400Z" creationid="hcartagena" creationdate="20150414T184326Z">
+        <seg>Puede haber quemaduras solares aunque no esté caluroso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is possible to get sunburn in the wintertime or on water.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184346Z" creationid="hcartagena" creationdate="20150414T184346Z">
+        <seg>Es posible sufrir una quemadura solar en invierno o al estar en el agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Check UV rating, wear sunscreen, look for shade, protect eyes with shaded glasses.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184429Z" creationid="hcartagena" creationdate="20150414T184429Z">
+        <seg>Verificar los índices UV, usar pantalla solar, buscar la sombra, protegerse los ojos con anteojos sombreados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dust (or airborne particles) – On-site</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184441Z" creationid="hcartagena" creationdate="20150414T184441Z">
+        <seg>Polvo (o partículas aéreas) – In situ</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exposure to dust</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184445Z" creationid="hcartagena" creationdate="20150414T184445Z">
+        <seg>Exposición al polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are many types of hazardous dust that could be encountered on a project site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184505Z" creationid="hcartagena" creationdate="20150414T184505Z">
+        <seg>Hay muchos tipos de polvo peligroso que pueden encontrarse en una faena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exposure to dust can irritate eyes, nose, throat and the upper respiratory system.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184525Z" creationid="hcartagena" creationdate="20150414T184525Z">
+        <seg>La exposición al polvo puede irritar los ojos, la nariz, la garganta y el sistema respiratorio superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some dusts are also skin irritants.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184533Z" creationid="hcartagena" creationdate="20150414T184533Z">
+        <seg>Hay polvo que también irrita la piel.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Determine the type of dust(s) present at the project site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184542Z" creationid="hcartagena" creationdate="20150414T184542Z">
+        <seg>Determinar el tipo de polvo presente en la faena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dusts to consider when assessing this hazard include silica, cement, diesel particulates, Bentonite, asbestos, and heavy metals.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184619Z" creationid="hcartagena" creationdate="20150414T184619Z">
+        <seg>El polvo a tener presente al evaluar este peligro incluye el sílice, cemento, partículas de diesel, bentonita, asbesto y metales pesados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It may be necessary to conduct an industrial hygiene survey of the site to determine if dust concentrations are above nuisance levels.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184720Z" creationid="hcartagena" creationdate="20150414T184720Z">
+        <seg>Puede ser necesario efectuar un estudio de higiene industrial en el sitio para determinar si las concentraciones de polvo están por encima de los niveles dañinos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Develop a control plan to minimize exposures.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184730Z" creationid="hcartagena" creationdate="20150414T184730Z">
+        <seg>Elaborar un plan de control para minimizar la exposición.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Determine the source of the dust and if possible institute engineering controls to reduce levels.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T184747Z" creationid="hcartagena" creationdate="20150414T184747Z">
+        <seg>Determinar la fuente del polvo y si es posible instaurar controles de ingeniería para reducir los niveles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Controls could include, applying water or dust suppression liquids, ventilation system with dust capture and working upwind of the source.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185052Z" creationid="hcartagena" creationdate="20150414T185052Z">
+        <seg>Los controles pueden ser aplicar agua o líquidos supresores de polvo, sistema de ventilación con captura de polvo y trabajar a barlovento de la fuente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use respiratory protection and eye protection, if required.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185110Z" creationid="hcartagena" creationdate="20150414T185110Z">
+        <seg>Usar protección respiratoria y ocular, de ser necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Biological Hazards-Hepatitis, Rabies, Etc.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185126Z" creationid="hcartagena" creationdate="20150414T185126Z">
+        <seg>Peligros biológicos – hepatitis, rabia, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Biological Hazards-Hepatitis, Rabies and Tetanus (SWP 03)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185154Z" creationid="hcartagena" creationdate="20150414T185154Z">
+        <seg>Peligros biológicos – hepatitis, rabia y tétanos (SWP 03)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Obtain a rabies vaccination if working in areas with a known rabies hazard.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185210Z" creationid="hcartagena" creationdate="20150414T185210Z">
+        <seg>Vacunarse contra la rabia si se trabaja en zonas con peligro conocido de rabia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The most common wild reservoirs of rabies are raccoons, skunks, bats, foxes and coyotes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185333Z" creationid="hcartagena" creationdate="20150414T185333Z">
+        <seg>Los portadores silvestres de rabia más comunes son los mapaches, las mofetas, los murciélagos, los zorros y los coyotes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If traveling to areas of known Hepatitis A outbreaks or otherwise at high risk, obtain Hepatitis A vaccinations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185412Z" creationid="hcartagena" creationdate="20150414T185412Z">
+        <seg>Si se viaja a zonas con brotes conocidos de hepatitis A o con alto riesgo, vacunarse contra la hepatitis A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In high risk areas, minimize Hepatitis infection risk by avoiding potentially contaminated water or food, such as drinking beverages (with or without ice) of unknown purity, eating uncooked shellfish, and eating uncooked fruits or vegetables that are not peeled or prepared by you personally.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185516Z" creationid="hcartagena" creationdate="20150414T185516Z">
+        <seg>En zonas de alto riesgo, minimizar el riesgo de infección con hepatitis evitando el agua o los alimentos que podrían estar contaminados tales como las bebidas de pureza dudosa (con o sin hielo), los mariscos sin cocer y las frutas y verduras sin cocer que no estén peladas o no hayan sido preparadas por usted mismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hands shall be washed prior to eating of handling food.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185527Z" creationid="hcartagena" creationdate="20150414T185527Z">
+        <seg>Lavarse las manos antes de comer o manipular comida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>According to the CDC, everyone needs protection from tetanus.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185541Z" creationid="hcartagena" creationdate="20150414T185541Z">
+        <seg>Según los CDC, todos necesitan protección contra el tétanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Make sure you are up to date on your tetanus vaccinations (10-yr boosters).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185625Z" creationid="hcartagena" creationdate="20150414T185625Z">
+        <seg>Asegurarse de estar al día con las vacunas contra el tétanos (revacunación cada 10 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Immediate and proper wound care can also help prevent tetanus infection.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185649Z" creationid="hcartagena" creationdate="20150414T185649Z">
+        <seg>El cuidado inmediato y adecuado de heridas también ayuda a prevenir la infección por tétanos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Security – General</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185655Z" creationid="hcartagena" creationdate="20150414T185655Z">
+        <seg>Seguridad – General</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Security</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185700Z" creationid="hcartagena" creationdate="20150414T185700Z">
+        <seg>Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Discuss any local security issues with client and local authorities, if appropriate.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185735Z" creationid="hcartagena" creationdate="20150414T185735Z">
+        <seg>Analizar cualquier problema local de seguridad con el cliente y las autoridades locales, si procede.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Determine if the client can provide adequate security and evacuation resources.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185831Z" creationid="hcartagena" creationdate="20150414T185750Z">
+        <seg>Determinar si el cliente puede brindar recursos de seguridad y evacuación adecuados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If client cannot provide security or evacuation resources, develop a plan using external resources.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185820Z" creationid="hcartagena" creationdate="20150414T185820Z">
+        <seg>Si el cliente no puede brindar recursos de seguridad o evacuación, elaborar un plan que cuente con recursos externos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Threatening Situations</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185924Z" creationid="hcartagena" creationdate="20150414T185836Z">
+        <seg>Situaciones hostiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Threatening Situations</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185924Z" creationid="hcartagena" creationdate="20150414T185836Z">
+        <seg>Situaciones hostiles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider the area adjacent to and surrounding the work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185853Z" creationid="hcartagena" creationdate="20150414T185853Z">
+        <seg>Considerar el área adyacente y circundante a los trabajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No person shall work alone where there is likely contact with potentially threatening people.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185921Z" creationid="hcartagena" creationdate="20150414T185921Z">
+        <seg>Nadie trabajará solo si hay posibilidad de entrar en contacto con gente hostil.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Make contact with local authorities and agree on a plan to deal with physical threats or violence.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185951Z" creationid="hcartagena" creationdate="20150414T185951Z">
+        <seg>Tomar contacto con las autoridades locales y acordar un plan para lidiar con amenazas físicas o violencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Increase the frequency of check-in calls in situations where additional controls have been implemented due to the risk of threatening situations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190015Z" creationid="hcartagena" creationdate="20150414T190015Z">
+        <seg>Aumentar la frecuencia de las llamadas de chequeo en situaciones en que se hayan implementado controles adicionales debido al riesgo de situaciones hostiles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If work is being conducted after hours in an area stated above, security services shall be engaged.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190045Z" creationid="hcartagena" creationdate="20150414T190045Z">
+        <seg>Si se llevan a cabo trabajos en horas extra en un lugar como el indicado anteriormente, se deben contratar servicios de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency phone numbers shall be readily available at all times.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190125Z" creationid="hcartagena" creationdate="20150414T190125Z">
+        <seg>Los números de teléfono de emergencia deben estar disponibles con facilidad en todo momento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Direct all questions from members of the public regarding the work to the client.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190148Z" creationid="hcartagena" creationdate="20150414T190148Z">
+        <seg>Dirigir todas las preguntas del público respecto de los trabajos al cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unauthorized Access to Work Site and Equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190157Z" creationid="hcartagena" creationdate="20150414T190157Z">
+        <seg>Acceso no autorizado a las faenas y equipos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Security</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T185700Z" creationid="hcartagena" creationdate="20150414T185700Z">
+        <seg>Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where work involves use of machinery or presents a risk to members of the public, one or more of the following controls shall be implemented:- Separate the work area from the public space by installing fencing, barricades or hazard taping depending on the risk of pedestrian access.- Engage the services of a security contractor or similar to prevent public entry to the site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190433Z" creationid="hcartagena" creationdate="20150414T190330Z">
+        <seg>Cuando los trabajos impliquen uso de maquinaria o presenten un riesgo para el público, uno o más de los siguientes controles debe implementarse: –separar el área de trabajo del espacio público instalando cercos, barricadas o cinta indicadora de peligro según sea el riesgo de acceso de peatones. –contratar los servicios de un proveedor de seguridad o similar para impedir que el público ingrese al sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>– Erect signage to alert members of the public to works being undertaken in the area and associated hazards (e.g. excavation).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190402Z" creationid="hcartagena" creationdate="20150414T190402Z">
+        <seg>–Instalar señalética para alertar al público sobre los trabajos en curso en la zona y sus peligros asociados (ej., excavaciones).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Place signage in a clearly visible location on the fencing.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190424Z" creationid="hcartagena" creationdate="20150414T190424Z">
+        <seg>Poner la señalética en un lugar visible sobre los cercos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where possible, remove all equipment from the site at the conclusion of each day's work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190454Z" creationid="hcartagena" creationdate="20150414T190454Z">
+        <seg>De ser posible, retirar todos los equipos del sitio al finalizar los trabajos a diario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If this is not possible, consider a lockable site office.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190512Z" creationid="hcartagena" creationdate="20150414T190512Z">
+        <seg>Si esto no es posible, considerar el uso de una oficina in situ con candado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At end of each workday, any equipment left on site must be secured and de-energized to prevent operation of injury in case of failure (e.g. keys removed and excavator buckets lowered).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190616Z" creationid="hcartagena" creationdate="20150414T190616Z">
+        <seg>Al final de cada jornada, cualquier equipo dejado in situ debe quedar cerrado y sin energía para impedir su operación o lesiones en caso de falla (ej., sin llaves, palas de excavadoras en el suelo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where practicable, fill in all excavations at the end of each day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190629Z" creationid="hcartagena" creationdate="20150414T190629Z">
+        <seg>Si es posible, rellenar todas las excavaciones al final del día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If this is not possible, a 6-foot high fence should be erected around the excavation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190651Z" creationid="hcartagena" creationdate="20150414T190651Z">
+        <seg>De lo contrario, debe erigirse un cerco de 6 pies de altura alrededor de la excavación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Accessing water's edge</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190703Z" creationid="hcartagena" creationdate="20150414T190703Z">
+        <seg>Acceso al borde del agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Accessing water's edge</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190703Z" creationid="hcartagena" creationdate="20150414T190703Z">
+        <seg>Acceso al borde del agua</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify safe and easy access points to the water's edge.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190717Z" creationid="hcartagena" creationdate="20150414T190717Z">
+        <seg>identificar los puntos de acceso seguros y fáciles al borde del agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid sites that have steep, slippery or unstable banks and also sites adjacent to deep, swiftly flowing waters.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190747Z" creationid="hcartagena" creationdate="20150414T190747Z">
+        <seg>Evitar sitios que tengan bancos empinados, resbaladizos o inestables y también los sitios adyacentes a cursos de agua profundos y de flujo rápido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use the buddy system when working near the shoreline.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190803Z" creationid="hcartagena" creationdate="20150414T190803Z">
+        <seg>Trabajar con un compañero cuando se esté cerca de la orilla.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>PFD should be worn for activity near a watercourse where there is potential for drowning.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191223Z" creationid="hcartagena" creationdate="20150414T190858Z">
+        <seg>Deben usarse aparatos flotadores en actividades cercanas a un curso de agua en que haya posibilidad de inmersión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>General Safety</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190903Z" creationid="hcartagena" creationdate="20150414T190903Z">
+        <seg>Seguridad general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Drowning</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190913Z" creationid="hcartagena" creationdate="20150414T190913Z">
+        <seg>Inmersión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T181832Z" creationid="hcartagena" creationdate="20150414T181832Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Follow the Working On or Over Water SWP 25.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190944Z" creationid="hcartagena" creationdate="20150414T190944Z">
+        <seg>Respetar el procedimiento de Trabajo en o sobre Agua SWP 25.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimize time adjacent to or in water.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T190955Z" creationid="hcartagena" creationdate="20150414T190955Z">
+        <seg>Minimizar el tiempo en que se está cerca o en el agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Carry only equipment needed to complete each task.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191010Z" creationid="hcartagena" creationdate="20150414T191010Z">
+        <seg>Llevar solo el equipo necesario para ejecutar cada tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If bags or belts are used to carry equipment, these should be designed to allow for quick release.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191043Z" creationid="hcartagena" creationdate="20150414T191043Z">
+        <seg>Si se usan bolsas o cintos para llevar equipo, deben estar diseñados para librarse de ellos con rapidez.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If there is a danger for drowning, employees shall not work alone above, near, or in the water.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191124Z" creationid="hcartagena" creationdate="20150414T191124Z">
+        <seg>Si hay peligro de inmersión, los empleados no deben trabajar solos cuando se encuentran sobre, cerca o dentro del agua.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Personal floatation device (PFD) (e.g. life jackets) shall be worn for activity near or on water, if potential for drowning exists.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191230Z" creationid="hcartagena" creationdate="20150414T191203Z">
+        <seg>Deben usarse aparatos flotadores (ej., chalecos salvavidas) en actividades cerca o en el agua, si hay posibilidad de inmersión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>PFDs should provide thermal insulation if work is in a cold climate.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191245Z" creationid="hcartagena" creationdate="20150414T191245Z">
+        <seg>Los aparatos flotadores deben proporcionar aislamiento térmico si se trabaja en clima frío.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consider emergency response processes (e.g. rope, life ring) and escape routes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191333Z" creationid="hcartagena" creationdate="20150414T191333Z">
+        <seg>Considerar los procedimientos de respuesta ante emergencia (ej., soga, salvavidas) y vías de escape.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A rope ladder or similar may be needed if the riverbank is steep.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191434Z" creationid="hcartagena" creationdate="20150414T191434Z">
+        <seg>Puede ser necesaria una escalera de soga si la rivera es empinada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consideration shall be given to first aid and emergency.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191452Z" creationid="hcartagena" creationdate="20150414T191452Z">
+        <seg>Se debe considerar los primeros auxilios y las emergencias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A buddy shall be positioned to assist in emergency.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191507Z" creationid="hcartagena" creationdate="20150414T191507Z">
+        <seg>Debe haber un compañero en posición para ayudar en una emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reliable communication device must be available so that emergency services can be contacted if an incident occurs.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191533Z" creationid="hcartagena" creationdate="20150414T191533Z">
+        <seg>Debe haber equipos de comunicación confiables para que se pueda contactar a los servicios de emergencia en caso de un incidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working near unstable slopes</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191542Z" creationid="hcartagena" creationdate="20150414T191542Z">
+        <seg>Trabajo cerca de pendientes inestables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Falling, cave-ins Falls of ground</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T191731Z" creationid="hcartagena" creationdate="20150414T191731Z">
+        <seg>Caídas, derrumbes, subsidencias</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150413T182222Z" creationid="hcartagena" creationdate="20150413T182222Z">
+        <seg>Empleado de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Watch for signs of unstable slopes (tension cracks).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T192242Z" creationid="hcartagena" creationdate="20150414T192242Z">
+        <seg>Estar atento a señales de pendientes inestables (grietas por tensión).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Watch your footing, stay off rocky, steep or unstable slopes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20150414T192300Z" creationid="hcartagena" creationdate="20150414T192300Z">
+        <seg>Estar atento a donde se pisa, mantenerse lejos de pendientes rocosas, empinadas o inestables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>TRAINING</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="unknown" changedate="unknown" creationid="unknown" creationdate="unknown">
+        <seg>CURSOS DE CAPACITACIÓN</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Phone</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141107T095217Z" creationid="hcartagena" creationdate="20141107T095217Z">
+        <seg>satel.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

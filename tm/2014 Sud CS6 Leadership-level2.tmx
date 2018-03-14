@@ -1,0 +1,1105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.0" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="0">&lt;t0/&gt;</ph>P&amp;As to demonstrate and record acts of Visible Safety Leadership each year</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T191828Z" creationid="hcartagena" creationdate="20140514T191828Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Demostrar y registrar los P&amp;A acciones de liderazgo visible en seguridad cada año</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="0">&lt;t0/&gt;</ph>P&amp;As to perform two H&amp;S Site Visits per person, per year, recording them via the NH&amp;SC</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195113Z" creationid="hcartagena" creationdate="20140514T193035Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Hacer los P&amp;A dos visitas personales de salud y seguridad al año y registrarlas mediante el Coordinador Nacional de Salud y Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="0">&lt;t0/&gt;</ph>– This could be walking a new employee through our Health and Safety policy for example, or explaining a new policy e.g. Journey Management to experienced staff.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T225401Z" creationid="hcartagena" creationdate="20140514T225401Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>: Podría ser un paseo a un colaborador nuevo por la política de salud y seguridad, por ejemplo, o explicarle una política nueva, como la de gestión de viajes, al personal con más experiencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Hand injuries are by far the most prevalent type of injury sustained by our staff over the last few years.  Please check to see if safety gloves are being worn by staff on site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170523Z" creationid="hcartagena" creationdate="20140509T200334Z">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Las lesiones en las manos son sobradamente el tipo de lesión más común que ha sufrido nuestro personal en los últimos años. Verifica que el personal en terreno esté usando guantes de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="1">&lt;t1/&gt;</ph>This allows the organisation as a whole to learn from your site visit.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170600Z" creationid="hcartagena" creationdate="20140512T152750Z">
+        <seg><ph x="1">&lt;t1/&gt;</ph>Así la organización en su conjunto aprenderá de ella.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A P&amp;A site visit <ph x="0">&lt;t0/&gt;</ph>raises the awareness of how important H&amp;S is to all <ph x="1">&lt;t1/&gt;</ph>(our employees, our suppliers and our clients);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T193426Z" creationid="hcartagena" creationdate="20140512T193426Z">
+        <seg>Una visita a terreno de los P&amp;A <ph x="0">&lt;t0/&gt;</ph>aumenta la conciencia sobre la importancia de la salud y seguridad para todos<ph x="1">&lt;t1/&gt;</ph> (nuestros colaboradores, proveedores y clientes).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A large box was stored on the top shelf.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140513T155612Z" creationid="hcartagena" creationdate="20140512T172930Z">
+        <seg>Una caja grande almacenada en el estante superior.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Access was blocked or hindered.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170848Z" creationid="hcartagena" creationdate="20140512T170848Z">
+        <seg>Acceso bloqueado o restringido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Activities to be recorded by P&amp;As using the global activity codes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193856Z" creationid="hcartagena" creationdate="20140514T193856Z">
+        <seg>Los P&amp;A registrarán las actividades usando los códigos globales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>After the visit: <ph x="0">&lt;t0/&gt;</ph>Please ensure that the learnings from your site visit are entered onto the LDB.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170554Z" creationid="hcartagena" creationdate="20140512T152731Z">
+        <seg>Después de la visita: <ph x="0">&lt;t0/&gt;</ph>Asegúrate de que se hayan ingresado los learnings de tu visita en la LDB.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All OpCos have BST: <ph x="0">&lt;t0/&gt;</ph>All European OpCos are scheduled to be using BST by Q2 2015 at the latest.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193839Z" creationid="hcartagena" creationdate="20140514T193832Z">
+        <seg>Todas las operaciones tienen BST<ph x="0">&lt;t0/&gt;</ph>: Todas las operaciones tienen programado usar BST para el T2 2015 al menos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>All Principals and Associates are still required to complete a minimum of two H&amp;S Site Visits per person, per year</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185523Z" creationid="hcartagena" creationdate="20140514T182612Z">
+        <seg>Todos los P&amp;A deben seguir haciendo al menos dos visitas de salud y seguridad al año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Attendance at Health and Safety Committee Meetings</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185615Z" creationid="hcartagena" creationdate="20140514T185549Z">
+        <seg>Asistencia a las reuniones del Comité de Salud y Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Attendance at Health and Safety Committee Meetings – <ph x="0">&lt;t0/&gt;</ph>The experience, knowledge and influence of P&amp;As make their attendance invaluable at a Health and Safety committee meeting.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T221707Z" creationid="hcartagena" creationdate="20140512T221707Z">
+        <seg>Asistencia a las reuniones del comité de salud y seguridad: <ph x="0">&lt;t0/&gt;</ph>La experiencia, conocimientos e influencia de los P&amp;A son un aporte muy valioso en una reunión del comité de salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Attendance at Health and Safety Committee Meetings;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185604Z" creationid="hcartagena" creationdate="20140512T214741Z">
+        <seg>Asistencia a las reuniones del Comité de Salud y Seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>BST Implementation Timeline:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195411Z" creationid="hcartagena" creationdate="20140515T195411Z">
+        <seg>Línea de tiempo de implementación del BST:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Before the visit<ph x="0">&lt;t0/&gt;</ph>: <ph x="1">&lt;t1/&gt;</ph>Please review the learnings for the site or client on the LDB<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T165013Z" creationid="hcartagena" creationdate="20140509T195519Z">
+        <seg>Antes de la visita<ph x="0">&lt;t0/&gt;</ph>: <ph x="1">&lt;t1/&gt;</ph>Revisa los learnings del sitio o cliente en la LDB<ph x="2">&lt;t2/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Check if knives are being used for tasks that would be more safely accomplished by other tools such as safety shears, junior hacksaws, cable strippers etc.  This would be valuable scrutiny and help avoid future injuries.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170541Z" creationid="hcartagena" creationdate="20140512T152705Z">
+        <seg>Comprueba si se están usando cuchillos para ejecutar tareas que serían más seguras con otras herramientas tales como guillotinas, sierras, pelacables, etc. Se trataría de un valioso escrutinio que ayudaría a evitar lesiones futuras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Conducting a quality review for a HaSEP;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215259Z" creationid="hcartagena" creationdate="20140512T215259Z">
+        <seg>Llevar a cabo una revisión de calidad de los HaSEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Conducting quality reviews for Job Safety Analysis <ph x="0">&lt;t0/&gt;</ph>– Job Safety Analysis may identify previously undetected hazards and increase the understanding of those participating therefore P&amp;As with their experience and knowledge are ideally placed to review these activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T210223Z" creationid="hcartagena" creationdate="20140514T210223Z">
+        <seg>Hacer revisiones de calidad de los Análisis de Seguridad Laboral:<ph x="0">&lt;t0/&gt;</ph> Los análisis pueden identificar peligros no detectados anteriormente y mejorar la comprensión de quienes participan, por ello los P&amp;A, con su experiencia y conocimiento, son los llamados a revisar estas actividades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Conducting quality reviews for Job Safety Analysis/Method Statements</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T210337Z" creationid="hcartagena" creationdate="20140514T185825Z">
+        <seg>Hacer revisiones de calidad de los Análisis de Seguridad Laboral/Instrucciones de Ejecución</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Currently the BST codes for visible safety leadership activities have not yet been inserted but this will occur shortly.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195337Z" creationid="hcartagena" creationdate="20140515T195337Z">
+        <seg>Los códigos del BST para las actividades de liderazgo visible en seguridad no se han agregado todavía, pero esto se hará en breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Delivering health and safety training</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T191010Z" creationid="hcartagena" creationdate="20140514T191010Z">
+        <seg>Ofrecer capacitación en salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Delivering health and safety training <ph x="0">&lt;t0/&gt;</ph>– Self explanatory.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T225301Z" creationid="hcartagena" creationdate="20140514T225301Z">
+        <seg>Ofrecer capacitación en salud y seguridad:<ph x="0">&lt;t0/&gt;</ph> No necesita explicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Delivery of safety training.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215344Z" creationid="hcartagena" creationdate="20140512T215344Z">
+        <seg>Ofrecer capacitación en seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170755Z">
+        <seg>Descripción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>During the visit<ph x="0">&lt;t0/&gt;</ph>: Please focus on our measures to reduce hand injuries.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170508Z" creationid="hcartagena" creationdate="20140509T200223Z">
+        <seg>Durante la visita<ph x="0">&lt;t0/&gt;</ph>: Centra tu atención en nuestras medidas para reducir lesiones en las manos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Encourage P&amp;As to show leadership in health and safety.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T182224Z" creationid="hcartagena" creationdate="20140514T182219Z">
+        <seg>Alienta a los P&amp;A a demostrar liderazgo en salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Europe as a region is under reporting learnings and it is vital that Principals and Associates demonstrate leadership on this issue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T163459Z" creationid="hcartagena" creationdate="20140512T163459Z">
+        <seg>Europa es una región que está ingresando pocos learnings y es esencial que los Principals y Asociados demuestren su liderazgo en este aspecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Eventually all OpCos will record activities through BST.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195354Z" creationid="hcartagena" creationdate="20140515T195354Z">
+        <seg>A la larga, todas las operaciones registrarán las actividades mediante el BST.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Expand the focus of safety leadership from purely P&amp;A visits to also include a wider spectrum of visible safety leadership activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T182258Z" creationid="hcartagena" creationdate="20140514T182258Z">
+        <seg>Amplía el foco del liderazgo en seguridad de la simple visita de P&amp;A a un espectro más amplio de actividades de liderazgo visible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FAQ:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T171504Z" creationid="hcartagena" creationdate="20140514T171504Z">
+        <seg>Preguntas frecuentes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Finally, as explained in the email of 05/03/14 and the presentation of 12/03/2014 and 01/04/14, from 2014 instead of purely focussing on completing P&amp;A visits, the global Golder approach has been refreshed and we need to record examples of ‘visible safety leadership’.  We are required to still complete the two P&amp;A visits per person, per year, but this initiative allows us to record and celebrate a far wider range of safety leadership behaviours, many of which we already do.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T212135Z" creationid="hcartagena" creationdate="20140512T212135Z">
+        <seg>Por último, como se explicó en el email del 05/03/2014 y en la presentación hecha el 12/03/2014 y 01/04/2014, a partir de 2014, en lugar de centrarnos solo en llevar a cabo las visitas de los P&amp;A, hemos renovado el planteamiento global de Golder y necesitamos registrar ejemplos de “liderazgo visible en seguridad”. Se nos sigue exigiendo hacer las dos visitas de P&amp;A por persona al año, pero esta iniciativa nos permite registrar y elogiar una gama mucho más amplia de conductas de liderazgo en seguridad, muchas de las cuales ya manifestamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For the visits completed this month key H&amp;S lessons learnt include:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170744Z" creationid="hcartagena" creationdate="20140512T170744Z">
+        <seg>Para las visitas que se hagan este mes, las lecciones clave aprendidas en salud y seguridad son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>H&amp;S Site Visits are valuable interaction with employees, clients and stakeholders.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T182541Z" creationid="hcartagena" creationdate="20140514T182541Z">
+        <seg>Las visitas a terreno de salud y seguridad son una excelente manera de interactuar con colaboradores, clientes y grupos de interés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HOW WILL THIS BENEFIT GOLDER IN EUROPE?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220024Z" creationid="hcartagena" creationdate="20140512T220024Z">
+        <seg>¿CÓMO SE BENEFICIARÁ GOLDER EN EUROPA CON ESTO?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HSE = Health, Safety and Environmental.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T225722Z" creationid="hcartagena" creationdate="20140514T225722Z">
+        <seg>HSE = sigla en inglés para salud, seguridad y medio ambiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HSE interaction with high risk staff (New, young, vulnerable workers or contractors).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T205936Z" creationid="hcartagena" creationdate="20140514T205936Z">
+        <seg>Interacción en temas de HSE con el personal que representa un riesgo alto (trabajadores nuevos, jóvenes y vulnerables, subcontratistas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HSE interaction with high risk staff (e.g. new, young, vulnerable workers or contractors);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T170809Z" creationid="hcartagena" creationdate="20140512T215248Z">
+        <seg>Interacción en temas de HSE con el personal que representa un riesgo alto (ej.: trabajadores nuevos, jóvenes y vulnerables, subcontratistas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HSE interaction with high risk staff <ph x="0">&lt;t0/&gt;</ph>(new, young, vulnerable workers or contractors).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185754Z" creationid="hcartagena" creationdate="20140514T185754Z">
+        <seg>Interacción en temas de HSE con el personal que representa un riesgo alto <ph x="0">&lt;t0/&gt;</ph>(trabajadores nuevos, jóvenes y vulnerables, subcontratistas)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If they are hand written, <ph x="0">&lt;t0/&gt;</ph>please write legibly <ph x="1">&lt;t1/&gt;</ph>so they can be fully understood; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T170153Z" creationid="hcartagena" creationdate="20140512T202006Z">
+        <seg>Si los escribes a mano, <ph x="0">&lt;t0/&gt;</ph>hazlo con letra legible <ph x="1">&lt;t1/&gt;</ph>para facilitar su comprensión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Implications</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170807Z" creationid="hcartagena" creationdate="20140512T170807Z">
+        <seg>Implicaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In many of our <ph x="0">&lt;t0/&gt;</ph>clients’ <ph x="1">&lt;t1/&gt;</ph>industries (for example, nuclear and oil and gas) there is an expectation that our seniors will visit site to assess H&amp;S performance; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T194026Z" creationid="hcartagena" creationdate="20140512T194026Z">
+        <seg>En muchas de las industrias de nuestros <ph x="0">&lt;t0/&gt;</ph>clientes<ph x="1">&lt;t1/&gt;</ph> (por ejemplo, energía nuclear, petróleo y gas) existe la expectativa de que nuestros ‘seniors’ hagan una visita a terreno para evaluar el desempeño en salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In order for us to move further towards an interdependent safety culture we need the seniors (including P&amp;As) to show visible leadership in health and safety.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220158Z" creationid="hcartagena" creationdate="20140512T220158Z">
+        <seg>Para ir avanzando hacia una cultura de interdependencia en seguridad, necesitamos que los seniors (lo que incluye a los P&amp;A) demuestren liderazgo visible en salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In order to make it easier to collect the learnings and examples of positive observations:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T201803Z" creationid="hcartagena" creationdate="20140512T201803Z">
+        <seg>A fin de facilitar la recolección de learnings y ejemplos de observaciones positivas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In recent years, the P&amp;As have been asked to complete site visits and we are now expanding this to ask them to demonstrate and record additional H&amp;S leadership behaviours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T171000Z" creationid="hcartagena" creationdate="20140512T220241Z">
+        <seg>En los últimos años, se ha pedido a los P&amp;A que hagan visitas a terreno y ahora queremos ampliar esto y pedirles que demuestren y registren otras conductas de liderazgo en salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the past we have used Principal and Associate (P&amp;A) visits and two yearly culture surveys as our measure of visible HSE leadership for P&amp;A’s.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220909Z" creationid="hcartagena" creationdate="20140512T220909Z">
+        <seg>Antes usábamos las visitas de los Principals y Asociados (P&amp;A) y dos encuestas anuales de cultura para medir el liderazgo visible en HSE de los P&amp;A.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inform senior staff of the different aspects of safety leadership.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T182221Z" creationid="hcartagena" creationdate="20140514T180708Z">
+        <seg>Informa al personal senior de los distintos aspectos del liderazgo en seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Information for <ph x="0">&lt;t0/&gt;</ph>OpCo<ph x="1">&lt;t1/&gt;</ph> to be tracked by NH&amp;SC</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T194000Z" creationid="hcartagena" creationdate="20140514T193938Z">
+        <seg>La información para la <ph x="0">&lt;t0/&gt;</ph>operación<ph x="1">&lt;t1/&gt;</ph> será rastreada por el Coordinador Nacional de Salud y Seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Information for <ph x="0">&lt;t0/&gt;</ph>OpCo<ph x="1">&lt;t1/&gt;</ph> to be tracked by NH&amp;SC.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193927Z" creationid="hcartagena" creationdate="20140514T193927Z">
+        <seg>La información para la <ph x="0">&lt;t0/&gt;</ph>operación<ph x="1">&lt;t1/&gt;</ph> será rastreada por el Coordinador Nacional de Salud y Seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep the area in front of the shelves and other storage areas clear at all times to allow safe access and egress.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T172910Z" creationid="hcartagena" creationdate="20140512T172910Z">
+        <seg>Mantener el área frente a los estantes y otras áreas de almacenamiento despejadas en todo momento para permitir un acceso y salida con seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Leadership of our seniors helps reinforce and support the goal of an interdependent safety culture.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220959Z" creationid="hcartagena" creationdate="20140512T220959Z">
+        <seg>El liderazgo de nuestros seniors ayuda a fortalecer y apoyar la meta de alcanzar una cultura de seguridad interdependiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Let’s remind ourselves why these P&amp;A visits are so important?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T173100Z" creationid="hcartagena" creationdate="20140512T173100Z">
+        <seg>Recordemos por qué estas visitas de P&amp;A son tan importantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Looking after the H&amp;S of our employees is <ph x="0">&lt;t0/&gt;</ph>morally <ph x="1">&lt;t1/&gt;</ph>the <ph x="2">&lt;t2/&gt;</ph>right <ph x="3">&lt;t3/&gt;</ph>thing to do;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140513T155719Z" creationid="hcartagena" creationdate="20140512T173635Z">
+        <seg>Cuidar la salud y seguridad de nuestros colaboradores es <ph x="0">&lt;t0/&gt;</ph>lo <ph x="1">&lt;t1/&gt;</ph><ph x="2">&lt;t2/&gt;</ph>éticamente correcto<ph x="3">&lt;t3/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Measuring Visible Safety Leadership</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220005Z" creationid="hcartagena" creationdate="20140512T220005Z">
+        <seg>Medición del liderazgo visible en seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Not all GAE <ph x="1">&lt;t1/&gt;</ph>OpCo’s<ph x="2">&lt;t2/&gt;</ph> use JSA.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T210243Z" creationid="hcartagena" creationdate="20140514T210243Z">
+        <seg>No todas las <ph x="1">&lt;t1/&gt;</ph>operaciones<ph x="2">&lt;t2/&gt;</ph> de GAE usan los Análisis de Seguridad Laboral.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220323Z" creationid="hcartagena" creationdate="20140512T220323Z">
+        <seg>Nota:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Objects stored on the floor in front of the shelves where sampling containers were stored.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170839Z" creationid="hcartagena" creationdate="20140512T170839Z">
+        <seg>Objetos situados en el suelo frente a los estantes donde se almacenan contenedores de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On your visit form please specifically highlight any new risks raised and we will include your feedback in future emails.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170704Z" creationid="hcartagena" creationdate="20140512T170704Z">
+        <seg>Resalta específicamente cualquier riesgo nuevo en el formulario de tu visita. Nosotros incluiremos ese feedback en emails futuros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OpCos with BST<ph x="0">&lt;t0/&gt;</ph>:  Activities to be recorded by P&amp;As using the global activity codes in BST.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193332Z" creationid="hcartagena" creationdate="20140514T193332Z">
+        <seg>Operaciones con BST<ph x="0">&lt;t0/&gt;</ph>: Los P&amp;A registrarán las actividades usando los códigos en BST.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>OpCos without BST<ph x="0">&lt;t0/&gt;</ph>:  Activities to be recorded  by P&amp;As emailing the NH&amp;SC, stating the duration, date and details of the visible leadership behaviours they have performed (aligned to BST).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193755Z" creationid="hcartagena" creationdate="20140514T193755Z">
+        <seg>Operación sin BST<ph x="0">&lt;t0/&gt;</ph>: Los P&amp;A registrarán las actividades enviando un email al Coordinador Nacional de Salud y Seguridad, indicando la duración, fecha y detalles de las conductas visibles de liderazgo demostradas (en consonancia con el BST).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Our staff stated they wished to see more seniors in the field in the most recent health and safety survey; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T200335Z" creationid="hcartagena" creationdate="20140512T200335Z">
+        <seg>Nuestro personal ha manifestado en la encuesta de salud y seguridad más reciente su deseo de ver a más seniors en terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A H&amp;S visits are a great example of <ph x="0">&lt;t0/&gt;</ph>active mentoring <ph x="1">&lt;t1/&gt;</ph>by supporting and encouraging employees to develop their skills and improve their health and safety performance.  There is an appetite for this mentoring.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T165933Z" creationid="hcartagena" creationdate="20140512T200131Z">
+        <seg>Las visitas de salud y seguridad de los P&amp;A son un excelente ejemplo de <ph x="0">&lt;t0/&gt;</ph>‘mentoring’ activo<ph x="1">&lt;t1/&gt;</ph> cuando se brinda apoyo y se motiva a los colaboradores a desarrollar sus habilidades y a mejorar su desempeño en salud y seguridad. Existe una demanda por este tipo de mentoring.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A H&amp;S visits are an essential element of our <ph x="0">&lt;t0/&gt;</ph>Code of Conduct <ph x="1">&lt;t1/&gt;</ph>‘<ph x="2">&lt;t2/&gt;</ph>to protect the health and safety of all our employees by providing knowledge, tools and support’;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140513T203346Z" creationid="hcartagena" creationdate="20140512T193248Z">
+        <seg>Las visitas de salud y seguridad de los P&amp;A son un elemento esencial de nuestro <ph x="0">&lt;t0/&gt;</ph>Código de Conducta<ph x="1">&lt;t1/&gt;</ph> de <ph x="2">&lt;t2/&gt;</ph>“protección de la salud y seguridad de todos nuestros colaboradores, brindándoles conocimientos, herramientas y apoyo”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A H&amp;S visits reflect our <ph x="0">&lt;t0/&gt;</ph>Core Values <ph x="1">&lt;t1/&gt;</ph>of <ph x="2">&lt;t2/&gt;</ph>caring <ph x="3">&lt;t3/&gt;</ph>for our colleagues and of <ph x="4">&lt;t4/&gt;</ph>ownership<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T192905Z" creationid="hcartagena" creationdate="20140512T192905Z">
+        <seg>Las visitas de salud y seguridad de los P&amp;A reflejan nuestros <ph x="0">&lt;t0/&gt;</ph>valores centrales<ph x="1">&lt;t1/&gt;</ph> de <ph x="2">&lt;t2/&gt;</ph>solidaridad <ph x="3">&lt;t3/&gt;</ph>con nuestros colegas y de <ph x="4">&lt;t4/&gt;</ph>propiedad<ph x="5">&lt;t5/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A H&amp;S visits show <ph x="0">&lt;t0/&gt;</ph>real leadership <ph x="1">&lt;t1/&gt;</ph>and commitment to the H&amp;S of our colleagues;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140513T203624Z" creationid="hcartagena" creationdate="20140512T193919Z">
+        <seg>Las visitas de salud y seguridad de los P&amp;A demuestran <ph x="0">&lt;t0/&gt;</ph>auténtico liderazgo<ph x="1">&lt;t1/&gt;</ph> y compromiso con la salud y seguridad de nuestros colegas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A HSE Site Visits 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215900Z" creationid="hcartagena" creationdate="20140512T215900Z">
+        <seg>Visitas a terreno de HSE de los P&amp;A en 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A visits are a practical demonstration of our <ph x="0">&lt;t0/&gt;</ph>move towards an interdependent health and safety culture<ph x="1">&lt;t1/&gt;</ph>;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T193353Z" creationid="hcartagena" creationdate="20140512T193353Z">
+        <seg>Las visitas de los P&amp;A son una demostración práctica de nuestro <ph x="0">&lt;t0/&gt;</ph>camino hacia una cultura interdependiente de salud y seguridad<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;A visits are still very highly valued by Golder and are here to stay.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220711Z" creationid="hcartagena" creationdate="20140512T220711Z">
+        <seg>Las visitas de P&amp;A siguen siendo muy valoradas por Golder y seguiremos haciéndolas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;As are STILL REQUIRED to complete 2 HSE site visits per year.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220732Z" creationid="hcartagena" creationdate="20140512T220732Z">
+        <seg>TODAVÍA SE REQUIERE que los P&amp;A hagan 2 visitas a terreno de HSE al año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;As to demonstrate and record visible safety leadership behaviours each year.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T230604Z" creationid="hcartagena" creationdate="20140514T230604Z">
+        <seg>Demostrar y registrar los P&amp;A acciones de liderazgo visible en seguridad cada año.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>P&amp;As to perform two H&amp;S Site Visits per person, per year, recording them via the NH&amp;SC.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195016Z" creationid="hcartagena" creationdate="20140514T230447Z">
+        <seg>Hacer los P&amp;A dos visitas personales de salud y seguridad al año y registrarlas mediante el Coordinador Nacional de Salud y Seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Participating as a Health and Safety  ‘Subject Matter Expert’ for development of policy, standard or program.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T221334Z" creationid="hcartagena" creationdate="20140514T215029Z">
+        <seg>Participación como “experto en el tema” de salud y seguridad en el desarrollo de una política, norma o programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Participating as a Health and Safety Subject Matter Expert for policy, standard or program development.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T223600Z" creationid="hcartagena" creationdate="20140514T190927Z">
+        <seg>Participación como experto en temas de salud y seguridad en el desarrollo de una política, norma o programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Participating on a high risk panel review <ph x="0">&lt;t0/&gt;</ph>– P&amp;As on the GAE High-Risk International Working Review Panel liaising with the traveller, reviewing documentation, offering advice and guidance on health, safety and security matters.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T205724Z" creationid="hcartagena" creationdate="20140514T205724Z">
+        <seg>Participación en una revisión de panel de alto riesgo<ph x="0">&lt;t0/&gt;</ph>: Los P&amp;A en el Panel de Revisión de Trabajo Internacional de Alto Riesgo de GAE que se vinculan con los viajeros, revisan documentación, ofrecen consejos y orientación en temas de salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Participation as a Health and Safety ‘subject matter expert’ in the development of a policy, standard or program;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T214859Z" creationid="hcartagena" creationdate="20140512T214859Z">
+        <seg>Participación como experto en salud y seguridad en el desarrollo de una política, norma o programa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Participation in the GAE High Risk International Working Review Panel</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185732Z" creationid="hcartagena" creationdate="20140514T185732Z">
+        <seg>Participación en el Panel de Revisión de Trabajo Internacional de Alto Riesgo de GAE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Participation in the GAE High Risk International Working Review Panel;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215144Z" creationid="hcartagena" creationdate="20140512T215144Z">
+        <seg>Participación en el Panel de Revisión de Trabajo Internacional de Alto Riesgo de GAE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Placing HSE on a meeting agenda</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185722Z" creationid="hcartagena" creationdate="20140514T185722Z">
+        <seg>Agregar temas de HSE a una agenda de reunión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Placing HSE on a meeting agenda <ph x="0">&lt;t0/&gt;</ph>– Though a meeting may be primarily focussed on an area other than health, safety and environmental management, there will always be HSE related implications for any Golder project, therefore placing HSE on a meeting agenda to be discussed is a significant visible safety leadership behaviour.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T204927Z" creationid="hcartagena" creationdate="20140514T204927Z">
+        <seg>Agregar temas de HSE a una agenda de reunión<ph x="0">&lt;t0/&gt;</ph>: Si bien el foco principal de una reunión puede estar en un área distinta de la gestión en salud, seguridad y medio ambiente, siempre habrá implicaciones de HSE en cualquier proyecto de Golder, motivo por el que poner el tema de HSE en una agenda de reunión es una conducta importante de liderazgo visible en seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Placing HSE on a meeting agenda;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T214818Z" creationid="hcartagena" creationdate="20140512T214818Z">
+        <seg>Agregar temas de HSE a una agenda de reunión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please fully complete the P&amp;A visit forms with full explanations;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T201939Z" creationid="hcartagena" creationdate="20140512T201939Z">
+        <seg>Rellena los formularios de visita de P&amp;A por completo con explicaciones detalladas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Please write learnings with the clear point you are trying to make.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T202037Z" creationid="hcartagena" creationdate="20140512T202037Z">
+        <seg>Escribe learnings que describan el argumento con claridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Purely completing and recording P&amp;A visits does not fully recognize the role that the P&amp;A group plays on H&amp;S leadership.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T194118Z" creationid="hcartagena" creationdate="20140514T194118Z">
+        <seg>Hacer y registrar las visitas de P&amp;A no es suficiente demostración del papel que representa el grupo de P&amp;A en cuanto al liderazgo en salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Questions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220043Z" creationid="hcartagena" creationdate="20140512T220043Z">
+        <seg>Preguntas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Recommendations</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170809Z">
+        <seg>Recomendaciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Recording Visible Safety Leadership</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215955Z" creationid="hcartagena" creationdate="20140512T215955Z">
+        <seg>Registro del liderazgo visible en seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regardless of whether or not an <ph x="0">&lt;t0/&gt;</ph>OpCo<ph x="1">&lt;t1/&gt;</ph> is using BST to record visible safety leadership behaviours, <ph x="2">&lt;t2/&gt;</ph>It is the NH&amp;SC’s responsibility to track this information for the <ph x="3">&lt;t3/&gt;</ph>OpCo<ph x="4">&lt;t4/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195642Z" creationid="hcartagena" creationdate="20140515T195642Z">
+        <seg>Con independencia de que una <ph x="0">&lt;t0/&gt;</ph>operación<ph x="1">&lt;t1/&gt;</ph> esté usando BST para registrar conductas de liderazgo visible en seguridad, <ph x="2">&lt;t2/&gt;</ph>es responsabilidad del Coordinador Nacional de Salud y Seguridad rastrear esta información para la <ph x="3">&lt;t3/&gt;</ph>operación<ph x="4">&lt;t4/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Review of HaSEPs;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215151Z" creationid="hcartagena" creationdate="20140512T215151Z">
+        <seg>Revisión de los HaSEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reviewing <ph x="0">&lt;t0/&gt;</ph>HaSEPs</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T185740Z" creationid="hcartagena" creationdate="20140514T185740Z">
+        <seg>Revisión de los <ph x="0">&lt;t0/&gt;</ph>HaSEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reviewing <ph x="0">&lt;t0/&gt;</ph>HaSEPs<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>– self explanatory</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T205751Z" creationid="hcartagena" creationdate="20140514T205751Z">
+        <seg>Revisión de <ph x="0">&lt;t0/&gt;</ph>HaSEP<ph x="1">&lt;t1/&gt;</ph> <ph x="2">&lt;t2/&gt;</ph>: no necesita explicación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Risk that the box will fall off the shelf.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T172937Z" creationid="hcartagena" creationdate="20140512T172937Z">
+        <seg>Riesgo de caída de la caja.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some P&amp;As and seniors were already showing other examples of visible safety leadership but these were not being recorded.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T194402Z" creationid="hcartagena" creationdate="20140514T194402Z">
+        <seg>Algunos P&amp;A y seniors ya estaban dando otros ejemplos de liderazgo visible en seguridad, pero no se estaban registrando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some people aren't used to an environment where excellence is expected.”</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T174526Z" creationid="hcartagena" creationdate="20140514T174526Z">
+        <seg>Hay quienes no acostumbran estar en un entorno donde lo que se espera es la excelencia”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Stage 1 - Short Term (Now)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193102Z" creationid="hcartagena" creationdate="20140514T193102Z">
+        <seg>Etapa 1 - Corto plazo (ahora)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Stage 2 - Medium Term (Q2 2015)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T193411Z" creationid="hcartagena" creationdate="20140514T193411Z">
+        <seg>Etapa 2 - Mediano plazo (2T 2015)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store boxes in a secure way to ensure that they cannot fall.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T173040Z" creationid="hcartagena" creationdate="20140512T173040Z">
+        <seg>Almacenar las cajas de manera segura para impedir que caigan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The <ph x="0">&lt;t0/&gt;</ph>Global Business Plan ‘Delivering our Strategy’ 2013-2015 <ph x="1">&lt;t1/&gt;</ph>states that regarding H&amp;S ‘visible leadership of our senior consultants and managers helps to reinforce and support the goal of interdependence’.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T212242Z" creationid="hcartagena" creationdate="20140512T212242Z">
+        <seg>El documento <ph x="0">&lt;t0/&gt;</ph>Global Business Plan ‘Delivering our Strategy’ 2013-2015<ph x="1">&lt;t1/&gt;</ph> señala con respecto a la salud y seguridad que “el liderazgo visible de nuestros consultores y gerentes senior ayudan a fortalecer y apoyar la meta de la interdependencia”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Global Business Plan “<ph x="0">&lt;t0/&gt;</ph>Delivering our Strategy” 2013-2015 <ph x="1">&lt;t1/&gt;</ph>identifies additional examples of visible safety leadership.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T182341Z" creationid="hcartagena" creationdate="20140514T182341Z">
+        <seg>El plan global de negocios “<ph x="0">&lt;t0/&gt;</ph>Delivering our Strategy” 2013-2015<ph x="1">&lt;t1/&gt;</ph> identifica ejemplos adicionales de liderazgo visible en seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The completion of a H&amp;S site visit is an important method of demonstrating visible, felt leadership</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T182504Z" creationid="hcartagena" creationdate="20140514T182504Z">
+        <seg>Una visita a terreno de salud y seguridad es importante para demostrar liderazgo visible y palpable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The document identifies the following examples of visible leadership, in field visits, staff interactions and office contributions:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T214731Z" creationid="hcartagena" creationdate="20140512T214731Z">
+        <seg>El documento identifica los siguientes ejemplos de liderazgo visible, en las visitas a terreno, en las interacciones con el personal y en las contribuciones en la oficina:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The expansion of leadership activities allows all seniors to be visible H&amp;S leaders.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T194427Z" creationid="hcartagena" creationdate="20140514T194427Z">
+        <seg>La ampliación de las actividades de liderazgo permite a todos los seniors ser líderes visibles en salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The expansion shall BUILD-ON P&amp;A visits, NOT replace them.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220808Z" creationid="hcartagena" creationdate="20140512T220808Z">
+        <seg>Será en añadidura a las visitas de P&amp;A, no en su reemplazo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There are many other ways P&amp;A’s (and all employees) can demonstrate HSE Leadership.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220932Z" creationid="hcartagena" creationdate="20140512T220932Z">
+        <seg>Hay muchas otras maneras en que los P&amp;A (y todos los colaboradores) pueden demostrar el liderazgo en HSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These behaviours include (reveal slides):</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T221056Z" creationid="hcartagena" creationdate="20140512T221056Z">
+        <seg>Estas conductas son (mostrar las diapositivas):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This gives you the chance to check if the site or office has learnt the lessons previously raised and has updated their HaSEPs/risk assessments; and check how many learnings have been reported from that site or office to see if staff are engaged in reporting and sharing learnings.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170502Z" creationid="hcartagena" creationdate="20140509T195700Z">
+        <seg>Así tendrás la posibilidad de saber si el sitio u oficina ha aprendido las lecciones previas y si ha actualizado sus HaSEP/evaluaciones de riesgo. Además, podrás saber cuántos learnings se han informado desde ese sitio u oficina para ver si el personal está participando en la creación y difusión de learnings.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This is reflected in the Global Business Plan 2013-15, which states that the visible safety leadership activities from P&amp;A’s will be expanded to include more than just visits and audits.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T221042Z" creationid="hcartagena" creationdate="20140512T221042Z">
+        <seg>Esto se refleja en el Plan Global de Negocios 2013-2015, que indica que se ampliarán las actividades de liderazgo visible en seguridad de los P&amp;A para que incluyan más que solo visitas y auditorías.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This presentation explains these changes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220249Z" creationid="hcartagena" creationdate="20140512T220249Z">
+        <seg>Esta presentación explica los cambios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide contains click-by-click animation so the presenter can carefully explain the content at their own pace.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220620Z" creationid="hcartagena" creationdate="20140512T220620Z">
+        <seg>Esta diapositiva contiene una animación que funciona haciendo clic a fin de que el presentador explique en detalle el contenido a su propio ritmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide contains click-by-click animation so the presenter can carefully<ph x="0">&lt;t0/&gt;</ph> explain the content at their own pace.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T204459Z" creationid="hcartagena" creationdate="20140512T220439Z">
+        <seg>La animación en esta diapositiva se activa al hacer clic para que el presentador <ph x="0">&lt;t0/&gt;</ph>explique el contenido a su propio ritmo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide highlights the continued importance of P&amp;A visits, notably:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220644Z" creationid="hcartagena" creationdate="20140512T220644Z">
+        <seg>Esta diapositiva resalta la importancia constante de las visitas de los P&amp;A, en particular:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide is a quick introduction of<ph x="0">&lt;t0/&gt;</ph> inspirational quotes from great historical leaders<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220319Z" creationid="hcartagena" creationdate="20140512T220319Z">
+        <seg>Esta diapositiva es una breve introducción con <ph x="0">&lt;t0/&gt;</ph>citas inspiradoras de grandes líderes de la historia<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide outlines the timeline of how the visible safety leadership activities will be recorded.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195250Z" creationid="hcartagena" creationdate="20140515T195250Z">
+        <seg>Esta diapositiva describe la línea de tiempo en que se registrarán las actividades de liderazgo visible en seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide outlines the<ph x="0">&lt;t0/&gt;</ph> aims of this initiative, namely:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T225802Z" creationid="hcartagena" creationdate="20140514T225802Z">
+        <seg>Esta diapositiva describe los<ph x="0">&lt;t0/&gt;</ph>objetivos de esta iniciativa, a saber:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This slide outlines why we are<ph x="0">&lt;t0/&gt;</ph> expanding visible safety leadership at Golder from focussing solely on P&amp;A visits to include an additional array of different activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T220553Z" creationid="hcartagena" creationdate="20140512T220553Z">
+        <seg>Esta diapositiva define por qué estamos <ph x="0">&lt;t0/&gt;</ph>ampliando el liderazgo visible en saguridad en Golder desde centrarnos exclusivamente en las visitas de P&amp;A para pasar a incluir una gama de actividades diversas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This starts NOW!</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215943Z" creationid="hcartagena" creationdate="20140512T215943Z">
+        <seg>¡Ya empezamos!</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Visible Safety Leadership</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215759Z" creationid="hcartagena" creationdate="20140512T215759Z">
+        <seg>Liderazgo visible en seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Visible Safety Leadership Aims</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215924Z" creationid="hcartagena" creationdate="20140512T215924Z">
+        <seg>Objetivos de liderazgo visible en seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Visible Safety Leadership Behaviours</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215912Z" creationid="hcartagena" creationdate="20140512T215912Z">
+        <seg>Conductas de liderazgo visible en seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>WHY?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215836Z" creationid="hcartagena" creationdate="20140512T215836Z">
+        <seg>¿POR QUÉ?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Walking a staff member through HSE documents individually or during toolbox talks; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T215334Z" creationid="hcartagena" creationdate="20140512T215334Z">
+        <seg>Mostrar a un miembro del personal los documentos de HSE ya sea individualmente o en las reuniones de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Walking a staff member through HSE documents individually or in toolbox talks</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T191653Z" creationid="hcartagena" creationdate="20140514T191653Z">
+        <seg>Mostrar a un miembro del personal los documentos de HSE ya sea individualmente o en las reuniones de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Walking a staff member through HSE documents individually or in toolbox talks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T225307Z" creationid="hcartagena" creationdate="20140514T225307Z">
+        <seg>Mostrar a un miembro del personal los documentos de HSE ya sea individualmente o en las reuniones de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wave 1, Currently - France, Italy, Portugal and Spain already have BST.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195446Z" creationid="hcartagena" creationdate="20140515T195446Z">
+        <seg>1ª ola, actualmente: Francia, Italia, Portugal y España ya tienen BST.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wave 2, March 2014 – Denmark, Finland, Sweden, Norway.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195505Z" creationid="hcartagena" creationdate="20140515T195505Z">
+        <seg>2ª ola, marzo 2014: Dinamarca, Finlandia, Suecia, Noruega.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wave 3, June 2014 – Germany, Ireland, UK.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195526Z" creationid="hcartagena" creationdate="20140515T195526Z">
+        <seg>3ª ola, junio 2014: Alemania, Irlanda, Reino Unido.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wave 4, December 2014 – Hungary, Poland, Turkey.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140515T195544Z" creationid="hcartagena" creationdate="20140515T195544Z">
+        <seg>4ª ola, diciembre 2014: Hungría, Polonia, Turquía.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We are taking interest and pride in the site work we do.  P&amp;A H&amp;S visits also demonstrate <ph x="6">&lt;t6/&gt;</ph>teamwork, <ph x="7">&lt;t7/&gt;</ph>as we are actively sharing knowledge and experience to bring value to our people and our clients;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T193106Z" creationid="hcartagena" creationdate="20140512T193106Z">
+        <seg>Nos interesamos y enorgullecemos por el trabajo en terreno que hacemos. Las visitas de salud y seguridad de los P&amp;A también demuestran <ph x="6">&lt;t6/&gt;</ph>trabajo en equipo<ph x="7">&lt;t7/&gt;</ph>, ya que compartimos conocimientos y experiencia para aportar valor a nuestra gente y a nuestros clientes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We risk injuring our people standing or working in the vicinity of the shelf.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140513T155632Z" creationid="hcartagena" creationdate="20140512T173006Z">
+        <seg>Riesgo de lesionar a la gente que esté parada o trabajando cerca del estante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We risk injuring  our people when they try to reach the sampling containers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140513T155637Z" creationid="hcartagena" creationdate="20140512T170913Z">
+        <seg>Riesgo de lesionar a la gente que intente alcanzar los contenedores de muestreo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Why it is a problem</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170801Z" creationid="hcartagena" creationdate="20140512T170801Z">
+        <seg>Por qué es un problema</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> Acting on learnings prevents problems escalating and getting worse.  You have the power to make a difference.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140512T170617Z" creationid="hcartagena" creationdate="20140512T165001Z">
+        <seg>Dar respuesta a los learnings evita que los problemas escalen y empeoren. Tú tienes el poder de marcar la diferencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>– <ph x="0">&lt;t0/&gt;</ph>This can be any health and safety related-interaction from P&amp;As with high-risk staff e.g. safety inductions, general safety advice and guidance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T210031Z" creationid="hcartagena" creationdate="20140514T210031Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>: Puede ser cualquier interacción relacionada con salud y seguridad por parte de los P&amp;A con personal de alto riesgo, por ejemplo, inducciones, consejos y orientación general en seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>– <ph x="0">&lt;t0/&gt;</ph>‘Subject Matter Expert’ is a U.S. term meaning a designated expert in a given field for a given project e.g. recent SMEG calls on Journey Management and proposed ones on International Travel &amp; Duty of Care.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T223524Z" creationid="hcartagena" creationdate="20140514T215317Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>: el “experto en el tema” es una expresión estadounidense que se refiere a alguien que ha sido designado como experto en un campo o proyecto determinado. Hay grupos recientes de expertos en gestión de viajes y propuestas de grupos de expertos en viajes internacionales y el deber de cuidado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“Be a yardstick of quality.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T174454Z" creationid="hcartagena" creationdate="20140514T174454Z">
+        <seg>“Sean un modelo de calidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“If your actions inspire others to dream more, learn more, do more and become more, you are a leader”</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T180654Z" creationid="hcartagena" creationdate="20140514T180645Z">
+        <seg>“Si tus acciones inspiran a otros a soñar más, a aprender más, a hacer más y a lograr más, significa que eres un líder”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“Management is doing things right; leadership is doing the right things”</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140514T174221Z" creationid="hcartagena" creationdate="20140514T174221Z">
+        <seg>“Gestión es hacer las cosas bien; liderazgo es hacer lo correcto”</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

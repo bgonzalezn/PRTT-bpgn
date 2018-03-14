@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.0.8_3" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(Surge protectors - not power strips - are allowed)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T175111Z" creationid="hcartagena" creationdate="20140328T175111Z">
+        <seg>(Se permiten los protectores eléctricos, no así los múltiples)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all ceiling tiles in place and in good condition?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T171935Z" creationid="hcartagena" creationdate="20140328T170905Z">
+        <seg>¿Están correctamente instaladas las baldosas del techo? ¿Se encuentran en buen estado?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all cords/plugs free from damage or deterioration?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T175125Z" creationid="hcartagena" creationdate="20140328T175125Z">
+        <seg>¿Están todos los cables/enchufes libres de daño o deterioro?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all corridors unobstructed?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173146Z" creationid="hcartagena" creationdate="20140328T173146Z">
+        <seg>¿Están todos los corredores despejados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all exit doors able to be opened from the inside without special knowledge/keys?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173302Z" creationid="hcartagena" creationdate="20140328T173302Z">
+        <seg>¿Es posible abrir todas las puertas de salida desde el interior sin necesidad de llaves o procedimientos especiales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all exit doors unobstructed?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173156Z" creationid="hcartagena" creationdate="20140328T173156Z">
+        <seg>¿Están todas las puertas de salida despejadas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all fans equipped with a blade guard with openings no greater than ½ inch?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180927Z" creationid="hcartagena" creationdate="20140328T171149Z">
+        <seg>¿Están todos los ventiladores equipados con protecciones que tengan aberturas no superiores a 1,5 cm?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are all walking or working surfaces free of tripping/slipping hazards?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T170953Z" creationid="hcartagena" creationdate="20140328T170953Z">
+        <seg>¿Las superficies de desplazamiento o de trabajo están despejadas para evitar el peligro de caídas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are computer tapes stored in approved, enclosed metal cabinets?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172144Z" creationid="hcartagena" creationdate="20140328T171456Z">
+        <seg>¿Se guardan las cintas magnéticas de almacenamiento de datos en gabinetes metálicos cerrados y autorizados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are doors to the peripheral rooms closed?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172800Z" creationid="hcartagena" creationdate="20140328T172800Z">
+        <seg>¿Están cerradas las puertas que dan hacia las salas periféricas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are emergency phone numbers and procedures posted at or near telephones?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172004Z" creationid="hcartagena" creationdate="20140328T171039Z">
+        <seg>¿Están los números de teléfono y procedimientos de emergencia impresos en estos o en un lugar cercano a estos?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are exit doors free of slide bolts or locks?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173428Z" creationid="hcartagena" creationdate="20140328T173428Z">
+        <seg>¿Están todas las puertas de salida libres de cerrojos o candados?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are exit signs posted and properly illuminated to clearly indicate exits?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173223Z" creationid="hcartagena" creationdate="20140328T173223Z">
+        <seg>¿Hay letreros de salida instalados e iluminados adecuadamente para indicar con claridad las salidas?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are floor tile pullers available and mounted?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172741Z" creationid="hcartagena" creationdate="20140328T171654Z">
+        <seg>¿Están los extractores de piso falso ensamblados y a disposición?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>COMPUTER ROOM / DATA CENTER<ph x="0">&lt;t0/&gt;</ph> SAFETY INSPECTION CHECKLIST</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T181435Z" creationid="hcartagena" creationdate="20140328T180605Z">
+        <seg>LISTA DE COTEJO DE INSPECCIÓN DE SEGURIDAD PARA SALAS DE COMPUTADORAS / DATA CENTERS<ph x="0">&lt;t0/&gt;</ph> </seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Checklist Items</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T170555Z" creationid="hcartagena" creationdate="20140328T170555Z">
+        <seg>Elementos de la lista de cotejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Computer Room / Data Center</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T170614Z" creationid="hcartagena" creationdate="20140328T170614Z">
+        <seg>Sala de computadoras / Data Center</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T155627Z" creationid="hcartagena" creationdate="20140328T155627Z">
+        <seg>Fecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Electrical</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180324Z" creationid="hcartagena" creationdate="20140328T174742Z">
+        <seg>Aparatos eléctricos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exits/Corridors</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173138Z" creationid="hcartagena" creationdate="20140328T173138Z">
+        <seg>Salidas/corredores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Explanation/Comments on all No Answers – Note Item identification from checklist</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180543Z" creationid="hcartagena" creationdate="20140328T180543Z">
+        <seg>Explicación/comentarios sobre las respuestas negativas, indicar el número del elemento en la lista:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Have employees been trained in emergency procedures?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180430Z" creationid="hcartagena" creationdate="20140328T180430Z">
+        <seg>¿Están capacitados los empleados en procedimientos de emergencia?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inspector(s):</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T165227Z" creationid="hcartagena" creationdate="20140328T165227Z">
+        <seg>Inspector(es):</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is all electrical, including light fixtures, protected from physical damage by enclosure/guards?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T175942Z" creationid="hcartagena" creationdate="20140328T175942Z">
+        <seg>¿Están todos los aparatos eléctricos, incluidas las luminarias, protegidos contra daño físico mediante cajas/protecciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is clearance of at least 18 inches maintained around fire sprinkler heads and 2 feet below ceiling height?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180804Z" creationid="hcartagena" creationdate="20140328T173131Z">
+        <seg>¿Hay un espacio libre de al menos 45 cm alrededor de los cabezales de los rociadores contra incendio y de 60 cm por debajo de la altura del techo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is combustible waste, e.g. trash containers, cardboard boxes, etc., removed from the room daily or more often as needed?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172037Z" creationid="hcartagena" creationdate="20140328T171258Z">
+        <seg>¿Se retiran a diario, o con más frecuencia si es necesario, los residuos combustibles tales como recipientes de basura, cajas de cartón, etc.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is consumption of food, beverage, etc. prohibited?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T171203Z" creationid="hcartagena" creationdate="20140328T171203Z">
+        <seg>¿Está prohibido el consumo de alimentos, bebidas, etc.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is good housekeeping practiced in work area?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180009Z" creationid="hcartagena" creationdate="20140328T180009Z">
+        <seg>¿Se mantiene el área de trabajo limpia y ordenada?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is paper stored in computer room limited to a one-day supply?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172827Z" creationid="hcartagena" creationdate="20140328T172827Z">
+        <seg>¿Está limitado el papel guardado en la sala de computadoras limitado al suministro de un día?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is storage adequately supported/stable to avoid tipping/falling?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180307Z" creationid="hcartagena" creationdate="20140328T180307Z">
+        <seg>¿Se almacenan los objetos de manera firme/estable para evitar que se muevan o caigan?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the access to fire suppression and alarm systems unobstructed?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172108Z" creationid="hcartagena" creationdate="20140328T171614Z">
+        <seg>¿Está despejado el acceso a los sistemas de extinción y alarma de incendio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the area free of extension cords?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T174757Z" creationid="hcartagena" creationdate="20140328T174757Z">
+        <seg>¿El área está libre de cables de extensión?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the computer room free of flammable/combustible liquids?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172151Z" creationid="hcartagena" creationdate="20140328T171327Z">
+        <seg>¿Está la sala de computadoras libre de líquidos inflamables/combustibles?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the raised floor free of unsealed cable holes?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172125Z" creationid="hcartagena" creationdate="20140328T171459Z">
+        <seg>¿Está el piso elevado libre de orificios para cables sin sello?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the room free of coffee makers, electric floor/space heaters, etc.?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173031Z" creationid="hcartagena" creationdate="20140328T173031Z">
+        <seg>¿Está la sala libre de cafeteras, calefactores eléctricos, etc.?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the room free of repair shop operations?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T172846Z" creationid="hcartagena" creationdate="20140328T172846Z">
+        <seg>¿Está la sala libre de operaciones de taller de reparaciones?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is the room free of soldering irons?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T173003Z" creationid="hcartagena" creationdate="20140328T173003Z">
+        <seg>¿Está la sala libre de metales de soldadura?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Is there at least two (2) feet clearance between stacked materials and ceiling light?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180811Z" creationid="hcartagena" creationdate="20140328T180407Z">
+        <seg>¿Hay un espacio de al menos 60 cm entre los objetos apilados y las luminarias en el techo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Items left unmarked were not observed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180512Z" creationid="hcartagena" creationdate="20140328T180512Z">
+        <seg>Los elementos sin marcar no se observaron.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other training:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T180438Z" creationid="hcartagena" creationdate="20140328T180438Z">
+        <seg>Otra capacitación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Storage - General</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T175952Z" creationid="hcartagena" creationdate="20140328T175952Z">
+        <seg>Almacenamiento general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Time:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T165215Z" creationid="hcartagena" creationdate="20140328T165215Z">
+        <seg>Hora:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Training</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140318T213542Z" creationid="hcartagena" creationdate="20140318T213542Z">
+        <seg>Capacitación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Yes</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140328T170558Z" creationid="hcartagena" creationdate="20140328T170558Z">
+        <seg>Si</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

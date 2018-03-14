@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">HaSEP 2.3 Improvement Release.docx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Title: HaSEP 2.3 Improvement Release</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T120328Z" creationid="hcartagena" creationdate="20141211T120328Z">
+        <seg>Title: Lanzamiento de HaSEP 2.3</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Key Messages:  The online HaSEP tool will be upgraded on December 13, 2014 (PST).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T120402Z" creationid="hcartagena" creationdate="20141211T120402Z">
+        <seg>Key Messages:  La herramienta en línea HaSEP se actualizará el 13 de diciembre de 2014.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These upgrades include the following:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T120412Z" creationid="hcartagena" creationdate="20141211T120412Z">
+        <seg>Entre las mejoras se puede mencionar:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A Written Work Procedure module will be available to all regions, allowing users to select relevant written work procedures for their project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T122009Z" creationid="hcartagena" creationdate="20141211T122009Z">
+        <seg>Habrá un módulo para todas las regiones que permitirá a los usuarios seleccionar los procedimientos escritos de trabajo para su proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The following regions will be activated at release: Australia, Asia, Canada, New Zealand, South America, United States</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T122057Z" creationid="hcartagena" creationdate="20141211T122057Z">
+        <seg>En este lanzamiento estará activado para las siguientes regiones: Australia, Asia, Canadá, Nueva Zelanda, Sudamérica, Estados Unidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note: the only functional change for the United States is a module name change from “Standard Work Procedures (SWP)” to “Written Work Procedures”</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T122151Z" creationid="hcartagena" creationdate="20141211T122151Z">
+        <seg>Nota: el único cambio de funciones para Estados Unidos es un cambio de nombre del módulo, que antes se llamaba «Standard Work Procedures (SWP)» y ahora se llamará «Written Work Procedures»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Other regions can opt in at any time by contacting &lt;t1/&gt;Kristina Raabe&lt;t2/&gt;, System Support Specialist, Global Business Systems</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T145059Z" creationid="hcartagena" creationdate="20141211T145059Z">
+        <seg>Otras regiones pueden sumarse en cualquier momento. Para ello deben contactar a &lt;t1/&gt;Kristina Raabe&lt;t2/&gt;, especialista en soporte de sistemas del grupo Global Business Systems.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Moving Subcontractor and Underground Services from Client/Site Location Details to separate modules to provide greater visibility and more flexibility with adding / removing the sections as appropriate for the project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T174958Z" creationid="hcartagena" creationdate="20141211T172556Z">
+        <seg>Crear módulos independientes para las categorías «Información del Subcontratista» y «Servicios subterráneos», que antes estaban en «Datos del Sitio/Cliente», les da más visibilidad y permite agregar o quitar estas secciones según las necesidades del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These modules can be selected in “Additional Sections” on the Start page</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T174541Z" creationid="hcartagena" creationdate="20141211T174541Z">
+        <seg>Se puede seleccionar estos módulos en el apartado «Secciones adicionales» de la página de inicio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The modules will now export to Microsoft Word as their own major document sections, rather than as sub-sections</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T174619Z" creationid="hcartagena" creationdate="20141211T174619Z">
+        <seg>Estos módulos se exportarán ahora a Microsoft Word como secciones principales del documento, en lugar de ser subsecciones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Activate Papua New Guinea</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T174646Z" creationid="hcartagena" creationdate="20141211T174646Z">
+        <seg>Activación de Papúa Nueva Guinea</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resolve Site Hierarchy defect</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T174748Z" creationid="hcartagena" creationdate="20141211T174729Z">
+        <seg>Resolvimos el defecto con el esquema del sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Site Hierarchy table from the Client/Site Location Details module will now export to Microsoft Word</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T174930Z" creationid="hcartagena" creationdate="20141211T174744Z">
+        <seg>La tabla con el esquema del sitio ahora se exportará a Microsoft Word desde el módulo «Datos del Sitio/Cliente»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resolve untranslated words and phrases</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T175013Z" creationid="hcartagena" creationdate="20141211T175013Z">
+        <seg>Tradujimos palabras y frases que no habían sido traducidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>17 words and phrases were displaying in English only.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T175029Z" creationid="hcartagena" creationdate="20141211T175029Z">
+        <seg>Había 17 palabras y frases que solo aparecían en inglés.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These will now display in the local language, if translations have been provided.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141211T175049Z" creationid="hcartagena" creationdate="20141211T175049Z">
+        <seg>Ahora estarán en su idioma local, en el caso de haber sido traducidos.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

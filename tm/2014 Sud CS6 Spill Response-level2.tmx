@@ -1,0 +1,1354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(It is important that someone knows in the event you become exposed/injured.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225328Z" creationid="hcartagena" creationdate="20140624T225328Z">
+        <seg>(Es importante que alguien sepa por si sufres una exposición/lesión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="0">&lt;t0/&gt;</ph>However<ph x="1">&lt;t1/&gt;</ph>, many chemicals are also within equipment or in a process, such <ph x="2">&lt;t2/&gt;</ph>as:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201124Z" creationid="hcartagena" creationdate="20140624T201124Z">
+        <seg><ph x="0">&lt;t0/&gt;</ph>Sin embargo<ph x="1">&lt;t1/&gt;</ph>, muchos productos químicos también están dentro de los equipos o en un proceso, por <ph x="2">&lt;t2/&gt;</ph>ejemplo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg><ph x="5">&lt;t5/&gt;</ph>Top <ph x="6">&lt;t6/&gt;</ph>priority is to limit the potential for a spill in the first place.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201621Z" creationid="hcartagena" creationdate="20140624T201621Z">
+        <seg><ph x="5">&lt;t5/&gt;</ph>La <ph x="6">&lt;t6/&gt;</ph>principal prioridad es limitar la posibilidad de derrames, en primer lugar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A release of volatile compounds can also impact local air quality</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201517Z" creationid="hcartagena" creationdate="20140624T201517Z">
+        <seg>La liberación de compuestos volátiles también puede impactar la calidad del aire local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A release to permeable<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>ground surface can contaminate soil and groundwater</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201409Z" creationid="hcartagena" creationdate="20140624T201409Z">
+        <seg>La liberación en la superficie<ph x="0">&lt;t0/&gt;</ph> <ph x="1">&lt;t1/&gt;</ph>de un terreno permeable puede contaminar el suelo y las aguas subterráneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A release to water can compromise water quality and injure fish and aquatic plants</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201336Z" creationid="hcartagena" creationdate="20140624T201336Z">
+        <seg>La liberación en el agua puede comprometer su calidad y dañar a peces y plantas acuáticas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A release within an office, warehouse, shed, basement, or other indoor structure may not impact the environment, but presents a H&amp;S hazard to the occupants</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210238Z" creationid="hcartagena" creationdate="20140624T201451Z">
+        <seg>La liberación dentro de una oficina, bodega, cobertizo, sótano u otra estructura interior puede no dañar el medio ambiente, pero representa un peligro a la salud y seguridad de los ocupantes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Absorbent pads are intended to absorb free liquids and contain a release.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231841Z" creationid="hcartagena" creationdate="20140624T231841Z">
+        <seg>Las almohadillas absorbentes se usan para absorber líquidos libres y contener una liberación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Absorbent vendor: <ph x="0">&lt;t0/&gt;</ph>http<ph x="1">&lt;t1/&gt;</ph>://www.newpig.com/pig/US/</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212236Z" creationid="hcartagena" creationdate="20140625T212236Z">
+        <seg>Proveedor de absorbente: <ph x="0">&lt;t0/&gt;</ph>http<ph x="1">&lt;t1/&gt;</ph>://www.newpig.com/pig/US/</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add enough to contain and absorb the spill</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231528Z" creationid="hcartagena" creationdate="20140624T231528Z">
+        <seg>Añade lo suficiente para contener y absorber el derrame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional <ph x="0">&lt;t0/&gt;</ph>Material:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204925Z" creationid="hcartagena" creationdate="20140625T204925Z">
+        <seg>Material <ph x="0">&lt;t0/&gt;</ph>adicional:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Although not every spill will be managed in the exact same manner, there is a common approach.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225218Z" creationid="hcartagena" creationdate="20140624T225218Z">
+        <seg>Aunque no se manejarán todos los derrames de la misma manera, hay un enfoque común.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are there chemicals that could spill?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210255Z" creationid="hcartagena" creationdate="20140624T210255Z">
+        <seg>¿Hay productos químicos que podrían derramarse?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Are you prepared if there is a spill<ph x="0">&lt;t0/&gt;</ph>?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T224902Z" creationid="hcartagena" creationdate="20140624T224902Z">
+        <seg>¿Estás preparado para un derrame<ph x="0">&lt;t0/&gt;</ph>?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assess the situation and determine your course of action.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225229Z" creationid="hcartagena" creationdate="20140624T225229Z">
+        <seg>Evalúa la situación y determina tu curso de acción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>At home, kitty litter will work as a granular absorbent</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231317Z" creationid="hcartagena" creationdate="20140624T231317Z">
+        <seg>En el hogar, la arena de gato sirve como absorbente granular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid long-term storage.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232201Z" creationid="hcartagena" creationdate="20140625T232201Z">
+        <seg>Evitar el almacenamiento prolongado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid storing near drains.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003920Z" creationid="hcartagena" creationdate="20140626T003920Z">
+        <seg>Evitar almacenar cerca de drenajes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Avoid storing near sensitive receptors (drains, water).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003741Z" creationid="hcartagena" creationdate="20140626T003741Z">
+        <seg>Evitar almacenar cerca de receptores sensibles (drenajes, agua).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Awareness Communication #37</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200044Z" creationid="hcartagena" creationdate="20140624T200044Z">
+        <seg>Comunicación para la toma de conciencia Nº 37</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Batteries (wet-cell)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T224709Z" creationid="hcartagena" creationdate="20140625T224706Z">
+        <seg>Baterías (celda húmeda)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Below are some suggested measures to reduce the risk of spills<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210430Z" creationid="hcartagena" creationdate="20140624T210430Z">
+        <seg>Estas son algunas medidas sugeridas para reducir el riesgo de derrame<ph x="0">&lt;t0/&gt;</ph>:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Bulk Fuel Containers</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235505Z" creationid="hcartagena" creationdate="20140625T235505Z">
+        <seg>Recipientes de combustible a granel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Chemicals are stored in our offices, warehouses, storage units, at our field sites, and in our homes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200841Z" creationid="hcartagena" creationdate="20140624T200841Z">
+        <seg>En nuestras oficinas, bodegas, lugares de almacenamiento, en terreno y en nuestros hogares guardamos productos químicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Chemicals in small and in larger bulk quantities are used on several of our Golder projects.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T211756Z" creationid="hcartagena" creationdate="20140624T211756Z">
+        <seg>Se usan productos químicos en cantidades variadas en varios proyectos de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cleaners</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212614Z" creationid="hcartagena" creationdate="20140625T212614Z">
+        <seg>Limpiadores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Containers should be in good condition.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212525Z" creationid="hcartagena" creationdate="20140625T212525Z">
+        <seg>Los recipientes deben estar en buen estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Containers should be tightly sealed when not in use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212427Z" creationid="hcartagena" creationdate="20140625T212427Z">
+        <seg>Se debe cerrar muy bien los recipientes cuando no se usen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contaminated Groundwater</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235559Z" creationid="hcartagena" creationdate="20140625T235559Z">
+        <seg>Aguas subterráneas contaminadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contaminated groundwater releases to the ground surface</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T202529Z" creationid="hcartagena" creationdate="20140624T202529Z">
+        <seg>Liberación de aguas subterráneas contaminadas en terreno superficial</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Control access to chemical storage area.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003754Z" creationid="hcartagena" creationdate="20140626T003754Z">
+        <seg>Controlar el acceso al lugar de almacenamiento de productos químicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Dispose of expired chemicals.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222027Z" creationid="hcartagena" creationdate="20140625T222027Z">
+        <seg>Disponer los productos químicos vencidos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not overfill container.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222050Z" creationid="hcartagena" creationdate="20140625T222050Z">
+        <seg>No llenar el recipiente más de la cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Do not store where they can freeze or overheat.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222014Z" creationid="hcartagena" creationdate="20140625T222014Z">
+        <seg>No almacenar donde pueda congelarse o sobrecalentarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Does <ph x="0">&lt;t0/&gt;</ph>not pose a significant safety or health hazard to employees in the immediate vicinity or to the employee cleaning it <ph x="1">&lt;t1/&gt;</ph>up</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T233132Z" creationid="hcartagena" creationdate="20140624T233132Z">
+        <seg>No <ph x="0">&lt;t0/&gt;</ph>representa un peligro considerable para la salud y seguridad de los empleados que trabajan en las inmediaciones o para el empleado que lo está <ph x="1">&lt;t1/&gt;</ph>limpiando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Does not have <ph x="0">&lt;t0/&gt;</ph>the potential to become an emergency within a short time <ph x="1">&lt;t1/&gt;</ph>frame</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204153Z" creationid="hcartagena" creationdate="20140625T204132Z">
+        <seg>No tiene <ph x="0">&lt;t0/&gt;</ph>potencial de llegar a ser una emergencia en un periodo <ph x="1">&lt;t1/&gt;</ph>breve.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Don the appropriate PPE.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231324Z" creationid="hcartagena" creationdate="20140624T231324Z">
+        <seg>Ponte el EPP adecuado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Don’t move equipment with leaks and spread the impact.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235910Z" creationid="hcartagena" creationdate="20140625T235910Z">
+        <seg>No mover el equipo que tenga fugas para no propagar el impacto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Double up on the socks at the leading edge if spill is flowing.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232630Z" creationid="hcartagena" creationdate="20140624T232630Z">
+        <seg>Duplica los calcetines en el borde de entrada si el derrame sigue fluyendo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>EPA Reporting Requirements: <ph x="0">&lt;t0/&gt;</ph>http://www.epa.gov/oem/content/reporting/index.htm<ph x="1">&lt;t1/&gt;</ph> or <ph x="2">&lt;t2/&gt;</ph>http://www2.epa.gov/home/report-spills-and-environmental-violations</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212215Z" creationid="hcartagena" creationdate="20140625T212215Z">
+        <seg>Requisitos informativos de la EPA (en inglés): <ph x="0">&lt;t0/&gt;</ph>http://www.epa.gov/oem/content/reporting/index.htm<ph x="1">&lt;t1/&gt;</ph> o <ph x="2">&lt;t2/&gt;</ph>http://www2.epa.gov/home/report-spills-and-environmental-violations</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Ensure that personal and fleet vehicles are maintained and inspected to prevent fuel or oil leaks in Golder parking lots.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235416Z" creationid="hcartagena" creationdate="20140625T235416Z">
+        <seg>Asegurarse de que los vehículos personales y de flotas se sometan a mantenimiento e inspecciones para evitar fugas de combustible o aceite en los estacionamientos de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Exercise caution when shaking cartridge, gently rock it.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T224651Z" creationid="hcartagena" creationdate="20140625T224651Z">
+        <seg>Ejercer precaución al agitar el cartucho y hacerlo con suavidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>February 2014</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200707Z" creationid="hcartagena" creationdate="20140624T200707Z">
+        <seg>Febrero 2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Field Chemicals</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235628Z" creationid="hcartagena" creationdate="20140625T235628Z">
+        <seg>Productos químicos en terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For <ph x="0">&lt;t0/&gt;</ph>additional clarification see: <ph x="1">&lt;t1/&gt;</ph>https://<ph x="2">&lt;t2/&gt;</ph>www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=INTERPRETATIONS&amp;p_id=20454</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204917Z" creationid="hcartagena" creationdate="20140625T204917Z">
+        <seg>Más <ph x="0">&lt;t0/&gt;</ph>información (en inglés): <ph x="1">&lt;t1/&gt;</ph>https://<ph x="2">&lt;t2/&gt;</ph>www.osha.gov/pls/oshaweb/owadisp.show_document?p_table=INTERPRETATIONS&amp;p_id=20454</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For work-related spills (non-home incidents), unless you are HAZWOPER trained, you can only respond to incidental spills, if can safely do so.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T233035Z" creationid="hcartagena" creationdate="20140624T233035Z">
+        <seg>En el caso de derrames en el trabajo (incidentes fuera del hogar), a menos que que estés capacitado en operaciones y respuesta de emergencia con residuos peligrosos, solo puedes responder a derrames incidentales, si puedes hacerlo con seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fuel/Oil</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222120Z" creationid="hcartagena" creationdate="20140625T222120Z">
+        <seg>Combustible/Aceite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>GAI Health and Safety</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T195832Z" creationid="hcartagena" creationdate="20140624T195832Z">
+        <seg>Salud y seguridad de GAI</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Gasoline</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212514Z" creationid="hcartagena" creationdate="20140625T212514Z">
+        <seg>Gasolina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Get your spill kit (granular absorbent, socks, pads, pillows, etc.) and other necessary equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232454Z" creationid="hcartagena" creationdate="20140624T225853Z">
+        <seg>Toma el kit de derrames (absorbente granular, calcetines, almohadillas, cojines, etc.) y otro equipamiento que necesites.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Give some time for pad to absorb the liquid before determining if layer 2 is needed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232007Z" creationid="hcartagena" creationdate="20140624T232007Z">
+        <seg>Dale tiempo a la almohadilla para absorber el líquido antes de decidir si pones una segunda capa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder Fleet Vehicles</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232223Z" creationid="hcartagena" creationdate="20140625T232223Z">
+        <seg>Vehículos de la flota de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Granular absorbent may be used to absorb the residuals (not in water).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232728Z" creationid="hcartagena" creationdate="20140624T232716Z">
+        <seg>Puede usarse absorbente granular para absorber los residuos (no en agua).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Granular absorbent may be used to absorb the residuals.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232119Z" creationid="hcartagena" creationdate="20140624T232119Z">
+        <seg>Puede usarse absorbente granular para absorber los residuos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Heavy Equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235533Z" creationid="hcartagena" creationdate="20140625T235533Z">
+        <seg>Equipamiento pesado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Here are some suggested measures to reduce the risk of spills:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210314Z" creationid="hcartagena" creationdate="20140624T210314Z">
+        <seg>Estas son algunas medidas sugeridas para reducir el riesgo de derrame:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Household Hazardous Waste: <ph x="0">&lt;t0/&gt;</ph>http://www.epa.gov/sandy/pdf/R2dealingHHW.pdf</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212301Z" creationid="hcartagena" creationdate="20140625T212301Z">
+        <seg>Residuos peligrosos domiciliarios (en inglés): <ph x="0">&lt;t0/&gt;</ph>http://www.epa.gov/sandy/pdf/R2dealingHHW.pdf</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If liquid seeps through layer 1, add another layer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231946Z" creationid="hcartagena" creationdate="20140624T231946Z">
+        <seg>Si el líquido traspasa la primera capa, añade otra capa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If there is any chance the spilled material is flammable, only use non-sparking tools</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231300Z" creationid="hcartagena" creationdate="20140624T231300Z">
+        <seg>Si el material derramado pudiera ser inflamable, usa solo herramientas que no generen chispas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Impacts</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201235Z" creationid="hcartagena" creationdate="20140624T201235Z">
+        <seg>Impactos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the event of a spill, you need to immediately assess the situation and make the right decisions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225005Z" creationid="hcartagena" creationdate="20140624T225005Z">
+        <seg>En caso de un derrame, debes evaluar la situación de inmediato y tomar las decisiones correctas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inspections/ O&amp;M.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235546Z" creationid="hcartagena" creationdate="20140625T235546Z">
+        <seg>Inspecciones y O&amp;M</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Introduction</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Introducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep <ph x="0">&lt;t0/&gt;</ph>appropriate spill <ph x="1">&lt;t1/&gt;</ph>control equipment (e.g., absorbents) in <ph x="2">&lt;t2/&gt;</ph>the office and field vehicle, as needed</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225859Z" creationid="hcartagena" creationdate="20140624T211705Z">
+        <seg>Tener a mano <ph x="0">&lt;t0/&gt;</ph>equipo de control <ph x="1">&lt;t1/&gt;</ph>de derrames adecuado (ej., absorbente) en <ph x="2">&lt;t2/&gt;</ph>la oficina y vehículos, según se necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep appropriate spill control equipment (e.g., <ph x="0">&lt;t0/&gt;</ph>absorbents, pads, socks) in the field and field vehicle, as needed</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T230832Z" creationid="hcartagena" creationdate="20140624T223116Z">
+        <seg>Tener a mano equipo de control de derrames adecuado (ej., <ph x="0">&lt;t0/&gt;</ph>absorbente, almohadillas y calcetines) en la oficina y vehículos, según se necesite.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Keep containers closed when not in use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003855Z" creationid="hcartagena" creationdate="20140626T003855Z">
+        <seg>Mantener los recipientes cerrados cuando no se usen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Know your local rules.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225115Z" creationid="hcartagena" creationdate="20140624T225115Z">
+        <seg>Infórmate sobre las normas locales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Lab Chemicals</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222058Z" creationid="hcartagena" creationdate="20140625T222058Z">
+        <seg>Productos químicos de laboratorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Leaking gasoline from a chain saw (home<ph x="0">&lt;t0/&gt;</ph>)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T205951Z" creationid="hcartagena" creationdate="20140624T205951Z">
+        <seg>Fuga de gasolina de una motosierra (hogar<ph x="0">&lt;t0/&gt;</ph>)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Leaking lab sample bottle holding caustic preservative</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T202644Z" creationid="hcartagena" creationdate="20140624T202644Z">
+        <seg>Fuga de preservador cáustico de botella que contenía muestras de laboratorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Limited <ph x="0">&lt;t0/&gt;</ph>in quantity, exposure potential, or toxicity</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204151Z" creationid="hcartagena" creationdate="20140625T204151Z">
+        <seg>Está <ph x="0">&lt;t0/&gt;</ph>limitado en cantidad, potencial de exposición o toxicidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Look around your home, including your garage/shed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210234Z" creationid="hcartagena" creationdate="20140624T210234Z">
+        <seg>Revisa tu hogar, incluso tu garage/cobertizo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Materials like Oil <ph x="0">&lt;t0/&gt;</ph>Dri<ph x="1">&lt;t1/&gt;</ph> and other absorbents have special properties and absorb much better than dirt.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231433Z" creationid="hcartagena" creationdate="20140624T231433Z">
+        <seg>Materiales como Oil <ph x="0">&lt;t0/&gt;</ph>Dri<ph x="1">&lt;t1/&gt;</ph> y otros absorbentes tienen propiedades especiales y absorben mucho mejor que la arena.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>May <ph x="0">&lt;t0/&gt;</ph>be safely cleaned up by employees who are familiar with the hazards of the chemicals with which they are <ph x="1">&lt;t1/&gt;</ph>working</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204609Z" creationid="hcartagena" creationdate="20140625T204609Z">
+        <seg>Puede <ph x="0">&lt;t0/&gt;</ph>ser limpiado con seguridad por empleados que estén familiarizados con los peligros de los productos químicos con los que están <ph x="1">&lt;t1/&gt;</ph>trabajando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Most small spills can be managed using granular absorbents</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231406Z" creationid="hcartagena" creationdate="20140624T231406Z">
+        <seg>La mayoría de los derrames pequeños pueden manejarse son absorbentes granulares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Note:  Regulatory spill reporting <ph x="0">&lt;t0/&gt;</ph>requirements may apply.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225056Z" creationid="hcartagena" creationdate="20140624T225056Z">
+        <seg>Nota: Puede haber normas que exijan informar <ph x="0">&lt;t0/&gt;</ph>los derrames.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Notify someone that there was a spill and <ph x="0">&lt;t0/&gt;</ph>that you <ph x="1">&lt;t1/&gt;</ph>will be <ph x="2">&lt;t2/&gt;</ph>cleaning it up.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225307Z" creationid="hcartagena" creationdate="20140624T225307Z">
+        <seg>Avisa a alguien que hubo un derrame y <ph x="0">&lt;t0/&gt;</ph>que <ph x="1">&lt;t1/&gt;</ph>lo <ph x="2">&lt;t2/&gt;</ph>limpiarás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Oil socks are commonly used to intercept flowing liquid.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232547Z" creationid="hcartagena" creationdate="20140624T232547Z">
+        <seg>Los calcetines para hidrocarburos se usan para interceptar el líquido que fluye.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Only use containers in good condition.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235609Z" creationid="hcartagena" creationdate="20140625T235609Z">
+        <seg>Solo usar recipientes en buen estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Outline</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200723Z" creationid="hcartagena" creationdate="20140624T200723Z">
+        <seg>Índice</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Overfilled gas tanks on Golder vehicles</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T202600Z" creationid="hcartagena" creationdate="20140624T202600Z">
+        <seg>Sobrellenado de estanques en vehículos de Golder</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Paint</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212409Z" creationid="hcartagena" creationdate="20140625T212409Z">
+        <seg>Pintura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Place spent pads in <ph x="0">&lt;t0/&gt;</ph>a container, label, <ph x="1">&lt;t1/&gt;</ph>and dispose <ph x="2">&lt;t2/&gt;</ph>(per local <ph x="3">&lt;t3/&gt;</ph>regulations).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232050Z" creationid="hcartagena" creationdate="20140624T232050Z">
+        <seg>Pon las almohadillas usadas <ph x="0">&lt;t0/&gt;</ph>en un contenedor, etiquétalo <ph x="1">&lt;t1/&gt;</ph>y disponlo <ph x="2">&lt;t2/&gt;</ph>(según las <ph x="3">&lt;t3/&gt;</ph>normas locales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Place spent socks in <ph x="0">&lt;t0/&gt;</ph>a container, label, <ph x="1">&lt;t1/&gt;</ph>and dispose <ph x="2">&lt;t2/&gt;</ph>(per local <ph x="3">&lt;t3/&gt;</ph>regulations).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232720Z" creationid="hcartagena" creationdate="20140624T232712Z">
+        <seg>Pon los calcetines usados en un <ph x="0">&lt;t0/&gt;</ph>contenedor, etiquétalo <ph x="1">&lt;t1/&gt;</ph>y disponlo (según las <ph x="2">&lt;t2/&gt;</ph>normas <ph x="3">&lt;t3/&gt;</ph>locales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Potential Impacts</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200730Z" creationid="hcartagena" creationdate="20140624T200730Z">
+        <seg>Impactos potenciales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Presents minor <ph x="0">&lt;t0/&gt;</ph>safety or health hazards to employees in the immediate work area or those assigned to clean them <ph x="1">&lt;t1/&gt;</ph>up</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204529Z" creationid="hcartagena" creationdate="20140625T204529Z">
+        <seg>Representa <ph x="0">&lt;t0/&gt;</ph>un peligro menor para la salud y seguridad de los empleados en el área de trabajo inmediata o a aquellos encargados de <ph x="1">&lt;t1/&gt;</ph>limpiarlo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Prevention of hose failures (look for wear).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003844Z" creationid="hcartagena" creationdate="20140626T003844Z">
+        <seg>Prevención de fallas en las mangueras (comprobar desgaste).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Properly secure any chemicals in the vehicles pre-transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235438Z" creationid="hcartagena" creationdate="20140625T235438Z">
+        <seg>Sujetar adecuadamente los productos químicos en los vehículos antes de su transporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Recent Incidents</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200733Z" creationid="hcartagena" creationdate="20140624T200733Z">
+        <seg>Incidentes recientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Repeat, as necessary</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231806Z" creationid="hcartagena" creationdate="20140624T231806Z">
+        <seg>Repite si es necesario.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Resources</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200748Z" creationid="hcartagena" creationdate="20140624T200748Z">
+        <seg>Recursos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Routine inspection and maintenance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235635Z" creationid="hcartagena" creationdate="20140625T235635Z">
+        <seg>Inspección y mantenimiento de rutina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Safety cans/containers in good condition.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222138Z" creationid="hcartagena" creationdate="20140625T222138Z">
+        <seg>Recipientes de seguridad en buen estado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Scoop/shovel spent absorbent into a container, label, <ph x="0">&lt;t0/&gt;</ph>and dispose <ph x="1">&lt;t1/&gt;</ph>(per local <ph x="2">&lt;t2/&gt;</ph>regulations)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232057Z" creationid="hcartagena" creationdate="20140624T231737Z">
+        <seg>Barre/palea el absorbente usado y viértelo en un contenedor, etiquétalo <ph x="0">&lt;t0/&gt;</ph>y disponlo <ph x="1">&lt;t1/&gt;</ph>(según las <ph x="2">&lt;t2/&gt;</ph>normas locales).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Screw cap on tight.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212855Z" creationid="hcartagena" creationdate="20140625T212855Z">
+        <seg>Cerrar bien la tapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Segregate incompatibles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003801Z" creationid="hcartagena" creationdate="20140626T003801Z">
+        <seg>Segregar los productos incompatibles.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Several hydraulic fluid hose leaks from heavy equipment on various Golder field sites</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T202503Z" creationid="hcartagena" creationdate="20140624T202503Z">
+        <seg>Varias fugas de mangueras de fluido hidráulico de equipo pesado en diversos sitios estando Golder en terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Several of our Golder offices store chemicals in small quantities in separate containers or within equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210409Z" creationid="hcartagena" creationdate="20140624T210409Z">
+        <seg>En varias oficinas de Golder se almacenan productos químicos en pequeñas cantidades en contenedores separados o dentro de los equipos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Some general spill prevention measures are suggested below:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T211834Z" creationid="hcartagena" creationdate="20140624T211834Z">
+        <seg>Aquí se sugieren algunas medidas generales de prevención de derrames:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Speaking Notes:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212323Z" creationid="hcartagena" creationdate="20140625T212323Z">
+        <seg>Notas del presentador:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill <ph x="0">&lt;t0/&gt;</ph>Response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T223121Z" creationid="hcartagena" creationdate="20140624T223121Z">
+        <seg>Respuesta ante <ph x="0">&lt;t0/&gt;</ph>derrames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill <ph x="0">&lt;t0/&gt;</ph>Response – Absorbent Pads</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231819Z" creationid="hcartagena" creationdate="20140624T231819Z">
+        <seg>Respuesta <ph x="0">&lt;t0/&gt;</ph>ante derrames: almohadillas absorbentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill <ph x="0">&lt;t0/&gt;</ph>Response – General</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225127Z" creationid="hcartagena" creationdate="20140624T225127Z">
+        <seg>Respuesta ante <ph x="0">&lt;t0/&gt;</ph>derrames: general</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill <ph x="0">&lt;t0/&gt;</ph>Response – Granular Absorbents</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231344Z" creationid="hcartagena" creationdate="20140624T231344Z">
+        <seg>Respuesta <ph x="0">&lt;t0/&gt;</ph>ante derrames: absorbentes granulares</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill <ph x="0">&lt;t0/&gt;</ph>Response – Incidental Releases</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232839Z" creationid="hcartagena" creationdate="20140624T232839Z">
+        <seg>Respuesta ante <ph x="0">&lt;t0/&gt;</ph>derrames: liberación incidental</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill <ph x="0">&lt;t0/&gt;</ph>Response – Socks/Booms/”Pigs”</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232335Z" creationid="hcartagena" creationdate="20140624T232335Z">
+        <seg>Respuesta <ph x="0">&lt;t0/&gt;</ph>ante derrames: calcetines/salchichas/cordones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill Prevention and Preparedness</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200741Z" creationid="hcartagena" creationdate="20140624T200741Z">
+        <seg>Prevención y preparación ante derrames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill Prevention and Preparedness-Home</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210008Z" creationid="hcartagena" creationdate="20140624T210008Z">
+        <seg>Prevención y preparación ante derrames: hogar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill Prevention and Preparedness-In the field</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T211721Z" creationid="hcartagena" creationdate="20140624T211721Z">
+        <seg>Prevención y preparación ante derrames: terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill Prevention and Preparedness-Office</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T210319Z" creationid="hcartagena" creationdate="20140624T210319Z">
+        <seg>Prevención y preparación ante derrames: oficina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill Prevention and Response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T195820Z" creationid="hcartagena" creationdate="20140624T195820Z">
+        <seg>Prevención y respuesta ante derrames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill Response</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200745Z" creationid="hcartagena" creationdate="20140624T200745Z">
+        <seg>Respuesta ante derrames</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spill prevention is focused on planning ahead and implementing controls to avoid a <ph x="0">&lt;t0/&gt;</ph>spill, but spills may still happen.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T224826Z" creationid="hcartagena" creationdate="20140624T224817Z">
+        <seg>Su prevención se centra en la planificación y la implementación de controles para evitarlos, <ph x="0">&lt;t0/&gt;</ph>aunque siempre pueden ocurrir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Spills are unplanned and can happen at home, the office, and our field sites.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T224732Z" creationid="hcartagena" creationdate="20140624T224702Z">
+        <seg>Los derrames son eventos que pueden ocurrir en el hogar, oficina o en terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Start at leading edge of the spill (perimeter) and spread the absorbent</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231507Z" creationid="hcartagena" creationdate="20140624T231507Z">
+        <seg>Comienza con un borde de entrada del derrame (perímetro) y esparce el absorbente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Start at leading edge of the spill (perimeter) and spread the sheets.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231922Z" creationid="hcartagena" creationdate="20140624T231922Z">
+        <seg>Comienza con un borde de entrada del derrame (perímetro) y esparce las almohadillas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Start at leading edge of the spill (perimeter) and surround the spill.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232611Z" creationid="hcartagena" creationdate="20140624T232611Z">
+        <seg>Comienza con un borde de entrada del derrame (perímetro) y rodea el derrame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Stop the source of the release, if you can.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225348Z" creationid="hcartagena" creationdate="20140624T225348Z">
+        <seg>Detén la fuente del derrame, si es posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <note>what?</note>
+      <tuv xml:lang="EN">
+        <seg>Store containers in containment, if possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003911Z" creationid="hcartagena" creationdate="20140626T003911Z">
+        <seg>Almacenar en contenedores, si es posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in a dry, cool place, off the ground or concrete floors - to keep the cans from rusting.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212512Z" creationid="hcartagena" creationdate="20140625T212512Z">
+        <seg>Guardar en un lugar fresco y seco, alejado del suelo para evitar que los recipientes se oxiden.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in containment or in flammable cabinet.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222251Z" creationid="hcartagena" creationdate="20140625T222251Z">
+        <seg>Almacenar en gabinete de contención o para elementos inflamables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in containment, if possible.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003725Z" creationid="hcartagena" creationdate="20140626T003725Z">
+        <seg>Almacenar en contenedores, si es posible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in designated, safe location.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222113Z" creationid="hcartagena" creationdate="20140625T222113Z">
+        <seg>Almacenar en un lugar designado y seguro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in location (garage) away from any flame source, direct sunlight, heat sources, or wet areas.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212610Z" creationid="hcartagena" creationdate="20140625T212610Z">
+        <seg>Guardar en un lugar (garaje) alejado de fuentes de llamas, luz directa del sol, fuentes de calor o zonas húmedas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in non-corrosive, dry, leak-proof container.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232153Z" creationid="hcartagena" creationdate="20140625T232153Z">
+        <seg>Almacenar en recipiente no corrosivo, seco e impermeable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in original containers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212625Z" creationid="hcartagena" creationdate="20140625T212625Z">
+        <seg>Almacenar en sus recipientes originales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store in plastic or steel labeled container, consider waste oil collection pan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T221925Z" creationid="hcartagena" creationdate="20140625T221925Z">
+        <seg>Almacenar en recipientes de plástico o acero etiquetados y contemplar el uso de un recolector de aceite usado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store indoors in moderate temperatures.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232109Z" creationid="hcartagena" creationdate="20140625T232109Z">
+        <seg>Almacenar en interiores a temperatura moderada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store on containment tray.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232037Z" creationid="hcartagena" creationdate="20140625T232037Z">
+        <seg>Almacenar en la bandeja de contención.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store upright, do not stack.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232207Z" creationid="hcartagena" creationdate="20140625T232207Z">
+        <seg>Almacenar en posición vertical, no apilar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Store upright.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222033Z" creationid="hcartagena" creationdate="20140625T222033Z">
+        <seg>Almacenar en posición vertical.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The impacts from a release can range from minor to <ph x="0">&lt;t0/&gt;</ph>significant</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201338Z" creationid="hcartagena" creationdate="20140624T201307Z">
+        <seg>Los impactos de la liberación pueden ser menores o <ph x="0">&lt;t0/&gt;</ph>considerables.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>These should be in your <ph x="0">&lt;t0/&gt;</ph>HaSEP<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T211809Z" creationid="hcartagena" creationdate="20140624T211809Z">
+        <seg>Deben aparecer en tu <ph x="0">&lt;t0/&gt;</ph>HaSEP<ph x="1">&lt;t1/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This applies at home as well.)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225336Z" creationid="hcartagena" creationdate="20140624T225336Z">
+        <seg>Esto también vale para el hogar.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tightly seal fill cap/container cap.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T232059Z" creationid="hcartagena" creationdate="20140625T232059Z">
+        <seg>Cerrar bien la tapa.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Toner/Ink</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222255Z" creationid="hcartagena" creationdate="20140625T222255Z">
+        <seg>Toner/Tinta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Training on procedures.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235620Z" creationid="hcartagena" creationdate="20140625T235620Z">
+        <seg>Capacitación sobre procedimientos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Training.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235555Z" creationid="hcartagena" creationdate="20140625T235555Z">
+        <seg>Capacitación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use containment trays under fill nozzle during fueling.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140626T003826Z" creationid="hcartagena" creationdate="20140626T003826Z">
+        <seg>Usar bandejas de contención debajo de la boquilla de llenado durante el vertido de combustible.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use secondary containment or double-walled tank.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T235522Z" creationid="hcartagena" creationdate="20140625T235522Z">
+        <seg>Usar contención secundaria o estanques con doble pared.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use similarly as granular absorbents.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231908Z" creationid="hcartagena" creationdate="20140624T231908Z">
+        <seg>Úsalos de manera similar al absorbente granular.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use water repelling booms in water.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T232652Z" creationid="hcartagena" creationdate="20140624T232652Z">
+        <seg>En agua, usa cordones hidrófobos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Used Oil</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212629Z" creationid="hcartagena" creationdate="20140625T212629Z">
+        <seg>Aceite usado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wastewater releases from a storage tank</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T202544Z" creationid="hcartagena" creationdate="20140624T202544Z">
+        <seg>Liberación de aguas residuales de un depósito de almacenamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>We typically think of chemical storage as within a container.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201100Z" creationid="hcartagena" creationdate="20140624T201100Z">
+        <seg>Solemos creer que el almacenamiento de productos químicos se hace dentro de un contenedor.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>What is an incidental spill?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T204108Z" creationid="hcartagena" creationdate="20140624T233042Z">
+        <seg>¿Qué es un derrame incidental? Es el que:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When replacing, place the drum unit on a cloth or large piece of paper to avoid spilling the toner.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T224658Z" creationid="hcartagena" creationdate="20140625T222323Z">
+        <seg>Al cambiarlos, poner el tambor sobre un trapo o trozo de papel grande para evitar derramar el toner.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When transporting to a recycler, secure the container in your vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T222002Z" creationid="hcartagena" creationdate="20140625T222002Z">
+        <seg>Al transportar a un reciclador, sujetar el recipiente dentro del vehículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Whether <ph x="0">&lt;t0/&gt;</ph>the impact is minor or <ph x="1">&lt;t1/&gt;</ph>significant, <ph x="2">&lt;t2/&gt;</ph>it still requires effort <ph x="3">&lt;t3/&gt;</ph>to <ph x="4">&lt;t4/&gt;</ph>control and clean up the spill.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201601Z" creationid="hcartagena" creationdate="20140624T201601Z">
+        <seg>Ya sea que el <ph x="0">&lt;t0/&gt;</ph>impacto fuese menor o <ph x="1">&lt;t1/&gt;</ph>considerable, <ph x="2">&lt;t2/&gt;</ph>no deja de necesitar un esfuerzo <ph x="3">&lt;t3/&gt;</ph>de <ph x="4">&lt;t4/&gt;</ph>control y limpieza del derrame.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Wipe clean all the paint residue from the rim before closing.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140625T212441Z" creationid="hcartagena" creationdate="20140625T212441Z">
+        <seg>Limpiar con un paño todos los residuos de pintura del borde antes de cerrarlos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work inward.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231932Z" creationid="hcartagena" creationdate="20140624T231932Z">
+        <seg>Trabaja hacia el centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work your way to the center</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T231514Z" creationid="hcartagena" creationdate="20140624T231514Z">
+        <seg>Trabaja hacia el centro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Your safety and the safety of those around you come first and foremost<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T225034Z" creationid="hcartagena" creationdate="20140624T225034Z">
+        <seg>Tu seguridad y la de aquellos a tu alrededor están primero<ph x="0">&lt;t0/&gt;</ph>.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>contaminated <ph x="0">&lt;t0/&gt;</ph>groundwater</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201020Z" creationid="hcartagena" creationdate="20140624T201014Z">
+        <seg>Aguas subterráneas <ph x="0">&lt;t0/&gt;</ph>contaminadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>copier <ph x="0">&lt;t0/&gt;</ph>toner</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200949Z" creationid="hcartagena" creationdate="20140624T200949Z">
+        <seg>Toner <ph x="0">&lt;t0/&gt;</ph>de impresora</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>diesel fuel</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201002Z" creationid="hcartagena" creationdate="20140624T201002Z">
+        <seg>Combustible diesel</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>gasoline</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200957Z" creationid="hcartagena" creationdate="20140624T200957Z">
+        <seg>Gasolina</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>gasoline <ph x="0">&lt;t0/&gt;</ph>in a <ph x="1">&lt;t1/&gt;</ph>generator</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201231Z" creationid="hcartagena" creationdate="20140624T201150Z">
+        <seg>Gasolina <ph x="0">&lt;t0/&gt;</ph>en un <ph x="1">&lt;t1/&gt;</ph>grupo electrógeno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>hydraulic <ph x="0">&lt;t0/&gt;</ph>fluid within hoses on heavy <ph x="1">&lt;t1/&gt;</ph>equipment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201142Z" creationid="hcartagena" creationdate="20140624T201142Z">
+        <seg>Fluido hidráulico <ph x="0">&lt;t0/&gt;</ph>dentro de las mangueras de los <ph x="1">&lt;t1/&gt;</ph>equipos pesados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>hydrochloric <ph x="0">&lt;t0/&gt;</ph>acids</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200942Z" creationid="hcartagena" creationdate="20140624T200942Z">
+        <seg>Ácido <ph x="0">&lt;t0/&gt;</ph>clorhídrico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>isopropyl alcohol</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200955Z" creationid="hcartagena" creationdate="20140624T200955Z">
+        <seg>Alcohol isopropílico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>lab <ph x="0">&lt;t0/&gt;</ph>sample preservatives</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200856Z" creationid="hcartagena" creationdate="20140624T200856Z">
+        <seg>Preservadores <ph x="0">&lt;t0/&gt;</ph>de muestras de laboratorio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>oil</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201022Z" creationid="hcartagena" creationdate="20140624T201006Z">
+        <seg>Aceite</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>paint</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201018Z" creationid="hcartagena" creationdate="20140624T201018Z">
+        <seg>Pintura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>solvents/cleaners</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200925Z" creationid="hcartagena" creationdate="20140624T200925Z">
+        <seg>Solventes y productos de limpieza</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>wastewater <ph x="0">&lt;t0/&gt;</ph>being pumped from a <ph x="1">&lt;t1/&gt;</ph>pit</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201201Z" creationid="hcartagena" creationdate="20140624T201201Z">
+        <seg>Aguas residuales <ph x="0">&lt;t0/&gt;</ph>que se bombean desde un <ph x="1">&lt;t1/&gt;</ph>rajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>water <ph x="0">&lt;t0/&gt;</ph>treatment chemicals</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T200915Z" creationid="hcartagena" creationdate="20140624T200915Z">
+        <seg>Productos químicos <ph x="0">&lt;t0/&gt;</ph>para tratamiento de aguas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>water <ph x="0">&lt;t0/&gt;</ph>treatment chemicals used in a <ph x="1">&lt;t1/&gt;</ph>process</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140624T201225Z" creationid="hcartagena" creationdate="20140624T201225Z">
+        <seg>Productos <ph x="0">&lt;t0/&gt;</ph>químicos para tratamiento de aguas usados en un <ph x="1">&lt;t1/&gt;</ph>proceso</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

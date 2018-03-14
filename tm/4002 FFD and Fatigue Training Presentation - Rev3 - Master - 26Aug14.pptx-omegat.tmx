@@ -1,0 +1,2216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">4002 FFD and Fatigue Training Presentation - Rev3 - Master - 26Aug14.pptx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fit for Duty &amp; Fatigue (FFD&amp;F) &lt;t1/&gt;GP6 Global Standard Training</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164458Z" creationid="hcartagena" creationdate="20141014T164408Z">
+        <seg>Aptitud para las labores y fatiga (APLyF) &lt;t1/&gt;Capacitación sobre la norma global GP6</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Session Objectives</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141008T171347Z" creationid="hcartagena" creationdate="20141008T171347Z">
+        <seg>Objetivos de la sesión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify the need for the development of global standards for FFD&amp;F.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164510Z" creationid="hcartagena" creationdate="20141014T164421Z">
+        <seg>Identificar la necesidad de desarrollar normas globales de APLyF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Review FFD&amp;F definitions and the scope of the global standard.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164517Z" creationid="hcartagena" creationdate="20141014T164517Z">
+        <seg>Revisar las definiciones de APLyF y el alcance de la norma global</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Review the FFD&amp;F Global Standard mandatory requirements contained in GP6: Management of Health and Safety.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T132833Z" creationid="hcartagena" creationdate="20141014T164525Z">
+        <seg>Revisar los requisitos obligatorios de la norma global de APLyF que aparecen en el procedimiento GP6 sobre gestión de salud y seguridad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Review the function of the FFD&amp;F toolkit.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164539Z" creationid="hcartagena" creationdate="20141014T164539Z">
+        <seg>Revisar la función del kit de herramientas de APLyF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identify additional best practice resources available.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164617Z" creationid="hcartagena" creationdate="20141014T164617Z">
+        <seg>Identificar recursos adicionales sobre prácticas óptimas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Need for a FFD &amp; Fatigue Standard</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164654Z" creationid="hcartagena" creationdate="20141014T164654Z">
+        <seg>Necesidad de una norma sobre APLyF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A GAP &lt;t1/&gt;analysis of &lt;t2/&gt;Golder Op-Co HSE &lt;t3/&gt;Risk Registers &lt;t4/&gt;was completed in 2012 to &lt;t5/&gt;identify the commonalities and variations of the hazards facing Golder as a global organisation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141008T172850Z" creationid="hcartagena" creationdate="20141008T172850Z">
+        <seg>En 2012, se hizo un análisis situacional de los registros de riesgo de HSE en las operaciones de Golder para identificar aspectos en común y variaciones en los peligros que enfrenta Golder como organización global.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;t6/&gt;Findings were &lt;t7/&gt;used to develop a Global HSE Risk &lt;t8/&gt;Register.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141008T172916Z" creationid="hcartagena" creationdate="20141008T172916Z">
+        <seg>Se usaron los hallazgos para elaborar un Registro Global de Riesgo de HSE.&lt;t6/&gt;&lt;t7/&gt;&lt;t8/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fitness for Duty and Fatigue were identified as being high risk items throughout Golder.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164748Z" creationid="hcartagena" creationdate="20141014T164724Z">
+        <seg>Se detectó que la aptitud para las labores y la fatiga son elementos de alto riesgo en todo Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder owes a duty of care which is transparent, equitable and consistent to all our employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T165626Z" creationid="hcartagena" creationdate="20140819T112215Z">
+        <seg>Golder tiene un deber de cuidado con todos los colaboradores que es transparente, equitativo y coherente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where it is within our ability to control it an employee in one region should not be exposed to a level of risk that we would deem to be unacceptable in another.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170352Z" creationid="hcartagena" creationdate="20140819T112255Z">
+        <seg>Dentro de nuestras posibilidades, evitamos que un colaborador de una región se exponga a un nivel de riesgo que pudiera resultar inaceptable en otra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In 2013 a commitment was given by the GMT to develop a set of Global Standards for the highest risks common to the organisation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140826T170438Z" creationid="hcartagena" creationdate="20140819T112344Z">
+        <seg>En 2013, el GMT se comprometió a elaborar un conjunto de normas globales para los riesgos comunes a la organización con la calificación más alta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Golder undertakes a wide range of fieldwork activities which often involve working long hours and extended periods.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164831Z" creationid="hcartagena" creationdate="20141014T164831Z">
+        <seg>Golder lleva a cabo una amplia gama de actividades de trabajo de campo que a menudo implica trabajar muchas horas y por periodos prolongados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Even our office activities often require us to work longer than normal hours in order to meet our clients’ expectations and deadlines.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164923Z" creationid="hcartagena" creationdate="20141014T164923Z">
+        <seg>Hasta nuestras actividades de oficina a menudo nos exigen trabajar más allá del horario normal a fin de satisfacer las expectativas de nuestros clientes y cumplir los plazos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Need for a FFD &amp; Fatigue Standard</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T164654Z" creationid="hcartagena" creationdate="20141014T164654Z">
+        <seg>Necesidad de una norma sobre APLyF</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue &lt;t1/&gt;levels &amp; an &lt;t2/&gt;employee’s fitness for duty can be compromised by a number of &lt;t3/&gt;factors &amp; represents significant &lt;t4/&gt;risk to our &lt;t5/&gt;people &amp; operations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165025Z" creationid="hcartagena" creationdate="20141014T165025Z">
+        <seg>Los niveles de fatiga y la aptitud de un colaborador para las labores pueden verse afectados por una variedad de factores y representan un riesgo importante para nuestra gente y nuestras operaciones.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue can decrease awareness, impair judgment&lt;t1/&gt;, &amp; negatively &lt;t2/&gt;impact productivity, the quality of &lt;t3/&gt;work &amp; the &lt;t4/&gt;ability to work safely&lt;t5/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130156Z" creationid="hcartagena" creationdate="20141014T165042Z">
+        <seg>La fatiga puede disminuir el estado de conciencia, nublar el juicio y tener un impacto negativo en la productividad, en la calidad del trabajo y en la capacidad para trabajar de manera segura.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue does not only affect employees working in the field.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165105Z" creationid="hcartagena" creationdate="20141014T165105Z">
+        <seg>La fatiga no solo afecta a los colaboradores que trabajan en terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Long &lt;t1/&gt;hours &amp; heavy &lt;t2/&gt;workloads can &lt;t3/&gt;also take &lt;t4/&gt;their toll on office &lt;t5/&gt;workers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T131028Z" creationid="hcartagena" creationdate="20141014T165129Z">
+        <seg>Los horarios extendidos y el aumento de la carga de trabajo también pueden pasar la cuenta a los colaboradores en la oficina.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A global standard is required to (1), prevent injury &amp; illness &amp; (2), assist in effective management of large, international multi-region / Op-Co projects with particular reference to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165244Z" creationid="hcartagena" creationdate="20141014T165244Z">
+        <seg>Se requiere una norma global para 1) prevenir lesiones y enfermedades y 2) ayudar en el manejo eficaz de grandes proyectos internacionales, que involucran varias regiones u operaciones, en particular en lo que se refiere a:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>s&lt;t1/&gt;tandard global &lt;t2/&gt;requirements &lt;t3/&gt;for &lt;t4/&gt;managing employee fatigue, including &lt;t5/&gt;establishment &lt;t6/&gt;of daily field work hours, field shift rotations, rest &lt;t7/&gt;breaks &amp; fatigue leave; &amp;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165622Z" creationid="hcartagena" creationdate="20141014T165534Z">
+        <seg>requisitos globales estándar para el manejo de la fatiga de los colaboradores que incluyan la fijación de horarios diarios para el trabajo de campo, rotaciones de los turnos en terreno, pausas para descansar y permisos por fatiga&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;&lt;t6/&gt;&lt;t7/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>guidance &lt;t1/&gt;on managing fitness for work including the effects of &lt;t2/&gt;alcohol &amp; illegal &amp; prescription drugs</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165616Z" creationid="hcartagena" creationdate="20141014T165616Z">
+        <seg>orientación para manejar la aptitud para las labores que incluya los efectos del alcohol y de drogas lícitas e ilícitas&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard - Definitions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165651Z" creationid="hcartagena" creationdate="20141014T165651Z">
+        <seg>Norma de APLyF – Definiciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Situation</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165658Z" creationid="hcartagena" creationdate="20141014T165658Z">
+        <seg>Situación de emergencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sudden&lt;t1/&gt;, unexpected, or impending situation that may cause injury, loss of life, damage to property or the environment, and/or interference with the normal activities of an employee or organization and which, therefore, requires immediate attention and remedial action.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165706Z" creationid="hcartagena" creationdate="20141014T165706Z">
+        <seg>Situación repentina, inesperada o inminente que puede causar lesiones, muerte, daño a la propiedad o al ambiente o interferencia con las actividades normales de un colaborador u organización y que, por lo tanto, requiere atención inmediata y medidas de remediación.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work &lt;t1/&gt;Hours</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165711Z" creationid="hcartagena" creationdate="20141014T165711Z">
+        <seg>Jornada laboral&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A &lt;t1/&gt;maximum of 12 hours worked per day&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165720Z" creationid="hcartagena" creationdate="20141014T165720Z">
+        <seg>Un máximo de 12 horas trabajadas al día.&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shift &lt;t1/&gt;Rotation</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165724Z" creationid="hcartagena" creationdate="20141014T165724Z">
+        <seg>Rotación de turnos&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A &lt;t1/&gt;maximum of 14 consecutive 12 hour days without a day off&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165732Z" creationid="hcartagena" creationdate="20141014T165732Z">
+        <seg>Un máximo de 14 días consecutivos de 12 horas sin un día libre.&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T104803Z" creationid="hcartagena" creationdate="20141010T104803Z">
+        <seg>Fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Physical&lt;t1/&gt;, mental or emotional exhaustion resulting from a number of causes including, but not limited to, work, physical, mental or emotional exertion, lack of sleep, various stressors, or a combination of these factors&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165744Z" creationid="hcartagena" creationdate="20141014T165744Z">
+        <seg>Agotamiento físico, mental o emocional que resulta de causas diversas tales como esfuerzo laboral, físico, mental o emocional, falta de sueño, diversos estresores o una combinación de estos factores.&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue &lt;t1/&gt;Leave</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165747Z" creationid="hcartagena" creationdate="20141014T165747Z">
+        <seg>Permiso por fatiga&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Time &lt;t1/&gt;off to be taken immediately after completing 14 consecutive 12 hour days or at the end of the scheduled field shift rotation if longer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165754Z" creationid="hcartagena" creationdate="20141014T165754Z">
+        <seg>Salida que se hace efectiva inmediatamente después de cumplir 14 jornadas de 12 horas consecutivas o al final de la rotación de turnos en terreno programada, si es mas prolongado.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To &lt;t1/&gt;be applied at a minimum rate of:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165800Z" creationid="hcartagena" creationdate="20141014T165800Z">
+        <seg>Se aplica a una tasa mínima de:&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>two days per 14 consecutive 12 hour days, and;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T105013Z" creationid="hcartagena" creationdate="20141010T105013Z">
+        <seg>dos días por cada 14 jornadas consecutivas de 12 horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>one additional day per seven consecutive 12 hour days worked beyond the initial 14 day period.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T105029Z" creationid="hcartagena" creationdate="20140704T112231Z">
+        <seg>un día adicional por cada siete jornadas consecutivas de 12 horas trabajadas luego del periodo inicial de 14 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>fatigue leave cannot be accrued.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T105051Z" creationid="hcartagena" creationdate="20141010T105051Z">
+        <seg>el permiso por fatiga no es acumulable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard - Definitions</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165651Z" creationid="hcartagena" creationdate="20141014T165651Z">
+        <seg>Norma de APLyF – Definiciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fit &lt;t1/&gt;for Duty (FFD)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165819Z" creationid="hcartagena" creationdate="20141014T165819Z">
+        <seg>Aptitud para las labores (APL)&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Physically&lt;t1/&gt;, mentally and emotionally able to perform all assigned duties and in a manner which does not compromise or threaten the safety and health of an employee or others while preserving the integrity of property and the environment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165827Z" creationid="hcartagena" creationdate="20141014T165827Z">
+        <seg>Estar física, mental y emocionalmente apto para desarrollar todas las labores asignadas de manera que no comprometa o amenace la propia salud y seguridad del colaborador ni la de otros y que conserve la integridad de la propiedad y del medio ambiente.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An individual may be unfit for duty for a variety of reasons, including the adverse effects of fatigue, alcohol or drug use, or a range of physical, psychological or emotional limitations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T105626Z" creationid="hcartagena" creationdate="20140704T105626Z">
+        <seg>Alguien podría estar no apto para las labores por un sinnúmero de motivos tales como los efectos adversos de la fatiga o el consumo de alcohol o drogas o una gama de limitaciones físicas, sicológicas o emocionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest &lt;t1/&gt;Period</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165834Z" creationid="hcartagena" creationdate="20141014T165834Z">
+        <seg>Periodo de descanso&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Non-work &lt;t1/&gt;periods outside of the 12 hour work day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165840Z" creationid="hcartagena" creationdate="20141014T165840Z">
+        <seg>Periodos no trabajados fuera de la jornada de 12 horas.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In &lt;t1/&gt;application, rest periods must include time for sleep and should not include working on Golder reports or other administrative tasks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165856Z" creationid="hcartagena" creationdate="20141014T165856Z">
+        <seg>En su aplicación, los periodos de descanso deben dar tiempo para dormir y no deben incluir el trabajar en informes para Golder u otras tareas administrativas.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest periods shall be applied at a minimum of ten hours in a 24 hour period&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165903Z" creationid="hcartagena" creationdate="20141014T165903Z">
+        <seg>Los periodos de descanso deben ejercerse por un mínimo de 10 horas dentro de un periodo de 24 horas.&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work &lt;t1/&gt;Break</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165906Z" creationid="hcartagena" creationdate="20141014T165906Z">
+        <seg>Pausa laboral&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Non-work &lt;t1/&gt;periods within a work day allowing time for eating, drinking and relaxation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165914Z" creationid="hcartagena" creationdate="20141014T165914Z">
+        <seg>Periodos no trabajados durante la jornada laboral que dan tiempo para comer, beber y relajarse.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>To applied at a minimum rate of:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T111330Z" creationid="hcartagena" creationdate="20141010T111330Z">
+        <seg>Se aplica a una tasa mínima de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>30 minutes per eight hours worked, and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T111803Z" creationid="hcartagena" creationdate="20140704T111803Z">
+        <seg>30 minutos por cada ocho horas trabajadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>15 minutes per four hours worked beyond eight hours&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165928Z" creationid="hcartagena" creationdate="20141014T165928Z">
+        <seg>15 minutos por cada cuatro horas trabajadas pasadas las ocho horas&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work &lt;t1/&gt;Related &lt;t2/&gt;Travel*</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165941Z" creationid="hcartagena" creationdate="20141014T165941Z">
+        <seg>Viaje de trabajo*&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work related travel is defined as travel &lt;t1/&gt;undertaken by a Golder employee which:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165947Z" creationid="hcartagena" creationdate="20141014T165947Z">
+        <seg>Los viajes de trabajo se definen como aquellos que un colaborador de Golder hace y que:&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>provides direct or indirect benefit to Golder; and/or</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180633Z" creationid="hcartagena" creationdate="20140822T180633Z">
+        <seg>proporcionan un beneficio directo o indirecto a Golder;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>would not be undertaken without direct instruction from Golder to do so</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140822T180647Z" creationid="hcartagena" creationdate="20140822T180647Z">
+        <seg>no se realizarían sin mediar una instrucción directa de Golder para ello.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It does not include an employee’s round-trip commute from their home to their normal place of work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140828T154355Z" creationid="hcartagena" creationdate="20140811T140816Z">
+        <seg>El traslado diario habitual del colaborador desde el hogar al lugar de trabajo y viceversa no se considera un “viaje”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard - Key Points</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T170724Z" creationid="hcartagena" creationdate="20141014T170724Z">
+        <seg>Norma de APLyF – Puntos clave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>E&lt;t1/&gt;stablishes &lt;t2/&gt;uniform global requirements for &lt;t3/&gt;field and office &lt;t4/&gt;work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T170850Z" creationid="hcartagena" creationdate="20141014T170747Z">
+        <seg>Establece requisitos globales uniformes para el trabajo &lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;en terreno y en oficina&lt;t4/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>It is intended to support the physical, mental and emotional wellbeing of employees as they undertake their duties and to mitigate the risks associated with the adverse effects of fatigue and other stressors on an individual’s fitness for duty.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T110941Z" creationid="hcartagena" creationdate="20140704T110941Z">
+        <seg>Su fin es fomentar el bienestar físico, mental y emocional de los colaboradores en el desempeño de sus labores y mitigar los riesgos asociados con los efectos adversos de la fatiga y otros estresores de la aptitud para las labores de una persona.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Each operating company shall implement locally a written &lt;t1/&gt;FFD&amp;F &lt;t2/&gt;procedure in compliance with these requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T170813Z" creationid="hcartagena" creationdate="20141014T170813Z">
+        <seg>Cada operación debe implementar localmente un procedimiento de APLyF, en consonancia con estos requisitos.&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F &lt;t1/&gt;requirements include:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T171001Z" creationid="hcartagena" creationdate="20141014T171001Z">
+        <seg>Los requisitos de &lt;t1/&gt;APLyF son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consistent work and rest hours&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T171007Z" creationid="hcartagena" creationdate="20141014T171007Z">
+        <seg>Horarios de trabajo y descanso coherentes&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD&amp;F &lt;t1/&gt;risk assessments.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T131028Z" creationid="hcartagena" creationdate="20141014T171028Z">
+        <seg>Evaluaciones de riesgo de fatiga y APL&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Appropriate controls for high risk activities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T111406Z" creationid="hcartagena" creationdate="20140704T111406Z">
+        <seg>Controles adecuados para actividades de alto riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alcohol and drug use restrictions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125626Z" creationid="hcartagena" creationdate="20140811T172305Z">
+        <seg>Restricciones al consumo de alcohol y drogas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard - Work Limits</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172329Z" creationid="hcartagena" creationdate="20141014T171102Z">
+        <seg>Norma de APLyF – Límites laborales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard specifies two work period limits:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T171134Z" creationid="hcartagena" creationdate="20141014T171134Z">
+        <seg>La norma de APLyF especifica dos límites a los tiempos de trabajo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work &lt;t1/&gt;Hours &lt;t2/&gt;- &lt;t3/&gt;A maximum of 12 hours worked per day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T171159Z" creationid="hcartagena" creationdate="20141014T171159Z">
+        <seg>Jornada laboral&lt;t1/&gt;&lt;t2/&gt;: &lt;t3/&gt;un máximo de 12 horas trabajadas al día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shift Rotation &lt;t1/&gt;- A&lt;t2/&gt; maximum of 14 consecutive 12 hour days without a day off&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T171733Z" creationid="hcartagena" creationdate="20141014T171733Z">
+        <seg>Rotación de turnos&lt;t1/&gt;: &lt;t2/&gt;Un máximo de 14 días consecutivos de 12 horas sin un día libre&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working &lt;t1/&gt;time is inclusive of travel time and rest breaks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172259Z" creationid="hcartagena" creationdate="20141014T172259Z">
+        <seg>&lt;t1/&gt;Las horas trabajadas incluyen el tiempo de viaje y las pausas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Travel does not include an employee’s round-trip commute from their home to their normal place of work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T111649Z" creationid="hcartagena" creationdate="20140704T111649Z">
+        <seg>El traslado diario desde el hogar al lugar de trabajo habitual del colaborador y viceversa no se considera un “viaje”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard - non-Work Limits</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172335Z" creationid="hcartagena" creationdate="20141014T172321Z">
+        <seg>Norma de APLyF – Límites no laborales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard specifies two types of non-work periods:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172353Z" creationid="hcartagena" creationdate="20141014T172353Z">
+        <seg>La norma de APLyF especifica dos tipos de periodos no laborales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work Break &lt;t1/&gt;– Non-work periods within a work day allowing time for eating, drinking and relaxation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172649Z" creationid="hcartagena" creationdate="20141014T172425Z">
+        <seg>Pausa&lt;t1/&gt;: periodos no trabajados durante la jornada laboral que dan tiempo para comer, beber y relajarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work &lt;t1/&gt;breaks shall be applied at a minimum rate of:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172619Z" creationid="hcartagena" creationdate="20141014T172619Z">
+        <seg>Las pausas deben ejercerse con una frecuencia mínima de:&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>30 minutes per eight hours worked, and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T111803Z" creationid="hcartagena" creationdate="20140704T111803Z">
+        <seg>30 minutos por cada ocho horas trabajadas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>15 minutes per four hours worked beyond eight hours&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T165928Z" creationid="hcartagena" creationdate="20141014T165928Z">
+        <seg>15 minutos por cada cuatro horas trabajadas pasadas las ocho horas&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest Period &lt;t1/&gt;– Non-work periods outside of the 12 hour work day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172642Z" creationid="hcartagena" creationdate="20141014T172642Z">
+        <seg>Descanso&lt;t1/&gt;: periodos no trabajados fuera de la jornada de 12 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest &lt;t1/&gt;periods must include time for sleep and should not include working on Golder reports or other administrative tasks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172657Z" creationid="hcartagena" creationdate="20141014T172657Z">
+        <seg>Los periodos de descanso deben dar tiempo para dormir y no deben incluir el trabajar en informes para Golder u otras tareas administrativas.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest periods shall be applied at a minimum of ten hours in a 24hr period.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T112054Z" creationid="hcartagena" creationdate="20140704T112054Z">
+        <seg>Los periodos de descanso deben ejercerse por un mínimo de 10 horas dentro de un periodo de 24 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard - Fatigue Leave</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T172720Z" creationid="hcartagena" creationdate="20141014T172720Z">
+        <seg>Norma de APLyF – Permiso por fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard specifies the application of Fatigue Leave:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173100Z" creationid="hcartagena" creationdate="20141014T173100Z">
+        <seg>La norma de APLyF especifica la aplicación del permiso por fatiga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue &lt;t1/&gt;Leave &lt;t2/&gt;– Time off to be taken immediately after completing 14 consecutive 12 hour days or at the end of the scheduled shift rotation if longer.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173117Z" creationid="hcartagena" creationdate="20141014T173117Z">
+        <seg>Permiso por fatiga&lt;t1/&gt;&lt;t2/&gt;: salida que se hace efectiva inmediatamente después de cumplir 14 jornadas de 12 horas consecutivas o al final del turno rotativo programado, si es mas prolongado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue leave shall be applied at a minimum rate of:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T112115Z" creationid="hcartagena" creationdate="20140704T112115Z">
+        <seg>El permiso por fatiga debe ejercerse con una frecuencia mínima de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>two days per 14 consecutive 12 hour days, and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T145732Z" creationid="hcartagena" creationdate="20140704T112137Z">
+        <seg>dos días por cada 14 jornadas consecutivas de 12 horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>one additional day per seven consecutive 12 hour days worked beyond the initial 14 day period.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T105029Z" creationid="hcartagena" creationdate="20140704T112231Z">
+        <seg>un día adicional por cada siete jornadas consecutivas de 12 horas trabajadas luego del periodo inicial de 14 días.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue leave cannot be accrued.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T112248Z" creationid="hcartagena" creationdate="20140704T112248Z">
+        <seg>El permiso por fatiga no es acumulable.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue Leave</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T104837Z" creationid="hcartagena" creationdate="20141010T104837Z">
+        <seg>Permiso por fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard – Fatigue Risk Assessments</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173207Z" creationid="hcartagena" creationdate="20141014T173207Z">
+        <seg>Norma de APLyF – Evaluaciones de riesgo de fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue Risk Assessments:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173322Z" creationid="hcartagena" creationdate="20141014T173322Z">
+        <seg>Evaluaciones de riesgo de fatiga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In work situations where, due to unexpected or operational &lt;t1/&gt;requirements:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173401Z" creationid="hcartagena" creationdate="20141014T173401Z">
+        <seg>En situaciones de trabajo en que, debido a requisitos inesperados u operacionales:&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the &lt;t1/&gt;work hours exceed 12 hours per &lt;t2/&gt;day, or</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173421Z" creationid="hcartagena" creationdate="20141014T173421Z">
+        <seg>la jornada laboral supere las 12 horas diarias&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the &lt;t1/&gt;shift rotation exceeds 14 consecutive 12 hour &lt;t2/&gt;days, or</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T173448Z" creationid="hcartagena" creationdate="20141014T173448Z">
+        <seg>la rotación de turnos supere los 14 días consecutivos de 12 horas&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>the &lt;t1/&gt;work schedule requires working at night or 24 hour &lt;t2/&gt;operations,</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T174117Z" creationid="hcartagena" creationdate="20141014T174117Z">
+        <seg>el cronograma de trabajo exige trabajar de noche o en operaciones de 24 horas&lt;t1/&gt;&lt;t2/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>a &lt;t1/&gt;FFD &amp; Fatigue risk assessment must be undertaken and appropriate controls implemented prior to proceeding.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T112924Z" creationid="hcartagena" creationdate="20141014T174149Z">
+        <seg>se debe efectuar una evaluación de riesgo de fatiga y APL y adoptarse los controles correspondientes antes de proceder.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard – Fatigue Risk Assessment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T174318Z" creationid="hcartagena" creationdate="20141014T174318Z">
+        <seg>Norma de APLyF – Evaluación de riesgo de fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue &lt;t1/&gt;risk assessment work/task related factors may include, but not be limited to, the:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T175136Z" creationid="hcartagena" creationdate="20141014T175136Z">
+        <seg>Entre los factores a considerar en la evaluación de riesgo de fatiga relacionados con el trabajo o la tarea se encuentran:&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>time &lt;t1/&gt;required to complete the work/task;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T175242Z" creationid="hcartagena" creationdate="20141014T175242Z">
+        <seg>el tiempo necesario para llevar a cabo el trabajo o tarea&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>degree of physical and mental exertion required;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T184844Z" creationid="hcartagena" creationdate="20141013T184844Z">
+        <seg>el grado de esfuerzo físico y mental necesario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>environmental stressors including exposure to weather, chemicals, extreme cold or heat, noise and/or vibration;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T184918Z" creationid="hcartagena" creationdate="20141013T184918Z">
+        <seg>los estresores ambientales tales como la exposición al clima, a sustancias químicas, a frío o calor extremo, a ruido o a vibraciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>work location (remoteness, accessibility, pre/post-travel requirements etc.);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T184942Z" creationid="hcartagena" creationdate="20141013T184942Z">
+        <seg>la ubicación del trabajo (lejanía, accesibilidad, requisitos para antes y después del viaje, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>rest period location e.g. at home or away / on-site;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185013Z" creationid="hcartagena" creationdate="20141013T185013Z">
+        <seg>ubicación del periodo de descanso, es decir, en casa o en otro lugar / en el sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>number of back-to-back shift rotations required (either for the same or different projects);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185037Z" creationid="hcartagena" creationdate="20141013T185037Z">
+        <seg>cantidad de rotaciones de turnos consecutivas necesarias (ya sea para el mismo proyecto o para distintos proyectos)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>travel / transit times, distances and modes of transport, including travel across time zones, and;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185109Z" creationid="hcartagena" creationdate="20141013T185109Z">
+        <seg>tiempos de viaje / traslado, distancias y medios de transporte, viaje a través de distintas zonas horarias, etc.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>intended hours of work and rest, including night and/or shift work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185214Z" creationid="hcartagena" creationdate="20141013T185214Z">
+        <seg>horas de trabajo y de descanso previstas, incluido el trabajo de noche o por turnos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue risk assessment employee-related factors may include, but not be limited to, the:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185309Z" creationid="hcartagena" creationdate="20141013T185309Z">
+        <seg>Entre los factores relacionados con los colaboradores a considerar en la evaluación de riesgo de fatiga se encuentran:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>work load verses the available employees;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185337Z" creationid="hcartagena" creationdate="20141013T185337Z">
+        <seg>carga de trabajo en relación con los colaboradores disponibles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>employee’s physical limitations;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185347Z" creationid="hcartagena" creationdate="20141013T185347Z">
+        <seg>limitaciones físicas del colaborador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>employee’s other work commitments (other projects, etc.); and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185402Z" creationid="hcartagena" creationdate="20141013T185402Z">
+        <seg>otros compromisos laborales del colaborador (otros proyectos, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>employee’s natural circadian rhythms.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185411Z" creationid="hcartagena" creationdate="20141013T185411Z">
+        <seg>ritmos circadianos naturales del colaborador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue &lt;t1/&gt;risk assessment controls may include, but not be limited to:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T175612Z" creationid="hcartagena" creationdate="20141014T175612Z">
+        <seg>Entre los controles de la evaluación de riesgo de fatiga se encuentran:&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimise work hours and/or shift rotation to reduce cumulated fatigue;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185448Z" creationid="hcartagena" creationdate="20141013T185448Z">
+        <seg>minimizar las horas de trabajo o la rotación de turnos para reducir la fatiga acumulada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Allow flexibility in work schedule for additional work breaks and rest periods e.g. weekly half or full day rest periods;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185541Z" creationid="hcartagena" creationdate="20141013T185541Z">
+        <seg>dar flexibilidad en el cronograma de trabajo para tener pausas y periodos de descanso adicionales, por ejemplo, periodos de descanso semanales de medio día o día completo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use operational downtime, such as breakdowns, to allow additional work breaks;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185801Z" creationid="hcartagena" creationdate="20141013T185801Z">
+        <seg>usar los periodos de inactividad operacional, tales como las averías, para tomarse pausas adicionales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Provide appropriate rest facilities, particularly for shift work or 24 hour operations where employees are required to sleep while other activities are underway (cooking, cleaning, maintenance, etc.);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185922Z" creationid="hcartagena" creationdate="20141013T185854Z">
+        <seg>proporcionar instalaciones de descanso adecuadas, sobre todo para el trabajo en turnos o en operaciones de 24 horas en que sea necesario que los colaboradores duerman mientras haya otras actividades en curso (cocina, limpieza, mantenimiento, etc.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use a three-shift rotation for 24 hour operations instead of two;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T185916Z" creationid="hcartagena" creationdate="20141013T185916Z">
+        <seg>usar una rotación de tres turnos para operaciones de 24 horas en lugar una de dos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Schedule time off prior to shift rotations and when transitioning from/to night shifts;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T190048Z" creationid="hcartagena" creationdate="20141013T190034Z">
+        <seg>programar salidas para descansar antes de las rotaciones de turnos y en la transición de/a turnos de noche.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Break the task into shorter periods;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T190044Z" creationid="hcartagena" creationdate="20141013T190044Z">
+        <seg>dividir la tarea en periodos más cortos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Provide staff relief e.g. additional employees;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T200832Z" creationid="hcartagena" creationdate="20141013T200832Z">
+        <seg>proporcionar asistencia al personal (más colaboradores)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimise travel time to/from job sites;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T200902Z" creationid="hcartagena" creationdate="20141013T200902Z">
+        <seg>minimizar el tiempo de viaje desde/hacia el sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Budget and schedule to allow for accommodation or taxis and employees changeovers on lengthy tasks; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T201039Z" creationid="hcartagena" creationdate="20141013T201039Z">
+        <seg>contemplar en el presupuesto y cronograma alojamiento o taxis y recambio de colaboradores para tareas extensas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Encourage employees to report if they, or other personnel, become fatigued.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T201102Z" creationid="hcartagena" creationdate="20141013T201102Z">
+        <seg>alentar a los colaboradores a avisar si ellos u otros miembros están fatigados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard – High Risk Activities</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180136Z" creationid="hcartagena" creationdate="20141014T180136Z">
+        <seg>Norma de APLyF – Actividades de alto riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard requires appropriate controls for high risk activities:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180238Z" creationid="hcartagena" creationdate="20141014T180238Z">
+        <seg>La norma de APLyF exige controles adecuados para actividades de alto riesgo:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When &lt;t1/&gt;an &lt;t2/&gt;employee &lt;t3/&gt;has worked consecutively for 14 hours or more in a single day they shall not operate a vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180306Z" creationid="hcartagena" creationdate="20141014T180306Z">
+        <seg>Cuando un colaborador haya trabajado continuamente durante 14 horas o mas en el mismo día, no debe operar un vehículo.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrangements must be made, not at the employee’s expense, for alternative transportation or accommodations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T112638Z" creationid="hcartagena" creationdate="20140704T112638Z">
+        <seg>Debe disponerse transporte o alojamiento alternativo, sin costo para el colaborador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In &lt;t1/&gt;unforeseen situations, an employee may complete their journey without being in violation of the provisions of this procedure, provided the planned journey could reasonably have been completed within the provisions of this procedure in the absence of the unforeseen situation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180315Z" creationid="hcartagena" creationdate="20141014T180315Z">
+        <seg>En situaciones imprevistas, un colaborador puede terminar su viaje sin incurrir en violación de lo dispuesto en este procedimiento, siempre que el viaje planeado pudiera haberse hecho en el marco de lo dispuesto en este procedimiento, en ausencia de la situación imprevista.&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Standard – Emergencies and Employee Duties</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180347Z" creationid="hcartagena" creationdate="20141014T180347Z">
+        <seg>Norma de APLyF – Emergencias y deberes de los colaboradores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard makes allowances for emergency situations:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180406Z" creationid="hcartagena" creationdate="20141014T180406Z">
+        <seg>La norma de APLyF contempla situaciones de emergencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Situations &lt;t1/&gt;- &lt;t2/&gt;In an emergency, hours of work may require extension and can take precedence over this fit for duty hours of work and rest.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T180448Z" creationid="hcartagena" creationdate="20141014T180448Z">
+        <seg>Situaciones de emergencia&lt;t1/&gt;&lt;t2/&gt;: en caso de emergencia, podría ser necesario ampliar la jornada y esto puede primar sobre las horas de trabajo y descanso señaladas en este documento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Adequate rest periods should be assigned to the involved individuals to manage their fatigue&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T132905Z" creationid="hcartagena" creationdate="20141015T110315Z">
+        <seg>Deben asignarse periodos de descanso suficientes a quienes participen para manejar su fatiga.&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard details employees’ duties:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T110351Z" creationid="hcartagena" creationdate="20141015T110351Z">
+        <seg>La norma de APLyF detalla los deberes de los colaboradores:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Without disclosure of sensitive personal information &lt;t1/&gt;employees &lt;t2/&gt;have a duty to notify their human resources representative, supervisor or designated company representative immediately if they:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T150249Z" creationid="hcartagena" creationdate="20141015T110416Z">
+        <seg>Sin divulgar información de carácter personal, &lt;t1/&gt;los colaboradores&lt;t2/&gt; deben notificar a su representante de recursos humanos, su supervisor o al representante designado de la empresa inmediatamente si:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>have any doubts or concerns about their fitness for duty, or ability to safely perform their assigned responsibilities</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130207Z" creationid="hcartagena" creationdate="20140704T113324Z">
+        <seg>tienen dudas o inquietudes acerca de su aptitud para las labores o su capacidad de desempeñar sus responsabilidades de manera segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>become unfit for duty during the course of the workday</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T113457Z" creationid="hcartagena" creationdate="20140704T113353Z">
+        <seg>pierden su aptitud para las labores en el transcurso del día</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>observe another employee or Golder contractor who appears to be unfit for duty</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T113431Z" creationid="hcartagena" creationdate="20140704T113431Z">
+        <seg>observan que otro colaborador de Golder o un contratista parece no estar apto para las labores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The FFD&amp;F Standard specifies alcohol and drug use restrictions:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125641Z" creationid="hcartagena" creationdate="20141015T110551Z">
+        <seg>La norma de APLyF especifica las restricciones al consumo de alcohol y drogas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Illegal Drugs and Alcohol &lt;t1/&gt;- Personnel shall not begin or continue work if they are knowingly impaired in any way due to alcohol, legal or illegal drugs.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125829Z" creationid="hcartagena" creationdate="20141015T110647Z">
+        <seg>Drogas ilícitas y alcohol&lt;t1/&gt;: el personal no debe iniciar o continuar su trabajo si sabe que se encuentra limitado de cualquier modo debido al consumo de alcohol o drogas legales o prohibidas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Personnel shall comply with drug and alcohol testing as required by Golder, our Clients and in conformance with local legislation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140704T114233Z" creationid="hcartagena" creationdate="20140704T114233Z">
+        <seg>El personal debe someterse a controles de alcohol y drogas a solicitud de Golder o sus clientes o conforme a la legislación local.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue Toolkit &amp; Further Guidance</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T110846Z" creationid="hcartagena" creationdate="20141015T110846Z">
+        <seg>Kit de herramientas de APLyF y orientaciones adicionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>FFD &amp; Fatigue &lt;t1/&gt;Toolkit provides guidance on how GP6 &lt;t2/&gt;standards can &lt;t3/&gt;be &lt;t4/&gt;achieved, explains operational flexibility &amp; seeks to answer frequently asked questions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T111717Z" creationid="hcartagena" creationdate="20141015T111717Z">
+        <seg>El kit de herramientas de APLyF da consejos sobre cómo cumplir las normas del GP6, explica la flexibilidad operacional y busca responder a las preguntas frecuentes.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Provides detail on the:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T111734Z" creationid="hcartagena" creationdate="20141015T111734Z">
+        <seg>Entrega detalles sobre:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When a FFD &amp; Fatigue Risk Assessment is required, elements to be considered in the risk assessment &amp; suggested controls;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T112200Z" creationid="hcartagena" creationdate="20141015T111804Z">
+        <seg>cuando se requiere una evaluación de riesgo de fatiga y aptitud para las labores, los elementos a tener en cuenta en la evaluación de riesgo y los controles recomendados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Appropriate controls for high risk activities;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T113114Z" creationid="hcartagena" creationdate="20141015T113114Z">
+        <seg>controles adecuados para actividades de alto riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Elements of an Employee Assistance Program; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T113144Z" creationid="hcartagena" creationdate="20141015T113144Z">
+        <seg>elementos de un programa de asistencia a los colaboradores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Management of alcohol &amp; drug use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125836Z" creationid="hcartagena" creationdate="20141015T113157Z">
+        <seg>manejo del consumo de alcohol y drogas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A FFD &amp; Fatigue &lt;t1/&gt;Risk Assessment &lt;t2/&gt;Example and &lt;t3/&gt;further &lt;t4/&gt;best                                &lt;t5/&gt;practice guidance is contained on the Global HSE CWS.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122121Z" creationid="hcartagena" creationdate="20141015T122121Z">
+        <seg>El CWS global de HSE contiene un ejemplo de evaluación de riesgo de fatiga y APL y orientaciones adicionales.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;&lt;t5/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue can decrease awareness, impair judgment, and negatively impact productivity, the quality of work and the ability to work safely.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130217Z" creationid="hcartagena" creationdate="20141009T175158Z">
+        <seg>La fatiga puede disminuir el estado de conciencia, nublar el juicio y tener un impacto negativo en la productividad, en la calidad del trabajo y en la capacidad para trabajar de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue can affect many aspects of our mental and physical abilities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141009T175214Z" creationid="hcartagena" creationdate="20141009T175214Z">
+        <seg>La fatiga puede afectar muchos aspectos de nuestras habilidades mentales y físicas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As little as two hours sleep loss on one occasion can affect reaction time, mental functioning, memory, mood and alertness.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T124118Z" creationid="hcartagena" creationdate="20141009T175257Z">
+        <seg>La falta de apenas dos horas de sueño en una ocasión puede afectar el tiempo de reacción, el trabajo mental, la memoria, el temperamento y el estado de alerta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The most common effects associated with fatigue are:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T100053Z" creationid="hcartagena" creationdate="20141010T100053Z">
+        <seg>Los efectos más comunes de la fatiga son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> desire to sleep</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122403Z" creationid="hcartagena" creationdate="20141015T122403Z">
+        <seg> ganas de dormir</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> lack of concentration</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122414Z" creationid="hcartagena" creationdate="20141015T122414Z">
+        <seg> falta de concentración</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> impaired recollection of timing and events</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122517Z" creationid="hcartagena" creationdate="20141015T122517Z">
+        <seg> problemas para recordar los hechos y el orden en que sucedieron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> irritability</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122528Z" creationid="hcartagena" creationdate="20141015T122528Z">
+        <seg> irritabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> poor judgment</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122659Z" creationid="hcartagena" creationdate="20141015T122543Z">
+        <seg> menor capacidad de juicio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> reduced capacity for communicating with others</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122613Z" creationid="hcartagena" creationdate="20141015T122613Z">
+        <seg> menor capacidad de comunicarse con los demás</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> reduced hand-eye coordination</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122747Z" creationid="hcartagena" creationdate="20141015T122747Z">
+        <seg> menor coordinación mano-ojo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> reduced visual perception</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122809Z" creationid="hcartagena" creationdate="20141015T122809Z">
+        <seg> menor percepción visual</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> reduced vigilance</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122830Z" creationid="hcartagena" creationdate="20141015T122830Z">
+        <seg> menor vigilancia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> reduced capacity to judge risk</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122846Z" creationid="hcartagena" creationdate="20141015T122846Z">
+        <seg> menor capacidad de juzgar los riesgos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg> slower reaction times</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T122944Z" creationid="hcartagena" creationdate="20141015T122944Z">
+        <seg> menor tiempo de reacción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue is exacerbated when employees are working beyond the standard office hours, at home after work and on weekends.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T100716Z" creationid="hcartagena" creationdate="20141010T100716Z">
+        <seg>La fatiga se exacerba cuando los colaboradores trabajan después del horario normal de oficina, en su casa después del trabajo y los fines de semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Add in business development, client meetings and international travel and many senior employees may find it challenging to manage their work schedules to allow sufficient downtime.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T100934Z" creationid="hcartagena" creationdate="20141010T100934Z">
+        <seg>Si a eso se agrega el desarrollo de negocios, las reuniones con clientes y los viajes internacionales, muchos colaboradores senior pueden tener problemas para manejar sus tiempos de trabajo de modo de tener suficiente tiempo de descanso.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A work/life fit which is too heavily weighted towards work can have acute and chronic effects on health and well being.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T101102Z" creationid="hcartagena" creationdate="20141010T101102Z">
+        <seg>Una relación trabajo/vida personal que esté muy cargada hacia el trabajo puede tener efectos agudos y crónicos en la salud y el bienestar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue can be caused by a number of factors including, but not limited to, the following:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132122Z" creationid="hcartagena" creationdate="20141013T132122Z">
+        <seg>La fatiga puede tener su origen en una variedad de factores, entre los que se cuentan:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inadequate rest breaks;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132133Z" creationid="hcartagena" creationdate="20141013T132133Z">
+        <seg>Pausas de descanso insuficientes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Long periods of time awake;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132143Z" creationid="hcartagena" creationdate="20141013T132143Z">
+        <seg>Largos periodos en estado de vigilia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Inadequate or poor quality sleep;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132159Z" creationid="hcartagena" creationdate="20141013T132159Z">
+        <seg>Falta o mala calidad del sueño</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Disruption of the biological clock (i.e. working when we would normally be asleep or sleeping when we would normally be awake);</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132228Z" creationid="hcartagena" creationdate="20141013T132228Z">
+        <seg>Interrupción del reloj biológico (es decir, trabajar cuando normalmente se duerme o dormir cuando normalmente se está despierto)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Environmental factors such as exposure to chemical stressors or physical agents including heat, cold, vibration and noise;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132254Z" creationid="hcartagena" creationdate="20141013T132254Z">
+        <seg>Factores ambientales como exposición a estresores químicos o agentes físicos como el calor, el frío, la vibración y el ruido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Mentally or physically demanding tasks; and</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132304Z" creationid="hcartagena" creationdate="20141013T132304Z">
+        <seg>Tareas física o mentalmente exigentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consumption of alcohol and/or drugs.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132311Z" creationid="hcartagena" creationdate="20141013T132311Z">
+        <seg>Consumo de alcohol o drogas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A recent study published in the American Journal of Epidemiology which combined the results of different studies over the last 50 years determined that long office hours resulted in a 40% -80% greater chance of heart disease compared to an eight hour work day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T123036Z" creationid="hcartagena" creationdate="20141015T123036Z">
+        <seg>Un estudio reciente publicado por la American Journal of Epidemiology que combinó los resultados de distintos estudios de los últimos 50 años determinó que las largas horas de trabajo en la oficina aumentaban en un 40% a 80% la posibilidad de sufrir enfermedad cardíaca en comparación con un día de ocho horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Researchers said that other factors could be increased levels of the stress hormone cortisol, poor eating habits and lack of physical activity due to limited leisure time.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T101646Z" creationid="hcartagena" creationdate="20141010T101646Z">
+        <seg>Los invstigadores señalaron que otros factores podían ser el aumento en los niveles de la hormona del estrés, cortisol, malos hábitos alimenticios y la falta de actividad física debido a las limitaciones de tempo para elesparcimiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>While we cannot always prevent our people from working long hours, we can look out for each other and be prepared to have the difficult discussions if we are concerned that a colleague’s working hours could affect their health and well being.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141010T101854Z" creationid="hcartagena" creationdate="20141010T101845Z">
+        <seg>Aunque no siempre podamos evitar que la gente trabaje muchas horas, sí podemos cuidarnos entre todos y estar preparados para tener la conversación difícil si nos preocupa que un colega que está trabajando muchas horas pueda sufrir efectos en su salud y bienestar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Key points:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141009T135526Z" creationid="hcartagena" creationdate="20141009T135526Z">
+        <seg>Puntos clave:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>*&lt;t1/&gt; Work related travel is defined within the JM standard but is included in this training as it is applicable to FFD&amp;F</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T123139Z" creationid="hcartagena" creationdate="20141015T123139Z">
+        <seg>*&lt;t1/&gt;Los viajes de trabajo se definen en la norma de MV, pero se incluye en esta capacitación ya que se aplica a la APLyF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work Related Travel - &lt;t1/&gt; Work related travel is a journey undertaken which would not be were it not for Golder’s benefit e.g. an employee would be unlikely to visit a client’s offices were there no benefit to Golder in doing so (i.e. on their own time).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T123606Z" creationid="hcartagena" creationdate="20141015T123606Z">
+        <seg>Viaje de trabajo: &lt;t1/&gt;es un viaje que no se hubiera hecho si no fuera porque implica un beneficio para Golder. Por ejemplo, sería improbable que un colaborador visitara las oficinas de un cliente si ello no implicara un beneficio para Golder (si lo hiciera por cuenta propia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>‘Direct instruction’ from Golder does not mean that such must have been given for each journey e.g. a manager may not have received a direct instruction from Golder to visit another Golder office for a specific trip but such travel may be required in order for them to discharge the responsibilities of their job/role and therefore is considered as part of the ‘direct instruction’ already given by Golder on appointment to the role and it’s attendant responsibilities.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141009T165539Z" creationid="hcartagena" creationdate="20141009T165539Z">
+        <seg>«Instrucción directa» de Golder no significa que esta se haya dado para cada viaje. Por ejemplo, un gerente pudo no haber recibido una instrucción directa de Golder para visitar otra oficina de Golder en un viaje específico, pero pudo haber sido necesario hacerlo para cumplir con las obligaciones de su cargo o función y por ello se considera parte de la «instrucción directa» dada previamente por Golder al designársele en ese cargo, con las responsabilidades que le atañen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Similar interpretation may be applied when an employee is appointed to a project by Golder and is required to undertake journeys in order to meet their client commitments as agreed by Golder as part of the project scope.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141009T165727Z" creationid="hcartagena" creationdate="20141009T165727Z">
+        <seg>Se puede aplicar una interpretación similar cuando Golder destina un colaborador a un proyecto y es necesario que haga viajes para cumplir sus compromisos con el cliente, según lo acordado por Golder dentro del alcance del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Differences in hours of work and rest between regions can cause operational discrepancies when managing multi-regional projects and result in employees on the same project working to different scheduling expectations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132021Z" creationid="hcartagena" creationdate="20141013T132021Z">
+        <seg>Las diferencias en las horas de trabajo y descanso entre regiones pueden causar discrepancias operacionales al gestionarse proyectos multirregionales y traer aparejado que haya colaboradores en el mismo proyecto trabajando con expectativas de programación distintas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The establishment of globally consistent work and rest hours is considered a key element in managing fatigue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T132103Z" creationid="hcartagena" creationdate="20141013T132103Z">
+        <seg>Establecer un horario de trabajo y descanso que sea coherente globalmente resulta un elemento esencial para el manejo de la fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work Hours &lt;t1/&gt;- Hours of work or rest which fall outside of those detailed in the&lt;t2/&gt; Global Standard&lt;t3/&gt; must be assessed through a Fatigue Risk Assessment and authorized by the relevant line-manager / supervisor or project manager prior to proceeding.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124412Z" creationid="hcartagena" creationdate="20141015T124412Z">
+        <seg>Jornada laboral&lt;t1/&gt;: Los horarios de trabajo o descanso que están fuera de lo detallado en la &lt;t2/&gt;norma global&lt;t3/&gt; deben evaluarse mediante una Evaluación de Riesgo de Fatiga y ser autorizados por el gerente de línea / supervisor o jefe de proyecto correspondiente antes de proceder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The cumulative effects of extended office hours on fatigue should be considered and hours worked in the office monitored and managed by the appropriate line-manager / supervisor.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T133934Z" creationid="hcartagena" creationdate="20141013T133934Z">
+        <seg>El gerente de línea / supervisor debe tener en cuenta los efectos de la fatiga acumulada por la ampliación de los horarios de oficina y mantener un control y gestión de las horas de trabajo en la oficina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work hours should not exceed a&lt;t1/&gt; maximum of 12 hours worked per day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124612Z" creationid="hcartagena" creationdate="20141015T124612Z">
+        <seg>La jornada laboral es de &lt;t1/&gt;un máximo de 12 horas trabajadas al día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;t2/&gt;Working time is inclusive of travel time and rest breaks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124621Z" creationid="hcartagena" creationdate="20141015T124621Z">
+        <seg>&lt;t2/&gt;Las horas trabajadas incluyen el tiempo de viaje y las pausas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>&lt;t3/&gt;Work hours cover the time taken for field and administration tasks and include the time between employees leaving and returning to their normal place of work or site based accommodation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124639Z" creationid="hcartagena" creationdate="20141015T124639Z">
+        <seg>&lt;t3/&gt;La jornada laboral abarca el tiempo que llevan las tareas de campo y las tareas administrativas e incluye el tiempo que los colaboradores usan en retirarse y volver a su lugar normal de trabajo o a su alojamiento en el sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shift Rotation &lt;t1/&gt;- should not exceed a maximum of 14 consecutive 12 hour days without a day off.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124713Z" creationid="hcartagena" creationdate="20141015T124713Z">
+        <seg>Rotación de turnos&lt;t1/&gt;: La rotación de turnos debe ser de un máximo de 14 días consecutivos de 12 horas sin un día libre.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Shift rotation is the time between employees leaving and returning to their departure point on project-related business.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T155558Z" creationid="hcartagena" creationdate="20141013T134220Z">
+        <seg>Una rotación de turnos es el tiempo dedicado a actividades de proyecto que transcurre entre la salida desde el punto de partida y el regreso a este.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>There is no limit in GP6 relating to the number of shift rotations which can be worked consecutively however where back to back shift rotations are required (either on the same or different projects) a fatigue risk assessment should be conducted.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T155757Z" creationid="hcartagena" creationdate="20141013T134526Z">
+        <seg>El GP6 no especifica un límite a la cantidad de rotaciones de turnos consecutivas, aunque ante tal necesidad (ya sea en el mismo proyecto o en distintos proyectos) debe hacerse una evaluación de riesgo de fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When assessing multiple or back-to-back shift rotations consideration should be given to whether fatigue levels would be adversely affected to a greater degree by operating back-to-back &lt;t1/&gt;shift rotations of 14 days or by operating a single extended shift rotation with a correspondingly longer period of fatigue leave at the end.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T115506Z" creationid="hcartagena" creationdate="20141013T201933Z">
+        <seg>Al evaluar rotaciones de turnos múltiples o consecutivas, se debe considerar si el impacto en los niveles de fatiga será mayor con el uso de &lt;t1/&gt;rotaciones consecutivas de turnos de 14 días o bien con el uso de una sola rotación de turnos ampliada con un correspondiente periodo de permiso por fatiga más prolongado al final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work breaks - &lt;t1/&gt;are important to enable employees adequate time to physically refuel through meal breaks and mentally recharge.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124733Z" creationid="hcartagena" creationdate="20141015T124733Z">
+        <seg>Pausas&lt;t1/&gt;: Las pausas laborales son importantes para que los colaboradores tengan tiempo suficiente para recuperarse físicamente en las pausas para alimentarse y para recargarse mentalmente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Work breaks are included within the daily work hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T134832Z" creationid="hcartagena" creationdate="20141013T134832Z">
+        <seg>Las pausas laborales son parte de las horas laborales diarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where the work involves particular physical stressors (extreme heat/cold, high altitude, etc.) or mental stressors (complex / fine detail, isolation, etc.) or shift / night work then additional or longer work breaks or shorter work shifts should be considered.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T135117Z" creationid="hcartagena" creationdate="20141013T135117Z">
+        <seg>Si el trabajo implica estresores físicos (calor/frío extremo, altura geográfica, etc.) o mentales (complejidad / detalles sutiles, aislamiento, etc) específicos o turnos / trabajo de noche, se deben considerar pausas laborales adicionales o más prolongadas o turnos de trabajo más cortos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest Period &lt;t1/&gt;- &lt;t2/&gt;For field work involving accommodation on site, provision should be made to ensure that the facilities provided for employees are conducive to rest and sleep.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124803Z" creationid="hcartagena" creationdate="20141015T124803Z">
+        <seg>Periodo de descanso&lt;t1/&gt;&lt;t2/&gt;: En trabajo de campo que comprenda alojamiento en el sitio, se deben tomar precauciones para garantizar que las instalaciones ofrecidas a los colaboradores ayuden al descanso y el sueño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This should include central areas for socialising and separate sleeping quarters which are not subjected to excessive noise and/or light.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T135315Z" creationid="hcartagena" creationdate="20141013T135315Z">
+        <seg>Deben incluirse espacios comunes para reunirse y habitaciones separadas para dormir que no estén expuestas a demasiado ruido o luz.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A work day beyond 12 hours may be authorised following a Fatigue Risk Assessment however rest periods shall be applied at a minimum of ten hours in a 24 hour period.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T135409Z" creationid="hcartagena" creationdate="20141013T135409Z">
+        <seg>Se puede autorizar una jornada que supere las 12 horas mediante una Evaluación de Riesgo de Fatiga, aunque se deben aplicar periodos de descanso con un mínimo de 10 horas dentro de cada periodo de 24 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This rest period should be scheduled as a single rest period e.g. not scheduled as two, five hour periods.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T135440Z" creationid="hcartagena" creationdate="20141013T135440Z">
+        <seg>Este periodo de descanso debe programarse como uno solo, es decir, por ejemplo, no como dos periodos de cinco horas cada uno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rest Period Examples:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T135447Z" creationid="hcartagena" creationdate="20141013T135447Z">
+        <seg>Ejemplos de periodos de descanso:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees are working a four week shift rotation which should allow them four days fatigue leave at the end of the rotation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T155823Z" creationid="hcartagena" creationdate="20141013T135623Z">
+        <seg>Hay colaboradores trabajando en una rotación de turnos de cuatro semanas, que debería permitirles tener un permiso por fatiga de cuatro días al finalizar cada rotación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However they have been allocated a rest day on site every Sunday, should they still have four days fatigue leave?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T153946Z" creationid="hcartagena" creationdate="20141013T135706Z">
+        <seg>Sin embargo, se les ha asignado un día de descanso en el sitio todos los días domingo. ¿Deberían todavía tener los cuatro días de permiso por fatiga?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where rest days are included in a field work rotation the number of fatigue days at the end may be affected.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T155839Z" creationid="hcartagena" creationdate="20141013T135734Z">
+        <seg>Si hay días de descanso incluidos en una rotación de turnos en terreno, podría haber problemas con los días de permiso por fatiga al final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The planned work schedule will affect fatigue leave and should form part of the Fatigue Risk Assessment and be agreed upon with employees prior to deployment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T112507Z" creationid="hcartagena" creationdate="20141013T135827Z">
+        <seg>El cronograma de trabajo planificado afectará el permiso por fatiga y esto debe estar contemplado en la Evaluación de Riesgo de Fatiga. Además, se debe alcanzar un acuerdo con los colaboradores antes de su envío a terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Although employees may have limited opportunities for social activities and family interaction during a rest day on site the primary objective of such a day is to provide employees with opportunity to rest and recover from the effects of cumulative fatigue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T160346Z" creationid="hcartagena" creationdate="20141013T140058Z">
+        <seg>Aunque haya pocas oportunidades para que los trabajadores hagan vida social o familiar durante los días de descanso en el sitio, el objetivo principal de estos es darles la oportunidad de descansar y recuperarse de los efectos de la fatiga acumulada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However the Project Manger may want to take the social / family impact into account when evaluating the post-rotation allocation of fatigue leave.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T160636Z" creationid="hcartagena" creationdate="20141013T144327Z">
+        <seg>Sin embargo, se sugiere a los jefes de proyecto tener presente el impacto en la vida social / familiar al evaluar la asignación de permiso por fatiga después de la rotación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In our region it can be dark/light for 24 hours a day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T151910Z" creationid="hcartagena" creationdate="20141013T151910Z">
+        <seg>En nuestra región puede haber luz/oscuridad las 24 horas del día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>How do we define ‘working at night’?</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T151926Z" creationid="hcartagena" creationdate="20141013T151926Z">
+        <seg>¿Cómo definimos el «trabajo de noche»?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working at night would usually be defined as the period between sunset and sunrise; however regions with large seasonal differences in daylight periods may need to develop their own definition of ‘working at night’.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T152201Z" creationid="hcartagena" creationdate="20141013T152201Z">
+        <seg>Generalmente se define como el periodo entre el ocaso y el alba, aunque las regiones con grandes diferencias estacionales en los periodos de luz de día podrían tener que ajustar su definición de «trabajo de noche».</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In these regions working at night could be defined as any period when an employee would usually be asleep.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T152230Z" creationid="hcartagena" creationdate="20141013T152230Z">
+        <seg>En estas regiones, se podría definir como cualquier periodo en el cual los colaboradores normalmente duermen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue leave is provided to allow employees the opportunity to rest and recover and it is not intended as ‘lifestyle’ leave for employees to catch up with social engagements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161140Z" creationid="hcartagena" creationdate="20141013T161103Z">
+        <seg>El permiso por fatiga se da para que los colaboradores tengan la oportunidad de descansar y recuperarse y no está pensado como un permiso de «estilo de vida» para que estos se pongan al día con sus actividades sociales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For this reason fatigue leave is inclusive of weekends and public holidays.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161158Z" creationid="hcartagena" creationdate="20141013T161158Z">
+        <seg>Por este motivo, el permiso por fatiga incluye los fines de semana y los feriados legales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue Leave Examples:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161206Z" creationid="hcartagena" creationdate="20141013T161206Z">
+        <seg>Ejemplos de permiso por fatiga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An employee arrives home after a 14 day shift rotation where he worked 12 hour days.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161227Z" creationid="hcartagena" creationdate="20141013T161227Z">
+        <seg>Un colaborador llega a su casa después de una rotación de turnos de 14 días en que trabajó 12 horas diarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>He is now entitled to 2 days fatigue leave.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161239Z" creationid="hcartagena" creationdate="20141013T161239Z">
+        <seg>Ahora tiene derecho a dos días de permiso por fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The employee arrives home on a Friday and his fatigue leave is Saturday and Sunday.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161816Z" creationid="hcartagena" creationdate="20141013T161816Z">
+        <seg>El colaborador llega a su casa un viernes y su permiso por fatiga es por el sábado y domingo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The employee arrives home on a Wednesday and his fatigue leave is Thursday and Friday with the normal weekend break to follow.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T162046Z" creationid="hcartagena" creationdate="20141013T162046Z">
+        <seg>El colaborador llega a su casa un miércoles y su permiso por fatiga es jueves y viernes, seguido del descanso normal de fin de semana.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The employee arrives home on a Friday and his fatigue leave is Saturday and Sunday.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T161816Z" creationid="hcartagena" creationdate="20141013T161816Z">
+        <seg>El colaborador llega a su casa un viernes y su permiso por fatiga es por el sábado y domingo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>He wants some additional leave to catch up with friends and so takes the weekend he worked on site as time in lieu rather than overtime.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T174646Z" creationid="hcartagena" creationdate="20141013T174646Z">
+        <seg>Quiere tener un permiso adicional para ponerse al día con sus amigos así que se toma el tiempo trabajado el fin de semana en lugar de cobrarlo como horas extra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Depending on the situation a single fatigue risk assessment, undertaken at the planning stage, may be suitable for an entire project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180100Z" creationid="hcartagena" creationdate="20141013T180100Z">
+        <seg>Dependiendo de la situación, una sola evaluación de riesgo de fatiga, hecha en la etapa de planificación, podría ser suficiente para todo el proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alternatively an assessment may only be required for a specific task or operation e.g. moving from/to 24 hour operations or the requirement for a short-term change to work hours to facilitate client requirements.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180258Z" creationid="hcartagena" creationdate="20141013T180258Z">
+        <seg>Como alternativa, puede que solo sea necesaria una evaluación para una tarea u operación específica como, por ejemplo, al pasar a (o cambiar de) operaciones de 24 horas o ante la necesidad de un cambio temporal a la jornada laboral para atender requisitos del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessments should be agreed to and signed by relevant employees and should be reviewed when relevant changes are made to the project, task, operation or employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180359Z" creationid="hcartagena" creationdate="20141013T180359Z">
+        <seg>Las evaluaciones deben ser acordadas con los colaboradores pertinentes y estar firmadas por ellos y deben revisarse cuando haya cambios pertinentes en el proyecto, la tarea, la operación o los colaboradores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue risk assessments should utilize the Golder 5x5 risk matric and hierarchy of controls and may form part of the HaSEP process or require a fatigue management plan.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180437Z" creationid="hcartagena" creationdate="20141013T180437Z">
+        <seg>Las evaluaciones de riesgo de fatiga deben usar la matriz de riesgos 5x5 de Golder y la jerarquía de controles y pueden incluirse en el proceso de HaSEP o requerir un plan de manejo de fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>During the course of project work there may be situations that prompt a review of the fatigue risks.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180504Z" creationid="hcartagena" creationdate="20141013T180455Z">
+        <seg>Durante el desarrollo de un proyecto puede haber situaciones que ameriten una revisión de los riesgos de fatiga,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>This may include delays in the work, extension of the project or concerns raised by employee(s) on site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180531Z" creationid="hcartagena" creationdate="20141013T180531Z">
+        <seg>como sería en el caso de retrasos en los trabajos, extensión del proyecto o inquietudes planteadas por los colaboradores en el sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Project Manager and project team should regularly review fatigue risk controls to ensure that they are managing the risk effectively.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T180558Z" creationid="hcartagena" creationdate="20141013T180558Z">
+        <seg>El jefe de proyecto y su equipo deben revisar regularmente los controles de riesgo de fatiga para asegurarse de que están manejando el riesgo con eficacia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Regular toolbox meetings to review the HaSEP or Fatigue Risk Assessment should be used to reinforce the fatigue risk controls.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181047Z" creationid="hcartagena" creationdate="20141013T181047Z">
+        <seg>Deben usarse las reuniones de seguridad para revisar el HaSEP o la Evaluación de Riesgo de Fatiga para recordar los controles de riesgo de fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fatigue Risk Assessment Examples:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181058Z" creationid="hcartagena" creationdate="20141013T181058Z">
+        <seg>Ejemplos de evaluación de riesgo de fatiga:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees are required to undertake field work on a project in a remote area making travel to the site complex and time consuming.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181131Z" creationid="hcartagena" creationdate="20141013T181131Z">
+        <seg>Se requiere que los colaboradores hagan trabajo de campo para un proyecto en un lugar apartado, lo que hace que el viaje al sitio sea complejo y consuma tiempo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>As part of project planning the Project Manager assesses options for managing fatigue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181156Z" creationid="hcartagena" creationdate="20141013T181156Z">
+        <seg>Dentro de la planificación del proyecto, el Jefe de Proyecto evalúa alternativas para manejar la fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Given the difficulty in accessing the site operating a 14 day shift rotation is considered impractical.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181221Z" creationid="hcartagena" creationdate="20141013T181221Z">
+        <seg>Dada la dificultad de acceso al sitio, se considera que una rotación de turnos de 14 días no resulta práctico.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The decision is made to operate a six week rotation with every Sunday as a rest day.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181248Z" creationid="hcartagena" creationdate="20141013T181248Z">
+        <seg>Se toma la decisión de operar con una rotación de seis semanas con día de descanso el domingo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees receive four days fatigue leave at the end of their shift rotation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181310Z" creationid="hcartagena" creationdate="20141013T181310Z">
+        <seg>Se da a los colaboradores cuatro días de permiso por fatiga al final de cada rotación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The decision is discussed with the project team and formalised within the HaSEP which is signed by the relevant employees.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T181338Z" creationid="hcartagena" creationdate="20141013T181338Z">
+        <seg>Se analiza la decisión con el equipo de proyecto y se formaliza en el HaSEP, el cual es firmado por los colaboradores en cuestión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Two employees are working in a remote area that requires a one hour commute each way to and from the site.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T184259Z" creationid="hcartagena" creationdate="20141013T184259Z">
+        <seg>Dos colaboradores están trabajando en un lugar apartado al cual se tarda una hora en llegar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the project proposal, the Project Manager stipulates that the work day (hours on site) will not exceed ten hours to account for the travel time.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T184446Z" creationid="hcartagena" creationdate="20141013T184446Z">
+        <seg>Para contemplar el tiempo de viaje de ida y vuelta, el jefe de proyecto estipula en la propuesta del proyecto que la jornada laboral (las horas en el sitio) no debe superar las 10 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees monitor fatigue levels continually and ensure they are not placing themselves or others at risk.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T184515Z" creationid="hcartagena" creationdate="20141013T184515Z">
+        <seg>Los colaboradores monitorean los niveles de fatiga constantemente y se aseguran de no ponerse a sí mismos o a otros en riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessing travel &lt;t1/&gt;- Travel time forms part of the work hours and shift rotation limits, in the field.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T124907Z" creationid="hcartagena" creationdate="20141015T124907Z">
+        <seg>Evaluación del viaje&lt;t1/&gt;: el tiempo de viaje se considera parte de la jornada laboral y de los límites de la rotación de turnos en terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>However consideration may be given to the mode of transport and its operation when assessing the effect of travel on fatigue levels.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T201208Z" creationid="hcartagena" creationdate="20141013T201208Z">
+        <seg>Sin embargo, se debe considerar los medios de transporte y su operación al evaluar el efecto de los viajes en los niveles de fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>For example an employee operating a vehicle will not have the same opportunity for rest as an employee travelling as a passenger.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141013T201233Z" creationid="hcartagena" creationdate="20141013T201233Z">
+        <seg>Por ejemplo, un colaborador que opera un vehículo no tendrá la misma oportunidad de descansar que otro que viaja como pasajero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operating&lt;t1/&gt; a vehicle&lt;t2/&gt; - &lt;t3/&gt;represents a significant risk to Golder due to a variety of factors including frequency of exposure, the level of risk associated with undertaking journeys and the remote location of some sites.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125034Z" creationid="hcartagena" creationdate="20141015T125034Z">
+        <seg>Operar un vehículo&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;: plantea un riesgo importante para Golder debido a una variedad de factores, entre los que se cuentan la frecuencia de la exposición, el nivel de riesgo asociado con los viajes y lo apartado de algunos sitios.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A number of our most significant incidents and near misses have been related to operating modes of transport.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141008T181905Z" creationid="hcartagena" creationdate="20141008T181905Z">
+        <seg>Muchos de nuestros incidentes y cuasipérdidas más importantes se relacionan con la operación de medios de transporte</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An employee should not operate a vehicle if they are experiencing fatigue and should discourage the practice amongst others.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T121856Z" creationid="hcartagena" creationdate="20141014T121856Z">
+        <seg>Un colaborador que esté sintiéndose fatigado no debe operar un vehículo y debe disuadir a otros de hacerlo si están en la misma situación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Assessment must also be undertaken on the effects of fatigue on other high risk activities such as operating machinery, working with chemicals and working at heights.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125049Z" creationid="hcartagena" creationdate="20141015T125049Z">
+        <seg>Se deben evaluar los efectos de la fatiga en otras actividades de alto riesgo como la operación de maquinaria, el trabajo con sustancias químicas y el trabajo en altura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>“Microsleep” Explanation:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T123955Z" creationid="hcartagena" creationdate="20141014T123955Z">
+        <seg>Explicación del «microsueño»:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Microsleeps are unintended periods of light sleep that last a few seconds or several minutes.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T124352Z" creationid="hcartagena" creationdate="20141014T124352Z">
+        <seg>Los microsueños son periodos involuntarios de sueño ligero que duran unos segundos o varios minutos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Affected people may daydream, lose attention and stare blankly or have difficulty remembering driving the last few kilometres/miles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125118Z" creationid="hcartagena" creationdate="20141015T125118Z">
+        <seg>Quienes lo sufren pueden soñar despiertos, perder la atención y quedarse con la mirada en blanco o tener dificultad para recordar el último tramo recorrido al conducir.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>A four second microsleep while driving at 100km/&lt;t1/&gt;hr&lt;t2/&gt; (62m/&lt;t3/&gt;hr&lt;t4/&gt;) means the vehicle will travel approximately the length of a football field while the driver is not under control.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125227Z" creationid="hcartagena" creationdate="20141015T125227Z">
+        <seg>Un microsueño de cuatro segundos al conducir a 100 Km/h (62 millas/hr) significa que el vehículo recorrió aproximadamente la longitud de un campo de fútbol mientras el conductor estaba inconsciente.&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;&lt;t4/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>When driving fatigued it is not the eyes closing and falling asleep which people notice, it is the waking from a microsleep which is noticed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T124910Z" creationid="hcartagena" creationdate="20141014T124910Z">
+        <seg>Al conducir fatigado, no es el cerrar los ojos y quedarse dormido lo que la gente nota, sino el despertar de un microsueño.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>In the absence of that ‘head snapping’ moment it is all too easy to slide into true sleep unknowingly.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T130536Z" creationid="hcartagena" creationdate="20141014T130536Z">
+        <seg>En ausencia de ese momento de «cabeceo» es demasiado fácil pasar al sueño verdadero sin darse cuenta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency&lt;t1/&gt; Situations &lt;t2/&gt;- &lt;t3/&gt;In emergency or unforeseen situations, circumstances may require an extension of the hours of work and the immediate safety of employees and preservation of life should take precedence over the Global Standard.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125321Z" creationid="hcartagena" creationdate="20141015T125321Z">
+        <seg>Situaciones de emergencia&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;: en situaciones de emergencia o imprevistas, las circunstancias pueden exigir la ampliación de la jornada laboral y debe ponerse la seguridad inmediata de los colaboradores y la conservación de la vida por encima de las normas descritas en la norma global.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The management and coordination of emergency response actions can create significant physical and mental fatigue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T105017Z" creationid="hcartagena" creationdate="20141014T105017Z">
+        <seg>El manejo y la coordinación de acciones de respuesta a emergencias pueden ocasionar altos niveles de fatiga mental y física.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If an emergency situation is likely to be on-going for a significant period consideration should be given to rotating the leader and crisis response team members to allow sufficient rest periods.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T105244Z" creationid="hcartagena" creationdate="20141014T105244Z">
+        <seg>Ante la posibilidad de que una situación de emergencia se prolongue, se debe considerar la rotación del líder y de los miembros del equipo de respuesta ante crisis para permitirles descansar lo suficiente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consideration should also be given to the provision of food and drink to combat fatigue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T105307Z" creationid="hcartagena" creationdate="20141014T105307Z">
+        <seg>También debe tenerse en cuenta el abastecimiento de alimentos y bebidas para combatir la fatiga.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tired people can make mistakes and efforts will be made, where possible, to ensure that the maximum working period does not exceed 16 hours in any 24 hour period.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T105358Z" creationid="hcartagena" creationdate="20141014T105358Z">
+        <seg>El cansancio lleva a cometer errores y siempre que sea posible, se intentará asegurar que el periodo máximo de trabajo no supere las 16 horas dentro de un lapso de 24 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Post-emergency, employees may suffer sudden onsets of fatigue from long hours, physical and mental stressors and elevated adrenalin levels.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T105659Z" creationid="hcartagena" creationdate="20141014T105659Z">
+        <seg>Después de la emergencia, es posible sufrir episodios repentinos de fatiga debido al exceso de horas, a los estresores físicos y mentales y a los elevados niveles de adrenalina.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Controls should be implemented to provide transport to avoid driving or provision of adequate rest breaks prior to operating a vehicle.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T115328Z" creationid="hcartagena" creationdate="20141014T115328Z">
+        <seg>Deben implementarse controles para evitar que los colaboradores conduzcan ofreciéndoles transporte o para darles tiempo de descanso suficiente antes de operar un vehículo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sensitive Personal Information Example:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T133933Z" creationid="hcartagena" creationdate="20141014T133933Z">
+        <seg>Ejemplo de información de carácter personal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>An employee is taking prescription medication which includes as a possible side effect increased fatigue and states that the user should not operate a vehicle when using this medication.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T134236Z" creationid="hcartagena" creationdate="20141014T134236Z">
+        <seg>Un colaborador está tomando medicamentos recetados cuyos efectos secundarios posibles son mayor fatiga y para los que se recomienda no operar vehículos mientras se los esté tomando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The employee notifies the Project Manager that they cannot drive on site due to potential side effects from the medication.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T134352Z" creationid="hcartagena" creationdate="20141014T134333Z">
+        <seg>El colaborador notifica al jefe de proyecto que no puede conducir en el sitio debido a los posibles efectos secundarios del medicamento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The employee does not have to disclose the type of medication or the ailment they are suffering from.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T134431Z" creationid="hcartagena" creationdate="20141014T134350Z">
+        <seg>No es necesario que el colaborador diga de qué tipo de medicamento se trata o para qué padecimiento lo está tomando.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>If the employee is not comfortable having this discussion with their Project Manager they can talk to their Supervisor or Human Development representative instead but still do not have to disclose any sensitive personal information.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T134653Z" creationid="hcartagena" creationdate="20141014T134653Z">
+        <seg>Si el colaborador no se siente cómodo hablando de esto con su jefe de proyecto, puede hablar con el supervisor o con el representante de Desarrollo Humano en su lugar, pero aun así no es necesario que divulgue ninguna información de carácter personal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alcohol and Drug Use Restrictions Example:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125616Z" creationid="hcartagena" creationdate="20141014T134704Z">
+        <seg>Ejemplo de restricciones al consumo de alcohol y drogas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On arrival on site an employee is informed that they are required to undertake a drug and alcohol test before being allowed to proceed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135216Z" creationid="hcartagena" creationdate="20141014T135216Z">
+        <seg>Al llegar al sitio, se informa a un colaborador que se le exigirá someterse a un examen de alcohol y drogas antes de poder continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unsure of what to do the employee contacts his Project Manager who explains the requirement to comply with the Client’s conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135318Z" creationid="hcartagena" creationdate="20141014T135318Z">
+        <seg>Como tiene dudas sobre qué debe hacer, el colaborador contacta a su jefe de proyecto, quien le explica el requisito de cumplir con las condiciones que fija el cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Project Manager amends the HaSEP to ensure other employees visiting the site will be aware of the Client’s requirements in advance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135428Z" creationid="hcartagena" creationdate="20141014T135428Z">
+        <seg>El jefe de proyecto modifica el HaSEP para asegurarse de que otros colaboradores que visiten el sitio sepan con anticipación los requisitos fijados por el cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alcohol and Drug Use Restrictions  &lt;t1/&gt;- &lt;t2/&gt;Employees should report in confidence to their Project Manager, Supervisor or to Human Development any side effects from prescription drugs which may impede their ability to work safely.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125908Z" creationid="hcartagena" creationdate="20141015T125450Z">
+        <seg>Restricciones al consumo de alcohol y drogas&lt;t1/&gt;&lt;t2/&gt;: los colaboradores deben notificar confidencialmente a su Jefe de Proyecto, Supervisor o a Desarrollo Humano ante cualquier efecto secundario de medicamentos recetados que pudiera limitar su capacidad de trabajar de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Employees should report in confidence to their Project Manager, Supervisor or Human Development any pre-existing medical, psychological, emotional or physical conditions which could impede their ability to work safely, or increase their personal risk level.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130657Z" creationid="hcartagena" creationdate="20141015T130657Z">
+        <seg>Los colaboradores deben notificar confidencialmente a su Jefe de Proyecto, Supervisor o a Desarrollo Humano de cualquier condición médica, sicológica, emocional o física preexistente que pudiera limitar su capacidad de trabajar de manera segura o aumentar su nivel de riesgo personal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alcohol and Drug Use Restrictions Example:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125616Z" creationid="hcartagena" creationdate="20141014T134704Z">
+        <seg>Ejemplo de restricciones al consumo de alcohol y drogas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>On arrival on site an employee is informed that they are required to undertake a drug and alcohol test before being allowed to proceed.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135216Z" creationid="hcartagena" creationdate="20141014T135216Z">
+        <seg>Al llegar al sitio, se informa a un colaborador que se le exigirá someterse a un examen de alcohol y drogas antes de poder continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unsure of what to do the employee contacts his Project Manager who explains the requirement to comply with the Client’s conditions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135318Z" creationid="hcartagena" creationdate="20141014T135318Z">
+        <seg>Como tiene dudas sobre qué debe hacer, el colaborador contacta a su jefe de proyecto, quien le explica el requisito de cumplir con las condiciones que fija el cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The Project Manager amends the HaSEP to ensure other employees visiting the site will be aware of the Client’s requirements in advance.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T135428Z" creationid="hcartagena" creationdate="20141014T135428Z">
+        <seg>El jefe de proyecto modifica el HaSEP para asegurarse de que otros colaboradores que visiten el sitio sepan con anticipación los requisitos fijados por el cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operating&lt;t1/&gt; regions may wish to include further training on the content and how to complete a FFD&amp;F Risk Assessment (this is not covered here as individual regions may use their own RA format and not the example on the CWS).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T131028Z" creationid="hcartagena" creationdate="20141015T130838Z">
+        <seg>Las regiones podrían incluir capacitación adicional sobre el contenido y la manera de efectuar una evaluación de riesgo de fatiga y APL (aquí no se cubre ya que cada región puede usar su propio formato de evaluación de riesgo y no el ejemplo que está en el CWS).&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional training may also include any best practice or additional controls in place beyond the global standard which are specific to the operating region.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T131151Z" creationid="hcartagena" creationdate="20141015T131151Z">
+        <seg>La capacitación adicional también puede incluir las prácticas óptimas o controles adicionales que van más allá de la norma global y son específicos de la región.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

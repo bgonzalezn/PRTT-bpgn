@@ -1,0 +1,595 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4b">
+<header creationtool="ltwebclient" creationtoolversion="5.5.2.14222" segtype="sentence" o-tmf="TMX" adminlang="en-US" srclang="en" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>A1 Criterios ENG oli.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+<tuv xml:lang="es">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>A1 Criterios ESP.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">1</prop>
+<tuv xml:lang="en">
+<seg>CONSEQUENCE OR DESCRIPTION OF IMPACT (SEVERITY)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>CONSECUENCIA O DESCRIPCIÓN DEL IMPACTO (SEVERIDAD)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">2</prop>
+<tuv xml:lang="en">
+<seg>LEVEL</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>NIVEL</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">3</prop>
+<tuv xml:lang="en">
+<seg>DESCRIPTION</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>DESCRIPCION</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">4</prop>
+<tuv xml:lang="en">
+<seg>Personal Injury</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daño a la persona</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">5</prop>
+<tuv xml:lang="en">
+<seg>Damage to the Environment</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daño al ambiente</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">6</prop>
+<tuv xml:lang="en">
+<seg>Damage to Property</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daño a la propiedad</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">7</prop>
+<tuv xml:lang="en">
+<seg>Loss of Process</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Pérdida de proceso</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">8</prop>
+<tuv xml:lang="en">
+<seg>1</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>1</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">9</prop>
+<tuv xml:lang="en">
+<seg>Insignificant</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Insignificante</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">10</prop>
+<tuv xml:lang="en">
+<seg>No injury or illness</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin lesiones o enfermedad</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">11</prop>
+<tuv xml:lang="en">
+<seg>No damage to the environment.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sin daños al ambiente</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">12</prop>
+<tuv xml:lang="en">
+<seg>&lt; $ 100,000</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>&lt; $ 100.000</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">13</prop>
+<tuv xml:lang="en">
+<seg>The event does not affect execution of a project or proposal, or the office activities regularly carried out.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El evento no afecta el desarrollo de un proyecto/propuesta ni las actividades normales de la oficina.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">14</prop>
+<tuv xml:lang="en">
+<seg>2</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>2</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">15</prop>
+<tuv xml:lang="en">
+<seg>Minor</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Menor</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">16</prop>
+<tuv xml:lang="en">
+<seg>Minor, non-disabling injuries or illnesses that may or may not require first aid treatment.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lesiones leves no incapacitantes o enfermedades que pueden requerir o no tratamiento de primeros auxilios</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">17</prop>
+<tuv xml:lang="en">
+<seg>Minor damages to the environment that can be reverted naturally and/or are controlled by Golder.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daños menores al ambiente, pero éstos se revierten de manera natural y/o controlados por Golder.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">18</prop>
+<tuv xml:lang="en">
+<seg>$ 100,000 - 1,000,000</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>$ 100.000 - 1.000.000</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">19</prop>
+<tuv xml:lang="en">
+<seg>The event affects execution of a project or proposal and/or office activities, but to a minor extent.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El evento afecta levemente el desarrollo de un proyecto/propuesta y/o las actividades de la oficina.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">20</prop>
+<tuv xml:lang="en">
+<seg>3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">21</prop>
+<tuv xml:lang="en">
+<seg>Significant</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Significativa</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">22</prop>
+<tuv xml:lang="en">
+<seg>Injuries or illnesses that require medical assistance (beyond first-aid treatment) with or without lost time, but that do not entail permanent disability.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lesiones o enfermedades que requieren atención médica (más allá de los primeros auxilios) con o sin tiempo perdido, pero sin incapacidad permanente.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">23</prop>
+<tuv xml:lang="en">
+<seg>Damages that significantly affect the environment, that cannot be reverted naturally and require mitigation or compensation measures.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daños significativos al ambiente, que no se revierten de manera natural, requiriendo medidas de mitigación o compensación.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">24</prop>
+<tuv xml:lang="en">
+<seg>$ 1,000,000 - 10,000,000</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>$ 1.000.000 - 10.000.000</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">25</prop>
+<tuv xml:lang="en">
+<seg>The event affects execution of the project or proposal and the relationship with the client, but does not generate the loss of the same.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El evento afecta el desarrollo del proyecto/propuesta y la relación con el cliente, pero no genera su pérdida.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">26</prop>
+<tuv xml:lang="en">
+<seg>Regular office functions are significantly affected (less than one day).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hay afectación significativa del funcionamiento normal de la oficina (menor a un día).</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">27</prop>
+<tuv xml:lang="en">
+<seg>4</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">28</prop>
+<tuv xml:lang="en">
+<seg>Major</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Mayor</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">29</prop>
+<tuv xml:lang="en">
+<seg>Injuries or illnesses that require medican assistance (beyond first aid treatment), with or without lost time, but that entail permanent disability.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Lesiones o enfermedades que requieren atención médica (más allá de los primeros auxilios) con o sin tiempo perdido, con incapacidad permanente.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">30</prop>
+<tuv xml:lang="en">
+<seg>Damages that significantly affect the environment that may not be fully possible to revert through mitigation or compensation measures.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daños muy significativos al ambiente, que pueden no ser totalmente revertidos con medidas de mitigación o compensación.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">31</prop>
+<tuv xml:lang="en">
+<seg>$ 10,000,000 - 100,000,000</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>$ 10.000.000 - 100.000.000</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">32</prop>
+<tuv xml:lang="en">
+<seg>The event significantly affects execution of the project and the relationship with the client, generating the loss of the same.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El evento afecta significativamente el desarrollo del proyecto y la relación con el cliente, generando su pérdida.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">33</prop>
+<tuv xml:lang="en">
+<seg>Regular office functions are significantly affected (between one day and one week).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hay afectación significativa del funcionamiento normal de la oficina (entre 1 día y 1 semana).</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">34</prop>
+<tuv xml:lang="en">
+<seg>5</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>5</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">35</prop>
+<tuv xml:lang="en">
+<seg>Catastrophic</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Catastrófica</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">36</prop>
+<tuv xml:lang="en">
+<seg>Death of a person.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Muerte de una persona</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">37</prop>
+<tuv xml:lang="en">
+<seg>Damages that significantly affect the environment and cannot be reverted.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Daños muy significativos al ambiente, que no se pueden ser revertidos.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">38</prop>
+<tuv xml:lang="en">
+<seg>&gt; $ 100,000,000</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>&gt; $ 100.000.000</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">39</prop>
+<tuv xml:lang="en">
+<seg>The event significantly affects execution of the project and the relationship with the client, generating the loss of the same, which is forseeably hard to revert.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El evento afecta significativamente el desarrollo del proyecto y la relación con el cliente, generando su pérdida que se prevé difícil de revertir.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">40</prop>
+<tuv xml:lang="en">
+<seg>Regular office functions are significantly affected (over 1 week).</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hay afectación significativa del funcionamiento normal de la oficina (mayor a 1 semana).</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">41</prop>
+<tuv xml:lang="en">
+<seg>PROBABILITY</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>PROBABILIDAD</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">42</prop>
+<tuv xml:lang="en">
+<seg>LEVEL</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>NIVEL</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">43</prop>
+<tuv xml:lang="en">
+<seg>DESCRIPTION</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>DESCRIPCION</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">44</prop>
+<tuv xml:lang="en">
+<seg>1</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>1</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">45</prop>
+<tuv xml:lang="en">
+<seg>Rare (very unlikely)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Raro (muy improbable)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">46</prop>
+<tuv xml:lang="en">
+<seg>The incident will only occur under exceptional circumstances (in 1 of 10,000 cases)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El incidente sólo ocurrirá en circunstancias excepcionales (1 en 10.000 veces)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">47</prop>
+<tuv xml:lang="en">
+<seg>2</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>2</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">48</prop>
+<tuv xml:lang="en">
+<seg>Unlikely</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Improbable</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">49</prop>
+<tuv xml:lang="en">
+<seg>The incident is not expected to occur, but it is conceivable (in 1 of 1,000 cases)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El incidente no es esperado que ocurra, pero es concebible (1 en 1.000 veces)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">50</prop>
+<tuv xml:lang="en">
+<seg>3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">51</prop>
+<tuv xml:lang="en">
+<seg>Possible</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Posible</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">52</prop>
+<tuv xml:lang="en">
+<seg>The incident could occur at some point (in 1 of 100 cases)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El incidente puede llegar a ocurrir algunas veces (1 en 100 veces)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">53</prop>
+<tuv xml:lang="en">
+<seg>4</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">54</prop>
+<tuv xml:lang="en">
+<seg>Likely</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Probable</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">55</prop>
+<tuv xml:lang="en">
+<seg>Hay una alta probabilidad que el incidente ocurrá (in 1 of 10 cases)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Hay una alta probabilidad que el incidente ocurrá (1 en 10 veces)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">56</prop>
+<tuv xml:lang="en">
+<seg>5</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>5</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">57</prop>
+<tuv xml:lang="en">
+<seg>Almost Certain</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Casi seguro</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">58</prop>
+<tuv xml:lang="en">
+<seg>The incident will occur every time the activity is carried out (every time)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El incidente ocurrirá cada vez que se realice la actividad (todas las veces)</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

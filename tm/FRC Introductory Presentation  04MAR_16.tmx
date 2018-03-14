@@ -1,0 +1,1250 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_1_r8695:8697" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <prop type="x-auto">auto</prop>
+      <tuv lang="EN">
+        <seg>1.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160323T184244Z" creationid="hcartagena" creationdate="20160323T184244Z">
+        <seg>1.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>&lt;t3/&gt;We have experienced tragic losses through workplace fatalities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183715Z" creationid="hcartagena" creationdate="20160428T183715Z">
+        <seg>&lt;t3/&gt;Hemos sufrido pérdidas trágicas por fatalidades en el lugar de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A large portion of our key clients (&lt;t0/&gt;eg&lt;t1/&gt; Anglo American, Rio Tinto, &lt;t2/&gt;Glencore&lt;t3/&gt;, &lt;t4/&gt;KCGM&lt;t5/&gt;, &lt;t6/&gt;BHP&lt;t7/&gt;, Shell) incorporate “Golden Rules”, “Life Saving Rules”, “Cardinal Rules”, or “Fatal Risk Controls” into their &lt;t8/&gt;H&amp;S&lt;t9/&gt; framework and culture.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213727Z" creationid="hcartagena" creationdate="20160428T213727Z">
+        <seg>Gran parte de nuestros clientes clave (&lt;t0/&gt;&lt;t1/&gt;Anglo American, Rio Tinto, &lt;t2/&gt;&lt;t3/&gt;Glencore, &lt;t4/&gt;&lt;t5/&gt;KCGM, &lt;t6/&gt;&lt;t7/&gt;BHP, Shell) incorporan “reglas de oro”, “reglas que salvan vidas”, “reglas vitales” o “controles de riesgos fatales” en sus marcos y cultura de &lt;t8/&gt;&lt;t9/&gt;salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledge&lt;t0/&gt; that some clients will have their own and we will work with them to implement theirs in conjunction with ours.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154657Z" creationid="hcartagena" creationdate="20160429T154657Z">
+        <seg>Reconozcamos&lt;t0/&gt; que algunos clientes tendrán sus propias normas y trabajaremos con ellos para implementar las suyas junto con la nuestra.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Acknowledgement that reducing minor injuries (&lt;t0/&gt;eg&lt;t1/&gt; hand injuries) does not necessarily reduce major or potentially fatal injuries.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213347Z" creationid="hcartagena" creationdate="20160428T213347Z">
+        <seg>Reconocimiento de que reducir lesiones menores (lesiones en las manos, por ejemplo) no necesariamente reduce lesiones mayores o potencialmente fatales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All in board grabbed on to the anchor line when the boat flipped but Tom could not hold on.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215508Z" creationid="hcartagena" creationdate="20160428T215508Z">
+        <seg>Todos a borde se tomaron de la línea del ancla cuando el bote se volcó, pero Tom no pudo sujetarse.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Although Scott’s colleague in the passenger seat survived, Scott did not.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220245Z" creationid="hcartagena" creationdate="20160428T220245Z">
+        <seg>Aunque el colega que iba de pasajero sobrevivió, Scott falleció.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Always wear a seatbelt.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214343Z" creationid="hcartagena" creationdate="20160428T214343Z">
+        <seg>Siempre use un cinturón de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And Now……..2013</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200218Z" creationid="hcartagena" creationdate="20160428T200218Z">
+        <seg>Ahora……2013</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>And Now……..2014</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200740Z" creationid="hcartagena" creationdate="20160428T200740Z">
+        <seg>Ahora……2014</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Applicable to wide range of our projects</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213834Z" creationid="hcartagena" creationdate="20160428T213834Z">
+        <seg>Aplicarse a una ampla gama de proyectos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Are there fatal risks present on site?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215052Z" creationid="hcartagena" creationdate="20160428T215052Z">
+        <seg>¿Hay riesgos fatales en el sitio?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ask people for examples of this?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T222912Z" creationid="hcartagena" creationdate="20160428T222912Z">
+        <seg>Pedir ejemplos de esto a los asistentes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ask the audience:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T155502Z" creationid="hcartagena" creationdate="20160429T155502Z">
+        <seg>Pregunta al público:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>At&lt;t0/&gt; t&lt;t1/&gt;his&lt;t2/&gt; point we reflect on what &lt;t3/&gt;FRCs&lt;t4/&gt; are – I have added in animation on these slides, as a presenter you can decide whether you would like people to remember what the controls are before showing them.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154908Z" creationid="hcartagena" creationdate="20160429T154908Z">
+        <seg>En&lt;t0/&gt;&lt;t1/&gt;este&lt;t2/&gt; punto, reflexionamos sobre lo que son los &lt;t3/&gt;&lt;t4/&gt;controles de riesgos fatales. Puse una animación en estas diapositivas. Como presentador, puedes decidir si quieres que la gente recuerde qué son estos controles antes de mostrárselos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid entering areas of unsupported ground.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214619Z" creationid="hcartagena" creationdate="20160428T214619Z">
+        <seg>Evite ingresar a áreas donde el terreno no tenga soporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid statements like &lt;t0/&gt;“Always work safely”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213910Z" creationid="hcartagena" creationdate="20160428T213910Z">
+        <seg>Evitar afirmaciones como &lt;t0/&gt;“Trabaja siempre con seguridad”</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Be compatible with good industry practice</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213849Z" creationid="hcartagena" creationdate="20160428T213849Z">
+        <seg>Ser compatibles con buenas prácticas de la industria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Being in Control of  the Work We Do</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183326Z" creationid="hcartagena" creationdate="20160428T180533Z">
+        <seg>Tener el control de nuestro trabajo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Capsized boat after engine failure on Thompson River in BC&lt;t0/&gt;, others survived</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184634Z" creationid="hcartagena" creationdate="20160428T184419Z">
+        <seg>Vuelco de bote tras falla del motor en el río Thompson en BC&lt;t0/&gt;, otros sobrevivieron</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Colleague survived</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184835Z" creationid="hcartagena" creationdate="20160428T184835Z">
+        <seg>su colega sobrevivió</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conrad Bruno, &lt;t0/&gt;February 26, 2012 (31 years old).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220731Z" creationid="hcartagena" creationdate="20160428T220731Z">
+        <seg>Conrad Bruno, &lt;t0/&gt;26 de febrero de 2012 (31 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Conrad was working as a guide in Northern Alberta Canada when……He was survived by a wife and 2 sons.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220856Z" creationid="hcartagena" creationdate="20160428T220856Z">
+        <seg>Conrad trabajaba como guía en el norte de Alberta (Canadá) cuando… dejó a su esposa y a 2 hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Crashed helicopter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173753Z" creationid="hcartagena" creationdate="20160429T173753Z">
+        <seg>Caída de helicóptero</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Criteria for Fatal Risk Controls</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213740Z" creationid="hcartagena" creationdate="20160428T213740Z">
+        <seg>Criterios de los controles de riesgos fatales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Data from the 2013 Safety Culture survey points to the need for simple tools to unburden the &lt;t0/&gt;HSE&lt;t1/&gt; system.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213448Z" creationid="hcartagena" creationdate="20160428T213448Z">
+        <seg>Los datos de la encuesa de Cultura de Seguridad 2013 apuntan a la necesidad de contar con herramientas simples para simplificar el sistema de &lt;t0/&gt;HSE&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>David Brown&lt;t0/&gt;, 1998 (28 years old).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215846Z" creationid="hcartagena" creationdate="20160428T215846Z">
+        <seg>David Brown&lt;t0/&gt;, 1998 (28 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do &lt;t0/&gt;not enter a confined and/or restricted space without understanding and following the sites confined space procedure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214916Z" creationid="hcartagena" creationdate="20160428T214916Z">
+        <seg>No &lt;t0/&gt;entre a un espacio confinado o restringido sin entender y seguir los procedimientos del sitio relativos a espacios confinados.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do &lt;t0/&gt;not stand within 2 m of an open edge where there is the potential to fall greater than 1.8 m without approved fall protection.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214753Z" creationid="hcartagena" creationdate="20160428T214753Z">
+        <seg>No &lt;t0/&gt;se pare a menos de 2 m de un borde sin los elementos aprobados de protección contra caídas si existe la posibilidad de caer más de 1,8 metros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not enter the zone of influence of heavy mobile equipment until you have positive ok from the operator.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214330Z" creationid="hcartagena" creationdate="20160428T214330Z">
+        <seg>No entre a la zona de influencia del equipo en movimiento hasta que tenga una autorización absoluta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not walk under a suspended load.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214937Z" creationid="hcartagena" creationdate="20160428T214937Z">
+        <seg>No camine bajo una carga suspendida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do we feel this control will be hard to implement, and if so why?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T155555Z" creationid="hcartagena" creationdate="20160429T155555Z">
+        <seg>¿Este control será muy difícil de implementar? ¿Por qué?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don’t drive after 14 hours of work.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214456Z" creationid="hcartagena" creationdate="20160428T214456Z">
+        <seg>No conduzca luego de haber trabajado durante 14 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don’t enter an &lt;t0/&gt;unshored&lt;t1/&gt; &lt;t2/&gt;testpit&lt;t3/&gt; or trench greater than 1.2 m depth.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214554Z" creationid="hcartagena" creationdate="20160428T214554Z">
+        <seg>No entre a una zanja o trinchera no entibada&lt;t0/&gt;&lt;t1/&gt; &lt;t2/&gt;&lt;t3/&gt;que tenga una profundidad mayor a 1,2 metros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Don’t use your cell phone.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214443Z" creationid="hcartagena" creationdate="20160428T214443Z">
+        <seg>No use el teléfono celular mientras conduce.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Driver fatigue on a dry straight road resulted in rolling the vehicle several times after hitting an embankment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T205131Z" creationid="hcartagena" creationdate="20160428T200846Z">
+        <seg>Fatiga del conductor en camino recto y seco resultante en vuelco del vehículo tras golpear un terraplén.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Driver fatigue resulting in rolling the vehicle multiple times down a steep embankment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T205152Z" creationid="hcartagena" creationdate="20160428T205124Z">
+        <seg>Fatiga del conductor resultante en vuelco del vehículo y caída por un terraplén empinado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Driving</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214333Z" creationid="hcartagena" creationdate="20160428T214333Z">
+        <seg>Conducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Driving back from a site in &lt;t1/&gt;Yallourn&lt;t2/&gt; to Melbourne, Scott feel asleep at the wheel, clipped another car rolling his vehicle.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220227Z" creationid="hcartagena" creationdate="20160428T220227Z">
+        <seg>Conducía de regreso de un sitio en &lt;t1/&gt;&lt;t2/&gt;Yallourn hacia Melbourne (Australia), se quedó dormido al volante, chocó a otro vehículo y volcó.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Drowning</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173756Z" creationid="hcartagena" creationdate="20160429T173756Z">
+        <seg>Ahogamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employee &lt;t0/&gt;exceeding speed limit (~&lt;t1/&gt;unknown km/h), vehicle impounded 60 days</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T205605Z" creationid="hcartagena" creationdate="20160428T205605Z">
+        <seg>Colaborador &lt;t0/&gt;conduce sobre el límite de velocidad (~&lt;t1/&gt;km/h desconocidos), vehículo retenido por 60 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employee exceeding speed limit (~&lt;t0/&gt;45 km/h over posted limit), vehicle impounded 30 days</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T205521Z" creationid="hcartagena" creationdate="20160428T205521Z">
+        <seg>Colaborador conduce sobre el límite de velocidad (~&lt;t0/&gt;45 km/h más), vehículo retenido por 30 días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employee exceeding speed limit (~&lt;t0/&gt;45 km/h over posted limit&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T205430Z" creationid="hcartagena" creationdate="20160428T205430Z">
+        <seg>Colaborador conduce sobre el límite de velocidad (~&lt;t0/&gt;45 km/h más que el límite señalado&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employee working close</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200306Z" creationid="hcartagena" creationdate="20160428T200306Z">
+        <seg>Colaborador que trabajaba cerca</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employee’s hard hat hit by passing grader while conducting nuclear &lt;t0/&gt;densometer&lt;t1/&gt; testing</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200547Z" creationid="hcartagena" creationdate="20160428T200547Z">
+        <seg>Casco del colaborador golpeado por niveladora que pasaba mientras hacía pruebas con densímetro nuclear&lt;t0/&gt;&lt;t1/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Exposure, working alone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173801Z" creationid="hcartagena" creationdate="20160429T173801Z">
+        <seg>Exposición, trabajo solitario</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal Risk Control – Heavy Equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215208Z" creationid="hcartagena" creationdate="20160428T215201Z">
+        <seg>Control de riesgos fatales: maquinaria pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal Risk Controls</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184207Z" creationid="hcartagena" creationdate="20160428T175855Z">
+        <seg>Controles de riesgos fatales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal Risk Controls - One Standard</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214201Z" creationid="hcartagena" creationdate="20160428T214201Z">
+        <seg>Controles de riesgos fatales: una norma</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal Risk Controls are &lt;t0/&gt;not expected to cover every hazard&lt;t1/&gt;, they are complemented by task specific hazard identification and control.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214020Z" creationid="hcartagena" creationdate="20160428T214020Z">
+        <seg>Los controles de riesgos fatales &lt;t0/&gt;no deberían cubrir todos los peligros&lt;t1/&gt;, sino complementarse con identificación y control de peligros específicos en las tareas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatal Risk Controls:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215140Z" creationid="hcartagena" creationdate="20160428T215140Z">
+        <seg>Controles de riesgos fatales:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatality (1998).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200704Z" creationid="hcartagena" creationdate="20160428T200704Z">
+        <seg>Fatalidad (1998).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For clients that are not yet at this level, it allows us to keep our attentions &lt;t1/&gt;focussed&lt;t2/&gt; on the fatal risks on those sites.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154739Z" creationid="hcartagena" creationdate="20160429T154739Z">
+        <seg>Con respecto a los clientes que todavía no alcanzan tal nivel, podremos mantenernos enfocados&lt;t1/&gt;&lt;t2/&gt; en los riesgos fatales de esas faenas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Golder has had one fatality due to fatigue and driving – Scott Brooks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T155618Z" creationid="hcartagena" creationdate="20160429T155618Z">
+        <seg>Golder ha tenido una fatalidad debido a la fatiga y la conducción: Scott Brooks.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Golder’s&lt;t0/&gt; Corporate Fatality History</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183219Z" creationid="hcartagena" creationdate="20160428T183219Z">
+        <seg>Historial corporativo de fatalidades de Golder&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ground Stability</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214509Z" creationid="hcartagena" creationdate="20160428T214509Z">
+        <seg>Estabilidad del terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HaSEP&lt;t0/&gt; development and reviews.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215015Z" creationid="hcartagena" creationdate="20160428T215015Z">
+        <seg>&lt;t0/&gt;Desarrollo y revisiones del HaSEP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have the fatal risk controls been implemented?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215116Z" creationid="hcartagena" creationdate="20160428T215116Z">
+        <seg>¿Están implementados los controles de riesgos fatales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have the fatal risks been identified?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215103Z" creationid="hcartagena" creationdate="20160428T215103Z">
+        <seg>¿Están identificados los riesgos fatales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Have the poster printed out ready to handout at the beginning or the&lt;t0/&gt; end.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215314Z" creationid="hcartagena" creationdate="20160428T215314Z">
+        <seg>Tener el póster impreso y listo para entregar al comienzo o al final&lt;t0/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hazardous Substances</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214806Z" creationid="hcartagena" creationdate="20160428T214806Z">
+        <seg>Sustancias peligrosas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He was killed by a hit and run driver while on a geological mapping exercise for a highway realignment project in South Tennessee.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220405Z" creationid="hcartagena" creationdate="20160428T220405Z">
+        <seg>Murió al ser atropellado por un conductor dado a la fuga mientras hacía un mapeo geológico para un proyecto de realineación de carreteras en el sur de Tennessee.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>He was survived by his wife Leanne and his six month old daughter Olivia.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215818Z" creationid="hcartagena" creationdate="20160428T215818Z">
+        <seg>Dejó a su esposa Leanne y a su hija de seis meses, Olivia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heavy Equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215149Z" creationid="hcartagena" creationdate="20160428T215149Z">
+        <seg>Maquinaria pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Helicopter Crash in Australia</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184545Z" creationid="hcartagena" creationdate="20160428T184545Z">
+        <seg>Caída de helicóptero en Australia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Here we can emphasize that we do not need another system to allow us to embed the &lt;t0/&gt;FRC’s&lt;t1/&gt; into our work – we must above all focus on what they are, and how we can&lt;t2/&gt; ensure they become part of our every day life.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173426Z" creationid="hcartagena" creationdate="20160429T173426Z">
+        <seg>Aquí podemos enfatizar que no necesitamos otro sistema que nos permita integrar los controles de riesgos fatales&lt;t0/&gt;&lt;t1/&gt; en el trabajo: debemos, por sobre todo, enfocarnos en lo que son y en cómo podemos &lt;t2/&gt;asegurarnos de que se conviertan en parte del día a día.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hit and run while conducting geological mapping in Tennessee</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184906Z" creationid="hcartagena" creationdate="20160428T184906Z">
+        <seg>Atropello por conductor dado a la fuga durante mapeo geológico en Tennessee</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hit by a haul truck while working in Indonesia</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184923Z" creationid="hcartagena" creationdate="20160428T184923Z">
+        <seg>Atropello por camión de carga mientras trabajaba en Indonesia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hit by a reversing construction truck while talking on a cell phone (BC Place Expo).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220003Z" creationid="hcartagena" creationdate="20160428T215932Z">
+        <seg>Fue atropellado por un camión de construcción que retrocedía mientras hablaba por celular (estadio BC Place Expo).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hit by reversing construction truck at BC Place Expo site while on cell phone</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215953Z" creationid="hcartagena" creationdate="20160428T184752Z">
+        <seg>Atropello por camión de construcción que retrocedía en el sitio del estadio BC Place Expo mientras hablaba por celular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Hit by scraper while conducting earthworks testing in Australia</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200116Z" creationid="hcartagena" creationdate="20160428T184617Z">
+        <seg>Atropello por escarificador durante ensayos de movimientos de tierra en Australia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How can we embed these in our work?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214959Z" creationid="hcartagena" creationdate="20160428T214959Z">
+        <seg>¿Cómo puedo integrar esto en el trabajo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How we meet this&lt;t0/&gt; standard and how we &lt;t1/&gt;implement it may be different, but we are all striving to achieve the one standard – whether that be across our own geographical locations – but also in working with all of our clients with varying cultures of &lt;t2/&gt;H&amp;S&lt;t3/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154528Z" creationid="hcartagena" creationdate="20160429T154528Z">
+        <seg>La manera en que cumplimos esta &lt;t0/&gt;norma y la&lt;t1/&gt;implementamos puede cambiar, pero todos estamos intentando confluir en una sola norma, ya sea en cada punto de nuestra distribución geográfica o en el trabajo con cada uno de nuestros clientes, cuyas culturas de salud y seguridad pueden ser dispares&lt;t2/&gt;&lt;t3/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>I encourage presenters to watch this video to gain further clarity what our focus of this slide is.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T221300Z" creationid="hcartagena" creationdate="20160428T221300Z">
+        <seg>Animo a los presentadores a ver este video para tener más claridad sobre cuál es el foco de esta diapositiva.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identification that the risk-based approach can fail when dealing with extreme consequence situations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213417Z" creationid="hcartagena" creationdate="20160428T213417Z">
+        <seg>Identificación de que el método basado en riesgos puede fallar al enfrentar situaciones con consecuencias extremadamente graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identify your safe spot.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214313Z" creationid="hcartagena" creationdate="20160428T214252Z">
+        <seg>Identifique su zona de seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If nothing is given, you could respond with multiple page &lt;t0/&gt;HaSEPs&lt;t1/&gt;,&lt;t2/&gt; more rigorous investigation  process for  paper cuts than for a fatal near miss.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T223026Z" creationid="hcartagena" creationdate="20160428T223026Z">
+        <seg>Si no responden, hablarles de los &lt;t0/&gt;&lt;t1/&gt;HaSEP de muchas páginas&lt;t2/&gt; o de los procesos de investigación que son más rigurosos para un corte con una hoja de papel que para una cuasi pérdida fatal.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Important point to emphasize here is from Paul Farrows talk to the&lt;t0/&gt; Vancouver Mining Group &lt;t1/&gt;earlier in the year:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T222140Z" creationid="hcartagena" creationdate="20160428T222140Z">
+        <seg>El punto importante a remarcar es el de la charla de Paul Farrows que ofreció al&lt;t0/&gt; Grupo de Minería de Vancouver&lt;t1/&gt; a principios de año:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Injury Frequency Rate vs Fatality Rate</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T212735Z" creationid="hcartagena" creationdate="20160428T212735Z">
+        <seg>Tasa de frecuencia de lesiones y tasa de fatalidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is important on this slide to reflect on the fact that 50% of &lt;t0/&gt;Golders&lt;t1/&gt; fatalities have come from this area - Jamie &lt;t2/&gt;Costigan&lt;t3/&gt;, David Brown, John Chambers and Peter &lt;t4/&gt;Nedelkos&lt;t5/&gt; all died while working for Golder as this control was not followed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T155456Z" creationid="hcartagena" creationdate="20160429T155456Z">
+        <seg>Es importante en esta diapositiva reflexionar sobre el hecho de que 50% de las fatalidades de &lt;t0/&gt;&lt;t1/&gt;Golder están en este ámbito. Jamie Costigan&lt;t2/&gt;&lt;t3/&gt;, David Brown, John Chambers y Peter Nedelkos&lt;t4/&gt;&lt;t5/&gt; murieron trabajando para Golder sin que se estuviera respetando este control.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Jamie &lt;t0/&gt;Costigan&lt;t1/&gt;, &lt;t2/&gt;June 24, 2004 (27 years old), hit by a haul truck while working on an Indonesian Mine site.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220512Z" creationid="hcartagena" creationdate="20160428T220512Z">
+        <seg>Jamie &lt;t0/&gt;Costigan&lt;t1/&gt;, &lt;t2/&gt;24 de junio de 2004 (27 años), atropellado por un camión de carga mientras trabajaba en una mina en Indonesia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Job Safety Analysis.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215021Z" creationid="hcartagena" creationdate="20160428T215021Z">
+        <seg>Análisis de seguridad del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>John Chambers&lt;t0/&gt;, September 14, 2001 (32 years old).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220300Z" creationid="hcartagena" creationdate="20160428T220300Z">
+        <seg>John Chambers&lt;t0/&gt;, 14 de septiembre de 2001 (32 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>John was a project Geologist working in the Atlanta office.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220320Z" creationid="hcartagena" creationdate="20160428T220320Z">
+        <seg>John era geólogo de proyecto y trabajaba en la oficina de Atlanta (EE.UU.)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>John was survived by his 10 year old son as well as a brother, sister and both parents.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220430Z" creationid="hcartagena" creationdate="20160428T220430Z">
+        <seg>John dejó a un hijo de 10 años, a un hermano, una hermana y a sus dos padres.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Light vehicle rollover</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173744Z" creationid="hcartagena" creationdate="20160429T173744Z">
+        <seg>Vuelco de vehículo liviano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Maybe sometimes, if&lt;t0/&gt; &lt;t1/&gt;we’re spending too much time in the trees, we forget what the forest looks like – and that’s where bad things can happen.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173506Z" creationid="hcartagena" creationdate="20160429T173506Z">
+        <seg>A veces, quizá, si&lt;t0/&gt; &lt;t1/&gt;pasamos mucho tiempo en los árboles, nos olvidamos de cómo luce el bosque y entonces es cuando pasan las cosas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Missing birthdays,&lt;t0/&gt; holidays, personal goals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173642Z" creationid="hcartagena" creationdate="20160429T173642Z">
+        <seg>Perderse un cumpleaños, &lt;t0/&gt;una fiesta, una meta personal… de por vida.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Near miss (Elk Valley BC 2013)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200233Z" creationid="hcartagena" creationdate="20160428T200233Z">
+        <seg>Cuasipérdida (Elk Valley BC 2013)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Near miss (Giant 2013) – employee  standing ~6 feet behind reversing dump truck</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200658Z" creationid="hcartagena" creationdate="20160428T200658Z">
+        <seg>Cuasipérdida (Giant 2013) – colaborador parado a cerca de 2 metros de parte trasera de camión tolva</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Near miss (Kelowna 2005).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200507Z" creationid="hcartagena" creationdate="20160428T200507Z">
+        <seg>Cuasipérdida (Kelowna 2005).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Next month you will receive an invite to attend a presentation for the first Fatal Risk Control on &lt;t0/&gt;Heavy Equipment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215237Z" creationid="hcartagena" creationdate="20160428T215237Z">
+        <seg>El próximo mes les llegará una invitación para asistir a una presentación del primer Control de Riesgos Fatales sobre &lt;t0/&gt;maquinaria pesada.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Other examples:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T205157Z" creationid="hcartagena" creationdate="20160428T205157Z">
+        <seg>Otros ejemplos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our Fatal Risk Controls provide a barrier to shield us from what can kill us.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173529Z" creationid="hcartagena" creationdate="20160429T173529Z">
+        <seg>Nuestros controles de riesgos fatales ponen una barrera que nos protege de aquello que puede matarnos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our Fatal Risk Controls provide us with one standard for&lt;t0/&gt; health and safety in &lt;t1/&gt;Global Mining.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154120Z" creationid="hcartagena" creationdate="20160429T154120Z">
+        <seg>Nuestros Controles de Riesgos Fatales nos entregan una sola norma de&lt;t0/&gt; salud y seguridad para &lt;t1/&gt;Global Mining.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Our Golder family has grown over the past 50 years with much success and satisfaction in the work we do.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183322Z" creationid="hcartagena" creationdate="20160428T183322Z">
+        <seg>Nuestra familia en Golder ha crecido en los últimos 50 años con gran éxito y satisfacción por nuestro trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>P&amp;A&lt;t0/&gt; Site Visits/Field Audits:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215044Z" creationid="hcartagena" creationdate="20160428T215044Z">
+        <seg>&lt;t0/&gt;Visitas a terreno y auditorías de terreno de los P&amp;A:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Passing under Suspended Loads</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214929Z" creationid="hcartagena" creationdate="20160428T214929Z">
+        <seg>transitar bajo cargas suspendidas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peter &lt;t0/&gt;Giam&lt;t1/&gt;, February 1991.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215519Z" creationid="hcartagena" creationdate="20160428T215519Z">
+        <seg>Peter &lt;t0/&gt;&lt;t1/&gt;Giam, febrero de 1991.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peter &lt;t0/&gt;Nedelkos&lt;t1/&gt;, April 27, 1995 (26 years old).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215735Z" creationid="hcartagena" creationdate="20160428T215735Z">
+        <seg>Peter &lt;t0/&gt;&lt;t1/&gt;Nedelkos, 27 de abril de 1995 (26 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peter was killed when the helicopter went down.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215719Z" creationid="hcartagena" creationdate="20160428T215719Z">
+        <seg>Peter murió al caer el helicóptero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Peter was very interested in helicopters and engaged with the pilot who decided to show off his skills and the helicopters capabilities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215710Z" creationid="hcartagena" creationdate="20160428T215710Z">
+        <seg>Peter tenía mucho interés en los helicópteros y trabó amistad con el piloto, quien decidió demostrar sus habilidades y las capacidades de la aeronave.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Prioritization of hazards to simplify &lt;t0/&gt;HaSEPs&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213500Z" creationid="hcartagena" creationdate="20160428T213500Z">
+        <seg>Priorización de los peligros para simplificar los &lt;t0/&gt;HaSEP&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Protect &lt;t0/&gt;yourself and others against &lt;t1/&gt;falls.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214702Z" creationid="hcartagena" creationdate="20160428T214702Z">
+        <seg>Protéjase a &lt;t0/&gt;sí mismo y a otros contra &lt;t1/&gt;caídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Protect &lt;t0/&gt;yourself and others against hazardous substances you are handling or breathing&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214851Z" creationid="hcartagena" creationdate="20160428T214851Z">
+        <seg>Protéjase a &lt;t0/&gt;sí mismo y a otros de las sustancias peligrosas que esté manipulando o respirando&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recognition that the existing hazard identification processes can miss fatal risks – numerous near misses associated with high consequence hazards.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213307Z" creationid="hcartagena" creationdate="20160428T213307Z">
+        <seg>Reconocimiento de que los actuales procesos de identificación de peligros pueden omitir riesgos fatales: muchas cuasi pérdidas relacionadas con peligros de consecuencias graves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regrettably&lt;t0/&gt;, our success has been punctuated by no less than &lt;t1/&gt;eight &lt;t2/&gt; fatal events – dating back to 1981.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183409Z" creationid="hcartagena" creationdate="20160428T183409Z">
+        <seg>Lamentablemente&lt;t0/&gt;, nuestro éxito ha estado marcado por no menos de &lt;t1/&gt;ocho&lt;t2/&gt; sucesos fatales que se remontan hasta 1981.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Relate to hazards that have high potential cause &lt;t0/&gt;a serious injury or fatality (&lt;t1/&gt;SIF&lt;t2/&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213816Z" creationid="hcartagena" creationdate="20160428T213816Z">
+        <seg>Relacionarse con peligros que tienen alto potencial de causar &lt;t0/&gt;una lesión grave o fatalidad (&lt;t1/&gt;&lt;t2/&gt;SIF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Respect &lt;t0/&gt;the &lt;t1/&gt;posted speed limits, drive at a speed appropriate to the conditions&lt;t2/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214428Z" creationid="hcartagena" creationdate="20160428T214428Z">
+        <seg>Respete &lt;t0/&gt;el &lt;t1/&gt;límite de velocidad y conduzca a una velocidad adecuada a las condiciones imperantes&lt;t2/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SIF&lt;t0/&gt; &lt;t1/&gt;– a life threatening work related injury or illness requiring immediate life preserving rescue action where if not applied would likely result in the death of the individual (those cases that usually require the intervention of emergency response personnel to provide life-saving support).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213052Z" creationid="hcartagena" creationdate="20160428T213052Z">
+        <seg>SIF&lt;t0/&gt;&lt;t1/&gt;: es una lesión o enfermedad laboral que amenaza la vida y que requiere acción de rescate inmediata para preservar la vida que, de no ejecutarse, resultaría en la muerte del individuo (aquellos casos que suelen requerir intervención de personal de respuesta a emergencias para prestar apoyo de salvamento).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SIF&lt;t0/&gt; potential &lt;t1/&gt;– When the incident results in an actual &lt;t2/&gt;SIF&lt;t3/&gt; or when the exposure could have reasonably and realistically resulted in a fatality or serious injury outcome and there is a sense that luck or chance played a role in the severity of the actual outcome.  In other words, if the situation was repeated dozens of times, is it reasonable to conclude the outcome would eventually be a &lt;t4/&gt;SIF</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213139Z" creationid="hcartagena" creationdate="20160428T213139Z">
+        <seg>Potencial de SIF&lt;t0/&gt;&lt;t1/&gt;: cuando el incidente resulta en una SFI o cuando la exposición pudiera resultar efectivamente en la muerte o en una lesión grave y queda la sensación de que la suerte o el azar tuvieron relación con la gravedad del resultado final. En otras palabras, si la situación se repitió una y otra vez, es razonable concluir que el resultado pudo haber sido una SIF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scan continuously for signs of ground instability.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214608Z" creationid="hcartagena" creationdate="20160428T214608Z">
+        <seg>Ponga atención a los signos de inestabilidad del terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scott Brooks&lt;t0/&gt;, April 2001.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220017Z" creationid="hcartagena" creationdate="20160428T220017Z">
+        <seg>Scott Brooks&lt;t0/&gt;, abril de 2001.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Serious Injuries and Fatalities (&lt;t0/&gt;SIF&lt;t1/&gt;)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T212753Z" creationid="hcartagena" creationdate="20160428T212753Z">
+        <seg>Lesiones graves y fatalidades (&lt;t0/&gt;SIF&lt;t1/&gt;)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>State that for years we have&lt;t0/&gt; believed that if we address the hazards, near misses and injuries in the bottom of the triangle, the top half will take care of itself.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T221510Z" creationid="hcartagena" creationdate="20160428T221510Z">
+        <seg>Señalar que durante años hemos&lt;t0/&gt; creído que si nos preocupamos de los peligros, cuasi pérdidas y lesiones de la parte inferior de la pirámide, la mitad superior se resolverá sola.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Stranded on a &lt;t0/&gt;snowmachine&lt;t1/&gt; in Northern Albertan winter</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T192528Z" creationid="hcartagena" creationdate="20160428T192528Z">
+        <seg>Varado en motonieve&lt;t0/&gt;&lt;t1/&gt; durante el invierno en el norte de Alberta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Struck by haul truck</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200151Z" creationid="hcartagena" creationdate="20160428T200132Z">
+        <seg>Atropello por camión de carga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Struck by heavy equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173820Z" creationid="hcartagena" creationdate="20160429T173820Z">
+        <seg>Golpe de maquinaria pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Struck by light vehicle</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173810Z" creationid="hcartagena" creationdate="20160429T173810Z">
+        <seg>Atropello por vehículo liviano</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Struck by reversing dump truck</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200125Z" creationid="hcartagena" creationdate="20160428T200125Z">
+        <seg>Atropello por camión tolva en reversa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Struck by reversing scraper</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200108Z" creationid="hcartagena" creationdate="20160428T200108Z">
+        <seg>Atropello por escarificador en reversa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Summary of fatalities in Golder (1960 to 2014)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T192539Z" creationid="hcartagena" creationdate="20160428T192539Z">
+        <seg>Resumen de fatalidades en Golder (1960 a 2014)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Survived by his parents and 4 siblings.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T220719Z" creationid="hcartagena" creationdate="20160428T220719Z">
+        <seg>Dejó a sus padres y a 4 hijos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then……..1998</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200555Z" creationid="hcartagena" creationdate="20160428T200555Z">
+        <seg>Antes……1998</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then……..2004</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200731Z" creationid="hcartagena" creationdate="20160428T200731Z">
+        <seg>Antes……2004</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Then……..2005</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200212Z" creationid="hcartagena" creationdate="20160428T200212Z">
+        <seg>Antes……2005</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>They are not infallible – we all have the responsibility to ensure that these controls are in place and working effectively.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173601Z" creationid="hcartagena" creationdate="20160429T173601Z">
+        <seg>No son infalibles. Todos tenemos la responsabilidad de asegurar que los controles existan y que funcionen con eficacia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This has resulted in a paradigm shift in health and safety thinking, as &lt;t0/&gt;the measurement system we have been using has created a &lt;t1/&gt;blind spot&lt;t2/&gt;, not providing visibility to the events that are leading to serious injuries and fatalities.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T222031Z" creationid="hcartagena" creationdate="20160428T222031Z">
+        <seg>Esto se ha traducido en un cambio de paradigma en el pensamiento sobre salud y seguridad, ya &lt;t0/&gt;que el sistema de medición que hemos usado ha creado un &lt;t1/&gt;punto ciego&lt;t2/&gt; que no da visibilidad a los eventos que acarrean lesiones graves y fatalidades.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thomas Flynn&lt;t0/&gt;, February 18, 1981 (62 years old).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215341Z" creationid="hcartagena" creationdate="20160428T215341Z">
+        <seg>Thomas Flynn&lt;t0/&gt;, 18 de febrero de 1981 (62 años).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tom was on the Thompson River BC, in a boat that the engine would not start and was swept into the fast moving river.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215432Z" creationid="hcartagena" creationdate="20160428T215432Z">
+        <seg>Tom estaba en el río Thompson, en Columbia Británica, en un bote cuyo motor no partía y fue llevado hacia el correntoso río.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tracking &lt;t0/&gt;SIF&lt;t1/&gt; and &lt;t2/&gt;SIF&lt;t3/&gt; Potential.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215129Z" creationid="hcartagena" creationdate="20160428T215129Z">
+        <seg>&lt;t0/&gt;&lt;t1/&gt;&lt;t2/&gt;&lt;t3/&gt;Seguimiento de SIF y Potencial de SIF.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vehicle Collision in Australia,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T184800Z" creationid="hcartagena" creationdate="20160428T184800Z">
+        <seg>Choque de vehículo en Australia,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We all have a role to play – we must make a safety promise to ourselves, our coworkers&lt;t0/&gt; and our families&lt;t1/&gt; to never allow ourselves or others to break a fatal risk control.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T191328Z" creationid="hcartagena" creationdate="20160429T173732Z">
+        <seg>Todos tenemos una función. Debemos hacernos una promesa de seguridad a nosotros mismos, a nuestros colegas &lt;t0/&gt;y a nuestras familias&lt;t1/&gt; de que jamás permitiremos que alguien viole un control de riesgos fatales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We all know Golder as the great &lt;t0/&gt;organisation&lt;t1/&gt; in which we work and share ownership.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183251Z" creationid="hcartagena" creationdate="20160428T183251Z">
+        <seg>Todos conocemos a Golder como la gran &lt;t0/&gt;&lt;t1/&gt;organización en la que trabajamos y cuya propiedad compartimos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We have just seen that one of key clients has just had a fatality in this area due to a &lt;t0/&gt;rockfall&lt;t1/&gt; U/G.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T173323Z" creationid="hcartagena" creationdate="20160429T173323Z">
+        <seg>Acabamos de ver que uno de los clientes clave acaba de tener una fatalidad en este ámbito debido a una &lt;t0/&gt;&lt;t1/&gt;caída de rocas subterránea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We know that is not the case, our mining clients, in particular those that have world class recordable rates, continue to have fatalities on their sites every year, and in many cases while there &lt;t0/&gt;TRCR&lt;t1/&gt; continues to decrease, their fatality rates remain the same, or are rising.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T221630Z" creationid="hcartagena" creationdate="20160428T221630Z">
+        <seg>Sabemos que no es así. Nuestros clientes, sobre todo los que tienen índices de casos registrables de clase mundial, siguen teniendo fatalidades en sus faenas todos los años y en algunos casos, mientras sus casos registrables siguen bajando&lt;t0/&gt;&lt;t1/&gt;, sus tasas de fatalidad siguen igual o aumentan.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We seemingly changed the way we work and do things, but we are still experiencing alarmingly similar incidents!</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T212702Z" creationid="hcartagena" creationdate="20160428T212702Z">
+        <seg>Pareciera que cambiamos la manera de trabajar y actuar, pero seguimos teniendo incidentes cuya similitud causa alarma.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will not have one standard for one client and one standard for another.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154608Z" creationid="hcartagena" creationdate="20160429T154608Z">
+        <seg>No tendremos una norma para un cliente y otra norma para otro cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We will not have one standard for one region and one standard for another.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T154557Z" creationid="hcartagena" creationdate="20160429T154557Z">
+        <seg>No tendremos una norma para una región y otra norma para otra región.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What We Have Learned…</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200453Z" creationid="hcartagena" creationdate="20160428T200453Z">
+        <seg>Qué hemos aprendido…</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What are the consequences of not following the Fatal Risk Controls?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T191323Z" creationid="hcartagena" creationdate="20160429T173614Z">
+        <seg>¿Cuáles son las consecuencias de no respetar los controles de riesgos fatales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While conducting level one earthworks testing in South Australia, Peter was hit by a scraper.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215800Z" creationid="hcartagena" creationdate="20160428T215800Z">
+        <seg>Mientras hacía pruebas de movimientos de tierra en el sur de Australia, Peter fue golpeado por un escarificador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who has experienced, or been involved in a near miss involving this control?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T155533Z" creationid="hcartagena" creationdate="20160429T155533Z">
+        <seg>¿Quién ha tenido una experiencia directa o indirecta con una cuasi pérdida relacionada con este control?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why create Fatal Risk Controls?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T213204Z" creationid="hcartagena" creationdate="20160428T213204Z">
+        <seg>¿Por qué crear controles de riesgos fatales?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Why does safety matter to me?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T183104Z" creationid="hcartagena" creationdate="20160428T183104Z">
+        <seg>¿Por qué la seguridad es importante para mí?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Worker was killed by reversing dump truck on construction site.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200723Z" creationid="hcartagena" creationdate="20160428T200723Z">
+        <seg>Trabajador muerto por camión tolva en reversa en sitio de construcción.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working around Heavy and Mobile Equipment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214304Z" creationid="hcartagena" creationdate="20160428T214225Z">
+        <seg>Trabajo alrededor de maquinaria móvil y pesada</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working at Heights</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214633Z" creationid="hcartagena" creationdate="20160428T214633Z">
+        <seg>Trabajo en altura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Working in a Century Zinc project in NW Queensland.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T215633Z" creationid="hcartagena" creationdate="20160428T215633Z">
+        <seg>Trabajaba en el proyecto Century Zinc en el noroeste de Queensland (Australia).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Zero Harm and Zero Fatality</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T212718Z" creationid="hcartagena" creationdate="20160428T212718Z">
+        <seg>Cero daño y cero fatalidades</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>almost hit</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200415Z" creationid="hcartagena" creationdate="20160428T200415Z">
+        <seg>cuasi atropello</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>https://www.youtube.com/watch?v=-O-LHgTRCvU  - this video provides an&lt;t0/&gt; overview of why focusing on the bottom of the pyramid will not prevent fatalities – I would not suggest showing this video, as I believe it will only confuse attendees with acronyms and theories they do not need to know.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160429T191434Z" creationid="hcartagena" creationdate="20160428T221231Z">
+        <seg>https://www.youtube.com/watch?v=-O-LHgTRCvU  - este video&lt;t0/&gt; presenta una descripción general del porqué centrarse en la parte inferior de la pirámide no evita fatalidades. No sugiero mostrar el video, porque creo que solo confundiría a los asistentes con siglas y teorías que no necesitan saber.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>to vibratory roller – nuclear &lt;t0/&gt;densometer</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T200400Z" creationid="hcartagena" creationdate="20160428T200400Z">
+        <seg>de rodillo vibratorio – densímetro nuclear&lt;t0/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“ Maybe when zero harm is communicated across an organization, maybe&lt;t0/&gt; &lt;t1/&gt;the interpretation of zero harm doesn’t land on people the right way all the time, and maybe that focus on zero harm, and the communication that does or doesn’t go with it, could lead to a disconnect in the operations.”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T222857Z" creationid="hcartagena" creationdate="20160428T222857Z">
+        <seg>“Quizá al comunicar a la organización que hay cero daño, quizá&lt;t0/&gt; &lt;t1/&gt;la interpretación de cero daño no le llega a la gente siempre de la manera correcta y quizá ese foco en el cero daño y la comunicación que trae o no trae aparejada podría provocar un desajuste en las operaciones”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>“When we are willing to work around potentially fatal hazards without proper Controls…..a &lt;t0/&gt;fatality is only an incident away…..we have proven this 8 times in the past &lt;t1/&gt;35 &lt;t2/&gt;years.”</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214139Z" creationid="hcartagena" creationdate="20160428T214139Z">
+        <seg>“Cuando queremos trabajar en torno a peligros potencialmente fatales sin los controles adecuados… una &lt;t0/&gt;fatalidad está apenas a un incidente de distancia… lo hemos demostrado 8 veces en los últimos &lt;t1/&gt;35 años.”</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

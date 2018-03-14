@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Chemicals</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190545Z" creationid="hcartagena" creationdate="20160914T190545Z">
+        <seg>Químicos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Collapse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190523Z" creationid="hcartagena" creationdate="20160914T190523Z">
+        <seg>Derrumbes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contaminants</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190526Z" creationid="hcartagena" creationdate="20160914T190526Z">
+        <seg>Contaminantes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could environmental harm result from:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190631Z" creationid="hcartagena" creationdate="20160914T190631Z">
+        <seg>Podría haber daño ambiental por:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Could someone be injured or suffer an illnes as a result of:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190510Z" creationid="hcartagena" creationdate="20160914T190430Z">
+        <seg>Podría resultar alguien lesionado o enfermo por causa de:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Cultural heritage disturbance.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190706Z" creationid="hcartagena" creationdate="20160914T190706Z">
+        <seg>Perturbación del patrimonio cultural</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dust</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190636Z" creationid="hcartagena" creationdate="20160914T190636Z">
+        <seg>Polvo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Electricity</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190434Z" creationid="hcartagena" creationdate="20160914T190434Z">
+        <seg>Electricidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Falls from/into</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190548Z" creationid="hcartagena" creationdate="20160914T190548Z">
+        <seg>Caídas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fatigue</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160831T184918Z" creationid="hcartagena" creationdate="20160831T184918Z">
+        <seg>Fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Fire/explosion</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190542Z" creationid="hcartagena" creationdate="20160914T190542Z">
+        <seg>Incendio/explosión</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Generation of waste</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190642Z" creationid="hcartagena" creationdate="20160914T190642Z">
+        <seg>Generación de residuos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Heat/cold</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190520Z" creationid="hcartagena" creationdate="20160914T190520Z">
+        <seg>Calor/frío</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>IDENTIFY</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163330Z" creationid="hcartagena" creationdate="20160913T163330Z">
+        <seg>IDENTIFICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Identify factors that could result in injury, property damage or environmental harm.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163353Z" creationid="hcartagena" creationdate="20160913T163353Z">
+        <seg>Identifica los factores que podrían provocar lesiones, daños a la propiedad o daño ambiental.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Instability</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190528Z" creationid="hcartagena" creationdate="20160914T190528Z">
+        <seg>Inestabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Isolation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190611Z" creationid="hcartagena" creationdate="20160914T190611Z">
+        <seg>Aislamiento</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Land Clearance</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190652Z" creationid="hcartagena" creationdate="20160914T190652Z">
+        <seg>Despeje del terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Manual handling</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190552Z" creationid="hcartagena" creationdate="20160914T190552Z">
+        <seg>Manipulación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>NO JOB IS SO URGENT THAT WE CANNOT MEET OUR HEALTH, SAFETY AND ENVIRONMENTAL RESPONSIBILITIES.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190735Z" creationid="hcartagena" creationdate="20160914T190735Z">
+        <seg>NINGÚN TRABAJO ES TAN URGENTE QUE NO PODAMOS CUMPLIR NUESTRAS RESPONSABILIDADES DE SALUD, SEGURIDAD Y MEDIO AMBIENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Noise</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190446Z" creationid="hcartagena" creationdate="20160914T190446Z">
+        <seg>Ruido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PLAN</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163406Z" creationid="hcartagena" creationdate="20160913T163406Z">
+        <seg>PLANIFICA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>PROCEED</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163419Z" creationid="hcartagena" creationdate="20160913T163419Z">
+        <seg>PROCEDE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Plan what needs to be done to manage the risk.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163415Z" creationid="hcartagena" creationdate="20160913T163415Z">
+        <seg>Planifica lo que debe hacerse para manejar el riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Put in place and communicate control measures (e.g. Toolbox Meeting).&lt;t0/&gt;Update HaSEP or Site Safety Plan.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163625Z" creationid="hcartagena" creationdate="20160913T163457Z">
+        <seg>Implementa y comunica las medidas de control (reuniones de seguridad previas, por ejemplo).&lt;t0/&gt;Actualiza el HaSEP o el Plan de Seguridad del sitio.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Radiation</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190514Z" creationid="hcartagena" creationdate="20160914T190514Z">
+        <seg>Radiación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>STOP</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163250Z" creationid="hcartagena" creationdate="20160913T163250Z">
+        <seg>PARA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Sharp edges</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190608Z" creationid="hcartagena" creationdate="20160914T190608Z">
+        <seg>Bordes afilados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Slips/trips</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190600Z" creationid="hcartagena" creationdate="20160914T190600Z">
+        <seg>Resbalar/tropezar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Spills/leaks</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190635Z" creationid="hcartagena" creationdate="20160914T190635Z">
+        <seg>Derrames/fugas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>THINK</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163305Z" creationid="hcartagena" creationdate="20160913T163305Z">
+        <seg>PIENSA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Take five minutes and five steps back</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163324Z" creationid="hcartagena" creationdate="20160913T163303Z">
+        <seg>Tómate cinco minutos y da cinco pasos atrás.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Think through the task and consider the work environment.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160913T163322Z" creationid="hcartagena" creationdate="20160913T163322Z">
+        <seg>Piensa en la tarea y considera el entorno de trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Tools/machinery</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190444Z" creationid="hcartagena" creationdate="20160914T190444Z">
+        <seg>Herramientas/maquinaria</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Underground services</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190501Z" creationid="hcartagena" creationdate="20160914T190501Z">
+        <seg>Servicios enterrados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Vehicles</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190436Z" creationid="hcartagena" creationdate="20160914T190436Z">
+        <seg>Vehículos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Weather conditions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160831T190156Z" creationid="hcartagena" creationdate="20160831T190156Z">
+        <seg>Condiciones climáticas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work above or below</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160914T190622Z" creationid="hcartagena" creationdate="20160914T190622Z">
+        <seg>Faenas encima o debajo</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

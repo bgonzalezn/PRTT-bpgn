@@ -1,0 +1,885 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4b">
+<header creationtool="ltwebclient" creationtoolversion="5.5.2.14222" segtype="sentence" o-tmf="TMX" adminlang="en-US" srclang="en" datatype="plaintext">
+</header>
+<body>
+<tu>
+<tuv xml:lang="en">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>A2 Evaluacion ENG oli.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+<tuv xml:lang="es">
+<seg><bpt i="0" type="bold">&lt;b&gt;</bpt>A2 Evaluacion ESP.docx<ept i="1">&lt;/b&gt;</ept></seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">1</prop>
+<tuv xml:lang="en">
+<seg>RISK ANALYSIS MATRIX</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>MATRIZ DE ANÁLISIS DE RIESGOS</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">2</prop>
+<tuv xml:lang="en">
+<seg>ER = C * P</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>ER = C * P</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">3</prop>
+<tuv xml:lang="en">
+<seg>CONSEQUENCE (C )</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>CONSECUENCIA (C )</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">4</prop>
+<tuv xml:lang="en">
+<seg>Catastrophic</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Catastrófica</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">5</prop>
+<tuv xml:lang="en">
+<seg>Major</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Mayor</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">6</prop>
+<tuv xml:lang="en">
+<seg>Significant</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Significativa</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">7</prop>
+<tuv xml:lang="en">
+<seg>Minor</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Menor</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">8</prop>
+<tuv xml:lang="en">
+<seg>Insignificant</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Insignificante</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">9</prop>
+<tuv xml:lang="en">
+<seg>5</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>5</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">10</prop>
+<tuv xml:lang="en">
+<seg>4</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">11</prop>
+<tuv xml:lang="en">
+<seg>3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">12</prop>
+<tuv xml:lang="en">
+<seg>2</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>2</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">13</prop>
+<tuv xml:lang="en">
+<seg>1</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>1</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">14</prop>
+<tuv xml:lang="en">
+<seg>PROBABILITY (P)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>PROBABILIDAD (P)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">15</prop>
+<tuv xml:lang="en">
+<seg>Almost Certain</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Casi seguro</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">16</prop>
+<tuv xml:lang="en">
+<seg>5</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>5</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">17</prop>
+<tuv xml:lang="en">
+<seg>25 (VH)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>25 (VH)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">18</prop>
+<tuv xml:lang="en">
+<seg>20</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>20</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">19</prop>
+<tuv xml:lang="en">
+<seg>15</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>15</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">20</prop>
+<tuv xml:lang="en">
+<seg>10</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>10</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">21</prop>
+<tuv xml:lang="en">
+<seg>5</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>5</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">22</prop>
+<tuv xml:lang="en">
+<seg>Likely</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Probable</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">23</prop>
+<tuv xml:lang="en">
+<seg>4</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">24</prop>
+<tuv xml:lang="en">
+<seg>20</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>20</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">25</prop>
+<tuv xml:lang="en">
+<seg>16 (H)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>16 (H)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">26</prop>
+<tuv xml:lang="en">
+<seg>12</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>12</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">27</prop>
+<tuv xml:lang="en">
+<seg>8</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>8</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">28</prop>
+<tuv xml:lang="en">
+<seg>4</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">29</prop>
+<tuv xml:lang="en">
+<seg>Possible</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Posible</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">30</prop>
+<tuv xml:lang="en">
+<seg>3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">31</prop>
+<tuv xml:lang="en">
+<seg>15</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>15</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">32</prop>
+<tuv xml:lang="en">
+<seg>12</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>12</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">33</prop>
+<tuv xml:lang="en">
+<seg>9 (M)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>9 (M)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">34</prop>
+<tuv xml:lang="en">
+<seg>6</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>6</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">35</prop>
+<tuv xml:lang="en">
+<seg>3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">36</prop>
+<tuv xml:lang="en">
+<seg>Unlikely</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Improbable</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">37</prop>
+<tuv xml:lang="en">
+<seg>2</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>2</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">38</prop>
+<tuv xml:lang="en">
+<seg>10</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>10</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">39</prop>
+<tuv xml:lang="en">
+<seg>8</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>8</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">40</prop>
+<tuv xml:lang="en">
+<seg>6</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>6</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">41</prop>
+<tuv xml:lang="en">
+<seg>4 (L)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4 (L)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">42</prop>
+<tuv xml:lang="en">
+<seg>2</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>2</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">43</prop>
+<tuv xml:lang="en">
+<seg>Rare</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Raro</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">44</prop>
+<tuv xml:lang="en">
+<seg>1</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>1</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">45</prop>
+<tuv xml:lang="en">
+<seg>5</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>5</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">46</prop>
+<tuv xml:lang="en">
+<seg>4</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">47</prop>
+<tuv xml:lang="en">
+<seg>3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">48</prop>
+<tuv xml:lang="en">
+<seg>2</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>2</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">49</prop>
+<tuv xml:lang="en">
+<seg>1 (VL)</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>1 (VL)</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">50</prop>
+<tuv xml:lang="en">
+<seg>RISK CONDITION</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>CONDICION DEL RIESGO</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">51</prop>
+<tuv xml:lang="en">
+<seg>LEVEL</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>NIVEL</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">52</prop>
+<tuv xml:lang="en">
+<seg>DESCRIPTION</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>DESCRIPCIÓN</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">53</prop>
+<tuv xml:lang="en">
+<seg>0-3</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>0-3</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">54</prop>
+<tuv xml:lang="en">
+<seg>(VL) Very low risk</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(VL) Riesgo muy bajo</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">55</prop>
+<tuv xml:lang="en">
+<seg>The risk is ACCEPTABLE.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El riesgo es ACEPTABLE.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">56</prop>
+<tuv xml:lang="en">
+<seg>The activity is carried out normally by the person in accordance with predefined control mechanisms.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La actividad es realizada normalmente por la persona de acuerdo a los controles definidos.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">57</prop>
+<tuv xml:lang="en">
+<seg>4-6</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>4-6</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">58</prop>
+<tuv xml:lang="en">
+<seg>(L) Low risk</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(L) Riesgo bajo</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">59</prop>
+<tuv xml:lang="en">
+<seg>The risk is ACCEPTABLE.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El riesgo es ACEPTABLE.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">60</prop>
+<tuv xml:lang="en">
+<seg>The activity is carried out by the person in accordance with predefined control mechanisms, proceeding with precaution.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La actividad es realizada por la persona de acuerdo a los controles definidos, procediendo con precaución.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">61</prop>
+<tuv xml:lang="en">
+<seg>If applicable, consider additional control mechanisms to further reduce the risk.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si corresponde, considerar controles adicionales para reducir más aún el riesgo.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">62</prop>
+<tuv xml:lang="en">
+<seg>8-12</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>8-12</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">63</prop>
+<tuv xml:lang="en">
+<seg>(M) Moderate risk</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(M) Riesgo moderado</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">64</prop>
+<tuv xml:lang="en">
+<seg>The risk is ACCEPTABLE.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El riesgo es ACEPTABLE.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">65</prop>
+<tuv xml:lang="en">
+<seg>The activity is carried out by the person in accordance with predefined control mechanisms, proceeding with precaution once its implications have been checked by the person's direct superior.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La actividad es realizada por la persona de acuerdo a los controles definidos, procediendo con precaución y previa revisión de sus implicancias por el Jefe directo.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">66</prop>
+<tuv xml:lang="en">
+<seg>If applicable, consider additional control mechanisms to further reduce the risk.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Si corresponde, considerar controles adicionales para reducir más aún el riesgo.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">67</prop>
+<tuv xml:lang="en">
+<seg>15-16</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>15-16</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">68</prop>
+<tuv xml:lang="en">
+<seg>(H) High risk</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(H) Riesgo alto</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">69</prop>
+<tuv xml:lang="en">
+<seg>The risk is UNACCEPTABLE.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El riesgo es INACEPTABLE.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">70</prop>
+<tuv xml:lang="en">
+<seg>The activity cannot be carried out with the supervision of the direct superior.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La actividad no puede ser realizada sin supervisión del Jefe directo.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">71</prop>
+<tuv xml:lang="en">
+<seg>The control mechanisms contemplated must include engineering control mechanisms as minimum.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los controles considerados deben incluir como mínimo controles de ingeniería.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">72</prop>
+<tuv xml:lang="en">
+<seg>20-25</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>20-25</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">73</prop>
+<tuv xml:lang="en">
+<seg>(VH) Very high risk</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>(VH) Riesgo muy alto</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">74</prop>
+<tuv xml:lang="en">
+<seg>The risk is UNACCEPTABLE.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>El riesgo es INACEPTABLE.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">75</prop>
+<tuv xml:lang="en">
+<seg>The activity cannot be carried out without the supervision of the direct superior.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>La actividad no puede ser realizada sin supervisión del Jefe directo.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">76</prop>
+<tuv xml:lang="en">
+<seg>The control mechanisms contemplated must include elimination or replacement control mechanisms as minimum.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Los controles considerados deben incluir como mínimo controles de eliminación o sustitución.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">77</prop>
+<tuv xml:lang="en">
+<seg>CONTROL MECHANISM HIERARCHY</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>JERARQUÍA DE CONTROLES</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">78</prop>
+<tuv xml:lang="en">
+<seg>Elimination</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Eliminación</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">79</prop>
+<tuv xml:lang="en">
+<seg>Completely remove or eliminate the hazard.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Remover o eliminar el peligro completamente.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">80</prop>
+<tuv xml:lang="en">
+<seg>Replacement</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sustitución</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">81</prop>
+<tuv xml:lang="en">
+<seg>Replace the hazard for something less dangerous.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Sustituir el peligro por algo menos peligroso.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">82</prop>
+<tuv xml:lang="en">
+<seg>Engineering</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Ingeniería</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">83</prop>
+<tuv xml:lang="en">
+<seg>Modify the process for preventing people from coming in contact with the hazard.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Modificar el proceso para prevenir que las personas entren en contacto con el peligro.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">84</prop>
+<tuv xml:lang="en">
+<seg>Signage/warnings and/or administrative control mechanisms</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Señalización/advertencias y/o controles administrativos</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">85</prop>
+<tuv xml:lang="en">
+<seg>Implement procedures/training programs to help people work around the hazard.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Implementar procedimientos/capacitación para ayudar a las personas a trabajar con el peligro.</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">86</prop>
+<tuv xml:lang="en">
+<seg>Personal safety equipment</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Equipos de protección personal</seg>
+</tuv>
+</tu>
+<tu>
+<prop type="ltattr-match">1-1</prop>
+<prop type="ltattr-id">87</prop>
+<tuv xml:lang="en">
+<seg>Provide equipment and clothing to protect those who will come in contact with the hazard.</seg>
+</tuv>
+<tuv xml:lang="es">
+<seg>Proporcionar equipo y vestimenta para proteger a las personas que van a entrar en contacto con el peligro.</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

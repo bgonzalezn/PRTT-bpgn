@@ -1,0 +1,600 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">4002 FFDF Appendix A - Rev1-Master - 21July14.docx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Section 1: General Details</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140525Z" creationid="hcartagena" creationdate="20141014T140525Z">
+        <seg>Sección 1: Detalles generales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Description of situation / issue:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140537Z" creationid="hcartagena" creationdate="20141014T140537Z">
+        <seg>Descripción de la situación / asunto:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Fit for Duty and Fatigue Example</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140553Z" creationid="hcartagena" creationdate="20141014T140553Z">
+        <seg>Ejemplo de aptitud para las labores y fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Consequence :</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140600Z" creationid="hcartagena" creationdate="20141014T140600Z">
+        <seg>Consecuencia:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Likelihood:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140603Z" creationid="hcartagena" creationdate="20141014T140603Z">
+        <seg>Probabilidad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Catastrophic</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T140607Z" creationid="hcartagena" creationdate="20141014T140607Z">
+        <seg>Catastrófico</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Major</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143001Z" creationid="hcartagena" creationdate="20141014T143001Z">
+        <seg>Grave</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Significant</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143016Z" creationid="hcartagena" creationdate="20141014T143016Z">
+        <seg>Significativo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minor</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143021Z" creationid="hcartagena" creationdate="20141014T143021Z">
+        <seg>Leve</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Insignificant</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143027Z" creationid="hcartagena" creationdate="20141014T143027Z">
+        <seg>Insignificante</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Almost Certain</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143031Z" creationid="hcartagena" creationdate="20141014T143031Z">
+        <seg>Casi seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Likely</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143042Z" creationid="hcartagena" creationdate="20141014T143042Z">
+        <seg>Probable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143052Z" creationid="hcartagena" creationdate="20141014T143052Z">
+        <seg>Posible</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unlikely</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143103Z" creationid="hcartagena" creationdate="20141014T143103Z">
+        <seg>Poco probable</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rare</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143121Z" creationid="hcartagena" creationdate="20141014T143121Z">
+        <seg>Poco frecuente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Person(s) consulted in assessment:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143129Z" creationid="hcartagena" creationdate="20141014T143129Z">
+        <seg>Personas consultadas en la evaluación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date of assessment:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143134Z" creationid="hcartagena" creationdate="20141014T143134Z">
+        <seg>Fecha de la evaluación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Section 2:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143144Z" creationid="hcartagena" creationdate="20141014T143144Z">
+        <seg>Sección 2:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Hazard Identification &amp; Assessment &amp; Controls</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143153Z" creationid="hcartagena" creationdate="20141014T143153Z">
+        <seg>Identificación, evaluación y control de peligros</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Identified hazards</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T143200Z" creationid="hcartagena" creationdate="20141014T143200Z">
+        <seg>Peligros identificados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(What may result in injury or environmental harm?)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T153814Z" creationid="hcartagena" creationdate="20141014T153712Z">
+        <seg>(¿Qué podría provocar una lesión o daño ambiental?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Risk Level &lt;t1/&gt;(Current)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T163809Z" creationid="hcartagena" creationdate="20141014T154025Z">
+        <seg>Nivel de riesgo &lt;t1/&gt;(Actual)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Control Measures</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154029Z" creationid="hcartagena" creationdate="20141014T154029Z">
+        <seg>Medidas de control</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(&lt;t1/&gt;How will the hazards be controlled?)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154047Z" creationid="hcartagena" creationdate="20141014T154047Z">
+        <seg>(&lt;t1/&gt;¿Cómo se controlarán los peligros?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Risk Level</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154054Z" creationid="hcartagena" creationdate="20141014T154054Z">
+        <seg>Nivel de riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(Post control)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T163806Z" creationid="hcartagena" creationdate="20141014T154609Z">
+        <seg>(Poscontrol)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Responsibility</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154611Z" creationid="hcartagena" creationdate="20141014T154611Z">
+        <seg>Responsabilidad</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>(Who will implement controls?)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154646Z" creationid="hcartagena" creationdate="20141014T154646Z">
+        <seg>(¿Quién implementará los controles?)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Undertaking work without adequate rest.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161251Z" creationid="hcartagena" creationdate="20141014T154728Z">
+        <seg>Ejecutar trabajos sin el descanso suficiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Allow personnel to have at least 10 hours rest before commencing work.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154743Z" creationid="hcartagena" creationdate="20141014T154743Z">
+        <seg>Permitir al personal tener al menos 10 horas de descanso antes de iniciar los trabajos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible controls:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154750Z" creationid="hcartagena" creationdate="20141014T154750Z">
+        <seg>Controles posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Reschedule work</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154758Z" creationid="hcartagena" creationdate="20141014T154758Z">
+        <seg>Reprogramar los trabajos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Modify the task so the person is not undertaking high risk work, or working alone.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154907Z" creationid="hcartagena" creationdate="20141014T154832Z">
+        <seg>Modificar la tarea para que la persona no ejecute trabajo de alto riesgo ni trabaje solo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Use additional shifts / personnel.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154909Z" creationid="hcartagena" creationdate="20141014T154842Z">
+        <seg>Usar personal / turnos adicionales</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Sharing the driving.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154911Z" creationid="hcartagena" creationdate="20141014T154859Z">
+        <seg>Compartir la conducción</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Allow time to recover from jet lag.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154930Z" creationid="hcartagena" creationdate="20141014T154930Z">
+        <seg>Dar tiempo para recuperarse del «jet lag»</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arranging agendas and meetings to allow for travel recovery.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T155111Z" creationid="hcartagena" creationdate="20141014T155111Z">
+        <seg>Acomodar las agendas y reuniones para contemplar recuperarse del viaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working in excess of twelve (12) hours including travel time.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161337Z" creationid="hcartagena" creationdate="20141014T160122Z">
+        <seg>Trabajar más de doce (12) horas, tiempo de viaje incluido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where possible plan work so no person has a working day in excess of 12 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160406Z" creationid="hcartagena" creationdate="20141014T160406Z">
+        <seg>De ser posible, planificar el trabajo para que nadie trabaje más de 12 horas diarias.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible controls:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154750Z" creationid="hcartagena" creationdate="20141014T154750Z">
+        <seg>Controles posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Plan work to be conducted over multiple days.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160427Z" creationid="hcartagena" creationdate="20141014T160427Z">
+        <seg>Planificar el trabajo para que se haga a lo largo de varios días</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrange accommodation close to the work site to minimise travel time.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160444Z" creationid="hcartagena" creationdate="20141014T160444Z">
+        <seg>Disponer de alojamiento cerca del sitio de las faenas para minimizar el tiempo de viaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Modify the task so the person is not undertaking high risk work, or working alone after 12 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160457Z" creationid="hcartagena" creationdate="20141014T160457Z">
+        <seg>Modificar la tarea para que la persona no ejecute trabajo de alto riesgo ni trabaje solo después de 12 horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operating a vehicle after fourteen (14) hours work (including travel time).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160525Z" creationid="hcartagena" creationdate="20141014T160525Z">
+        <seg>Operar un vehículo después de catorce (14) horas de trabajo (tiempo de viaje incluido)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>No person shall operate a vehicle after 14 hours.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160546Z" creationid="hcartagena" creationdate="20141014T160546Z">
+        <seg>Nadie debe operar un vehículo después de 14 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible controls:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154750Z" creationid="hcartagena" creationdate="20141014T154750Z">
+        <seg>Controles posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrange for taxi or other transport not at the expense of the employee.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T150113Z" creationid="hcartagena" creationdate="20141014T160919Z">
+        <seg>Disponer de un taxi u otro transporte, sin costo para el colaborador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrange accommodation close to the work to minimise travel time.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160930Z" creationid="hcartagena" creationdate="20141014T160930Z">
+        <seg>Disponer de alojamiento cerca del trabajo para minimizar el tiempo de viaje</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Arrange for dedicated drivers for transfers.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T160946Z" creationid="hcartagena" creationdate="20141014T160946Z">
+        <seg>Disponer de conductores dedicados para los traslados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Working in excess of 14 consecutive 12 hour days.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161354Z" creationid="hcartagena" creationdate="20141014T161002Z">
+        <seg>Trabajar más de 14 días consecutivos de 12 horas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Where possible plan work so no person has a shift rotation in excess of 14 consecutive 12 hr days.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161044Z" creationid="hcartagena" creationdate="20141014T161044Z">
+        <seg>De ser posible, planificar el trabajo para que nadie tenga una rotación de turnos que supere los 14 días consecutivos de 12 horas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible controls:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154750Z" creationid="hcartagena" creationdate="20141014T154750Z">
+        <seg>Controles posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Rotate employees through the project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161135Z" creationid="hcartagena" creationdate="20141014T161135Z">
+        <seg>Rotar a los colaboradores durante el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Schedule a break in the project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161143Z" creationid="hcartagena" creationdate="20141014T161143Z">
+        <seg>Programar una pausa en el proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Factor fatigue leave into the project schedule at the planning stage.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161212Z" creationid="hcartagena" creationdate="20141014T161212Z">
+        <seg>Contemplar permisos por fatiga en el cronograma del proyecto durante la etapa de planificación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Situations.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161245Z" creationid="hcartagena" creationdate="20141014T161245Z">
+        <seg>Situaciones de emergencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The impact of FFDF on field staff required to respond to an emergency situation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161444Z" creationid="hcartagena" creationdate="20141014T161444Z">
+        <seg>El impacto de la aptitud para las labores y la fatiga en el personal de terreno necesario para responder a una situación de emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible controls:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154750Z" creationid="hcartagena" creationdate="20141014T154750Z">
+        <seg>Controles posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency situation to take precedence over the hours of work contained in this assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161601Z" creationid="hcartagena" creationdate="20141014T161522Z">
+        <seg>Dar preeminencia a la situación de emergencia por sobre las horas de trabajo contempladas en esta evaluación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Implement adequate rest periods for emergency responders to manage their fatigue.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161549Z" creationid="hcartagena" creationdate="20141014T161549Z">
+        <seg>Implementar periodos de descanso suficientes para que el personal de respuesta a emergencias pueda manejar su fatiga</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Alcohol and Drug use.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T125810Z" creationid="hcartagena" creationdate="20141014T161617Z">
+        <seg>Consumo de alcohol y drogas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>The impact of FFDF on field staff required to respond to an emergency situation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161444Z" creationid="hcartagena" creationdate="20141014T161444Z">
+        <seg>El impacto de la aptitud para las labores y la fatiga en el personal de terreno necesario para responder a una situación de emergencia.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Possible controls:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T154750Z" creationid="hcartagena" creationdate="20141014T154750Z">
+        <seg>Controles posibles:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Personnel informed of applicable Golder, client or project D&amp;A policy or legislation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161657Z" creationid="hcartagena" creationdate="20141014T161657Z">
+        <seg>Informar al personal de las políticas de alcohol y drogas de Golder, del cliente o del proyecto o de la legislación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Personnel to comply with D&amp;A testing as required by the applicable policy / legislation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T161731Z" creationid="hcartagena" creationdate="20141014T161731Z">
+        <seg>Someter al personal a controles de alcohol y drogas según lo requiera la política / legislación vigente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Signed as read and understood</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162351Z" creationid="hcartagena" creationdate="20141014T162351Z">
+        <seg>Firmado como leído y comprendido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162356Z" creationid="hcartagena" creationdate="20141014T162356Z">
+        <seg>Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Signed as read and understood</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162351Z" creationid="hcartagena" creationdate="20141014T162351Z">
+        <seg>Firmado como leído y comprendido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162356Z" creationid="hcartagena" creationdate="20141014T162356Z">
+        <seg>Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Signed as read and understood</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162351Z" creationid="hcartagena" creationdate="20141014T162351Z">
+        <seg>Firmado como leído y comprendido</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Date</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162356Z" creationid="hcartagena" creationdate="20141014T162356Z">
+        <seg>Fecha</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>HSE Risk Assessment Form</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T162513Z" creationid="hcartagena" creationdate="20141014T162454Z">
+        <seg>Formulario de evaluación de riesgos de HSE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Page &lt;t1/&gt;2&lt;t2/&gt; of &lt;t3/&gt;3</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141014T163708Z" creationid="hcartagena" creationdate="20141014T163708Z">
+        <seg>Página &lt;t1/&gt;2&lt;t2/&gt; de &lt;t3/&gt;3</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

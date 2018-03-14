@@ -1,0 +1,385 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>Action Items&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000534Z" creationid="hcartagena" creationdate="20160909T000534Z">
+        <seg>Acciones&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Adjustment of the rotating drill head had not been identified or assessed at the beginning of the work day, neither was it included in the risk register.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234046Z" creationid="hcartagena" creationdate="20160908T234046Z">
+        <seg>La tarea de ajuste del cabezal de rotación no había sido identificada ni evaluada al inicio de las actividades del día, ni tampoco estaba incluida en la matriz de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>All personnel were moved to safe location, and resumed work within 15 minutes of the collapse.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000150Z" creationid="hcartagena" creationdate="20160909T000150Z">
+        <seg>Todo el personal se desplazó a un lugar seguro y el trabajo se reanudó 15 minutos después del derrumbe.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Any new activity or task that is not identified in the initial risk assessment must not be performed until an appropriate risk assessment is completed.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234223Z" creationid="hcartagena" creationdate="20160908T234223Z">
+        <seg>Toda actividad o tarea nueva que no se encuentre identificada en la evaluación de riesgos inicial, no debe ser ejecutada hasta que se realice la respectiva evaluación de riesgos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Avoid entering areas of unsupported ground.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000526Z" creationid="hcartagena" creationdate="20160428T214619Z">
+        <seg>Evitar ingresar a áreas donde el terreno no tenga soporte.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Before Collapse                  After Collapse</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000356Z" creationid="hcartagena" creationdate="20160909T000356Z">
+        <seg>Antes del derrumbe                  Después del derrumbe</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Communication and coordination among the entire team carrying out the job is essential to an interdependence culture&lt;t0/&gt;—&lt;t1/&gt;“we all care for each other”.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234459Z" creationid="hcartagena" creationdate="20160908T234459Z">
+        <seg>La comunicación y coordinación entre todo el equipo que está realizando el trabajo es parte fundamental de la cultura de interdependencia. “Nos Cuidamos entre todos”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Communication of the following key message to all staff:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000635Z" creationid="hcartagena" creationdate="20160909T000635Z">
+        <seg>Comunicación del siguiente mensaje clave a todo el personal:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributing Factors:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T233926Z" creationid="hcartagena" creationdate="20160908T233926Z">
+        <seg>Factores incidentes:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Contributing Factors&lt;t0/&gt;:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000156Z" creationid="hcartagena" creationdate="20160909T000156Z">
+        <seg>Factores incidentes&lt;t0/&gt;:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Date Issued:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T185552Z" creationid="hcartagena" creationdate="20160830T185552Z">
+        <seg>Fecha:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Do not enter an unsupported excavation that is deeper than your waist.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000523Z" creationid="hcartagena" creationdate="20160909T000523Z">
+        <seg>No ingresar a una excavación sin soporte cuya profundidad supere la cintura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During a routine exercise involving the adjustment of a rotating drill head by a Golder subcontractor, a bolt that moves the upper head disc broke off, hitting the right hand of a drilling assistant and resulting in a contusion that required 7 days off work.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234019Z" creationid="hcartagena" creationdate="20160908T233910Z">
+        <seg>Durante maniobra rutinaria de ajuste del cabezal de rotación de una perforadora de un contratista de Golder, se cortó un perno que desplaza el disco superior del cabezal, el cual golpeó la mano derecha de un ayudante de sondaje provocándole una contusión, que requirió 7 días fuera del trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>During a site visit, a new employee entered an underground mine and a rock collapse occurred, filling the area with dust.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T235034Z" creationid="hcartagena" creationdate="20160908T235034Z">
+        <seg>Durante una visita de campo, un colaborador nuevo ingresó a una mina subterránea y ocurrió un derrumbe, que llenó la zona de polvo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information, please contact Global HSSE or your Regional HSSE Leader.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192845Z" creationid="hcartagena" creationdate="20160830T192845Z">
+        <seg>Solicita más información al Líder Global de HSSE o a tu Líder Regional de HSSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Golder supervisor was not directly overseeing the job.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T233944Z" creationid="hcartagena" creationdate="20160908T233944Z">
+        <seg>Supervisor Golder no se encontraba supervisando directamente la tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ground Stability</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160428T214509Z" creationid="hcartagena" creationdate="20160428T214509Z">
+        <seg>Estabilidad del terreno</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ground stability is identified as a fatal risk throughout Golder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234811Z" creationid="hcartagena" creationdate="20160908T234811Z">
+        <seg>La estabilidad del terreno está identificada como un riesgo fatal en Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HSE responsibilities of Project Managers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000711Z" creationid="hcartagena" creationdate="20160909T000711Z">
+        <seg>Responsabilidades de HSE de los gerentes de proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>INJURY TO EMPLOYEE AT DRILL RIG</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T233831Z" creationid="hcartagena" creationdate="20160908T233831Z">
+        <seg>LESIÓN DE COLABORADOR EN PERFORADORA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Importance of communicating scope changes to the Project Manager and reassessing the H&amp;S risks associated with the work (Take 5).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000755Z" creationid="hcartagena" creationdate="20160909T000755Z">
+        <seg>Importancia de comunicar los cambios de alcance al gerente de proyecto y reevaluar los riesgos de salud y seguridad relacionados con el trabajo (Take 5).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>It is important that these types of hazards are identified and controlled</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234902Z" creationid="hcartagena" creationdate="20160908T234902Z">
+        <seg>Es importante que este tipo de peligros sea identificado y controlado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>KEY REQUIREMENTS AND CONTROLS</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234117Z" creationid="hcartagena" creationdate="20160908T234117Z">
+        <seg>REQUISITOS Y CONTROLES CLAVE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>POTENTIAL SERIOUS INCIDENT OR FATALITY (pSIF)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234603Z" creationid="hcartagena" creationdate="20160908T234603Z">
+        <seg>INCIDENTE GRAVE O FATALIDAD POTENCIAL&lt;t0/&gt; (pSIF)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Related Fatal Risk Control:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T184810Z" creationid="hcartagena" creationdate="20160830T184810Z">
+        <seg>Control de riesgo fatal relacionado:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Request made to the client to define measures to restrict access to unsafe areas, and to ensure inductions are provided to all staff entering the underground mine.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000607Z" creationid="hcartagena" creationdate="20160909T000607Z">
+        <seg>Se solicitó al cliente que definiera medidas para restringir el acceso a zonas inseguras y se asegure de brindar inducciones a todo el personal que ingrese a la mina subterránea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Right to refuse work under unsafe conditions.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000730Z" creationid="hcartagena" creationdate="20160909T000730Z">
+        <seg>Derecho a negarse a realizar un trabajo en condiciones inseguras.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>SUMMARY OF INCIDENT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T185616Z" creationid="hcartagena" creationdate="20160830T185616Z">
+        <seg>RESUMEN DEL INCIDENTE</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Scan continuously for signs of ground instability.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160906T201108Z" creationid="hcartagena" creationdate="20160428T214608Z">
+        <seg>Poner atención a los signos de inestabilidad del terreno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specific training for all employees that work underground.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000829Z" creationid="hcartagena" creationdate="20160909T000829Z">
+        <seg>Capacitación específica para todos los colaboradores que trabajan en faenas subterráneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The activity or task will be resumed once the new risk assessment has been completed and actions and/or measures required to maintain any risks under control have been implemented.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234431Z" creationid="hcartagena" creationdate="20160908T234425Z">
+        <seg>La actividad o tarea será reanudada una vez que se realice la nueva evaluación de riesgos y se implementen las acciones y/o medidas que permitan mantener bajo control el riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The client did not conduct an induction prior to entering the tunnel (legal requirement).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000331Z" creationid="hcartagena" creationdate="20160909T000331Z">
+        <seg>El cliente tampoco brindó una inducción previa al ingreso del túnel (requisito legal).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The drill rig did not have a blockout system to ensure a safe adjustment exercise.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234102Z" creationid="hcartagena" creationdate="20160908T234102Z">
+        <seg>La perforadora no contaba con un sistema de bloqueo que permitiera realizar la actividad de manera segura.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The operator did not remove the inner drill rod to perform the adjustment as recommended by the manufacturer.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234030Z" creationid="hcartagena" creationdate="20160908T234030Z">
+        <seg>Operador no retiró tubo interior para realizar el ajuste de acuerdo a las indicaciones del fabricante.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The operator did not warn his assistants about the exercise.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234002Z" creationid="hcartagena" creationdate="20160908T234002Z">
+        <seg>Operador no advirtió a los ayudantes la maniobra a realizar</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The scope of work did not include entering the underground mine, and was not assessed in the HaSEP.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000215Z" creationid="hcartagena" creationdate="20160909T000215Z">
+        <seg>El alcance del trabajo no incluía ingreso a la mina subterránea, por lo que no fue evaluada en el HaSEP.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There is a high potential for this hazard to cause a serious injury or fatality.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234841Z" creationid="hcartagena" creationdate="20160908T234841Z">
+        <seg>Este peligro tiene un alto potencial de causar una lesión grave o fatalidad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This near miss is directly related to our Fatal Risk Control on Ground Stability, in particular the highlighted parts below:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000429Z" creationid="hcartagena" creationdate="20160909T000429Z">
+        <seg>Esta cuasipérdida se relaciona directamente con nuestro Control de Riesgos Fatales sobre Estabilidad del Terreno, en particular lo que resaltamos a continuación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This was the first time the employee had entered an adit or mine interior, and was unaware of the potential risks of this activity.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000310Z" creationid="hcartagena" creationdate="20160909T000310Z">
+        <seg>Era la primera vez que el colaborador ingresaba a un socavón o interior mina, por lo tanto desconocía de los riesgos potenciales de la actividad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Title:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192916Z" creationid="hcartagena" creationdate="20160830T192916Z">
+        <seg>Título:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>UNDERGROUND ROCK COLLAPSE</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234751Z" creationid="hcartagena" creationdate="20160908T234751Z">
+        <seg>DERRUMBE DE ROCA EN FAENA SUBTERRÁNEA</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Updating the HaSEP with controls for entering underground mines.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160909T000623Z" creationid="hcartagena" creationdate="20160909T000623Z">
+        <seg>Actualizar el HaSEP con los controles para ingresar a minas subterráneas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We must always include maintenance tasks and interventions to make adjustments in the risk register as part of working with drill rigs.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234524Z" creationid="hcartagena" creationdate="20160908T234524Z">
+        <seg>Siempre considerar en la matriz de riesgo como parte de los trabajos con perforadoras, la tarea de mantenimiento o intervenciones para realizar ajustes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When a near miss could reasonably and realistically have resulted in a Serious Incident or Fatality (SIF)</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234639Z" creationid="hcartagena" creationdate="20160908T234639Z">
+        <seg>Cuando una cuasipérdida pudiera de manera razonable y realista haber resultado en un Incidente Grave o una Fatalidad (SIF).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When executing work, we must always focus on best practices for health and safety, including:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192520Z" creationid="hcartagena" creationdate="20160830T192520Z">
+        <seg>Al ejecutar trabajos, mantener siempre el foco en las prácticas óptimas de salud y seguridad, que son:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work Safe / Home Safe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160830T192859Z" creationid="hcartagena" creationdate="20160830T192859Z">
+        <seg>Trabajo seguro, hogar seguro</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Work activities and tasks must be identified and their risks assessed on a daily basis before beginning with the job and the risk assessment must be known by all personnel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160908T234213Z" creationid="hcartagena" creationdate="20160908T234213Z">
+        <seg>Diariamente y previo a iniciar los trabajos, se debe realizar una identificación de las actividades o tareas a ejecutar, con su respectiva evaluación de riesgos la que deberá ser conocida por todo el personal involucrado.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

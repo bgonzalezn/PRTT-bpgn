@@ -1,0 +1,305 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_0_r8270:8272" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>A situation is immediately dangerous or life threatening</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154431Z" creationid="hcartagena" creationdate="20160525T154303Z">
+        <seg>Una situación implica peligro inmediato o amenaza la vida;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A situation where an employee feels the work tasks or work area is unsafe</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154439Z" creationid="hcartagena" creationdate="20160525T154337Z">
+        <seg>Una situación en que el colaborador considera que la tarea o el lugar son inseguros;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additionally, the employee’s reluctance to initiate “stop work” or to seek instruction when confronted with a task which was new and had no previous exposure to or training in,  resulted in their exposure to the hazard and subsequent injury.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T153221Z" creationid="hcartagena" creationdate="20160525T153221Z">
+        <seg>Además, el colaborador resultó expuesto al peligro y a la consiguiente lesión debido a que optó por no detener el trabajo ni pedir instrucciones al encontrarse ante una tarea nueva a la cual no había estado expuesto antes y para la cual no había sido capacitado.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Additionally, there was the issue of timely reporting to our client and within Golder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T153310Z" creationid="hcartagena" creationdate="20160525T153310Z">
+        <seg>Además, está el hecho de no haber informado con prontitud al cliente y a Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the incident situation has been resolved, an incident report must be completed in the Golder Learnings Database (LDB).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T155007Z" creationid="hcartagena" creationdate="20160525T155007Z">
+        <seg>Cuando se haya resuelto la situación de un incidente, debe registrarse el incidente en la Learnings Database (LDB) de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An employee lost footing while descending a ladder, striking an elbow and shoulder on the liner wall before sliding the remaining 6-7 feet to the bottom of the slope.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T150859Z" creationid="hcartagena" creationdate="20160525T150859Z">
+        <seg>Al bajar por una escalera colocada sobre una impermeabilización, un colaborador perdió el equilibrio, se golpeó en el codo y el hombro con la superficie y rodó por la pendiente desde una altura de aproximadamente 2 metros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employees are expected to seek training for any task that may be new or in which they have had infrequent exposure to and managers are expected to ensure employees are properly trained before assigning them a task.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154630Z" creationid="hcartagena" creationdate="20160525T154630Z">
+        <seg>Los colaboradores deben pedir capacitación para una tarea que sea nueva o para la cual no han tenido exposición frecuente y los gerentes deben asegurarse de que los colaboradores reciban la debida capacitación antes de encomendarles una tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Employees have the right and obligation to refuse work under the following conditions:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154240Z" creationid="hcartagena" creationdate="20160525T154240Z">
+        <seg>Los colaboradores tienen el derecho y la obligación de negarse a realizar un trabajo en los siguientes casos:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Ensure you are properly trained for the task you are to undertake</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T155051Z" creationid="hcartagena" creationdate="20160525T154532Z">
+        <seg>Asegurémonos de estar debidamente capacitados para la tarea que acometamos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For more information please contact &lt;t0/&gt;Renae Mayo&lt;t1/&gt; (&lt;t2/&gt;Global &lt;t3/&gt;HSSE Leader – &lt;t4/&gt;Mining&lt;t5/&gt;)   &lt;t6/&gt;R_Mayo@golder.com</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T171653Z" creationid="hcartagena" creationdate="20160525T171511Z">
+        <seg>Para más información, contactar a &lt;t0/&gt;Renae Mayo&lt;t1/&gt; (&lt;t2/&gt;Líder Global de &lt;t3/&gt;HSSE – &lt;t4/&gt;Golder Mining&lt;t5/&gt;) &lt;t6/&gt;R_Mayo@golder.com</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>HAZARD ALERT</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T183940Z" creationid="hcartagena" creationdate="20160506T183940Z">
+        <seg>ALERTA DE PELIGRO</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Health, Safety&lt;t0/&gt;, Security &amp;&lt;t1/&gt; Environment</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T171409Z" creationid="hcartagena" creationdate="20160525T171409Z">
+        <seg>Salud, Seguridad&lt;t0/&gt; y&lt;t1/&gt; Medio Ambiente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Incident – Slip and fall from ladder</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T144756Z" creationid="hcartagena" creationdate="20160525T144756Z">
+        <seg>Incidente: resbalar y caer de una escalera</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Key Learnings from this event</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T162700Z" creationid="hcartagena" creationdate="20160506T162700Z">
+        <seg>Aprendizajes clave de este suceso</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Know and understand your client’s incident reporting requirements and procedures and ensure you follow it should an incident occur.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T171236Z" creationid="hcartagena" creationdate="20160525T154934Z">
+        <seg>Es esencial conocer y comprender los requisitos y procedimientos de notificación de incidentes del cliente y asegurarse de cumplirlos cuando suceda alguno.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Lastly, the lack of LdB entry delayed the initiation of an investigation into the incident.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154106Z" creationid="hcartagena" creationdate="20160525T154106Z">
+        <seg>Por último, la ausencia de un registro en la Learnings Database demoró el inicio de una investigación sobre el incidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>May&lt;t0/&gt; 2016</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T171604Z" creationid="hcartagena" creationdate="20160525T171604Z">
+        <seg>Mayo&lt;t0/&gt; 2016</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No medical evaluation nor medical treatment was required.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T151148Z" creationid="hcartagena" creationdate="20160525T151148Z">
+        <seg>No fue necesaria una evaluación médica ni tratamiento.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>No report was made into the Golder Learnings Database on this incident and there was a delay in notifying the client.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T151229Z" creationid="hcartagena" creationdate="20160525T151229Z">
+        <seg>No se informó el incidente en la Learnings Database y hubo demora en avisar al cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Report all incidents - Enter incidents into the Learnings database</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T170008Z" creationid="hcartagena" creationdate="20160525T154711Z">
+        <seg>Informemos todos los incidentes y registrémoslos en la Learnings Database</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Such a high level of concern was raised by our client, that a meeting between Golder and the client’s management team was needed to provide re-assurances of Golder’s commitment to the health and safety of our team members and those of our clients’.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T153721Z" creationid="hcartagena" creationdate="20160525T153721Z">
+        <seg>Fue tanta la preocupación del cliente que fue necesaria una reunión entre Golder y la gerencia del cliente para reafirmar el compromiso de Golder con la salud y la seguridad de los miembros de nuestro equipo y del equipo del cliente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The employee did not have fall protection training, and this was not identified prior to being provided a harness and assigned the task.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T152026Z" creationid="hcartagena" creationdate="20160525T152026Z">
+        <seg>El colaborador no había recibido capacitación sobre protección contra caídas y no se había detectado esto antes de entregarle un arnés y encomendarle la tarea.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The employee had noted the risk of a slip, trip or fall during their field level hazard assessment but failed to take mitigative action</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T152744Z" creationid="hcartagena" creationdate="20160525T151357Z">
+        <seg>El colaborador había advertido el riesgo de resbalar, tropezar o caer durante la evaluación de peligro a nivel de campo, pero omitió adoptar alguna medida de mitigación.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The employee sustained an abrasion to the left elbow and muscle strain soreness to the left shoulder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T151135Z" creationid="hcartagena" creationdate="20160525T151135Z">
+        <seg>El colaborador resultó con lesiones por abrasión en el codo izquierdo y dolor por distensión muscular en el hombro izquierdo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The incident</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160506T160923Z" creationid="hcartagena" creationdate="20160506T160923Z">
+        <seg>El incidente</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The investigation found</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T151240Z" creationid="hcartagena" creationdate="20160525T151240Z">
+        <seg>Hallazgos de la investigación:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The lack of clear communication between project managers resulted in the failure to properly identify the need for fall protection to be worn while accessing the work area.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T152519Z" creationid="hcartagena" creationdate="20160525T152519Z">
+        <seg>La falta de comunicación clara entre los gerentes de proyecto impidió identificar adecuadamente la necesidad de protección contra caídas para acceder al lugar de las labores.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The supervisor’s lack of determining the employee was trained and competent to utilise the fall protection was also a failure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T152826Z" creationid="hcartagena" creationdate="20160525T152733Z">
+        <seg>También hubo negligencia por parte del supervisor al no determinar si el colaborador estaba debidamente capacitado para usar protección contra caídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>There was not clear communication between the client project manager and the Golder Project manager as to whether fall protection was required.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T151442Z" creationid="hcartagena" creationdate="20160525T151442Z">
+        <seg>No hubo comunicación clara entre los gerentes de proyecto del cliente y de Golder con respecto a la necesidad de contar con protección contra caídas.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This contributed to the employee not wearing fall protection at the time of the incident.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T151510Z" creationid="hcartagena" creationdate="20160525T151510Z">
+        <seg>Esto redundó en que el colaborador no estuviera usando este tipo de protección al momento del incidente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This incident and the lack of timely reporting to our client raised the concern within our client’s management team of Golder’s commitment to safety and the thoroughness of Golder’s safety management system.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T153528Z" creationid="hcartagena" creationdate="20160525T153505Z">
+        <seg>Este incidente y la falta de comunicación oportuna con el cliente fue motivo de preocupación de parte de la gerencia del cliente acerca del compromiso de Golder con la seguridad y sobre la rigurosidad del sistema de gestión de la seguridad de Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This incident reminds us of the importance of being able to initiate &lt;t0/&gt;“stop work”&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154151Z" creationid="hcartagena" creationdate="20160525T153251Z">
+        <seg>Este incidente nos recuerda la importancia de atreverse a detener un trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Understand your “&lt;t0/&gt;stop work” &lt;t1/&gt;authority</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154200Z" creationid="hcartagena" creationdate="20160525T154147Z">
+        <seg>Comprendamos que podemos detener un trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Utilize the Learnings Database for entry of observations, injuries, illnesses, hazards, environmental aspects and to commend employees on positive health and safety behaviour’s.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T171349Z" creationid="hcartagena" creationdate="20160525T171349Z">
+        <seg>La Learning Database nos permite ingresar observaciones, lesiones, enfermedades, peligros, aspectos ambientales y reconocer a los colaboradores que tienen un comportamiento positivo en lo que se refiere a salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an employee does not have the proper PPE for the job</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154457Z" creationid="hcartagena" creationdate="20160525T154420Z">
+        <seg>El colaborador carece de EPP adecuado para el trabajo, o</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>When an employee is not properly trained to perform the job</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154510Z" creationid="hcartagena" creationdate="20160525T154510Z">
+        <seg>El colaborador no está debidamente capacitado para el trabajo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>With the failure to report the incident into the Golder Learnings Database, this prevented our timely initiation of communication with the employee to check on their well-being and to see if medical care was required.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160525T154038Z" creationid="hcartagena" creationdate="20160525T154038Z">
+        <seg>El hecho de haber omitido informar el incidente en la Learnings Database demoró el ponerse en contacto con el colaborador para comprobar su estado y determinar si era necesaria atención médica.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

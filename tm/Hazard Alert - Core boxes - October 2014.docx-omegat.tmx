@@ -1,0 +1,232 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+<header creationtool="Olifant" creationtoolversion="3.0.8.0" datatype="plaintext" segtype="sentence" adminlang="EN-US" srclang="EN" o-tmf="OmegaT TMX" changedate="20150130T144647Z" changeid="hcartagena">
+<prop type="Filename">Hazard Alert - Core boxes - October 2014.docx</prop>
+</header>
+<body>
+<tu>
+<tuv xml:lang="EN">
+<seg>Working with Core Boxes</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T165903Z" creationid="hcartagena" changedate="20141103T165903Z" changeid="hcartagena">
+<seg>Trabajar con cajas de testigos</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>The incident</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20140704T120720Z" creationid="hcartagena" changedate="20140704T120720Z" changeid="hcartagena">
+<seg>El incidente</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>At the conclusion of drilling an employee attempted to lift a full core tray (estimated weight of 20 kilograms) unassisted from the ground into the tray of a ute.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T172239Z" creationid="hcartagena" changedate="20141104T141743Z" changeid="hcartagena">
+<seg>Al finalizar una perforación, un colaborador intentó levantar una bandeja llena de testigos (peso estimado de 20 kg) sin ayuda desde el piso hasta la parte trasera de una camioneta.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>During this task our employee strained a muscle in their lower back.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T172341Z" creationid="hcartagena" changedate="20141103T172341Z" changeid="hcartagena">
+<seg>Durante esta tarea, se lesionó un músculo de la zona lumbar.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>The contributing factors</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20140704T121336Z" creationid="hcartagena" changedate="20140704T121336Z" changeid="hcartagena">
+<seg>Los factores que incidieron</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>The employee filled the core boxes to capacity, resulting in an estimated weight of 20kg.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T172412Z" creationid="hcartagena" changedate="20141103T172412Z" changeid="hcartagena">
+<seg>El colaborador llenó las cajas de testigos hasta su capacidad máxima de 20 kg.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>The size and shape of the core boxes was not thoroughly considered prior to lifting, the employee focused on the weight of the box.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T172612Z" creationid="hcartagena" changedate="20141104T141758Z" changeid="hcartagena">
+<seg>No tuvo en cuenta la forma de las cajas antes de levantarlas, solo su peso.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Lifting core boxes is awkward and so a two person lift is required.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T172727Z" creationid="hcartagena" changedate="20141104T141806Z" changeid="hcartagena">
+<seg>Por su forma, se necesitan dos personas para levantarlas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Key learnings from this event</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20140704T122047Z" creationid="hcartagena" changedate="20140704T122047Z" changeid="hcartagena">
+<seg>Aprendizajes clave de este suceso</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Labor-intensive activities on site</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T173347Z" creationid="hcartagena" changedate="20141103T173347Z" changeid="hcartagena">
+<seg>Actividades laboriosas en el sitio </seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>In most cases, the weight of core boxes, sample bags and eskies / chilly-bin is within our control.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T183647Z" creationid="hcartagena" changedate="20141104T141923Z" changeid="hcartagena">
+<seg>En la mayoría de los casos, podemos controlar el peso de las cajas de testigos, bolsas de muestras y neveras portátiles.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>While we want to minimise the number of core boxes, bags, eskies we use; this must not come at the expense of health and safety.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T183921Z" creationid="hcartagena" changedate="20141103T185141Z" changeid="hcartagena">
+<seg>Si queremos reducir el número de implementos necesarios, no debemos hacerlo a costa de nuestra salud y seguridad.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Consider:</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T185027Z" creationid="hcartagena" changedate="20141103T185027Z" changeid="hcartagena">
+<seg>Se debe tener en cuenta lo siguiente:</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Even if you can safely handle the load, or have two people available, consider others who will need to handle the load including transport companies and laboratory staff.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T185356Z" creationid="hcartagena" changedate="20141103T185356Z" changeid="hcartagena">
+<seg>Aunque se pueda manipular la carga o haya dos personas, tener en cuenta a terceros que tendrán que manipular la carga tales como empresas de transporte y personal de laboratorio.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Only obtain the volume of sample you realistically need to minimise the weight of sample bags.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T185844Z" creationid="hcartagena" changedate="20141103T185844Z" changeid="hcartagena">
+<seg>Obtener solo el volumen de muestras que en realidad se necesita para minimizar el peso de las bolsas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Only partly filling the core box; using filler material (polystyrene) to ‘blank out’ other spaces.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T185919Z" creationid="hcartagena" changedate="20141103T185919Z" changeid="hcartagena">
+<seg>Llenar solo parcialmente la caja de testigos y usar material de relleno (poliestireno) en los espacios sobrantes.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>While this increases the number of core boxes needed; it reduces the weight of each lift (this is likely to vary depending on the core diameter).</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141103T190011Z" creationid="hcartagena" changedate="20141103T190011Z" changeid="hcartagena">
+<seg>Si bien así se necesitarán más cajas de testigos, al mismo tiempo se reduce el peso de cada una (dependiendo del diámetro de los testigos)</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Before filling the core box consider its location, orientation distance from vehicle with respect to ease of access for lifting and minimising carrying distance.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T112324Z" creationid="hcartagena" changedate="20141104T141944Z" changeid="hcartagena">
+<seg>Antes de llenar las cajas, tener en cuenta su ubicación, orientación y distancia con respecto al vehículo a fin de facilitar su manipulación y minimizar los traslados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Use core boxes with ‘feet’, moulded handles (for plastic boxes) or rest the core box on timber planks before filling to make access for gripping and lifting easier.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T114743Z" creationid="hcartagena" changedate="20141104T142020Z" changeid="hcartagena">
+<seg>Usar cajas de testigos con patas y mangos moldeados (si son de plástico) o ponerlas sobre tablones de madera antes de llenarlas para que sea más fácil tomarlas y levantarlas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Request assistance from the driller / offside in the field and another Golder employee at the laboratory / office before moving full core boxes.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T130841Z" creationid="hcartagena" changedate="20141104T130841Z" changeid="hcartagena">
+<seg>Pedir ayuda al perforista o a su ayudante en el campo y a otro colaborador de Golder en el laboratorio u oficina antes de mover cajas de testigos llenas.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Use an appropriate trolley in the office / laboratory to move core boxes.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T141155Z" creationid="hcartagena" changedate="20141104T141155Z" changeid="hcartagena">
+<seg>Usar un carrito en la oficina o laboratorio para mover las cajas de testigos.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Take 5</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T141211Z" creationid="hcartagena" changedate="20141104T141211Z" changeid="hcartagena">
+<seg>5 minutos de salud y seguridad</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>We must remain focussed when we are undertaking tasks considered peripheral to the main activity.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T141252Z" creationid="hcartagena" changedate="20141104T142036Z" changeid="hcartagena">
+<seg>Al ejecutar tareas que se consideran secundarias no debemos perder de vista</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Our HSE decision making is extremely important while undertaking these tasks and the Take 5 is a great way of ensuring focus.</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T141408Z" creationid="hcartagena" changedate="20141104T142125Z" changeid="hcartagena">
+<seg>los aspectos de salud, seguridad y medio ambiente y su vital importancia. Las conversaciones de «5 minutos» son una buena manera de mantenerse enfocados.</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>Health, Safety and Environment</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20140704T122807Z" creationid="hcartagena" changedate="20140704T122807Z" changeid="hcartagena">
+<seg>Salud, seguridad y medio ambiente</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>HAZARD ALERT</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20140704T122816Z" creationid="hcartagena" changedate="20140704T122816Z" changeid="hcartagena">
+<seg>ALERTA DE PELIGRO</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>For more information please contact &lt;t1/&gt;Matt Wallace&lt;t2/&gt; (Manager -&lt;t3/&gt; Health Safety &amp; Environment)&lt;t4/&gt; &lt;t5/&gt; –  0&lt;t6/&gt;7&lt;t7/&gt; &lt;t8/&gt;3721 4901&lt;t9/&gt; or &lt;t10/&gt;m&lt;t11/&gt;_&lt;t12/&gt;wallace&lt;t13/&gt;@golder.com.au</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T141629Z" creationid="hcartagena" changedate="20141104T142211Z" changeid="hcartagena">
+<seg>Para obtener más información, contactar a &lt;t1/&gt;Matt Wallace&lt;t2/&gt; (Gerente de&lt;t3/&gt; Salud, Seguridad y Medio Ambiente)&lt;t4/&gt; &lt;t5/&gt;al 0&lt;t6/&gt;7&lt;t7/&gt; &lt;t8/&gt;3721 4901&lt;t9/&gt; o a &lt;t10/&gt;m&lt;t11/&gt;_&lt;t12/&gt;wallace&lt;t13/&gt;@golder.com.au</seg>
+</tuv>
+</tu>
+<tu>
+<tuv xml:lang="EN">
+<seg>October&lt;t1/&gt; 2014</seg>
+</tuv>
+<tuv xml:lang="ES" creationdate="20141104T141648Z" creationid="hcartagena" changedate="20141104T141648Z" changeid="hcartagena">
+<seg>Octubre&lt;t1/&gt; 2014</seg>
+</tuv>
+</tu>
+</body>
+</tmx>

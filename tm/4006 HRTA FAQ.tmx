@@ -1,0 +1,713 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.6.0_3_r9207:9217" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="EN">
+        <seg>A: &lt;t0/&gt; The PHRTA is a ‘soft-stop’ which means following submission of the PHRTA, the ROA can be completed, however approval is required prior to the Opportunity proceeding to the proposal stage.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162511Z" creationid="hcartagena" creationdate="20160920T162511Z">
+        <seg>R&lt;t0/&gt;: La PHRTA es una “parada temporal”, lo que significa que tras el envío de la PHRTA, es posible completar el proceso de ROA. Sin embargo, se requiere la aprobación antes de que la Oportunidad avance a la etapa de propuesta.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: A Global library of Opportunity and Project-related HRT records will be maintained.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163929Z" creationid="hcartagena" creationdate="20160920T163929Z">
+        <seg>R&lt;t0/&gt;: Se mantendrá una biblioteca global de registros de HRT relacionados con Oportunidades y Proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: After the work is awarded to Golder, an Individual Traveller Assessment (ITA) is completed, one per traveller.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162748Z" creationid="hcartagena" creationdate="20160920T162748Z">
+        <seg>R&lt;t0/&gt;: Después de que se haya adjudicado el trabajo a Golder, se completará una Evaluación de Viajero Individual (ITA) por cada viajero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: Approved PHRTAs will become part of the project HaSEP and will be managed by the Project Manager along with other project health, safety and security risks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162612Z" creationid="hcartagena" creationdate="20160920T162612Z">
+        <seg>R&lt;t0/&gt;: Las PHRTA aprobadas serán parte del HaSEP del proyecto y serán gestionadas por el Gerente de Proyecto junto con otros riesgos de salud y seguridad del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: Each traveller, prior to undertaking high risk travel, must complete and submit an ITA for review and travel approval.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162957Z" creationid="hcartagena" creationdate="20160920T162957Z">
+        <seg>R&lt;t0/&gt;: Cada viajero, antes de emprender un viaje de alto riesgo, debe completar y enviar una ITA para su revisión y aprobación del viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: Following PHRTA review by a Global HRT Panel member, recommendations regarding the approval will be sent to the Regional President / Managing Director where the request originated with copies to the President / MD of the Region where the travel will take place.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162134Z" creationid="hcartagena" creationdate="20160920T162134Z">
+        <seg>R&lt;t0/&gt;: Tras la revisión de la PHRTA por un integrante del Panel Global de HRT, las recomendaciones para la aprobación se enviarán al Presidente Regional o Managing Director de donde se originó la solicitud y se copiará al Presidente o MD de la región a donde se realizará el viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: Following the Regional HSSE Leader’s review process, a recommendation will be made to the traveller’s Supervisor regarding the approval to undertake the travel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163757Z" creationid="hcartagena" creationdate="20160920T163757Z">
+        <seg>R&lt;t0/&gt;: Después del proceso de revisión por parte del Líder Regional de HSSE, se hará una recomendación al jefe directo del viajero con respecto a la aprobación para realizar el viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: If you are an Opportunity Leader, Project Manager, a Golder employee likely to travel to high risk locations, a supervisor of high risk travellers, an approver of HRT, or a member of the HRT Panel, the changes to the HRT assessment process will apply to you.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161155Z" creationid="hcartagena" creationdate="20160920T161102Z">
+        <seg>R&lt;t0/&gt;: Si eres un Líder de Oportunidades, un Gerente de Proyecto, un colaborador de Golder que probablemente viaje a lugares de alto riesgo, el jefe directo de viajeros de alto riesgo, un aprobador de HRT o un integrante del Panel de HRT, los cambios al proceso de evaluación de HRT se aplican a ti.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: Once completed, the PHRTA is submitted to the Global HRT Panel Coordinator.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161829Z" creationid="hcartagena" creationdate="20160920T161829Z">
+        <seg>R&lt;t0/&gt;: Cuando se ha completado, la PHRTA se envía al Coordinador Global del Panel de HRT.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: Opportunities requiring work in, or travel to or through, high risk locations require the completion, review and approval of a single PHRTA addressing health, safety and security risks.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161532Z" creationid="hcartagena" creationdate="20160920T161532Z">
+        <seg>R&lt;t0/&gt;: Las oportunidades que demandan trabajar en lugares de alto riesgo, viajar a ellos o transitar por estos requieren que se complete, revise y apruebe una PHRTA que responda a los riesgos de salud y seguridad.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: The PHRTA is completed by the Opportunity Leader at the ROA stage to ensure Health, Safety and Security risks and mitigating controls are considered at the opportunity stage and prior to proposal and project planning.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161751Z" creationid="hcartagena" creationdate="20160920T161751Z">
+        <seg>R&lt;t0/&gt;: El Líder de Oportunidades completará una PHRTA en la etapa de ROA para asegurarse de que se consideren los riesgos para la salud y seguridad y los controles de mitigación en la etapa de oportunidad y antes de las etapas de propuesta y planificación del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: The current Global High Risk Travel (HRT) assessment process has been reviewed and opportunities for improvement identified.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160523Z" creationid="hcartagena" creationdate="20160920T160523Z">
+        <seg>R&lt;t0/&gt;: Se ha sometido a revisión el proceso actual de evaluación global de Viajes de Alto Riesgo (HRT), durante el cual se han identificado oportunidades de mejora.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: The improved process has two steps, a Project High Risk Travel Assessment (PHRTA) and an Individual Traveller Assessment (ITA).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161327Z" creationid="hcartagena" creationdate="20160920T161234Z">
+        <seg>R&lt;t0/&gt;: El proceso mejorado tiene dos pasos, una Evaluación de Viajes de Alto Riesgo de Proyecto (PHRTA) y una Evaluación de Viajero Individual (ITA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: The responsibility for ensuring that project travellers have an approved ITA lies with the Project Manager.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163047Z" creationid="hcartagena" creationdate="20160920T163047Z">
+        <seg>R&lt;t0/&gt;: La responsabilidad de asegurarse de que todos los viajeros de proyecto tengan una ITA aprobada corresponde al Gerente de Proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: The risk rating of a location (i.e., city or country) is determined by International SOS.  The highest risk rating of a destination or travel-through location will be used.  Any locations designated by International SOS as&lt;t1/&gt; ‘high’&lt;t2/&gt; or&lt;t3/&gt; ‘extreme’&lt;t4/&gt; security (travel) risk and/or ‘&lt;t5/&gt;extreme&lt;t6/&gt;’ medical risk&lt;t7/&gt; &lt;t8/&gt;shall be considered ‘high risk locations’.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160846Z" creationid="hcartagena" creationdate="20160920T160846Z">
+        <seg>R&lt;t0/&gt;: La clasificación de riesgo de un lugar (ciudad o país, por ejemplo) está determinada por International SOS. Se usará la clasificación de riesgo más alta de un destino o lugar de paso. Todo lugar designado por International SOS como de riesgo de seguridad (de viaje) &lt;t1/&gt;alto&lt;t2/&gt; o &lt;t3/&gt;extremo&lt;t4/&gt; o de riesgo médico &lt;t5/&gt;extremo&lt;t6/&gt;&lt;t7/&gt; &lt;t8/&gt;se considerará un “lugar de alto riesgo”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>A&lt;t0/&gt;: The traveller must submit the completed ITA to their Regional HSSE Leader for a review conversation.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163718Z" creationid="hcartagena" creationdate="20160920T163718Z">
+        <seg>R&lt;t0/&gt;: El viajero debe enviar la ITA a su Líder Regional de HSSE para su revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>After the work is awarded to Golder, an Individual Traveller Assessment (ITA) is completed, one per traveller.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154213Z" creationid="hcartagena" creationdate="20160920T154213Z">
+        <seg>Después de que se haya adjudicado el trabajo a Golder, se completará una Evaluación de Viajero Individual (ITA) por cada viajero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An ITA will contain personal information, and therefore, will only be stored in a secure and confidential location in accordance with data protection requirements.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T164126Z" creationid="hcartagena" creationdate="20160920T164126Z">
+        <seg>Las ITA tendrán información personal de contacto. Por lo tanto, solo podrán almacenarse en un lugar seguro y confidencial, conforme a los requisitos de protección de datos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>An update will take place at the end of October to better manage business risks in countries with higher bribery and corruption risk levels or not aligned with our strategic goals.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154653Z" creationid="hcartagena" creationdate="20160920T154653Z">
+        <seg>A fines de octubre habrá una actualización para gestionar de mejor manera los riesgos del negocio en países que tienen niveles más altos de riesgo de soborno y corrupción o que no están alineados con nuestros objetivos estratégicos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Approved PHRTAs will become part of the project HaSEP and will be managed by the Project Manager.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154144Z" creationid="hcartagena" creationdate="20160920T154144Z">
+        <seg>Las PHRTA aprobadas serán parte del HaSEP del proyecto y serán gestionadas por el Gerente de Proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>As Project Manager, it is your responsibility to ensure that travellers comply with these requirements related to this project.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163531Z" creationid="hcartagena" creationdate="20160920T163531Z">
+        <seg>Como Gerente de Proyecto, es su responsabilidad asegurarse de que los viajeros cumplan con estos requisitos relacionados con este proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dear Colleagues:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153010Z" creationid="hcartagena" creationdate="20160920T153010Z">
+        <seg>Estimados colegas:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Dear Project Manager</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163122Z" creationid="hcartagena" creationdate="20160920T163122Z">
+        <seg>Estimado Gerente de Proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Each traveller for this project must complete an Individual Traveller Assessment (ITA) and submit the completed document to their Regional HSSE Leader for review.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163438Z" creationid="hcartagena" creationdate="20160920T163438Z">
+        <seg>Cada viajero de este proyecto debe completar una Evaluación de Viajero Individual (ITA) y enviar el documento a su Líder Regional de HSSE para su revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effective September 19, 2016, an improved process has been launched which:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153422Z" creationid="hcartagena" creationdate="20160920T153422Z">
+        <seg>A contar del 19 de septiembre de 2016, se ha lanzado un proceso mejorado, el cual:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Effective September 19, 2016, an improved process is being launched reflecting efficiency, integration into our workflow, improved timing in review at the opportunities stage, and better tools to assess travellers and the project opportunity.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160646Z" creationid="hcartagena" creationdate="20160920T160646Z">
+        <seg>A contar del 19 de septiembre de 2016, se ha lanzado un proceso mejorado que refleja eficiencia, integración con nuestro flujo, mejora en la puntualidad de la revisión en la etapa de oportunidad y mejores herramientas para evaluar a los viajeros y la oportunidad de proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Following the ITA review process, a recommendation will be made to the traveller’s Supervisor regarding the approval to undertake the travel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163507Z" creationid="hcartagena" creationdate="20160920T163507Z">
+        <seg>Después del proceso de revisión de la ITA, se hará una recomendación al jefe directo del viajero con respecto a la aprobación para realizar el viaje.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For high risk travel that is not project-related, the traveller is prompted via the Contacts HaSEP, established under GP6 for use in International Travel, to identify the risk ratings of the locations to be traveled to or through and where needed, required to complete the ITA process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T155914Z" creationid="hcartagena" creationdate="20160920T154539Z">
+        <seg>Para viajes de alto riesgo que no se relacionen con proyectos, se avisará al viajero mediante el HaSEP de contactos, establecido según el GP6 para su uso en viajes internacionales, con el fin de identificar las clasificaciones de riesgo de los lugares a donde se viajará o por los cuales se transitará y, de ser necesario, se exigirá completar el proceso de ITA.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>For non-project travel the responsibility lies with the traveller’s supervisor.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163638Z" creationid="hcartagena" creationdate="20160920T163638Z">
+        <seg>Para los viajes no relacionados con proyectos, la responsabilidad recae en el jefe directo del viajero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Frequently Asked Questions</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162726Z" creationid="hcartagena" creationdate="20160920T162726Z">
+        <seg>Preguntas frecuentes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Global HSSE will send a monthly status report on received HRT requests to the Project Risk Committee(s) for information and record.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T164036Z" creationid="hcartagena" creationdate="20160920T164036Z">
+        <seg>El Grupo Global de HSSE enviará a los Comités de Riesgos de Proyectos un informe mensual de estado de las solicitudes de HRT recibidas para su información y registro.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>High Risk Travel</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160354Z" creationid="hcartagena" creationdate="20160920T160354Z">
+        <seg>Viajes de alto riesgo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>How Does It Work?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154822Z" creationid="hcartagena" creationdate="20160920T154822Z">
+        <seg>¿Cómo funciona?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If approval has not been received, please contact the HRT Panel Coordinator before proceeding.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163409Z" creationid="hcartagena" creationdate="20160920T163409Z">
+        <seg>Si no se ha obtenido la aprobación, contacte al Coordinador del Panel de HRT antes de continuar.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions on this process, please feel free to contact us at &lt;t0/&gt;HRTPanelCoordinator@golder.com&lt;t1/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T155504Z" creationid="hcartagena" creationdate="20160920T155504Z">
+        <seg>Si tienen alguna pregunta sobre el proceso, pueden escribir a &lt;t0/&gt;HRTPanelCoordinator@golder.com&lt;t1/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>If you have any questions regarding this process, please contact your Regional HSSE Leader.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163545Z" creationid="hcartagena" creationdate="20160920T163545Z">
+        <seg>Si tiene alguna pregunta sobre el proceso, contacte a su Líder Regional de HSSE.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Improves the timeliness of the review at the opportunities stage, and</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153506Z" creationid="hcartagena" creationdate="20160920T153506Z">
+        <seg>Mejora la puntualidad de la revisión en la etapa de oportunidades, y</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In our continuing efforts to improve global processes that manage our risk, we are updating our policies and controls for travel and business outside of our home countries.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153122Z" creationid="hcartagena" creationdate="20160920T153122Z">
+        <seg>En un esfuerzo permanente por mejorar los procesos globales para gestionar nuestros riesgos, estamos actualizando nuestras políticas y controles para viajes y negocios fuera de nuestros países de origen.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>In the simplest of terms, checkpoints are in place based on the best information we have to alert us to potential increased risks when opportunities are opened in Dynamics.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T155001Z" creationid="hcartagena" creationdate="20160920T155001Z">
+        <seg>En términos muy simples, hay controles basados en la mejor información que tenemos para alertarnos de posibles riesgos mayores cuando se abran oportunidades en Dynamics.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Increases efficiency and integration into our existing workflow,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153440Z" creationid="hcartagena" creationdate="20160920T153440Z">
+        <seg>Aumenta la eficiencia y la integración en nuestro flujo actual;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Introduces better tools to assess the project opportunity and our travelers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153525Z" creationid="hcartagena" creationdate="20160920T153525Z">
+        <seg>Introduce mejores herramientas para evaluar la oportunidad del proyecto y a nuestros viajeros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Locations designated by International SOS as &lt;t0/&gt;‘high’ &lt;t1/&gt;or &lt;t2/&gt;‘extreme’ &lt;t3/&gt;security (travel) risk and/or ‘&lt;t4/&gt;extreme&lt;t5/&gt;’ medical risk shall be considered ‘high risk locations’.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153648Z" creationid="hcartagena" creationdate="20160920T153648Z">
+        <seg>Los lugares que tienen designación de riesgo de seguridad (de viaje) &lt;t0/&gt;alto&lt;t1/&gt; o &lt;t2/&gt;extremo&lt;t3/&gt; o de riesgo médico &lt;t4/&gt;extremo&lt;t5/&gt; en International SOS se considerarán como “lugares de alto riesgo”.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>On award of a project number an automated email will be sent to the Project Manager to remind them of this responsibility:</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163116Z" creationid="hcartagena" creationdate="20160920T163116Z">
+        <seg>Al asignarse un número de proyecto, se enviará un correo electrónico automático al Gerente de Proyecto para recordarle esta responsabilidad:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Please find attached an FAQ on the new High Risk Travel process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T155425Z" creationid="hcartagena" creationdate="20160920T155425Z">
+        <seg>Adjunto encontrarán un documento de Preguntas Frecuentes sobre el nuevo proceso de Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Protection of our people and our business interests is of critical importance to Golder.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153039Z" creationid="hcartagena" creationdate="20160920T153039Z">
+        <seg>La protección de nuestra gente y de los intereses de nuestro negocio son de vital importancia para Golder.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  To whom do the changes to High Risk Travel apply?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160928Z" creationid="hcartagena" creationdate="20160920T160928Z">
+        <seg>P: ¿A quiénes se aplican los cambios en los Viajes de Alto Riesgo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  What does the High Risk Travel assessment process require?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161215Z" creationid="hcartagena" creationdate="20160920T161215Z">
+        <seg>P: ¿Qué requiere el proceso de evaluación de Viajes de Alto Riesgo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  What happens to Project High Risk Travel Assessments and Individual Traveller Assessments following review?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163837Z" creationid="hcartagena" creationdate="20160920T163837Z">
+        <seg>P: ¿Qué sucede a las Evaluaciones de Viajes de Alto Riesgo de Proyecto y a las Evaluaciones de Viajero Individual tras la revisión?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  What happens to a Project High Risk Travel Assessment after approval?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162536Z" creationid="hcartagena" creationdate="20160920T162536Z">
+        <seg>P: ¿Qué pasa con la Evaluación de Viajes de Alto Riesgo de Proyecto tras la aprobación?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  What is a Project High Risk Travel Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161311Z" creationid="hcartagena" creationdate="20160920T161311Z">
+        <seg>P: ¿Qué es una Evaluación de Viajes de Alto Riesgo de Proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  What is an Individual Traveller Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162738Z" creationid="hcartagena" creationdate="20160920T162738Z">
+        <seg>P: ¿Qué es una Evaluación de Viajero Individual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  What qualifies as High Risk Travel?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160657Z" creationid="hcartagena" creationdate="20160920T160657Z">
+        <seg>P: ¿Qué califica como Viaje de Alto Riesgo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who approves a Project High Risk Travel Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162015Z" creationid="hcartagena" creationdate="20160920T162015Z">
+        <seg>P: ¿Quién aprueba una Evaluación de Viajes de Alto Riesgo de Proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who approves an Individual Traveller Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163733Z" creationid="hcartagena" creationdate="20160920T163733Z">
+        <seg>P: ¿Quién aprueba una Evaluación de Viajero Individual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who completes a Project High Risk Travel Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161717Z" creationid="hcartagena" creationdate="20160920T161717Z">
+        <seg>P: ¿Quién completa una Evaluación de Viajes de Alto Riesgo de Proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who is responsible for ensuring Individual Traveller Assessments are completed?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163018Z" creationid="hcartagena" creationdate="20160920T163018Z">
+        <seg>P: ¿Quién es responsable de asegurarse de que se complete una Evaluación de Viajero Individual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who needs to complete an Individual Traveller Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162920Z" creationid="hcartagena" creationdate="20160920T162920Z">
+        <seg>P: ¿Quién debe completar una Evaluación de Viajero Individual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who reviews a Project High Risk Travel Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161809Z" creationid="hcartagena" creationdate="20160920T161809Z">
+        <seg>P: ¿Quién revisa una Evaluación de Viajes de Alto Riesgo de Proyecto?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Who reviews an Individual Traveller Assessment?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163655Z" creationid="hcartagena" creationdate="20160920T163655Z">
+        <seg>P: ¿Quién revisa una Evaluación de Viajero Individual?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Why has the High Risk Travel Assessment process changed?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160412Z" creationid="hcartagena" creationdate="20160920T160412Z">
+        <seg>P: ¿Por qué ha cambiado el proceso de Evaluación de Viajes de Alto Riesgo?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Q:  Will the Project High Risk Travel Assessment delay the ROA completion?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162204Z" creationid="hcartagena" creationdate="20160920T162204Z">
+        <seg>P: ¿La Evaluación de Viajes de Alto Riesgo de Proyecto retrasarán el proceso de ROA?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Recommendations regarding the approval will be sent to the traveller’s supervisor.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154305Z" creationid="hcartagena" creationdate="20160920T154305Z">
+        <seg>Las recomendaciones para la aprobación serán enviadas al jefe directo del viajero.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Regards,</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T155509Z" creationid="hcartagena" creationdate="20160920T155509Z">
+        <seg>Cordialmente,</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Senior management will have the final say on any exceptions to working within these locations.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154817Z" creationid="hcartagena" creationdate="20160920T154817Z">
+        <seg>La gerencia senior tendrá la última palabra con respecto a cualquier excepción para trabajar en estos lugares.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Specific hazards assessed include the standard of medical facilities, communicable diseases, mosquito and waterborne illnesses, air travel, natural disasters, civil or political unrest or armed conflict, corruption, crime, kidnapping or terrorism.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161655Z" creationid="hcartagena" creationdate="20160920T161655Z">
+        <seg>Los peligros específicos a evaluar son el estándar de las instalaciones médicas, las enfermedades contagiosas, las enfermedades transmitidas por mosquitos o el agua, los viajes aéreos, los desastres naturales, los desórdenes civiles o políticos o los conflictos armados, la corrupción, el crimen, los secuestros o el terrorismo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Thank you for your commitment and leadership in ensuring the continued health, safety and security of our people.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163615Z" creationid="hcartagena" creationdate="20160920T163615Z">
+        <seg>Gracias por su compromiso y liderazgo en asegurar la salud y seguridad permanente de nuestra gente.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HRT Panel is comprised of experienced and knowledgeable travellers within Golder Associates.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162000Z" creationid="hcartagena" creationdate="20160920T162000Z">
+        <seg>El Panel de HRT se compone de viajeros experimentados y conocedores de Golder Associates.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HRT assessment process applies to all project and non-project-related travel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153711Z" creationid="hcartagena" creationdate="20160920T153711Z">
+        <seg>El proceso de evaluación de HRT se aplica a todo viaje relacionado con proyectos o no relacionado con ellos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The HRT assessment process applies to all work-related travel including project and non-project-related travel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160910Z" creationid="hcartagena" creationdate="20160920T160910Z">
+        <seg>El proceso de evaluación de HRT se aplica a todo viaje de trabajo, se relacione o no con proyectos.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ITA is a tool used to gather information that will be discussed by the traveller and a Regional HSSE Leader with the objective of identifying and mitigating risk associated with individual travellers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162842Z" creationid="hcartagena" creationdate="20160920T162842Z">
+        <seg>Las ITA son una herramienta para reunir información que será analizada por el viajero y un Líder Regional de HSSE con el fin de identificar y mitigar los riesgos para los viajeros individuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The ITA is reviewed in conversation with the traveller and the home Regional HSSE Leader with the objective of identifying and mitigating risk associated with individual travellers.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162853Z" creationid="hcartagena" creationdate="20160920T154251Z">
+        <seg>Las ITA serán revisadas en conjunto con el viajero y el Líder Regional de HSSE con el fin de identificar y mitigar los riesgos para los viajeros individuales.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The PHRTA is reviewed by a HRT Panel member and recommendations sent to the home region Regional President / Managing Director for final approval.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154122Z" creationid="hcartagena" creationdate="20160920T154122Z">
+        <seg>La PHRTA será revisada por un integrante del Panel de HRT y sus recomendaciones se enviarán al Presidente Regional o Managing Director de la región de origen para su aprobación final.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The Panel Coordinator then distributes to a Global HRT Panel Member for review.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161847Z" creationid="hcartagena" creationdate="20160920T161847Z">
+        <seg>El Coordinador del Panel la distribuye a un integrante del Panel Global de HRT para su revisión.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The flow diagram below gives a snapshot of the decision process.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154852Z" creationid="hcartagena" creationdate="20160920T154852Z">
+        <seg>El siguiente diagrama de flujo muestra el proceso de toma de decisiones.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The improved HRT process has two steps, a Project High Risk Travel Assessment (PHRTA) and an Individual Traveller Assessment (ITA).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161334Z" creationid="hcartagena" creationdate="20160920T153848Z">
+        <seg>El proceso de HRT mejorado tiene dos pasos, una Evaluación de Viajes de Alto Riesgo de Proyecto (PHRTA) y una Evaluación de Viajero Individual (ITA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>The improvements to the HRT process include one Global HRT Panel rather than several regional Travel Advisory Groups (TAGs) / High Risk Panels (HRPs).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161939Z" creationid="hcartagena" creationdate="20160920T161939Z">
+        <seg>Las mejoras al proceso de HRT incluyen un Panel Global de HRT en lugar de diversos grupos regionales de asesoría de viajes (TAG) o paneles de alto riesgo (HRP).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This includes our high risk travel (HRT) assessment and our Restricted (formerly No-Go) Country lists.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160053Z" creationid="hcartagena" creationdate="20160920T153208Z">
+        <seg>Esto incluye nuestra evaluación de viajes de alto riesgo (HRT) y nuestro listado de países con restricciones (antes No-Go).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information provides responses to questions regarding High Risk Travel.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162633Z" creationid="hcartagena" creationdate="20160920T162633Z">
+        <seg>Esta información entrega respuestas a preguntas relacionadas con Viajes de Alto Riesgo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This information should be read in conjunction with Global Procedure 6  Management of Health and Safety.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T162721Z" creationid="hcartagena" creationdate="20160920T162721Z">
+        <seg>Esta información debe leerse en conjunto con el Procedimiento Global para la Gestión de la Salud y la Seguridad, GP6.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>This project has been approved based on the mitigating controls identified in the Project High Risk Travel Assessment (PHRTA).</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163339Z" creationid="hcartagena" creationdate="20160920T163339Z">
+        <seg>Se ha aprobado este proyecto de acuerdo con los controles de mitigación identificados en la Evaluación de Viajes de Alto Riesgo de Proyecto (PHRTA).</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>To effectively manage time and expectations, one PHRTA is completed by the Opportunity Leader at the ROA stage to ensure Health, Safety and Security risks and mitigating controls are considered at the opportunity stage and prior to proposal and project planning.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154037Z" creationid="hcartagena" creationdate="20160920T154037Z">
+        <seg>Para gestionar de manera eficaz el tiempo y las expectativas, el Líder de Oportunidades completará una PHRTA en la etapa de ROA para asegurarse de que se consideren los riesgos para la salud y seguridad y los controles de mitigación en la etapa de oportunidad y antes de las etapas de propuesta y planificación del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>We are committed to keeping our people safe and our business secure while serving our clients as they operate around the globe.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T155403Z" creationid="hcartagena" creationdate="20160920T155403Z">
+        <seg>Tenemos el compromiso de mantener a nuestra gente y a nuestro negocio seguros al atender a nuestros clientes y operar en todo el mundo.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>What Do You Need to Know?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153358Z" creationid="hcartagena" creationdate="20160920T153358Z">
+        <seg>¿Qué necesitas saber?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Where business conditions dictate, locations will be placed onto a Restricted Country list managed by our CEO, COO &lt;t0/&gt;and CLO.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T154758Z" creationid="hcartagena" creationdate="20160920T154758Z">
+        <seg>Si lo ameritan las condiciones del negocio, se incluirán esos lugares en un listado de Países con Restricciones administrado por nuestro CEO, COO &lt;t0/&gt;y CLO.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While the diagram may look complex, there is a limited number of steps to go through with a knowledgeable team of experts making the necessary judgment calls to keep our people safe and our business interests secure.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T160019Z" creationid="hcartagena" creationdate="20160920T155334Z">
+        <seg>El diagrama puede parecer complejo, pero el número de pasos a seguir es limitado y habrá un equipo de expertos que hará los necesarios llamados a aplicar juicio para mantener a nuestra gente y a los intereses de nuestro negocio seguros.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>While we are openly sharing this communication with all staff, this is most relevant to you if you are an &lt;t0/&gt;Opportunity Leader&lt;t1/&gt;, &lt;t2/&gt;Project Manager&lt;t3/&gt;, a Golder employee that is &lt;t4/&gt;likely to travel to high and extreme risk locations&lt;t5/&gt;, a supervisor or &lt;t6/&gt;approver of high risk travelers&lt;t7/&gt;, or a &lt;t8/&gt;member of the HRT panel&lt;t9/&gt;.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T161108Z" creationid="hcartagena" creationdate="20160920T153351Z">
+        <seg>Si bien estamos compartiendo este comunicado con todo el personal, su relevancia es mayor si eres un &lt;t0/&gt;Líder de Oportunidades&lt;t1/&gt;, un &lt;t2/&gt;Gerente de Proyecto&lt;t3/&gt;, un colaborador de Golder que &lt;t4/&gt;probablemente viaje a lugares de riesgo alto o extremo&lt;t5/&gt;, un supervisor o &lt;t6/&gt;aprobador de viajeros de alto riesgo&lt;t7/&gt; o un &lt;t8/&gt;integrante del panel de HRT&lt;t9/&gt;.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Who Needs to Know?</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T153215Z" creationid="hcartagena" creationdate="20160920T153215Z">
+        <seg>¿Quién necesita saber?</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN">
+        <seg>Your project has identified the requirement for work in, or travel to or through, locations risk rated by International SOS as High or Extreme Security or Extreme Medical.</seg>
+      </tuv>
+      <tuv lang="ES" changeid="hcartagena" changedate="20160920T163310Z" creationid="hcartagena" creationdate="20160920T163310Z">
+        <seg>Se ha identificado que su proyecto requiere trabajar en, viajar a o pasar por un lugar cuya calificación de riesgo según International SOS es alta o extrema para la seguridad o extrema para la salud.</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

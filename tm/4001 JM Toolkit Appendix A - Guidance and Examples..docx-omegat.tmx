@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+ <header
+  creationtool="OmegaTScripting"
+  segtype="sentence"
+  o-tmf="OmegaT TMX"
+  adminlang="EN-US"
+  srclang="EN"
+  datatype="plaintext"
+ >
+  <prop type="Filename">4001 JM Toolkit Appendix A - Guidance and Examples..docx</prop>
+ </header>
+  <body>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional guidance for journey management planning and practical examples of tools, processes and forms being used throughout Golder are available on the &lt;t1/&gt;Global HSE CWS.&lt;t2/&gt; &lt;t3/&gt;</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140923T120254Z" creationid="hcartagena" creationdate="20140922T173219Z">
+        <seg>El &lt;t1/&gt;CWS global de HSE&lt;t2/&gt; tiene pautas adicionales para planificar el manejo de viajes y también cuenta con ejemplos prácticos de herramientas, procesos y formularios que se usan en todo Golder.&lt;t3/&gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>JM Guidance</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173246Z" creationid="hcartagena" creationdate="20140922T173246Z">
+        <seg>Pauta de manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>JM Examples</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173253Z" creationid="hcartagena" creationdate="20140922T173253Z">
+        <seg>Ejemplos de manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operator Distractions.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173303Z" creationid="hcartagena" creationdate="20140922T173303Z">
+        <seg>Distracciones para el operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Operator Training and Competence.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173311Z" creationid="hcartagena" creationdate="20140922T173311Z">
+        <seg>Capacitación y competencias del operador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cargo Carrying and Light Vehicle Towing.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173324Z" creationid="hcartagena" creationdate="20140922T173324Z">
+        <seg>Transporte de carga y remolque con vehículos livianos</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Maintenance, Servicing and Inspections.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173330Z" creationid="hcartagena" creationdate="20140922T173330Z">
+        <seg>Mantenimiento, servicio e inspecciones</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Personal Safety Devices, Equipment and Ergonomics.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173357Z" creationid="hcartagena" creationdate="20140922T173357Z">
+        <seg>Dispositivos y equipos de seguridad personal y ergonomía</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Emergency Equipment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173402Z" creationid="hcartagena" creationdate="20140922T173402Z">
+        <seg>Equipos de emergencia</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Flora and Fauna.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173406Z" creationid="hcartagena" creationdate="20140922T173406Z">
+        <seg>Flora y fauna</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Route Assessment.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173411Z" creationid="hcartagena" creationdate="20140922T173411Z">
+        <seg>Evaluación de ruta</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Tips for safe Operation of Vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20141015T130248Z" creationid="hcartagena" creationdate="20140922T173421Z">
+        <seg>Consejos para operar vehículos de manera segura</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Benchmarking.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173431Z" creationid="hcartagena" creationdate="20140922T173431Z">
+        <seg>Evaluación comparativa</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Evaluation Tool for Fleet Vehicles.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173440Z" creationid="hcartagena" creationdate="20140922T173440Z">
+        <seg>Herramienta de evaluación para vehículos de flota</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management Plan Examples.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173454Z" creationid="hcartagena" creationdate="20140922T173454Z">
+        <seg>Ejemplos de plan de manejo de viajes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Four Tier Training Program.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173506Z" creationid="hcartagena" creationdate="20140922T173506Z">
+        <seg>Programa de capacitación de cuatro niveles</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Training Resources.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173511Z" creationid="hcartagena" creationdate="20140922T173511Z">
+        <seg>Recursos de capacitación</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Checklists.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173514Z" creationid="hcartagena" creationdate="20140922T173514Z">
+        <seg>Listas de cotejo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driver Distraction P&amp;A Presentation.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173532Z" creationid="hcartagena" creationdate="20140922T173532Z">
+        <seg>Presentación a los P&amp;A sobre distracciones para el conductor</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driver Safety Information (Weeks 1-4).</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173543Z" creationid="hcartagena" creationdate="20140922T173543Z">
+        <seg>Información de seguridad para conductores (semanas 1-4)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Driver Training.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173555Z" creationid="hcartagena" creationdate="20140922T173555Z">
+        <seg>Capacitación para conductores</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Motor Vehicle Induction.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173610Z" creationid="hcartagena" creationdate="20140922T173610Z">
+        <seg>Inducción en vehículos motorizados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Pick-up and Trailer Skills Test.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T173626Z" creationid="hcartagena" creationdate="20140922T173626Z">
+        <seg>Pruebas de habilidades con camionetas y acoplados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Roadkill Poster.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T174917Z" creationid="hcartagena" creationdate="20140922T174917Z">
+        <seg>Poster de animales atropellados</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Vehicle Ergonomics.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T174936Z" creationid="hcartagena" creationdate="20140922T174936Z">
+        <seg>Ergonomía vehicular</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>APPENDIX &lt;t1/&gt;A</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T174944Z" creationid="hcartagena" creationdate="20140922T174944Z">
+        <seg>ANEXO &lt;t1/&gt;A</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Journey Management  -  Guidance and Examples</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140922T174954Z" creationid="hcartagena" creationdate="20140922T174954Z">
+        <seg>Manejo de viajes - orientación y ejemplos</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

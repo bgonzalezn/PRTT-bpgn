@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="3.1.2" segtype="sentence" srclang="EN"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional Client / Site Reporting Procedures (if ticked provide applicable details in the text box and/or attach relevant documents to this HaSEP.)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T164907Z" creationid="hcartagena" creationdate="20140723T164907Z">
+        <seg>Procedimientos de reporte adicionales del cliente / sitio (si está marcado, entregar detalles correspondientes en el cuadro de texto o adjuntar documentos relevantes a este HaSEP)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Additional sections to be added as applicable to the project scope and hazards.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165944Z" creationid="hcartagena" creationdate="20140723T165944Z">
+        <seg>Se agregarán secciones adicionales si corresponde al alcance y peligros del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Attempt to contact employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163339Z" creationid="hcartagena" creationdate="20140723T163339Z">
+        <seg>Intentar contactar al empleado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contact accommodation or other project personnel to determine last contact with employee</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163459Z" creationid="hcartagena" creationdate="20140723T163459Z">
+        <seg>Contactar al alojamiento o a otra persona ligada al proyecto para determinar quién tuvo contacto por última vez con el colaborador</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Contact client and request assistance to locate employee.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163750Z" creationid="hcartagena" creationdate="20140723T163750Z">
+        <seg>Contactar al cliente y solicitar ayuda para ubicar al colaborador.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Cost</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140605T165704Z" creationid="hcartagena" creationdate="20140605T165704Z">
+        <seg>Costo</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Description</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Descripción cambio realizado</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Export to Word</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163836Z" creationid="hcartagena" creationdate="20140723T163836Z">
+        <seg>Exportar a Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Guide to selecting the right modules for your project.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165234Z" creationid="hcartagena" creationdate="20140723T165234Z">
+        <seg>Guía para elegir los módulos correctos para su proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>High</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Alto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Include Table of Contents in Export to Word</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165128Z" creationid="hcartagena" creationdate="20140723T165128Z">
+        <seg>Incluir índice en exportación a Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Include title page in Export to Word</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165106Z" creationid="hcartagena" creationdate="20140723T165057Z">
+        <seg>Incluir la página con el título en exportación a Word</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Initiate Crisis Response Plan (as appropriate)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163825Z" creationid="hcartagena" creationdate="20140723T163825Z">
+        <seg>Iniciar el Plan de Respuesta ante Crisis (si es apropiado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Medical evacucation procedures in place (medical evacuation arrangements must be confirmed on site)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T164217Z" creationid="hcartagena" creationdate="20140723T164217Z">
+        <seg>Procedimientos de evacuación médica dispuestos (los arreglos para la evacuación médica deben confirmarse en terreno)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Medium</seg>
+      </tuv>
+      <tuv xml:lang="ES">
+        <seg>Medio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Minimum HaSEP Requirements</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165901Z" creationid="hcartagena" creationdate="20140723T165844Z">
+        <seg>Requisitos mínimos del HaSEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Notes</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165031Z" creationid="hcartagena" creationdate="20140723T165031Z">
+        <seg>Notas</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Notify Project Director, Office Manager, and local authorities (as appropriate)</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163602Z" creationid="hcartagena" creationdate="20140723T163602Z">
+        <seg>Notificar al director de proyecto, office manager y a las autoridades locales (si es apropiado)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Notify Project Manager</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163522Z" creationid="hcartagena" creationdate="20140723T163522Z">
+        <seg>Notificar al gerente de proyecto</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Project manager to determine timing of further action, based on project details.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163720Z" creationid="hcartagena" creationdate="20140723T163702Z">
+        <seg>El gerente de proyecto determinará el momento de tomar acciones adicionales, de acuerdo con los detalles del proyecto.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Select Contacts HaSEP or HaSEP</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165829Z" creationid="hcartagena" creationdate="20140723T165829Z">
+        <seg>Seleccionar contactos HaSEP o HaSEP</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Unique HS Site Issues</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T165014Z" creationid="hcartagena" creationdate="20140723T165014Z">
+        <seg>Temas exclusivos de salud y seguridad del sitio</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Within 2 hours of missed check-in time:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163259Z" creationid="hcartagena" creationdate="20140723T163259Z">
+        <seg>A las dos horas de haber faltado al control:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Within 4 hours of scheduled call-in time:</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T163310Z" creationid="hcartagena" creationdate="20140723T163310Z">
+        <seg>A las cuatro horas de haber faltado al control:</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Word Output:  Map url fields should wrap within table.</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T162812Z" creationid="hcartagena" creationdate="20140723T162812Z">
+        <seg>Word Output:  Map url fields should wrap within table.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv xml:lang="EN">
+        <seg>Word output: Remove linefeeds after "Additional Comments" headings and within comments field</seg>
+      </tuv>
+      <tuv xml:lang="ES" changeid="hcartagena" changedate="20140723T162809Z" creationid="hcartagena" creationdate="20140723T162809Z">
+        <seg>Word output: Remove linefeeds after "Additional Comments" headings and within comments field</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>
