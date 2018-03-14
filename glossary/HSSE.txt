@@ -1,0 +1,67 @@
+ACM	MCA	Asbestos Containing Material/material que contiene asbesto
+AMS	MAM	acute mountain sickness/mal agudo de montaña
+AUTO principle	alrededor, debajo, a través, sobre	unable to reach Around, Under, Through, or Over the guard
+Asbestos Containing Material	material que contiene asbesto	ACM/MCA
+B.A.C.K.	firmeza, alineación, control, piernas	Brace, Alignment, Control, Knees
+Brace, Alignment, Control, Knees	firmeza, alineación, control, piernas	B.A.C.K.
+Confined Space Permit	permiso de trabajo para espacios confinados
+DBYD	localización de servicios enterrados	Dial Before You Dig
+Dial Before You Dig	localización de servicios enterrados	DBYD
+EAP	PAE	Employee Assistance Program/Programa de Apoyo al Empleado
+Emergency Response Plan	Plan de Respuesta ante Emergencias	ERP
+Employee Assistance Program	Programa de Apoyo al Empleado	EAP/PAE
+Fatal Risk Control	control de riesgos fatales	FRC
+Global HSSE Team	Equipo Global de HSSE	
+HACE	ECA	high-altitude cerebral edema/edema cerebral de altura
+HAPE	EPA	high-altitude pulmonary edema/edema pulmonar de altura
+HSSE	HSSE	Health, Safety, Security, and Environment
+Health, Safety, Security, and Environment	Salud, Seguridad y Medio Ambiente
+JSEA	JSEA	Job Safety Environment Analysis/Análisis de Seguridad en el Trabajo
+Job Safety & Environment Analysis	Análisis de Seguridad en el Trabajo	JSEA
+Job Safety Environment Analysis	Análisis de Seguridad en el Trabajo	JSEA
+Job Safety Environmental Analysis	Análisis de Seguridad en el Trabajo	JSEA
+Journey Management Plan	Plan de Gestión de Viajes	JMP
+LEL	LIE	Lower Explosive Limit/Límite Inferior de Explosividad
+Lower Explosive Limit	Límite Inferior de Explosividad	LEL/LIE
+PFD	chaleco salvavidas	Personal Flotation Device
+Personal Flotation Device	chaleco salvavidas	PFD
+Pre-Start Meeting	reunión previa
+Pre-Start JSEA	JSEA previo
+RCD	interruptores diferenciales	Residual Current Devices
+Residual Current Devices	interruptores diferenciales	RCD
+ROA	ROA	Risk and Opportunity Assessment/Evaluación de Riesgos y Oportunidades
+SDS	HDS	Safety Data Sheet/Hoja de Datos de Seguridad
+SWMS	SWMS	Safe Work Method Statement/Procedimiento Seguro de Trabajo
+Safe Work Method Statement	Procedimiento Seguro de Trabajo	SWMS
+Safety Data Sheet	Hoja de Datos de Seguridad	SDS/HDS
+Serious Incident or Fatality	incidente grave o fatalidad	SIF
+TLV	LEP	Threshold Limit Value/Límite de Exposición Profesional
+Take 5	Take 5
+Threshold Limit Value	Límite de Exposición Profesional	TLV/LEP
+WMS	WMS	Work Method Statement/Procedimiento Seguro de Trabajo
+Work Method Statement	Procedimiento Seguro de Trabajo	WMS
+acute mountain sickness	mal agudo de montaña	AMS/MAM
+back to back	turnos consecutivos	https://www.labour.gov.on.ca/english/es/pubs/hours/rest_8.php
+dangerous good	mercancía peligrosa
+fall arrest devices	sistemas de detención
+fall restraint devices	sistemas de restricción
+handover meeting	reunión de traspaso	{de turno}
+handrail	barandilla
+high-altitude cerebral edema	edema cerebral de altura	HACE/ECA
+high-altitude pulmonary edema	edema pulmonar de altura	HAPE/EPA
+kick rail	rodapié
+safety	seguridad	operacional (prevención)
+security	seguridad	física (protección)
+post-field debrief	reporte post-terreno
+HSSE Plan	Plan de HSSE
+HAZID	HAZID	hazard identification/identificación de peligros
+Lessons Learned	Lecciones Aprendidas
+pSIF	pSIF	potential Serious Incident or Fatality
+SIF	SIF	Serious Incident or Fatality
+Serious Incident or Fatality	Incidente Grave o Fatalidad
+potential Serious Incident or Fatality	potencial de Incidente Grave o Fatalidad
+iSOS risk rating	calificación de riesgo de iSOS
+international SOS	international SOS
+Fatal Risk Controls	Controles de Riesgos Fatales
+ATV	cuatrimoto
+sat phone	teléfono satelital

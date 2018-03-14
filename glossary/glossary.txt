@@ -1,0 +1,2 @@
+geotechnical borehole	sondaje geotécnico
+borehole logging	logueo de sondajes

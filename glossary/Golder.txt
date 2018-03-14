@@ -1,0 +1,9 @@
+Executive Committee	ExCom
+ExCom	ExCom	Executive Committee
+Global VP	Vicepresidente Global
+Global President	Presidente Global
+CEO	CEO
+Golder Associates	Golder Associates
+Project Manager	Gerente de Proyecto
+site	terreno	también sitio
+
